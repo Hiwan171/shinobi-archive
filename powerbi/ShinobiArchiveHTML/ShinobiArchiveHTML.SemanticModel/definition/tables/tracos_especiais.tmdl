@@ -1,0 +1,34 @@
+table tracos_especiais
+	lineageTag: 63ab9773-f798-5343-bb56-70b081a06143
+
+	column personagem_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 8b94e207-6e0a-553f-98de-440fc49e43b4
+		summarizeBy: none
+		sourceColumn: personagem_id
+
+	column traco_original
+		dataType: string
+		lineageTag: 220fdf12-4c04-5a8d-a5a3-3ad6c00e320f
+		summarizeBy: none
+		sourceColumn: traco_original
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: f5a008fc-6415-5773-87c2-6025893616f5
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition tracos_especiais = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCrWWz26cMBDGX2XEpZc9YAMlm2uiVj20qtpjVUWDmV1cjL21TaKqyhPlOfpeGSIllzoSK5ybBejz/Pt9w4+/xYl8cBaPNN3ovrgUcr/fFdGjcjfO66O2aIrL4gotYBec70ANOHosdsXB2Uj87hpjpA7/uOJ+95/eXl7klBNVWeXUk00q2+9oe5jQ6tNsMGpn14fX5K1e3STkvtHJaMWB2SNEUoPVv2cKcPBuAhcH8u/CmffUUuQMOy33URsT1mde5oyoyZzgRSq6r971s+JOXDnPD1ZnWmclJKtYWSb5IOUpcqLKee+CviVAM6LRq3WFbBO6n5+RY+nADG6U+2QPZia7dERHVjREp4WZX9qq4d+D1+PWgL9gnLnVoGYfqIdAfJ7Qj3zL+kmvslqGTI7TWezJ+v1WiSppXC+AaDuuJle0WR21zLqPWpHi7ZrhUDxxlo7s0kwHTW5ZI2H9HsnrV+VbBJkS/UDUB3AWeqbAUlhaDQgdLUTAQOgjRAdsHwz500fnjnebFxa5ddLbVrw+6dCxAcHB4ERnbD6Z1cJr2WQtmRB5O1C91gFY/sLuqOvYWQc+r69gu4Hxn4+xyDhCFAsAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"personagem_id", Int64.Type}, {"traco_original", type text}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

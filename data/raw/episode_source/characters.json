@@ -1,0 +1,7320 @@
+{
+  "one-piece": [
+    {
+      "name": "Absalom",
+      "slug": "absalom",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 338,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/absalom"
+    },
+    {
+      "name": "Akainu (Sakazuki)",
+      "slug": "akainu",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 459,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/akainu"
+    },
+    {
+      "name": "Alvida",
+      "slug": "alvida",
+      "role": "Antagonist",
+      "group": "East Blue",
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/alvida"
+    },
+    {
+      "name": "Aokiji (Kuzan)",
+      "slug": "aokiji",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 225,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/aokiji"
+    },
+    {
+      "name": "Arlong",
+      "slug": "arlong",
+      "role": "Antagonist",
+      "group": "Arlong Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 31,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/arlong"
+    },
+    {
+      "name": "Baron Tamago",
+      "slug": "tamago",
+      "role": "Antagonist",
+      "group": "Big Mom Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 808,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/tamago"
+    },
+    {
+      "name": "Bartholomew Kuma",
+      "slug": "kuma",
+      "role": "Supporting",
+      "group": "Seven Warlords",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 233,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/kuma"
+    },
+    {
+      "name": "Bartolomeo",
+      "slug": "bartolomeo",
+      "role": "Supporting",
+      "group": "Straw Hat Grand Fleet",
+      "tags": [],
+      "firstEp": 681,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/bartolomeo"
+    },
+    {
+      "name": "Basil Hawkins",
+      "slug": "basil-hawkins",
+      "role": "Antagonist",
+      "group": "Supernovas",
+      "tags": [],
+      "firstEp": 392,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/basil-hawkins"
+    },
+    {
+      "name": "Bellamy",
+      "slug": "bellamy",
+      "role": "Supporting",
+      "group": "East Blue",
+      "tags": [],
+      "firstEp": 144,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/bellamy"
+    },
+    {
+      "name": "Belo Betty",
+      "slug": "belo-betty",
+      "role": "Supporting",
+      "group": "Revolutionary Army",
+      "tags": [],
+      "firstEp": 904,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/belo-betty"
+    },
+    {
+      "name": "Ben Beckman",
+      "slug": "ben-beckman",
+      "role": "Supporting",
+      "group": "Red Hair Pirates",
+      "tags": [],
+      "firstEp": 4,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/ben-beckman"
+    },
+    {
+      "name": "Black Maria",
+      "slug": "black-maria",
+      "role": "Antagonist",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 989,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/black-maria"
+    },
+    {
+      "name": "Boa Hancock",
+      "slug": "boa-hancock",
+      "role": "Supporting",
+      "group": "Seven Warlords",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 411,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/boa-hancock"
+    },
+    {
+      "name": "Bon Clay (Mr. 2 Bentham)",
+      "slug": "bon-clay",
+      "role": "Supporting",
+      "group": "Impel Down",
+      "tags": [],
+      "firstEp": 128,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/bon-clay"
+    },
+    {
+      "name": "Brannew",
+      "slug": "brannew",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 233,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/brannew"
+    },
+    {
+      "name": "Brogy",
+      "slug": "brogy",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 70,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/brogy"
+    },
+    {
+      "name": "Brook",
+      "slug": "brook",
+      "role": "Main",
+      "group": "Straw Hat Pirates",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 337,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/brook"
+    },
+    {
+      "name": "Buggy the Clown",
+      "slug": "buggy",
+      "role": "Supporting",
+      "group": "Seven Warlords",
+      "tags": [],
+      "firstEp": 9,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/buggy"
+    },
+    {
+      "name": "Caesar Clown",
+      "slug": "caesar-clown",
+      "role": "Antagonist",
+      "group": "Big Mom Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 579,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/caesar-clown"
+    },
+    {
+      "name": "Capone \"Gang\" Bege",
+      "slug": "capone-bege",
+      "role": "Supporting",
+      "group": "Supernovas",
+      "tags": [],
+      "firstEp": 392,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/capone-bege"
+    },
+    {
+      "name": "Carrot",
+      "slug": "carrot",
+      "role": "Supporting",
+      "group": "Mink Tribe / Straw Hat Ally",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 763,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/carrot"
+    },
+    {
+      "name": "Catarina Devon",
+      "slug": "catarina-devon",
+      "role": "Antagonist",
+      "group": "Blackbeard Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 575,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/catarina-devon"
+    },
+    {
+      "name": "Cavendish",
+      "slug": "cavendish",
+      "role": "Supporting",
+      "group": "Straw Hat Grand Fleet",
+      "tags": [],
+      "firstEp": 681,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/cavendish"
+    },
+    {
+      "name": "Chaka",
+      "slug": "chaka",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 92,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/chaka"
+    },
+    {
+      "name": "Charlotte Amande",
+      "slug": "charlotte-amande",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 843,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/charlotte-amande"
+    },
+    {
+      "name": "Charlotte Chiffon",
+      "slug": "chiffon",
+      "role": "Supporting",
+      "group": "Big Mom Pirates",
+      "tags": [],
+      "firstEp": 834,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/chiffon"
+    },
+    {
+      "name": "Charlotte Cracker",
+      "slug": "charlotte-cracker",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 836,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/charlotte-cracker"
+    },
+    {
+      "name": "Charlotte Katakuri",
+      "slug": "katakuri",
+      "role": "Antagonist",
+      "group": "Big Mom Pirates",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 841,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/katakuri"
+    },
+    {
+      "name": "Charlotte Linlin (Big Mom)",
+      "slug": "big-mom",
+      "role": "Antagonist",
+      "group": "Big Mom Pirates",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 651,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/big-mom"
+    },
+    {
+      "name": "Charlotte Opera",
+      "slug": "opera",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 828,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/opera"
+    },
+    {
+      "name": "Charlotte Oven",
+      "slug": "charlotte-oven",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 852,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/charlotte-oven"
+    },
+    {
+      "name": "Charlotte Perospero",
+      "slug": "charlotte-perospero",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 827,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/charlotte-perospero"
+    },
+    {
+      "name": "Charlotte Pudding",
+      "slug": "pudding",
+      "role": "Supporting",
+      "group": "Big Mom Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 827,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/pudding"
+    },
+    {
+      "name": "Charlotte Smoothie",
+      "slug": "charlotte-smoothie",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 844,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/charlotte-smoothie"
+    },
+    {
+      "name": "Coby",
+      "slug": "coby",
+      "role": "Supporting",
+      "group": "Marines",
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/coby"
+    },
+    {
+      "name": "Conis",
+      "slug": "conis",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 153,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/conis"
+    },
+    {
+      "name": "Crocus",
+      "slug": "crocus",
+      "role": "Supporting",
+      "group": "Roger Pirates",
+      "tags": [],
+      "firstEp": 62,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/crocus"
+    },
+    {
+      "name": "Daz Bonez (Mr. 1)",
+      "slug": "daz-bonez",
+      "role": "Antagonist",
+      "group": "Baroque Works",
+      "tags": [],
+      "firstEp": 140,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/daz-bonez"
+    },
+    {
+      "name": "Denjiro",
+      "slug": "denjiro",
+      "role": "Supporting",
+      "group": "Kozuki Clan",
+      "tags": [],
+      "firstEp": 937,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/denjiro"
+    },
+    {
+      "name": "Donquixote Doflamingo",
+      "slug": "doflamingo",
+      "role": "Antagonist",
+      "group": "Dressrosa",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 151,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/doflamingo"
+    },
+    {
+      "name": "Donquixote Rosinante (Corazon)",
+      "slug": "corazon",
+      "role": "Supporting",
+      "group": "Dressrosa",
+      "tags": [],
+      "firstEp": 700,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/corazon"
+    },
+    {
+      "name": "Dorry",
+      "slug": "dorry",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 70,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/dorry"
+    },
+    {
+      "name": "Dr. Vegapunk",
+      "slug": "vegapunk",
+      "role": "Supporting",
+      "group": "Egghead Island / World Government Science",
+      "tags": [],
+      "firstEp": 1061,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/vegapunk"
+    },
+    {
+      "name": "Dracule Mihawk",
+      "slug": "mihawk",
+      "role": "Supporting",
+      "group": "Seven Warlords",
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 20,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/mihawk"
+    },
+    {
+      "name": "Edward Newgate (Whitebeard)",
+      "slug": "whitebeard",
+      "role": "Supporting",
+      "group": "Whitebeard Pirates",
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 234,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/whitebeard"
+    },
+    {
+      "name": "Edward Weevil",
+      "slug": "edward-weevil",
+      "role": "Antagonist",
+      "group": "Seven Warlords",
+      "tags": [],
+      "firstEp": 779,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/edward-weevil"
+    },
+    {
+      "name": "Emporio Ivankov",
+      "slug": "ivankov",
+      "role": "Supporting",
+      "group": "Revolutionary Army",
+      "tags": [],
+      "firstEp": 438,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/ivankov"
+    },
+    {
+      "name": "Enel",
+      "slug": "enel",
+      "role": "Antagonist",
+      "group": "Skypiea",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 153,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/enel"
+    },
+    {
+      "name": "Eustass Kid",
+      "slug": "eustass-kid",
+      "role": "Supporting",
+      "group": "Supernovas",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 392,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/eustass-kid"
+    },
+    {
+      "name": "Fisher Tiger",
+      "slug": "fisher-tiger",
+      "role": "Supporting",
+      "group": "Sun Pirates",
+      "tags": [],
+      "firstEp": 521,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/fisher-tiger"
+    },
+    {
+      "name": "Foxy",
+      "slug": "foxy",
+      "role": "Supporting",
+      "group": "East Blue",
+      "tags": [],
+      "firstEp": 207,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/foxy"
+    },
+    {
+      "name": "Franky",
+      "slug": "franky",
+      "role": "Main",
+      "group": "Straw Hat Pirates",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 233,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/franky"
+    },
+    {
+      "name": "Fujitora (Issho)",
+      "slug": "fujitora",
+      "role": "Supporting",
+      "group": "Marines",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 631,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/fujitora"
+    },
+    {
+      "name": "Galdino (Mr. 3)",
+      "slug": "galdino",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 47,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/galdino"
+    },
+    {
+      "name": "Gecko Moria",
+      "slug": "gecko-moria",
+      "role": "Antagonist",
+      "group": "Seven Warlords",
+      "tags": [],
+      "firstEp": 337,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/gecko-moria"
+    },
+    {
+      "name": "God Usopp",
+      "slug": "usopp",
+      "role": "Main",
+      "group": "Straw Hat Pirates",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 9,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/usopp"
+    },
+    {
+      "name": "Gol D. Roger",
+      "slug": "roger",
+      "role": "Supporting",
+      "group": "Roger Pirates",
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 4,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/roger"
+    },
+    {
+      "name": "Hajrudin",
+      "slug": "hajrudin",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 682,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/hajrudin"
+    },
+    {
+      "name": "Hatchan",
+      "slug": "hatchan",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 31,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/hatchan"
+    },
+    {
+      "name": "Helmeppo",
+      "slug": "helmeppo",
+      "role": "Supporting",
+      "group": "Marines",
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/helmeppo"
+    },
+    {
+      "name": "Hina",
+      "slug": "hina",
+      "role": "Supporting",
+      "group": "Marines",
+      "tags": [],
+      "firstEp": 152,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/hina"
+    },
+    {
+      "name": "Hody Jones",
+      "slug": "hody-jones",
+      "role": "Antagonist",
+      "group": "Fishman Island",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 540,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/hody-jones"
+    },
+    {
+      "name": "Iceberg",
+      "slug": "iceberg",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 228,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/iceberg"
+    },
+    {
+      "name": "Igaram",
+      "slug": "igaram",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 63,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/igaram"
+    },
+    {
+      "name": "Imu",
+      "slug": "imu",
+      "role": "Antagonist",
+      "group": "World Government",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 885,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/imu"
+    },
+    {
+      "name": "Inazuma",
+      "slug": "inazuma",
+      "role": "Supporting",
+      "group": "Revolutionary Army",
+      "tags": [],
+      "firstEp": 438,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/inazuma"
+    },
+    {
+      "name": "Inuarashi",
+      "slug": "inuarashi",
+      "role": "Supporting",
+      "group": "Kozuki Clan",
+      "tags": [],
+      "firstEp": 751,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/inuarashi"
+    },
+    {
+      "name": "Izou",
+      "slug": "izou",
+      "role": "Supporting",
+      "group": "Whitebeard Pirates",
+      "tags": [],
+      "firstEp": 459,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/izou"
+    },
+    {
+      "name": "Jack the Drought",
+      "slug": "jack",
+      "role": "Antagonist",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 726,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/jack"
+    },
+    {
+      "name": "Jaguar D. Saul",
+      "slug": "jaguar-d-saul",
+      "role": "Supporting",
+      "group": "Elbaf / Giants",
+      "tags": [],
+      "firstEp": 277,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/jaguar-d-saul"
+    },
+    {
+      "name": "Jesus Burgess",
+      "slug": "burgess",
+      "role": "Antagonist",
+      "group": "Blackbeard Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 152,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/burgess"
+    },
+    {
+      "name": "Jewelry Bonney",
+      "slug": "jewelry-bonney",
+      "role": "Supporting",
+      "group": "Supernovas",
+      "tags": [],
+      "firstEp": 392,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/jewelry-bonney"
+    },
+    {
+      "name": "Jinbe",
+      "slug": "jinbe",
+      "role": "Main",
+      "group": "Straw Hat Pirates",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 430,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/jinbe"
+    },
+    {
+      "name": "Jozu",
+      "slug": "jozu",
+      "role": "Supporting",
+      "group": "Whitebeard Pirates",
+      "tags": [],
+      "firstEp": 461,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/jozu"
+    },
+    {
+      "name": "Kaido, King of the Beasts",
+      "slug": "kaido",
+      "role": "Antagonist",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 739,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/kaido"
+    },
+    {
+      "name": "Kaku",
+      "slug": "kaku",
+      "role": "Antagonist",
+      "group": "Cipher Pol",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 228,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/kaku"
+    },
+    {
+      "name": "Kanjuro",
+      "slug": "kanjuro",
+      "role": "Antagonist",
+      "group": "Kozuki Clan",
+      "tags": [],
+      "firstEp": 614,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/kanjuro"
+    },
+    {
+      "name": "Kashii",
+      "slug": "kashii",
+      "role": "Supporting",
+      "group": "Giant Warrior Pirates",
+      "tags": [],
+      "firstEp": 261,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/kashii"
+    },
+    {
+      "name": "Kawamatsu",
+      "slug": "kawamatsu",
+      "role": "Supporting",
+      "group": "Kozuki Clan",
+      "tags": [],
+      "firstEp": 909,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/kawamatsu"
+    },
+    {
+      "name": "Killer",
+      "slug": "killer",
+      "role": "Supporting",
+      "group": "Supernovas",
+      "tags": [],
+      "firstEp": 392,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/killer"
+    },
+    {
+      "name": "Killingham",
+      "slug": "killingham",
+      "role": "Antagonist",
+      "group": "Holy Knights",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 1160,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/killingham"
+    },
+    {
+      "name": "Kin'emon",
+      "slug": "kinemon",
+      "role": "Supporting",
+      "group": "Kozuki Clan",
+      "tags": [],
+      "firstEp": 614,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/kinemon"
+    },
+    {
+      "name": "King Neptune",
+      "slug": "neptune",
+      "role": "Supporting",
+      "group": "Fishman Island",
+      "tags": [],
+      "firstEp": 523,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/neptune"
+    },
+    {
+      "name": "King Riku Doldo III",
+      "slug": "riku-doldo",
+      "role": "Supporting",
+      "group": "Dressrosa",
+      "tags": [],
+      "firstEp": 629,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/riku-doldo"
+    },
+    {
+      "name": "King the Wildfire",
+      "slug": "king",
+      "role": "Antagonist",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 987,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/king"
+    },
+    {
+      "name": "Kizaru (Borsalino)",
+      "slug": "kizaru",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 400,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/kizaru"
+    },
+    {
+      "name": "Koala",
+      "slug": "koala",
+      "role": "Supporting",
+      "group": "Revolutionary Army",
+      "tags": [],
+      "firstEp": 737,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/koala"
+    },
+    {
+      "name": "Kokoro",
+      "slug": "kokoro",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 228,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/kokoro"
+    },
+    {
+      "name": "Kozuki Hiyori",
+      "slug": "hiyori",
+      "role": "Supporting",
+      "group": "Kozuki Clan",
+      "tags": [],
+      "firstEp": 937,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/hiyori"
+    },
+    {
+      "name": "Kozuki Momonosuke",
+      "slug": "momonosuke",
+      "role": "Supporting",
+      "group": "Kozuki Clan",
+      "tags": [],
+      "firstEp": 654,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/momonosuke"
+    },
+    {
+      "name": "Kozuki Oden",
+      "slug": "oden",
+      "role": "Supporting",
+      "group": "Roger Pirates",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 960,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/oden"
+    },
+    {
+      "name": "Kozuki Toki",
+      "slug": "toki",
+      "role": "Supporting",
+      "group": "Kozuki Clan",
+      "tags": [],
+      "firstEp": 963,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/toki"
+    },
+    {
+      "name": "Kurozumi Orochi",
+      "slug": "orochi",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 909,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/orochi"
+    },
+    {
+      "name": "Kyros",
+      "slug": "kyros",
+      "role": "Supporting",
+      "group": "Dressrosa",
+      "tags": [],
+      "firstEp": 636,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/kyros"
+    },
+    {
+      "name": "Laffitte",
+      "slug": "laffitte",
+      "role": "Antagonist",
+      "group": "Blackbeard Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 223,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/laffitte"
+    },
+    {
+      "name": "Leo",
+      "slug": "leo",
+      "role": "Supporting",
+      "group": "Straw Hat Grand Fleet",
+      "tags": [],
+      "firstEp": 664,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/leo"
+    },
+    {
+      "name": "Loki",
+      "slug": "prince-loki",
+      "role": "Supporting",
+      "group": "Elbaf / Giants",
+      "tags": [
+        "powerful",
+        "villain"
+      ],
+      "firstEp": 1160,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/prince-loki"
+    },
+    {
+      "name": "Lucky Roux",
+      "slug": "lucky-roux",
+      "role": "Supporting",
+      "group": "Red Hair Pirates",
+      "tags": [],
+      "firstEp": 4,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/lucky-roux"
+    },
+    {
+      "name": "Marco the Phoenix",
+      "slug": "marco",
+      "role": "Supporting",
+      "group": "Whitebeard Pirates",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 150,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/marco"
+    },
+    {
+      "name": "Marshall D. Teach (Blackbeard)",
+      "slug": "blackbeard",
+      "role": "Antagonist",
+      "group": "Blackbeard Pirates",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 224,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/blackbeard"
+    },
+    {
+      "name": "Miss All Sunday (Nico Robin)",
+      "slug": "ms-all-sunday",
+      "role": "Supporting",
+      "group": "Baroque Works",
+      "tags": [],
+      "firstEp": 67,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/ms-all-sunday"
+    },
+    {
+      "name": "Monet",
+      "slug": "monet",
+      "role": "Antagonist",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 579,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/monet"
+    },
+    {
+      "name": "Monkey D. Dragon",
+      "slug": "dragon",
+      "role": "Supporting",
+      "group": "Revolutionary Army",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 100,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/dragon"
+    },
+    {
+      "name": "Monkey D. Garp",
+      "slug": "garp",
+      "role": "Supporting",
+      "group": "Marines",
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 68,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/garp"
+    },
+    {
+      "name": "Monkey D. Luffy",
+      "slug": "luffy",
+      "role": "Main",
+      "group": "Straw Hat Pirates",
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/luffy"
+    },
+    {
+      "name": "Morley",
+      "slug": "morley",
+      "role": "Supporting",
+      "group": "Revolutionary Army",
+      "tags": [],
+      "firstEp": 904,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/morley"
+    },
+    {
+      "name": "Nami",
+      "slug": "nami",
+      "role": "Main",
+      "group": "Straw Hat Pirates",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/nami"
+    },
+    {
+      "name": "Nefertari Cobra",
+      "slug": "cobra",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 92,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/cobra"
+    },
+    {
+      "name": "Nefertari Vivi",
+      "slug": "vivi",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 62,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/vivi"
+    },
+    {
+      "name": "Nekomamushi",
+      "slug": "nekomamushi",
+      "role": "Supporting",
+      "group": "Kozuki Clan",
+      "tags": [],
+      "firstEp": 751,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/nekomamushi"
+    },
+    {
+      "name": "Nico Robin",
+      "slug": "robin",
+      "role": "Main",
+      "group": "Straw Hat Pirates",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 67,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/robin"
+    },
+    {
+      "name": "Nojiko",
+      "slug": "nojiko",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 36,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/nojiko"
+    },
+    {
+      "name": "O-Tama",
+      "slug": "otama",
+      "role": "Supporting",
+      "group": "Wano Country",
+      "tags": [],
+      "firstEp": 909,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/otama"
+    },
+    {
+      "name": "Oimo",
+      "slug": "oimo",
+      "role": "Supporting",
+      "group": "Giant Warrior Pirates",
+      "tags": [],
+      "firstEp": 261,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/oimo"
+    },
+    {
+      "name": "Page One",
+      "slug": "page-one",
+      "role": "Antagonist",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 922,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/page-one"
+    },
+    {
+      "name": "Pedro",
+      "slug": "carrot-sulong",
+      "role": "Supporting",
+      "group": "Mink Tribe",
+      "tags": [],
+      "firstEp": 751,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/carrot-sulong"
+    },
+    {
+      "name": "Pekoms",
+      "slug": "pekoms",
+      "role": "Supporting",
+      "group": "Big Mom Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 651,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/pekoms"
+    },
+    {
+      "name": "Pell",
+      "slug": "pell",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 92,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/pell"
+    },
+    {
+      "name": "Perona",
+      "slug": "perona",
+      "role": "Supporting",
+      "group": "Thriller Bark",
+      "tags": [],
+      "firstEp": 337,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/perona"
+    },
+    {
+      "name": "Portgas D. Ace",
+      "slug": "ace",
+      "role": "Supporting",
+      "group": "Whitebeard Pirates",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 95,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/ace"
+    },
+    {
+      "name": "Princess Shirahoshi",
+      "slug": "shirahoshi",
+      "role": "Supporting",
+      "group": "Fishman Island / Ancient Weapons",
+      "tags": [],
+      "firstEp": 523,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/shirahoshi"
+    },
+    {
+      "name": "Queen the Plague",
+      "slug": "queen",
+      "role": "Antagonist",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 951,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/queen"
+    },
+    {
+      "name": "Raizo",
+      "slug": "raizo",
+      "role": "Supporting",
+      "group": "Kozuki Clan",
+      "tags": [],
+      "firstEp": 751,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/raizo"
+    },
+    {
+      "name": "Rebecca",
+      "slug": "rebecca",
+      "role": "Supporting",
+      "group": "Dressrosa",
+      "tags": [],
+      "firstEp": 629,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/rebecca"
+    },
+    {
+      "name": "Red-Haired Shanks",
+      "slug": "shanks",
+      "role": "Supporting",
+      "group": "Red Hair Pirates",
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 4,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/shanks"
+    },
+    {
+      "name": "Rob Lucci",
+      "slug": "rob-lucci",
+      "role": "Antagonist",
+      "group": "Cipher Pol",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 288,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/rob-lucci"
+    },
+    {
+      "name": "Rockstar",
+      "slug": "rockstar",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 233,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/rockstar"
+    },
+    {
+      "name": "Roronoa Zoro",
+      "slug": "zoro",
+      "role": "Main",
+      "group": "Straw Hat Pirates",
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 2,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/zoro"
+    },
+    {
+      "name": "Ryokugyu (Aramaki)",
+      "slug": "ryokugyu",
+      "role": "Antagonist",
+      "group": "Marines",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1053,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/ryokugyu"
+    },
+    {
+      "name": "Sabo",
+      "slug": "sabo",
+      "role": "Supporting",
+      "group": "Revolutionary Army",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 663,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/sabo"
+    },
+    {
+      "name": "Sai",
+      "slug": "sai",
+      "role": "Supporting",
+      "group": "Dressrosa",
+      "tags": [],
+      "firstEp": 637,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/sai"
+    },
+    {
+      "name": "Saint Ethanbaron V. Nusjuro",
+      "slug": "saint-nusjuro",
+      "role": "Antagonist",
+      "group": "World Government",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 151,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/saint-nusjuro"
+    },
+    {
+      "name": "Saint Jaygarcia Saturn",
+      "slug": "saint-saturn",
+      "role": "Antagonist",
+      "group": "World Government",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 1105,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/saint-saturn"
+    },
+    {
+      "name": "Saint Marcus Mars",
+      "slug": "saint-marcus-mars",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "powerful",
+        "villain"
+      ],
+      "firstEp": 151,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/saint-marcus-mars"
+    },
+    {
+      "name": "Saint Shepherd Ju Peter",
+      "slug": "saint-ju-peter",
+      "role": "Antagonist",
+      "group": "World Government",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 151,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/saint-ju-peter"
+    },
+    {
+      "name": "Saint Topman Warcury",
+      "slug": "saint-warcury",
+      "role": "Antagonist",
+      "group": "World Government",
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 151,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/saint-warcury"
+    },
+    {
+      "name": "Sanji",
+      "slug": "sanji",
+      "role": "Main",
+      "group": "Straw Hat Pirates",
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 17,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/sanji"
+    },
+    {
+      "name": "Sasaki",
+      "slug": "sasaki",
+      "role": "Antagonist",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 989,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/sasaki"
+    },
+    {
+      "name": "Scopper Gaban",
+      "slug": "scopper-gaban",
+      "role": "Supporting",
+      "group": "Roger Pirates",
+      "tags": [],
+      "firstEp": 400,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/scopper-gaban"
+    },
+    {
+      "name": "Scratchmen Apoo",
+      "slug": "scratchmen-apoo",
+      "role": "Antagonist",
+      "group": "Supernovas",
+      "tags": [],
+      "firstEp": 392,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/scratchmen-apoo"
+    },
+    {
+      "name": "Sengoku the Buddha",
+      "slug": "sengoku",
+      "role": "Supporting",
+      "group": "Marines",
+      "tags": [],
+      "firstEp": 151,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/sengoku"
+    },
+    {
+      "name": "Shamrock",
+      "slug": "shamrock",
+      "role": "Antagonist",
+      "group": "Holy Knights",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 1160,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/shamrock"
+    },
+    {
+      "name": "Shinobu",
+      "slug": "shinobu",
+      "role": "Supporting",
+      "group": "Kozuki Clan",
+      "tags": [],
+      "firstEp": 937,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/shinobu"
+    },
+    {
+      "name": "Shiryu of the Rain",
+      "slug": "shiryu",
+      "role": "Antagonist",
+      "group": "Blackbeard Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 441,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/shiryu"
+    },
+    {
+      "name": "Silvers Rayleigh",
+      "slug": "rayleigh",
+      "role": "Supporting",
+      "group": "Roger Pirates",
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 400,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/rayleigh"
+    },
+    {
+      "name": "Sir Crocodile",
+      "slug": "crocodile",
+      "role": "Antagonist",
+      "group": "Seven Warlords",
+      "tags": [
+        "powerful",
+        "villain"
+      ],
+      "firstEp": 100,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/crocodile"
+    },
+    {
+      "name": "Smoker",
+      "slug": "smoker",
+      "role": "Supporting",
+      "group": "Marines",
+      "tags": [],
+      "firstEp": 48,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/smoker"
+    },
+    {
+      "name": "Sommers",
+      "slug": "sommers",
+      "role": "Antagonist",
+      "group": "Holy Knights",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 1160,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/sommers"
+    },
+    {
+      "name": "Spandam",
+      "slug": "spandam",
+      "role": "Antagonist",
+      "group": "Cipher Pol",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 233,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/spandam"
+    },
+    {
+      "name": "Speed",
+      "slug": "speed",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 912,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/speed"
+    },
+    {
+      "name": "Squard",
+      "slug": "squard",
+      "role": "Supporting",
+      "group": "Whitebeard Pirates",
+      "tags": [],
+      "firstEp": 462,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/squard"
+    },
+    {
+      "name": "Stussy",
+      "slug": "stussy",
+      "role": "Supporting",
+      "group": "Egghead Island / World Government Science",
+      "tags": [],
+      "firstEp": 885,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/stussy"
+    },
+    {
+      "name": "Tashigi",
+      "slug": "tashigi",
+      "role": "Supporting",
+      "group": "Marines",
+      "tags": [],
+      "firstEp": 48,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/tashigi"
+    },
+    {
+      "name": "Thatch",
+      "slug": "thatch",
+      "role": "Supporting",
+      "group": "Whitebeard Pirates",
+      "tags": [],
+      "firstEp": 461,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/thatch"
+    },
+    {
+      "name": "Tony Tony Chopper",
+      "slug": "chopper",
+      "role": "Main",
+      "group": "Straw Hat Pirates",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 81,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/chopper"
+    },
+    {
+      "name": "Trafalgar D. Water Law",
+      "slug": "law",
+      "role": "Supporting",
+      "group": "Seven Warlords",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 392,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/law"
+    },
+    {
+      "name": "Trafalgar Law (Surgeon of Death)",
+      "slug": "trafalgar-law-surgeon",
+      "role": "Supporting",
+      "group": "Supernovas",
+      "tags": [],
+      "firstEp": 392,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/trafalgar-law-surgeon"
+    },
+    {
+      "name": "Tsuru",
+      "slug": "tsuru",
+      "role": "Supporting",
+      "group": "Marines",
+      "tags": [],
+      "firstEp": 461,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/tsuru"
+    },
+    {
+      "name": "Ulti",
+      "slug": "ulti",
+      "role": "Antagonist",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 989,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/ulti"
+    },
+    {
+      "name": "Urouge",
+      "slug": "urouge",
+      "role": "Supporting",
+      "group": "Supernovas",
+      "tags": [],
+      "firstEp": 392,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/urouge"
+    },
+    {
+      "name": "Van Augur",
+      "slug": "van-augur",
+      "role": "Antagonist",
+      "group": "Blackbeard Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 223,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/van-augur"
+    },
+    {
+      "name": "Vergo",
+      "slug": "vergo",
+      "role": "Antagonist",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 579,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/vergo"
+    },
+    {
+      "name": "Vinsmoke Judge",
+      "slug": "vinsmoke-judge",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 816,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/vinsmoke-judge"
+    },
+    {
+      "name": "Vinsmoke Reiju",
+      "slug": "vinsmoke-reiju",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 816,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/vinsmoke-reiju"
+    },
+    {
+      "name": "Viola (Violet)",
+      "slug": "viola",
+      "role": "Supporting",
+      "group": "Dressrosa",
+      "tags": [],
+      "firstEp": 629,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/viola"
+    },
+    {
+      "name": "Vista",
+      "slug": "vista",
+      "role": "Supporting",
+      "group": "Whitebeard Pirates",
+      "tags": [],
+      "firstEp": 459,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/vista"
+    },
+    {
+      "name": "Wanda",
+      "slug": "wanda",
+      "role": "Supporting",
+      "group": "Mink Tribe",
+      "tags": [],
+      "firstEp": 751,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/wanda"
+    },
+    {
+      "name": "Wapol",
+      "slug": "wapol",
+      "role": "Antagonist",
+      "group": "East Blue",
+      "tags": [],
+      "firstEp": 78,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/wapol"
+    },
+    {
+      "name": "Who's-Who",
+      "slug": "whos-who",
+      "role": "Antagonist",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 989,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/whos-who"
+    },
+    {
+      "name": "Wyper",
+      "slug": "wyper",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 168,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/wyper"
+    },
+    {
+      "name": "X Drake",
+      "slug": "x-drake",
+      "role": "Supporting",
+      "group": "Beast Pirates",
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 392,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/x-drake"
+    },
+    {
+      "name": "Yamato",
+      "slug": "yamato",
+      "role": "Supporting",
+      "group": "Wano Country",
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 984,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/yamato"
+    },
+    {
+      "name": "Yasopp",
+      "slug": "yasopp",
+      "role": "Supporting",
+      "group": "Red Hair Pirates",
+      "tags": [],
+      "firstEp": 4,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/one-piece-characters/yasopp"
+    }
+  ],
+  "naruto": [
+    {
+      "name": "Asuma Sarutobi",
+      "slug": "asuma-sarutobi",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/asuma-sarutobi"
+    },
+    {
+      "name": "Choji Akimichi",
+      "slug": "choji-akimichi",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/choji-akimichi"
+    },
+    {
+      "name": "Gaara of the Desert",
+      "slug": "gaara",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 20,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/gaara"
+    },
+    {
+      "name": "Haku",
+      "slug": "haku",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 9,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/haku"
+    },
+    {
+      "name": "Hinata Hyuga",
+      "slug": "hinata-hyuga",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/hinata-hyuga"
+    },
+    {
+      "name": "Hiruzen Sarutobi (Third Hokage)",
+      "slug": "third-hokage",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/third-hokage"
+    },
+    {
+      "name": "Ino Yamanaka",
+      "slug": "ino-yamanaka",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/ino-yamanaka"
+    },
+    {
+      "name": "Iruka Umino",
+      "slug": "iruka-umino",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/iruka-umino"
+    },
+    {
+      "name": "Jiraiya",
+      "slug": "jiraiya",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 52,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/jiraiya"
+    },
+    {
+      "name": "Kabuto Yakushi",
+      "slug": "kabuto-yakushi",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 23,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/kabuto-yakushi"
+    },
+    {
+      "name": "Kakashi Hatake",
+      "slug": "kakashi-hatake",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/kakashi-hatake"
+    },
+    {
+      "name": "Kiba Inuzuka",
+      "slug": "kiba-inuzuka",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/kiba-inuzuka"
+    },
+    {
+      "name": "Might Guy",
+      "slug": "might-guy",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 21,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/might-guy"
+    },
+    {
+      "name": "Minato Namikaze (Fourth Hokage)",
+      "slug": "minato-namikaze",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 168,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/minato-namikaze"
+    },
+    {
+      "name": "Naruto Uzumaki",
+      "slug": "naruto-uzumaki",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/naruto-uzumaki"
+    },
+    {
+      "name": "Neji Hyuga",
+      "slug": "neji-hyuga",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 37,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/neji-hyuga"
+    },
+    {
+      "name": "Orochimaru",
+      "slug": "orochimaru",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 30,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/orochimaru"
+    },
+    {
+      "name": "Pain (Nagato)",
+      "slug": "pain-nagato",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/pain-nagato"
+    },
+    {
+      "name": "Rock Lee",
+      "slug": "rock-lee",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 21,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/rock-lee"
+    },
+    {
+      "name": "Sakura Haruno",
+      "slug": "sakura-haruno",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/sakura-haruno"
+    },
+    {
+      "name": "Sasuke Uchiha",
+      "slug": "sasuke-uchiha",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/sasuke-uchiha"
+    },
+    {
+      "name": "Shikamaru Nara",
+      "slug": "shikamaru-nara",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/shikamaru-nara"
+    },
+    {
+      "name": "Shino Aburame",
+      "slug": "shino-aburame",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/shino-aburame"
+    },
+    {
+      "name": "Tenten",
+      "slug": "tenten",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 21,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/tenten"
+    },
+    {
+      "name": "Tsunade",
+      "slug": "tsunade",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 91,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/tsunade"
+    },
+    {
+      "name": "Zabuza Momochi",
+      "slug": "zabuza-momochi",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 6,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-characters/zabuza-momochi"
+    }
+  ],
+  "my-hero-academia": [
+    {
+      "name": "All For One",
+      "slug": "all-for-one-villain",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/all-for-one-villain"
+    },
+    {
+      "name": "All Might",
+      "slug": "all-might",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 2,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/all-might"
+    },
+    {
+      "name": "Dabi (Touya Todoroki)",
+      "slug": "dabi",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 50,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/dabi"
+    },
+    {
+      "name": "Denki Kaminari",
+      "slug": "denki-kaminari",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/denki-kaminari"
+    },
+    {
+      "name": "Eijiro Kirishima",
+      "slug": "eijiro-kirishima",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/eijiro-kirishima"
+    },
+    {
+      "name": "Endeavor (Enji Todoroki)",
+      "slug": "endeavor",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/endeavor"
+    },
+    {
+      "name": "Eri",
+      "slug": "eri",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/eri"
+    },
+    {
+      "name": "Fumikage Tokoyami",
+      "slug": "fumikage-tokoyami",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/fumikage-tokoyami"
+    },
+    {
+      "name": "Hawks (Keigo Takami)",
+      "slug": "hawks",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 51,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/hawks"
+    },
+    {
+      "name": "Himiko Toga",
+      "slug": "himiko-toga",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 57,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/himiko-toga"
+    },
+    {
+      "name": "Izuku Midoriya",
+      "slug": "izuku-midoriya",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/izuku-midoriya"
+    },
+    {
+      "name": "Katsuki Bakugo",
+      "slug": "katsuki-bakugo",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/katsuki-bakugo"
+    },
+    {
+      "name": "Mirio Togata",
+      "slug": "mirio-togata",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 72,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/mirio-togata"
+    },
+    {
+      "name": "Momo Yaoyorozu",
+      "slug": "momo-yaoyorozu",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/momo-yaoyorozu"
+    },
+    {
+      "name": "Naoya Zen'in",
+      "slug": "naoya-zenin",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 43,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/naoya-zenin"
+    },
+    {
+      "name": "Ochaco Uraraka",
+      "slug": "ochaco-uraraka",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 4,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/ochaco-uraraka"
+    },
+    {
+      "name": "Overhaul (Kai Chisaki)",
+      "slug": "overhaul",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 75,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/overhaul"
+    },
+    {
+      "name": "Shota Aizawa (Eraser Head)",
+      "slug": "shota-aizawa",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/shota-aizawa"
+    },
+    {
+      "name": "Shouto Todoroki",
+      "slug": "shouto-todoroki",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/shouto-todoroki"
+    },
+    {
+      "name": "Stain (Chizome Akaguro)",
+      "slug": "stain",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 27,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/stain"
+    },
+    {
+      "name": "Tenya Iida",
+      "slug": "tenya-iida",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/tenya-iida"
+    },
+    {
+      "name": "Tomura Shigaraki",
+      "slug": "tomura-shigaraki",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat",
+        "villain"
+      ],
+      "firstEp": 13,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/tomura-shigaraki"
+    },
+    {
+      "name": "Tsuyu Asui",
+      "slug": "tsuyu-asui",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/my-hero-academia-characters/tsuyu-asui"
+    }
+  ],
+  "attack-on-titan": [
+    {
+      "name": "Annie Leonhart",
+      "slug": "annie-leonhart",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/annie-leonhart"
+    },
+    {
+      "name": "Armin Arlert",
+      "slug": "armin-arlert",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/armin-arlert"
+    },
+    {
+      "name": "Bertholdt Hoover",
+      "slug": "bertholdt-hoover",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/bertholdt-hoover"
+    },
+    {
+      "name": "Commander Dot Pixis",
+      "slug": "pixis",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/pixis"
+    },
+    {
+      "name": "Connie Springer",
+      "slug": "connie-springer",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/connie-springer"
+    },
+    {
+      "name": "Eren Yaeger",
+      "slug": "eren-yaeger",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/eren-yaeger"
+    },
+    {
+      "name": "Erwin Smith",
+      "slug": "erwin-smith",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 9,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/erwin-smith"
+    },
+    {
+      "name": "Falco Grice",
+      "slug": "falco-grice",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 60,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/falco-grice"
+    },
+    {
+      "name": "Floch Forster",
+      "slug": "floch-forster",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 50,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/floch-forster"
+    },
+    {
+      "name": "Gabi Braun",
+      "slug": "gabi-braun",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 60,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/gabi-braun"
+    },
+    {
+      "name": "Hange Zoë",
+      "slug": "hange-zoe",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/hange-zoe"
+    },
+    {
+      "name": "Historia Reiss (Krista Lenz)",
+      "slug": "historia-reiss",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/historia-reiss"
+    },
+    {
+      "name": "Kenny Ackermann",
+      "slug": "kenny-ackermann",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 44,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/kenny-ackermann"
+    },
+    {
+      "name": "Levi Ackermann",
+      "slug": "levi-ackermann",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 9,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/levi-ackermann"
+    },
+    {
+      "name": "Mikasa Ackermann",
+      "slug": "mikasa-ackermann",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/mikasa-ackermann"
+    },
+    {
+      "name": "Nile Dok",
+      "slug": "nile-dok",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/nile-dok"
+    },
+    {
+      "name": "Pieck Finger",
+      "slug": "pieck-finger",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 50,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/pieck-finger"
+    },
+    {
+      "name": "Porco Galliard",
+      "slug": "porco-galliard",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 75,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/porco-galliard"
+    },
+    {
+      "name": "Reiner Braun",
+      "slug": "reiner-braun",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful",
+        "villain"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/reiner-braun"
+    },
+    {
+      "name": "Sasha Braus (Potato Girl)",
+      "slug": "sasha-braus",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/sasha-braus"
+    },
+    {
+      "name": "Zeke Yeager (Beast Titan)",
+      "slug": "zeke-yeager",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "powerful",
+        "villain"
+      ],
+      "firstEp": 25,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/attack-on-titan-characters/zeke-yeager"
+    }
+  ],
+  "bleach": [
+    {
+      "name": "Barragan Louisenbairn",
+      "slug": "barragan-louisenbairn",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 190,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/barragan-louisenbairn"
+    },
+    {
+      "name": "Byakuya Kuchiki",
+      "slug": "byakuya-kuchiki",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 21,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/byakuya-kuchiki"
+    },
+    {
+      "name": "Coyote Starrk",
+      "slug": "starrk",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 145,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/starrk"
+    },
+    {
+      "name": "Genryusai Shigekuni Yamamoto",
+      "slug": "genryusai-yamamoto",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 21,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/genryusai-yamamoto"
+    },
+    {
+      "name": "Gin Ichimaru",
+      "slug": "gin-ichimaru",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 9,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/gin-ichimaru"
+    },
+    {
+      "name": "Grimmjow Jaegerjaquez",
+      "slug": "grimmjow-jaegerjaquez",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 121,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/grimmjow-jaegerjaquez"
+    },
+    {
+      "name": "Ichigo Kurosaki",
+      "slug": "ichigo-kurosaki",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/ichigo-kurosaki"
+    },
+    {
+      "name": "Isshin Kurosaki",
+      "slug": "isshin-kurosaki",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/isshin-kurosaki"
+    },
+    {
+      "name": "Jushiro Ukitake",
+      "slug": "jushiro-ukitake",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 18,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/jushiro-ukitake"
+    },
+    {
+      "name": "Kisuke Urahara",
+      "slug": "kisuke-urahara",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 13,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/kisuke-urahara"
+    },
+    {
+      "name": "Nel Tu",
+      "slug": "nel-tu",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 142,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/nel-tu"
+    },
+    {
+      "name": "Nelliel Tu Odelschwanck",
+      "slug": "nelliel-tu-odelschwanck",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 138,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/nelliel-tu-odelschwanck"
+    },
+    {
+      "name": "Nnoitra Gilga",
+      "slug": "nnoitra-gilga",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 145,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/nnoitra-gilga"
+    },
+    {
+      "name": "Orihime Inoue",
+      "slug": "orihime-inoue",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/orihime-inoue"
+    },
+    {
+      "name": "Rangiku Matsumoto",
+      "slug": "rangiku-matsumoto",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 41,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/rangiku-matsumoto"
+    },
+    {
+      "name": "Renji Abarai",
+      "slug": "renji-abarai",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 16,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/renji-abarai"
+    },
+    {
+      "name": "Retsu Unohana",
+      "slug": "retsu-unohana",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 9,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/retsu-unohana"
+    },
+    {
+      "name": "Rukia Kuchiki",
+      "slug": "rukia-kuchiki",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/rukia-kuchiki"
+    },
+    {
+      "name": "Sajin Komamura",
+      "slug": "sajin-komamura",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/sajin-komamura"
+    },
+    {
+      "name": "Shunsui Kyoraku",
+      "slug": "shunsui-kyoraku",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 9,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/shunsui-kyoraku"
+    },
+    {
+      "name": "Sosuke Aizen",
+      "slug": "sosuke-aizen",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 9,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/sosuke-aizen"
+    },
+    {
+      "name": "Tier Halibel",
+      "slug": "halibel",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 190,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/halibel"
+    },
+    {
+      "name": "Toushiro Hitsugaya",
+      "slug": "toushiro-hitsugaya",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 41,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/toushiro-hitsugaya"
+    },
+    {
+      "name": "Ulquiorra Cifer",
+      "slug": "ulquiorra-cifer",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "powerful",
+        "villain"
+      ],
+      "firstEp": 121,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/ulquiorra-cifer"
+    },
+    {
+      "name": "Uryu Ishida",
+      "slug": "uryu-ishida",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/uryu-ishida"
+    },
+    {
+      "name": "Yasutora Sado (Chad)",
+      "slug": "yasutora-sado",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/yasutora-sado"
+    },
+    {
+      "name": "Yoruichi Shihoin",
+      "slug": "yoruichi-shihoin",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 20,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bleach-characters/yoruichi-shihoin"
+    }
+  ],
+  "naruto-shippuden": [
+    {
+      "name": "Danzo Shimura",
+      "slug": "danzo-shimura",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 197,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/danzo-shimura"
+    },
+    {
+      "name": "Deidara",
+      "slug": "deidara",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 2,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/deidara"
+    },
+    {
+      "name": "Gaara of the Desert",
+      "slug": "gaara",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/gaara"
+    },
+    {
+      "name": "Hidan",
+      "slug": "hidan",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 71,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/hidan"
+    },
+    {
+      "name": "Hinata Hyuga",
+      "slug": "hinata-hyuga",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/hinata-hyuga"
+    },
+    {
+      "name": "Itachi Uchiha",
+      "slug": "itachi-uchiha",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/itachi-uchiha"
+    },
+    {
+      "name": "Jugo",
+      "slug": "jugo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 115,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/jugo"
+    },
+    {
+      "name": "Kakashi Hatake",
+      "slug": "kakashi-hatake",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/kakashi-hatake"
+    },
+    {
+      "name": "Kakuzu",
+      "slug": "kakuzu",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 71,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/kakuzu"
+    },
+    {
+      "name": "Karin",
+      "slug": "karin",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 115,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/karin"
+    },
+    {
+      "name": "Killer B",
+      "slug": "killer-b",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 143,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/killer-b"
+    },
+    {
+      "name": "Kisame Hoshigaki",
+      "slug": "kisame-hoshigaki",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/kisame-hoshigaki"
+    },
+    {
+      "name": "Konan",
+      "slug": "konan",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 130,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/konan"
+    },
+    {
+      "name": "Madara Uchiha",
+      "slug": "madara-uchiha",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 322,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/madara-uchiha"
+    },
+    {
+      "name": "Minato Namikaze (Fourth Hokage)",
+      "slug": "minato-namikaze",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 168,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/minato-namikaze"
+    },
+    {
+      "name": "Nagato (Pain)",
+      "slug": "nagato",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "powerful",
+        "villain"
+      ],
+      "firstEp": 130,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/nagato"
+    },
+    {
+      "name": "Naruto Uzumaki",
+      "slug": "naruto-uzumaki",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/naruto-uzumaki"
+    },
+    {
+      "name": "Neji Hyuga",
+      "slug": "neji-hyuga",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/neji-hyuga"
+    },
+    {
+      "name": "Obito Uchiha (Tobi)",
+      "slug": "obito-uchiha",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "powerful",
+        "villain"
+      ],
+      "firstEp": 32,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/obito-uchiha"
+    },
+    {
+      "name": "Rock Lee",
+      "slug": "rock-lee",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/rock-lee"
+    },
+    {
+      "name": "Sai",
+      "slug": "sai",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 33,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/sai"
+    },
+    {
+      "name": "Sakura Haruno",
+      "slug": "sakura-haruno",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/sakura-haruno"
+    },
+    {
+      "name": "Sasori",
+      "slug": "sasori",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 2,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/sasori"
+    },
+    {
+      "name": "Sasuke Uchiha",
+      "slug": "sasuke-uchiha",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/sasuke-uchiha"
+    },
+    {
+      "name": "Shikamaru Nara",
+      "slug": "shikamaru-nara",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/shikamaru-nara"
+    },
+    {
+      "name": "Suigetsu Hozuki",
+      "slug": "suigetsu-hozuki",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 115,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/suigetsu-hozuki"
+    },
+    {
+      "name": "Yamato",
+      "slug": "yamato",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 34,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/yamato"
+    },
+    {
+      "name": "Zetsu",
+      "slug": "zetsu",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/naruto-shippuden-characters/zetsu"
+    }
+  ],
+  "dragon-ball-z": [
+    {
+      "name": "Android 17",
+      "slug": "android-17",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 133,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/android-17"
+    },
+    {
+      "name": "Android 18",
+      "slug": "android-18",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 126,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/android-18"
+    },
+    {
+      "name": "Bulma",
+      "slug": "bulma",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/bulma"
+    },
+    {
+      "name": "Cell",
+      "slug": "cell",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 140,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/cell"
+    },
+    {
+      "name": "Frieza",
+      "slug": "frieza",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 47,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/frieza"
+    },
+    {
+      "name": "Future Trunks",
+      "slug": "future-trunks-dbz",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 120,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/future-trunks-dbz"
+    },
+    {
+      "name": "Gohan",
+      "slug": "gohan",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/gohan"
+    },
+    {
+      "name": "Goku",
+      "slug": "goku",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/goku"
+    },
+    {
+      "name": "Krillin",
+      "slug": "krillin",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/krillin"
+    },
+    {
+      "name": "Majin Buu",
+      "slug": "majin-buu",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 195,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/majin-buu"
+    },
+    {
+      "name": "Master Roshi",
+      "slug": "master-roshi",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/master-roshi"
+    },
+    {
+      "name": "Piccolo",
+      "slug": "piccolo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/piccolo"
+    },
+    {
+      "name": "Vegeta",
+      "slug": "vegeta",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/vegeta"
+    },
+    {
+      "name": "Yamcha",
+      "slug": "yamcha",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-z-characters/yamcha"
+    }
+  ],
+  "hunter-x-hunter": [
+    {
+      "name": "Alluka Zoldyck",
+      "slug": "alluka-zoldyck",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 141,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/alluka-zoldyck"
+    },
+    {
+      "name": "Biscuit Krueger",
+      "slug": "biscuit-krueger",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 57,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/biscuit-krueger"
+    },
+    {
+      "name": "Chrollo Lucilfer",
+      "slug": "chrollo-lucilfer",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 40,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/chrollo-lucilfer"
+    },
+    {
+      "name": "Feitan Portor",
+      "slug": "feitan-portor",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 40,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/feitan-portor"
+    },
+    {
+      "name": "Ging Freecss",
+      "slug": "ging-freecss",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/ging-freecss"
+    },
+    {
+      "name": "Gon Freecss",
+      "slug": "gon-freecss",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/gon-freecss"
+    },
+    {
+      "name": "Hisoka",
+      "slug": "hisoka",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/hisoka"
+    },
+    {
+      "name": "Illumi Zoldyck",
+      "slug": "illumi-zoldyck",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 9,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/illumi-zoldyck"
+    },
+    {
+      "name": "Isaac Netero",
+      "slug": "isaac-netero",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 14,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/isaac-netero"
+    },
+    {
+      "name": "Killua Zoldyck",
+      "slug": "killua-zoldyck",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/killua-zoldyck"
+    },
+    {
+      "name": "Kite",
+      "slug": "kite",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/kite"
+    },
+    {
+      "name": "Kurapika",
+      "slug": "kurapika",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/kurapika"
+    },
+    {
+      "name": "Leorio Paradinight",
+      "slug": "leorio-paradinight",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/leorio-paradinight"
+    },
+    {
+      "name": "Meruem",
+      "slug": "meruem",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 79,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/meruem"
+    },
+    {
+      "name": "Neferpitou",
+      "slug": "neferpitou",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 84,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/neferpitou"
+    },
+    {
+      "name": "Zeno Zoldyck",
+      "slug": "zeno-zoldyck",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 38,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hunter-x-hunter-characters/zeno-zoldyck"
+    }
+  ],
+  "black-clover": [
+    {
+      "name": "Asta",
+      "slug": "asta",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/asta"
+    },
+    {
+      "name": "Cana Alberona",
+      "slug": "cana-alberona",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/cana-alberona"
+    },
+    {
+      "name": "Charmy Pappitson",
+      "slug": "charmy-pappitson",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/charmy-pappitson"
+    },
+    {
+      "name": "Dante Zogratis",
+      "slug": "dante-zogratis",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 93,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/dante-zogratis"
+    },
+    {
+      "name": "Elfman Strauss",
+      "slug": "elfman-strauss",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 7,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/elfman-strauss"
+    },
+    {
+      "name": "Finral Roulacase",
+      "slug": "finral-roulacase",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/finral-roulacase"
+    },
+    {
+      "name": "Fuegoleon Vermillion",
+      "slug": "fuegoleon-vermillion",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/fuegoleon-vermillion"
+    },
+    {
+      "name": "Gauche Adlai",
+      "slug": "gauche-adlai",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 15,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/gauche-adlai"
+    },
+    {
+      "name": "Julius Novachrono",
+      "slug": "julius-novachrono",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/julius-novachrono"
+    },
+    {
+      "name": "Licht",
+      "slug": "licht",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 24,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/licht"
+    },
+    {
+      "name": "Luck Voltia",
+      "slug": "luck-voltia",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/luck-voltia"
+    },
+    {
+      "name": "Magna Swing",
+      "slug": "magna-swing",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/magna-swing"
+    },
+    {
+      "name": "Megicula",
+      "slug": "megicula",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 122,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/megicula"
+    },
+    {
+      "name": "Mimosa Vermillion",
+      "slug": "mimosa-vermillion",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/mimosa-vermillion"
+    },
+    {
+      "name": "Noelle Silva",
+      "slug": "noelle-silva",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/noelle-silva"
+    },
+    {
+      "name": "Nozel Silva",
+      "slug": "nozel-silva",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/nozel-silva"
+    },
+    {
+      "name": "Vanessa Enoteca",
+      "slug": "vanessa-enoteca",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/vanessa-enoteca"
+    },
+    {
+      "name": "Vanica Zogratis",
+      "slug": "vanica-zogratis",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 93,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/vanica-zogratis"
+    },
+    {
+      "name": "Yami Sukehiro",
+      "slug": "yami-sukehiro",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 7,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/yami-sukehiro"
+    },
+    {
+      "name": "Yuno",
+      "slug": "yuno",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/yuno"
+    },
+    {
+      "name": "Zenon Zogratis",
+      "slug": "zenon-zogratis",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 93,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/zenon-zogratis"
+    },
+    {
+      "name": "Zora Ideale",
+      "slug": "zora-ideale",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 54,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/black-clover-characters/zora-ideale"
+    }
+  ],
+  "fairy-tail": [
+    {
+      "name": "Erza Scarlet",
+      "slug": "erza-scarlet",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/erza-scarlet"
+    },
+    {
+      "name": "Gajeel Redfox",
+      "slug": "gajeel-redfox",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 31,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/gajeel-redfox"
+    },
+    {
+      "name": "Gildarts Clive",
+      "slug": "gildarts-clive",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 48,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/gildarts-clive"
+    },
+    {
+      "name": "Gray Fullbuster",
+      "slug": "gray-fullbuster",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/gray-fullbuster"
+    },
+    {
+      "name": "Happy",
+      "slug": "happy",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/happy"
+    },
+    {
+      "name": "Irene Belserion",
+      "slug": "irene-belserion",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 230,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/irene-belserion"
+    },
+    {
+      "name": "Jellal Fernandes",
+      "slug": "jellal-fernandes",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 33,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/jellal-fernandes"
+    },
+    {
+      "name": "Juvia Lockser",
+      "slug": "juvia-lockser",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 27,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/juvia-lockser"
+    },
+    {
+      "name": "Laxus Dreyar",
+      "slug": "laxus-dreyar",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 20,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/laxus-dreyar"
+    },
+    {
+      "name": "Levy McGarden",
+      "slug": "levy-mcgarden",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/levy-mcgarden"
+    },
+    {
+      "name": "Lucy Heartfilia",
+      "slug": "lucy-heartfilia",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/lucy-heartfilia"
+    },
+    {
+      "name": "Makarov Dreyar",
+      "slug": "makarov-dreyar",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 2,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/makarov-dreyar"
+    },
+    {
+      "name": "Mavis Vermillion",
+      "slug": "mavis-vermillion",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 226,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/mavis-vermillion"
+    },
+    {
+      "name": "Mirajane Strauss",
+      "slug": "mirajane-strauss",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/mirajane-strauss"
+    },
+    {
+      "name": "Natsu Dragneel",
+      "slug": "natsu-dragneel",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/natsu-dragneel"
+    },
+    {
+      "name": "Wendy Marvell",
+      "slug": "wendy-marvell",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 48,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/wendy-marvell"
+    },
+    {
+      "name": "Zeref Dragneel",
+      "slug": "zeref-dragneel",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "powerful",
+        "villain"
+      ],
+      "firstEp": 200,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fairy-tail-characters/zeref-dragneel"
+    }
+  ],
+  "dragon-ball-super": [
+    {
+      "name": "Beerus",
+      "slug": "beerus",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/beerus"
+    },
+    {
+      "name": "Broly",
+      "slug": "broly",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 100,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/broly"
+    },
+    {
+      "name": "Caulifla",
+      "slug": "caulifla",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 92,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/caulifla"
+    },
+    {
+      "name": "Champa",
+      "slug": "champa",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 28,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/champa"
+    },
+    {
+      "name": "Future Trunks",
+      "slug": "future-trunks",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 47,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/future-trunks"
+    },
+    {
+      "name": "Goku",
+      "slug": "goku-dbs",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/goku-dbs"
+    },
+    {
+      "name": "Hit",
+      "slug": "hit",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 33,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/hit"
+    },
+    {
+      "name": "Jiren",
+      "slug": "jiren",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "villain",
+        "powerful"
+      ],
+      "firstEp": 85,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/jiren"
+    },
+    {
+      "name": "Kefla",
+      "slug": "kefla",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 115,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/kefla"
+    },
+    {
+      "name": "Toppo",
+      "slug": "toppo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 82,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/toppo"
+    },
+    {
+      "name": "Vados",
+      "slug": "vados",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 28,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/vados"
+    },
+    {
+      "name": "Vegeta",
+      "slug": "vegeta-dbs",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/vegeta-dbs"
+    },
+    {
+      "name": "Whis",
+      "slug": "whis",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-super-characters/whis"
+    }
+  ],
+  "sword-art-online": [
+    {
+      "name": "Agil (Andrew Gilbert Mills)",
+      "slug": "agil",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/agil"
+    },
+    {
+      "name": "Alice Zuberg",
+      "slug": "alice-zuberg",
+      "role": "Supporting",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 50,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/alice-zuberg"
+    },
+    {
+      "name": "Asuna Yuuki",
+      "slug": "asuna-yuuki",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/asuna-yuuki"
+    },
+    {
+      "name": "Eugeo",
+      "slug": "eugeo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 50,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/eugeo"
+    },
+    {
+      "name": "Kirito",
+      "slug": "kirito",
+      "role": "Main",
+      "group": null,
+      "tags": [
+        "powerful",
+        "goat"
+      ],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/kirito"
+    },
+    {
+      "name": "Klein (Ryoutarou Tsuboi)",
+      "slug": "klein",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/klein"
+    },
+    {
+      "name": "Leafa (Suguha Kirigaya)",
+      "slug": "leafa",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 16,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/leafa"
+    },
+    {
+      "name": "Lisbeth (Rika Shinozaki)",
+      "slug": "lisbeth",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 7,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/lisbeth"
+    },
+    {
+      "name": "Oberon (Sugou Nobuyuki)",
+      "slug": "oberon",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [
+        "villain"
+      ],
+      "firstEp": 25,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/oberon"
+    },
+    {
+      "name": "Sinon",
+      "slug": "sinon",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 26,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/sinon"
+    },
+    {
+      "name": "Yui",
+      "slug": "yui",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 11,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/yui"
+    },
+    {
+      "name": "Yuuki Konno",
+      "slug": "yuuki-konno",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 38,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sword-art-online-characters/yuuki-konno"
+    }
+  ],
+  "boruto": [
+    {
+      "name": "Boruto Uzumaki",
+      "slug": "boruto-uzumaki",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/boruto-characters/boruto-uzumaki"
+    },
+    {
+      "name": "Isshiki Otsutsuki",
+      "slug": "isshiki-otsutsuki",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 202,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/boruto-characters/isshiki-otsutsuki"
+    },
+    {
+      "name": "Kawaki",
+      "slug": "kawaki",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 189,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/boruto-characters/kawaki"
+    },
+    {
+      "name": "Konohamaru Sarutobi",
+      "slug": "konohamaru-sarutobi",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/boruto-characters/konohamaru-sarutobi"
+    },
+    {
+      "name": "Mitsuki",
+      "slug": "mitsuki",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/boruto-characters/mitsuki"
+    },
+    {
+      "name": "Momoshiki Otsutsuki",
+      "slug": "momoshiki-otsutsuki",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 53,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/boruto-characters/momoshiki-otsutsuki"
+    },
+    {
+      "name": "Naruto Uzumaki",
+      "slug": "naruto-uzumaki-boruto",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/boruto-characters/naruto-uzumaki-boruto"
+    },
+    {
+      "name": "Sarada Uchiha",
+      "slug": "sarada-uchiha",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/boruto-characters/sarada-uchiha"
+    },
+    {
+      "name": "Sasuke Uchiha",
+      "slug": "sasuke-uchiha-boruto",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/boruto-characters/sasuke-uchiha-boruto"
+    },
+    {
+      "name": "Shikadai Nara",
+      "slug": "shikadai-nara",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/boruto-characters/shikadai-nara"
+    }
+  ],
+  "dragon-ball": [
+    {
+      "name": "Bulma",
+      "slug": "bulma-db",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-characters/bulma-db"
+    },
+    {
+      "name": "Chi-Chi",
+      "slug": "chi-chi-db",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 7,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-characters/chi-chi-db"
+    },
+    {
+      "name": "Krillin",
+      "slug": "krillin-db",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 14,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-characters/krillin-db"
+    },
+    {
+      "name": "Master Roshi",
+      "slug": "master-roshi",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 7,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-characters/master-roshi"
+    },
+    {
+      "name": "Piccolo (King Piccolo)",
+      "slug": "king-piccolo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 102,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-characters/king-piccolo"
+    },
+    {
+      "name": "Son Goku (Kid)",
+      "slug": "goku-kid",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-characters/goku-kid"
+    },
+    {
+      "name": "Tien Shinhan",
+      "slug": "tien-shinhan",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 83,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-characters/tien-shinhan"
+    },
+    {
+      "name": "Yamcha",
+      "slug": "yamcha-db",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 7,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dragon-ball-characters/yamcha-db"
+    }
+  ],
+  "inuyasha": [
+    {
+      "name": "Inuyasha",
+      "slug": "inuyasha-char",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/inuyasha-characters/inuyasha-char"
+    },
+    {
+      "name": "Kagome Higurashi",
+      "slug": "kagome-higurashi",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/inuyasha-characters/kagome-higurashi"
+    },
+    {
+      "name": "Kikyo",
+      "slug": "kikyo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 15,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/inuyasha-characters/kikyo"
+    },
+    {
+      "name": "Miroku",
+      "slug": "miroku",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 16,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/inuyasha-characters/miroku"
+    },
+    {
+      "name": "Naraku",
+      "slug": "naraku",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 10,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/inuyasha-characters/naraku"
+    },
+    {
+      "name": "Sango",
+      "slug": "sango",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 24,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/inuyasha-characters/sango"
+    },
+    {
+      "name": "Sesshomaru",
+      "slug": "sesshomaru",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/inuyasha-characters/sesshomaru"
+    },
+    {
+      "name": "Shippo",
+      "slug": "shippo",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 8,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/inuyasha-characters/shippo"
+    }
+  ],
+  "yu-gi-oh": [
+    {
+      "name": "Bakura",
+      "slug": "bakura",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 8,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-gi-oh-characters/bakura"
+    },
+    {
+      "name": "Joey Wheeler",
+      "slug": "joey-wheeler",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-gi-oh-characters/joey-wheeler"
+    },
+    {
+      "name": "Marik Ishtar",
+      "slug": "marik-ishtar",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 65,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-gi-oh-characters/marik-ishtar"
+    },
+    {
+      "name": "Pegasus",
+      "slug": "pegasus",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 16,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-gi-oh-characters/pegasus"
+    },
+    {
+      "name": "Seto Kaiba",
+      "slug": "seto-kaiba",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-gi-oh-characters/seto-kaiba"
+    },
+    {
+      "name": "Tea Gardner",
+      "slug": "tea-gardner",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-gi-oh-characters/tea-gardner"
+    },
+    {
+      "name": "Tristan Taylor",
+      "slug": "tristan-taylor",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-gi-oh-characters/tristan-taylor"
+    },
+    {
+      "name": "Yami Yugi (Pharaoh)",
+      "slug": "yami-yugi",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-gi-oh-characters/yami-yugi"
+    },
+    {
+      "name": "Yugi Muto",
+      "slug": "yugi-muto",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-gi-oh-characters/yugi-muto"
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Ash Ketchum",
+      "slug": "ash-ketchum",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/pokemon-characters/ash-ketchum"
+    },
+    {
+      "name": "Brock",
+      "slug": "brock",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/pokemon-characters/brock"
+    },
+    {
+      "name": "Gary Oak",
+      "slug": "gary-oak",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/pokemon-characters/gary-oak"
+    },
+    {
+      "name": "Mewtwo",
+      "slug": "mewtwo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 63,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/pokemon-characters/mewtwo"
+    },
+    {
+      "name": "Misty",
+      "slug": "misty",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/pokemon-characters/misty"
+    },
+    {
+      "name": "Pikachu",
+      "slug": "pikachu",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/pokemon-characters/pikachu"
+    },
+    {
+      "name": "Professor Oak",
+      "slug": "professor-oak",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/pokemon-characters/professor-oak"
+    },
+    {
+      "name": "Team Rocket (Jessie & James)",
+      "slug": "team-rocket",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 2,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/pokemon-characters/team-rocket"
+    }
+  ],
+  "slime-isekai": [
+    {
+      "name": "Benimaru",
+      "slug": "benimaru",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 8,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/slime-isekai-characters/benimaru"
+    },
+    {
+      "name": "Diablo",
+      "slug": "diablo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 38,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/slime-isekai-characters/diablo"
+    },
+    {
+      "name": "Great Sage",
+      "slug": "great-sage",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/slime-isekai-characters/great-sage"
+    },
+    {
+      "name": "Milim Nava",
+      "slug": "milim-nava",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 19,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/slime-isekai-characters/milim-nava"
+    },
+    {
+      "name": "Rimuru Tempest",
+      "slug": "rimuru-tempest",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/slime-isekai-characters/rimuru-tempest"
+    },
+    {
+      "name": "Shion",
+      "slug": "shion",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 8,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/slime-isekai-characters/shion"
+    }
+  ],
+  "monster": [
+    {
+      "name": "Eva Heinemann",
+      "slug": "eva-heinemann",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/monster-characters/eva-heinemann"
+    },
+    {
+      "name": "Heinrich Lunge",
+      "slug": "heinrich-lunge",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/monster-characters/heinrich-lunge"
+    },
+    {
+      "name": "Johan Liebert",
+      "slug": "johan-liebert",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/monster-characters/johan-liebert"
+    },
+    {
+      "name": "Kenzo Tenma",
+      "slug": "kenzo-tenma",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/monster-characters/kenzo-tenma"
+    },
+    {
+      "name": "Nina Fortner",
+      "slug": "nina-fortner",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/monster-characters/nina-fortner"
+    },
+    {
+      "name": "Wolfgang Grimmer",
+      "slug": "wolfgang-grimmer",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 40,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/monster-characters/wolfgang-grimmer"
+    }
+  ],
+  "rurouni-kenshin": [
+    {
+      "name": "Aoshi Shinomori",
+      "slug": "aoshi-shinomori",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 9,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/rurouni-kenshin-characters/aoshi-shinomori"
+    },
+    {
+      "name": "Kaoru Kamiya",
+      "slug": "kaoru-kamiya",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/rurouni-kenshin-characters/kaoru-kamiya"
+    },
+    {
+      "name": "Kenshin Himura",
+      "slug": "kenshin-himura",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/rurouni-kenshin-characters/kenshin-himura"
+    },
+    {
+      "name": "Makoto Shishio",
+      "slug": "makoto-shishio",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 30,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/rurouni-kenshin-characters/makoto-shishio"
+    },
+    {
+      "name": "Megumi Takani",
+      "slug": "megumi-takani",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 8,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/rurouni-kenshin-characters/megumi-takani"
+    },
+    {
+      "name": "Sanosuke Sagara",
+      "slug": "sanosuke-sagara",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 4,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/rurouni-kenshin-characters/sanosuke-sagara"
+    },
+    {
+      "name": "Yahiko Myojin",
+      "slug": "yahiko-myojin",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 12,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/rurouni-kenshin-characters/yahiko-myojin"
+    }
+  ],
+  "gintama": [
+    {
+      "name": "Gintoki Sakata",
+      "slug": "gintoki-sakata",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/gintama-characters/gintoki-sakata"
+    },
+    {
+      "name": "Kagura",
+      "slug": "kagura-gintama",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/gintama-characters/kagura-gintama"
+    },
+    {
+      "name": "Kotaro Katsura",
+      "slug": "kotaro-katsura",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/gintama-characters/kotaro-katsura"
+    },
+    {
+      "name": "Shinpachi Shimura",
+      "slug": "shinpachi-shimura",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/gintama-characters/shinpachi-shimura"
+    },
+    {
+      "name": "Sougo Okita",
+      "slug": "sougo-okita",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/gintama-characters/sougo-okita"
+    },
+    {
+      "name": "Takasugi Shinsuke",
+      "slug": "takasugi-shinsuke",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/gintama-characters/takasugi-shinsuke"
+    },
+    {
+      "name": "Toshiro Hijikata",
+      "slug": "toshiro-hijikata",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/gintama-characters/toshiro-hijikata"
+    }
+  ],
+  "haikyuu": [
+    {
+      "name": "Kei Tsukishima",
+      "slug": "kei-tsukishima",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/haikyuu-characters/kei-tsukishima"
+    },
+    {
+      "name": "Koshi Sugawara",
+      "slug": "koshi-sugawara",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/haikyuu-characters/koshi-sugawara"
+    },
+    {
+      "name": "Shoyo Hinata",
+      "slug": "shoyo-hinata",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/haikyuu-characters/shoyo-hinata"
+    },
+    {
+      "name": "Tobio Kageyama",
+      "slug": "tobio-kageyama",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/haikyuu-characters/tobio-kageyama"
+    },
+    {
+      "name": "Yu Nishinoya",
+      "slug": "yu-nishinoya",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/haikyuu-characters/yu-nishinoya"
+    }
+  ],
+  "yu-yu-hakusho": [
+    {
+      "name": "Botan",
+      "slug": "botan",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-yu-hakusho-characters/botan"
+    },
+    {
+      "name": "Hiei",
+      "slug": "hiei",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 5,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-yu-hakusho-characters/hiei"
+    },
+    {
+      "name": "Kazuma Kuwabara",
+      "slug": "kazuma-kuwabara",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-yu-hakusho-characters/kazuma-kuwabara"
+    },
+    {
+      "name": "Kurama",
+      "slug": "kurama",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 4,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-yu-hakusho-characters/kurama"
+    },
+    {
+      "name": "Yusuke Urameshi",
+      "slug": "yusuke-urameshi",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yu-yu-hakusho-characters/yusuke-urameshi"
+    }
+  ],
+  "the-seven-deadly-sins": [
+    {
+      "name": "Ban",
+      "slug": "ban",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 3,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/the-seven-deadly-sins-characters/ban"
+    },
+    {
+      "name": "Diane",
+      "slug": "diane",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 2,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/the-seven-deadly-sins-characters/diane"
+    },
+    {
+      "name": "Elizabeth Liones",
+      "slug": "elizabeth-liones",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/the-seven-deadly-sins-characters/elizabeth-liones"
+    },
+    {
+      "name": "King",
+      "slug": "king-seven-deadly-sins",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 6,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/the-seven-deadly-sins-characters/king-seven-deadly-sins"
+    },
+    {
+      "name": "Meliodas",
+      "slug": "meliodas",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/the-seven-deadly-sins-characters/meliodas"
+    },
+    {
+      "name": "Merlin",
+      "slug": "merlin",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": 8,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/the-seven-deadly-sins-characters/merlin"
+    }
+  ],
+  "jojos-bizarre-adventure": [
+    {
+      "name": "Dio Brando",
+      "slug": "dio-brando",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/jojos-bizarre-adventure-characters/dio-brando"
+    },
+    {
+      "name": "Giorno Giovanna",
+      "slug": "giorno-giovanna",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 114,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/jojos-bizarre-adventure-characters/giorno-giovanna"
+    },
+    {
+      "name": "Jolyne Cujoh",
+      "slug": "jolyne-cujoh",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 153,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/jojos-bizarre-adventure-characters/jolyne-cujoh"
+    },
+    {
+      "name": "Jonathan Joestar",
+      "slug": "jonathan-joestar",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 1,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/jojos-bizarre-adventure-characters/jonathan-joestar"
+    },
+    {
+      "name": "Josuke Higashikata",
+      "slug": "josuke-higashikata",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 75,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/jojos-bizarre-adventure-characters/josuke-higashikata"
+    },
+    {
+      "name": "Jotaro Kujo",
+      "slug": "jotaro-kujo",
+      "role": "Main",
+      "group": null,
+      "tags": [],
+      "firstEp": 27,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/jojos-bizarre-adventure-characters/jotaro-kujo"
+    }
+  ],
+  "detective-conan": [
+    {
+      "name": "Ai Haibara",
+      "slug": "ai-haibara",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/detective-conan-characters/ai-haibara"
+    },
+    {
+      "name": "Conan Edogawa",
+      "slug": "conan-edogawa",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/detective-conan-characters/conan-edogawa"
+    },
+    {
+      "name": "Heiji Hattori",
+      "slug": "heiji-hattori",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/detective-conan-characters/heiji-hattori"
+    },
+    {
+      "name": "Kaito Kid",
+      "slug": "kaito-kid",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/detective-conan-characters/kaito-kid"
+    },
+    {
+      "name": "Kogoro Mouri",
+      "slug": "kogoro-mouri",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/detective-conan-characters/kogoro-mouri"
+    },
+    {
+      "name": "Ran Mouri",
+      "slug": "ran-mouri",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/detective-conan-characters/ran-mouri"
+    }
+  ],
+  "blue-exorcist": [
+    {
+      "name": "Izumo Kamiki",
+      "slug": "izumo-kamiki",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/blue-exorcist-characters/izumo-kamiki"
+    },
+    {
+      "name": "Rin Okumura",
+      "slug": "rin-okumura",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/blue-exorcist-characters/rin-okumura"
+    },
+    {
+      "name": "Ryuji Suguro",
+      "slug": "ryuji-suguro",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/blue-exorcist-characters/ryuji-suguro"
+    },
+    {
+      "name": "Shiemi Moriyama",
+      "slug": "shiemi-moriyama",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/blue-exorcist-characters/shiemi-moriyama"
+    },
+    {
+      "name": "Yukio Okumura",
+      "slug": "yukio-okumura",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/blue-exorcist-characters/yukio-okumura"
+    }
+  ],
+  "dr-stone": [
+    {
+      "name": "Chrome",
+      "slug": "chrome",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dr-stone-characters/chrome"
+    },
+    {
+      "name": "Senku Ishigami",
+      "slug": "senku-ishigami",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dr-stone-characters/senku-ishigami"
+    },
+    {
+      "name": "Taiju Oki",
+      "slug": "taiju-oki",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dr-stone-characters/taiju-oki"
+    },
+    {
+      "name": "Tsukasa Shishio",
+      "slug": "tsukasa-shishio",
+      "role": "Antagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dr-stone-characters/tsukasa-shishio"
+    },
+    {
+      "name": "Yuzuriha Ogawa",
+      "slug": "yuzuriha-ogawa",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/dr-stone-characters/yuzuriha-ogawa"
+    }
+  ],
+  "sailor-moon": [
+    {
+      "name": "Ami Mizuno",
+      "slug": "ami-mizuno",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sailor-moon-characters/ami-mizuno"
+    },
+    {
+      "name": "Makoto Kino",
+      "slug": "makoto-kino",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sailor-moon-characters/makoto-kino"
+    },
+    {
+      "name": "Minako Aino",
+      "slug": "minako-aino",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sailor-moon-characters/minako-aino"
+    },
+    {
+      "name": "Rei Hino",
+      "slug": "rei-hino",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sailor-moon-characters/rei-hino"
+    },
+    {
+      "name": "Tuxedo Mask",
+      "slug": "tuxedo-mask",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sailor-moon-characters/tuxedo-mask"
+    },
+    {
+      "name": "Usagi Tsukino",
+      "slug": "usagi-tsukino",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/sailor-moon-characters/usagi-tsukino"
+    }
+  ],
+  "d-gray-man": [
+    {
+      "name": "Allen Walker",
+      "slug": "allen-walker",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/d-gray-man-characters/allen-walker"
+    },
+    {
+      "name": "Lavi",
+      "slug": "lavi",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/d-gray-man-characters/lavi"
+    },
+    {
+      "name": "Lenalee Lee",
+      "slug": "lenalee-lee",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/d-gray-man-characters/lenalee-lee"
+    },
+    {
+      "name": "Yu Kanda",
+      "slug": "yu-kanda",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/d-gray-man-characters/yu-kanda"
+    }
+  ],
+  "katekyo-hitman-reborn": [
+    {
+      "name": "Hayato Gokudera",
+      "slug": "hayato-gokudera",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/katekyo-hitman-reborn-characters/hayato-gokudera"
+    },
+    {
+      "name": "Kyoya Hibari",
+      "slug": "kyoya-hibari",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/katekyo-hitman-reborn-characters/kyoya-hibari"
+    },
+    {
+      "name": "Reborn",
+      "slug": "reborn",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/katekyo-hitman-reborn-characters/reborn"
+    },
+    {
+      "name": "Takeshi Yamamoto",
+      "slug": "takeshi-yamamoto",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/katekyo-hitman-reborn-characters/takeshi-yamamoto"
+    },
+    {
+      "name": "Tsunayoshi Sawada",
+      "slug": "tsunayoshi-sawada",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/katekyo-hitman-reborn-characters/tsunayoshi-sawada"
+    }
+  ],
+  "kingdom": [
+    {
+      "name": "Li Mu",
+      "slug": "li-mu",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/kingdom-characters/li-mu"
+    },
+    {
+      "name": "Wang Qi",
+      "slug": "wang-qi",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/kingdom-characters/wang-qi"
+    },
+    {
+      "name": "Xin",
+      "slug": "xin",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/kingdom-characters/xin"
+    },
+    {
+      "name": "Ying Zheng",
+      "slug": "ying-zheng",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/kingdom-characters/ying-zheng"
+    }
+  ],
+  "food-wars": [
+    {
+      "name": "Erina Nakiri",
+      "slug": "erina-nakiri",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/food-wars-characters/erina-nakiri"
+    },
+    {
+      "name": "Megumi Tadokoro",
+      "slug": "megumi-tadokoro",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/food-wars-characters/megumi-tadokoro"
+    },
+    {
+      "name": "Soma Yukihira",
+      "slug": "soma-yukihira",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/food-wars-characters/soma-yukihira"
+    }
+  ],
+  "hajime-no-ippo": [
+    {
+      "name": "Genji Kamogawa",
+      "slug": "genji-kamogawa",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hajime-no-ippo-characters/genji-kamogawa"
+    },
+    {
+      "name": "Ichiro Miyata",
+      "slug": "ichiro-miyata",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hajime-no-ippo-characters/ichiro-miyata"
+    },
+    {
+      "name": "Ippo Makunouchi",
+      "slug": "ippo-makunouchi",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hajime-no-ippo-characters/ippo-makunouchi"
+    },
+    {
+      "name": "Mamoru Takamura",
+      "slug": "mamoru-takamura",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/hajime-no-ippo-characters/mamoru-takamura"
+    }
+  ],
+  "kuroko-no-basketball": [
+    {
+      "name": "Junpei Hyuga",
+      "slug": "junpei-hyuga",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/kuroko-no-basketball-characters/junpei-hyuga"
+    },
+    {
+      "name": "Taiga Kagami",
+      "slug": "taiga-kagami",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/kuroko-no-basketball-characters/taiga-kagami"
+    },
+    {
+      "name": "Tetsuya Kuroko",
+      "slug": "tetsuya-kuroko",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/kuroko-no-basketball-characters/tetsuya-kuroko"
+    }
+  ],
+  "ace-of-diamond": [
+    {
+      "name": "Eijun Sawamura",
+      "slug": "eijun-sawamura",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/ace-of-diamond-characters/eijun-sawamura"
+    },
+    {
+      "name": "Kazuya Miyuki",
+      "slug": "kazuya-miyuki",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/ace-of-diamond-characters/kazuya-miyuki"
+    },
+    {
+      "name": "Youichi Kuramochi",
+      "slug": "youichi-kuramochi",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/ace-of-diamond-characters/youichi-kuramochi"
+    }
+  ],
+  "digimon-adventure": [
+    {
+      "name": "Agumon",
+      "slug": "agumon",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/digimon-adventure-characters/agumon"
+    },
+    {
+      "name": "Gabumon",
+      "slug": "gabumon",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/digimon-adventure-characters/gabumon"
+    },
+    {
+      "name": "Taichi Yagami",
+      "slug": "taichi-yagami",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/digimon-adventure-characters/taichi-yagami"
+    },
+    {
+      "name": "Yamato Ishida",
+      "slug": "yamato-ishida",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/digimon-adventure-characters/yamato-ishida"
+    }
+  ],
+  "cardcaptor-sakura": [
+    {
+      "name": "Kero",
+      "slug": "kero",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/cardcaptor-sakura-characters/kero"
+    },
+    {
+      "name": "Sakura Kinomoto",
+      "slug": "sakura-kinomoto",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/cardcaptor-sakura-characters/sakura-kinomoto"
+    },
+    {
+      "name": "Syaoran Li",
+      "slug": "syaoran-li",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/cardcaptor-sakura-characters/syaoran-li"
+    },
+    {
+      "name": "Tomoyo Daidouji",
+      "slug": "tomoyo-daidouji",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/cardcaptor-sakura-characters/tomoyo-daidouji"
+    }
+  ],
+  "ranma-1-2": [
+    {
+      "name": "Akane Tendo",
+      "slug": "akane-tendo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/ranma-1-2-characters/akane-tendo"
+    },
+    {
+      "name": "Kasumi Tendo",
+      "slug": "kasumi-tendo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/ranma-1-2-characters/kasumi-tendo"
+    },
+    {
+      "name": "Nabiki Tendo",
+      "slug": "nabiki-tendo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/ranma-1-2-characters/nabiki-tendo"
+    },
+    {
+      "name": "Ranma Saotome",
+      "slug": "ranma-saotome",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/ranma-1-2-characters/ranma-saotome"
+    }
+  ],
+  "yowamushi-pedal": [
+    {
+      "name": "Sakamichi Onoda",
+      "slug": "sakamichi-onoda",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yowamushi-pedal-characters/sakamichi-onoda"
+    },
+    {
+      "name": "Sangaku Manami",
+      "slug": "sangaku-manami",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yowamushi-pedal-characters/sangaku-manami"
+    },
+    {
+      "name": "Shunsuke Imaizumi",
+      "slug": "shunsuke-imaizumi",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yowamushi-pedal-characters/shunsuke-imaizumi"
+    },
+    {
+      "name": "Yuusuke Makishima",
+      "slug": "yuusuke-makishima",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/yowamushi-pedal-characters/yuusuke-makishima"
+    }
+  ],
+  "zatch-bell": [
+    {
+      "name": "Kiyo Takamine",
+      "slug": "kiyo-takamine",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/zatch-bell-characters/kiyo-takamine"
+    },
+    {
+      "name": "Megumi Oumi",
+      "slug": "megumi-oumi",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/zatch-bell-characters/megumi-oumi"
+    },
+    {
+      "name": "Zatch Bell",
+      "slug": "zatch-bell",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/zatch-bell-characters/zatch-bell"
+    }
+  ],
+  "fist-of-the-north-star": [
+    {
+      "name": "Kenshiro",
+      "slug": "kenshiro",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fist-of-the-north-star-characters/kenshiro"
+    },
+    {
+      "name": "Raoh",
+      "slug": "raoh",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/fist-of-the-north-star-characters/raoh"
+    }
+  ],
+  "certain-magical-index": [
+    {
+      "name": "Accelerator",
+      "slug": "accelerator",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/certain-magical-index-characters/accelerator"
+    },
+    {
+      "name": "Index",
+      "slug": "index",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/certain-magical-index-characters/index"
+    },
+    {
+      "name": "Touma Kamijou",
+      "slug": "touma-kamijou",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/certain-magical-index-characters/touma-kamijou"
+    }
+  ],
+  "bobobo-bo-bobo": [
+    {
+      "name": "Beauty",
+      "slug": "beauty",
+      "role": "Deuteragonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bobobo-bo-bobo-characters/beauty"
+    },
+    {
+      "name": "Bobobo-bo Bo-bobo",
+      "slug": "bobobo-bo-bobo",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bobobo-bo-bobo-characters/bobobo-bo-bobo"
+    },
+    {
+      "name": "Don Patch",
+      "slug": "don-patch",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bobobo-bo-bobo-characters/don-patch"
+    },
+    {
+      "name": "Jelly Jiggler",
+      "slug": "jelly-jiggler",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/bobobo-bo-bobo-characters/jelly-jiggler"
+    }
+  ],
+  "urusei-yatsura-1981": [
+    {
+      "name": "Ataru Moroboshi",
+      "slug": "ataru-moroboshi",
+      "role": "Deuteragonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/urusei-yatsura-1981-characters/ataru-moroboshi"
+    },
+    {
+      "name": "Lum",
+      "slug": "lum",
+      "role": "Protagonist",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/urusei-yatsura-1981-characters/lum"
+    },
+    {
+      "name": "Shinobu Miyake",
+      "slug": "shinobu-miyake",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/urusei-yatsura-1981-characters/shinobu-miyake"
+    },
+    {
+      "name": "Shutaro Mendo",
+      "slug": "shutaro-mendo",
+      "role": "Supporting",
+      "group": null,
+      "tags": [],
+      "firstEp": null,
+      "powerfulVotes": 0,
+      "villainVotes": 0,
+      "goatVotes": 0,
+      "url": "https://skipthefiller.com/urusei-yatsura-1981-characters/shutaro-mendo"
+    }
+  ]
+}

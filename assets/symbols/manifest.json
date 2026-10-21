@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "konoha",
+    "url": "https://narutop99.naruto-official.com/img/village-icon/konoha-wh.svg",
+    "file": "assets/symbols/konoha.svg",
+    "sha256": "da5da15867cd32828bfb92857dbf3e9a80e7e7111370585ce2a1b6f9087b6188",
+    "source": "NARUTOP99",
+    "retrieved_at_utc": "2026-10-21T11:41:52.303129+00:00"
+  },
+  {
+    "slug": "suna",
+    "url": "https://narutop99.naruto-official.com/img/village-icon/suna-wh.svg",
+    "file": "assets/symbols/suna.svg",
+    "sha256": "3c8e0b07c8b99f4af41be7fdb71ef5c4fd7bd21c05c940827b0df5389eec5ebf",
+    "source": "NARUTOP99",
+    "retrieved_at_utc": "2026-10-21T11:41:53.224031+00:00"
+  },
+  {
+    "slug": "kiri",
+    "url": "https://narutop99.naruto-official.com/img/village-icon/kiri-wh.svg",
+    "file": "assets/symbols/kiri.svg",
+    "sha256": "3f83df1a1458cb6532f8195c82f061ee619b7d4c18a873c1b94789a3049d36e2",
+    "source": "NARUTOP99",
+    "retrieved_at_utc": "2026-10-21T11:41:54.131727+00:00"
+  },
+  {
+    "slug": "kumo",
+    "url": "https://narutop99.naruto-official.com/img/village-icon/kumo-wh.svg",
+    "file": "assets/symbols/kumo.svg",
+    "sha256": "0ae0a4c0cb6d46b051b1c7a1d7c9e9264bbd7e1016a610d5b3e8f90cd1780023",
+    "source": "NARUTOP99",
+    "retrieved_at_utc": "2026-10-21T11:41:55.043245+00:00"
+  },
+  {
+    "slug": "iwa",
+    "url": "https://narutop99.naruto-official.com/img/village-icon/iwa-wh.svg",
+    "file": "assets/symbols/iwa.svg",
+    "sha256": "cae5ce1902fe80f081f2f604634a6a0df9e07cb218f21800abd130fa3a29e1e9",
+    "source": "NARUTOP99",
+    "retrieved_at_utc": "2026-10-21T11:41:55.974953+00:00"
+  }
+]

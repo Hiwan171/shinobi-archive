@@ -1,0 +1,66 @@
+{
+  "data": {
+    "borderColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "borderRadius": {
+      "type": "integer",
+      "displayName": "Rounded corners"
+    },
+    "borderIndividualCorners": {
+      "type": "bool",
+      "displayName": "Individual corners"
+    },
+    "borderTopLeftCorner": {
+      "type": "integer",
+      "displayName": "Top left corner"
+    },
+    "borderTopRightCorner": {
+      "type": "integer",
+      "displayName": "Top right corner"
+    },
+    "borderBottomLeftCorner": {
+      "type": "integer",
+      "displayName": "Bottom left corner"
+    },
+    "borderBottomRightCorner": {
+      "type": "integer",
+      "displayName": "Bottom right corner"
+    },
+    "iconTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "iconColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "accentBarShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "accentBarColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "accentBarWidth": {
+      "type": "numeric",
+      "displayName": "Width"
+    },
+    "accentBarTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "accentBarPosition": {
+      "type": "enum",
+      "values": [
+        "Left",
+        "Right",
+        "Bottom",
+        "Top"
+      ],
+      "displayName": "Position"
+    }
+  }
+}

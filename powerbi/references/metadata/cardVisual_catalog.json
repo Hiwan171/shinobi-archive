@@ -1,0 +1,83 @@
+{
+  "data": {
+    "visualType": "cardVisual",
+    "capabilityKey": "cardVisual",
+    "roles": {
+      "Data": {
+        "name": "Data",
+        "kind": "Measure",
+        "displayName": "Value"
+      },
+      "Rows": {
+        "name": "Rows",
+        "kind": "Grouping",
+        "displayName": "Categories",
+        "description": "Split your visual into multiple, smaller visuals based on your selected fields"
+      },
+      "Tooltips": {
+        "name": "Tooltips",
+        "kind": "Measure",
+        "displayName": "Tooltips",
+        "description": "Add additional data fields that people can see in the tooltip when they hover on part of this visualization."
+      },
+      "TrendVisualCategory": {
+        "name": "TrendVisualCategory",
+        "kind": "Grouping",
+        "displayName": "Trend axis",
+        "description": "The field that defines the trend chart's category axis. Accepts date, whole number, or text values."
+      }
+    },
+    "requiredRoles": [
+      "Data"
+    ],
+    "optionalRoles": [
+      "Rows",
+      "Tooltips",
+      "TrendVisualCategory"
+    ],
+    "maxPerRole": {},
+    "formattingObjects": [
+      "accentBar",
+      "barColumnTrendVisual",
+      "border",
+      "cardCalloutArea",
+      "cardImage",
+      "cartesianTrendVisual",
+      "divider",
+      "fillCustom",
+      "general",
+      "glowCustom",
+      "grid",
+      "image",
+      "label",
+      "layout",
+      "lineTrendVisual",
+      "outline",
+      "overFlow",
+      "padding",
+      "referenceLabel",
+      "referenceLabelDetail",
+      "referenceLabelLayout",
+      "referenceLabelTitle",
+      "referenceLabelValue",
+      "rotation",
+      "shadowCustom",
+      "shapeCustomRectangle",
+      "shapeMapTrendVisual",
+      "smallMultiplesAccentBar",
+      "smallMultiplesBorder",
+      "smallMultiplesCellBackGround",
+      "smallMultiplesGrid",
+      "smallMultiplesHeader",
+      "smallMultiplesLayout",
+      "smallMultiplesOuterShape",
+      "smallMultiplesOverFlow",
+      "spacing",
+      "trendVisualLibrary",
+      "trendVisualSubtotals",
+      "value"
+    ],
+    "sharedCapabilitiesWith": [],
+    "deprecated": false
+  }
+}

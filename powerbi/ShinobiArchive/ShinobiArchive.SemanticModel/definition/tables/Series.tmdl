@@ -1,0 +1,27 @@
+table Series
+	lineageTag: 3eba3b8b-715d-578a-9405-74f03a4a10f9
+
+	column serie_anilist_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: e233ab91-730b-5e46-8810-2fa3d7738fe2
+		summarizeBy: none
+		sourceColumn: serie_anilist_id
+
+	column nome
+		dataType: string
+		lineageTag: 90b0c134-7e62-5178-b799-61a0f248a828
+		summarizeBy: none
+		sourceColumn: nome
+
+	partition Series = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCouuVipOLcpMjU/My8zJLC6Jz0xRsjIy0FHKy89NVbJS8kssKi3JV6rVwabO0NzYFE2lQnBGZkFBaUpqHg49luaWxhZwTU75EONjAQCD+RWIAAAA", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"serie_anilist_id", Int64.Type}, {"nome", type text}}, "en-US")
+				in
+				    Tipos
+

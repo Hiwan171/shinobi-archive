@@ -1,0 +1,61 @@
+table tags_por_serie
+	isHidden
+	lineageTag: 8b5b7494-a2e4-57d8-9175-ba63bbc3a09a
+
+	column serie_anilist_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 0012645e-059b-5421-86c8-7835b4a69cfe
+		summarizeBy: none
+		sourceColumn: serie_anilist_id
+
+	column tag_id
+		dataType: int64
+		formatString: #,0
+		lineageTag: 9c780625-0ef7-5473-8448-a66b25e9ce8d
+		summarizeBy: none
+		sourceColumn: tag_id
+
+	column nome
+		dataType: string
+		lineageTag: 6300e515-ae54-5613-860e-4ea898c706ce
+		summarizeBy: none
+		sourceColumn: nome
+
+	column categoria
+		dataType: string
+		lineageTag: f4978a63-49b6-5dcc-b9ef-148a17221383
+		summarizeBy: none
+		sourceColumn: categoria
+
+	column relevancia_0_100
+		dataType: int64
+		formatString: #,0
+		lineageTag: a55fdde9-9036-55c7-92d0-58630fd40e19
+		summarizeBy: none
+		sourceColumn: relevancia_0_100
+
+	column spoiler
+		dataType: boolean
+		lineageTag: 37bdc796-1b5d-5b8b-b799-a224a0f2c571
+		summarizeBy: none
+		sourceColumn: spoiler
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 6e83a6ff-8fae-5bbb-b20e-1cc3dd27348f
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition tags_por_serie = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCsWaXVPjNhiF/4rHt01m/O2EuwAL2ynsUpJOLzodRtgi1q4tuZLCNu30v1cOW+wEh1TOYbgiQxzy8Oq8X8f+7W9XUcnoHeGsZErfsdw9CbyRq8ny6XUcj1wuKuqeuJ8Y/0LckZsRTZdCMmJ+d0aUHi8kYVqZdyQt6SPhGSN33p3vee7JNB25qhaspNI9eSCloiP3QXDd/L0ZZ1fmO91/Roco4uQZYl6IFad8B+OcVmIpSV2wrB8jRmD4XvDMcSYqxpeOeHBmS7pDsyhoRcfnklSkn8aD0MSTaYsjmeEhpfNZLs0H/iKaCd6L9VkXVI6fLlOby/pPbjLpQGq5GsQ4aQN2TUrq3Ehh3hK8+XSPkK4J407z6jDR8LCFHajPsi4It9T0JEFwJB1Nr2oqnRvxzfzBviO7IFwTte6HgSg7iNuY3NJHyq01PfEBcgm9jlykZkbPM7k5hZcos+y7xA+wDBdKkKbPOBem6uTOBalYud6fVv00kGyPolYvNybZiTQkzlnByvy/jLFMpzTF1MS2QXzgilb3Js0HAkGOLU2DTrMgNVUFe9CmVlunVoKogL4XtQH6SDWVQtE/V6TsxbkVlUGg/TiQshOkrY5+IuzLyj4sMSIszWF/xzhdleV63wHtrzhJiIjHJGzVUpJaaZZ97QUxDZ/m6zckiaZt9ZtxkhWy6ZPVDsyc6kbM4wWr9sgEM1wEURuYTzSTG2Gu7cXiIcQSh+2k8wuX9I8V0zR3rsQjtU8jTHxCvz0tMys80tKyLcSg8tvJI6K1Kb63Ym1GLdueGWMm5CCY9LSpBaV8YFOIMd2zM2xlhRDlnqyaZ5TTN+QIg7Y5zZQiSjGujhrToykkPp0yeHV5uvj5B2eDoSxFjaHx4yRqhwqlJTHz6J7p639IKEoRo+m0TbQbM3UJJerCdhSMEgBJ4rcDxTklunAuSUVtSSBNvFOWm1rsLMyX82VpX5QjDzP6PeNcUp6bnerU/Ng3WbwSHNB+3had2aabi1IsWbZZ0vMXq97Bxg6iCr2oM2Zow1WLSpg9+OWscWgRDhEi6uSV0fF9aX9cfjgQw0+b/wBmdQ2ez7c5jje7AgzIGxtMw12wbUysxzTFQKHcnQnoKI83vUIMCcBpApFM4u4Av3xa7gaDDK87KNMLlfUgkxvG47cN4lcibc03H3JGUacon5mCVjNJMlu9pKBkDoMOzKrU7HF/MX6tuKSgAhx0eC5WS2aArNfPBFXocHZkkqKQ2t3qRpQmPJntWjXYcttt6C1JM2Y686+stvaXQCwogykCDX8tzaXIlWV3THzQAWFXhgSU4WG7MlybazSR66NGPxRX0O3hVEoD82KJOZhbHqZDdHzkb0LmdUnW1h4crAhurXhs/JFKMcB6A+GAjO0YVI8hTk4MWvaOvx0TYwogwNAGzeUoLxLFA737EPsgqI6IZyWj3LZjbTm1w2WDu9saoewAwA29EFRqUIZk6KGkDDXWg6E3yKfpNJwgHa/Brs0Oyft5gDsgKP8oBfFgTbYIRIV/KGb4o0M7aLAbsylK24gJNcUl2lH7VppiKg/Ie0sDmGo69ugsF/XrLjt2odnVy3s/j7LDM022zYtrc229Kvd7X/OMjS9Y/7ARYWLkT1sZf6iZEvmmQ22x0KzgzQrf30JjUHTSzs53zrhQZCVtsyqIQf08TDosSgnzHY0p6PyYU7OOakatyUCannSq8tn6XsjlO4FAbuKjYI5/OiZAJbkfdLZQ0pi3C8pN2emNTBOy8bwWUg+H+v1fGTTrcAMxAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"serie_anilist_id", Int64.Type}, {"tag_id", Int64.Type}, {"nome", type text}, {"categoria", type text}, {"relevancia_0_100", Int64.Type}, {"spoiler", type logical}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

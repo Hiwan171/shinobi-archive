@@ -1,0 +1,47 @@
+table itens_quarentena
+	isHidden
+	lineageTag: 90d64b44-035e-5560-a0b5-6f73e0972f26
+
+	column personagem_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 4f7c1ca1-345f-50e3-836d-c34149e5474d
+		summarizeBy: none
+		sourceColumn: personagem_id
+
+	column campo
+		dataType: string
+		lineageTag: bd5a451c-6dbb-5249-95b2-beecbc2ef95c
+		summarizeBy: none
+		sourceColumn: campo
+
+	column valor_original
+		dataType: string
+		lineageTag: 602f421c-525e-58f1-bfd2-ced70e06978a
+		summarizeBy: none
+		sourceColumn: valor_original
+
+	column motivo
+		dataType: string
+		lineageTag: 1638200c-0f1d-587c-8b3c-1ee3eeeec501
+		summarizeBy: none
+		sourceColumn: motivo
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: cea3ecad-a582-5d47-b49c-7b744ba48e87
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition itens_quarentena = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"personagem_id", Int64.Type}, {"campo", type text}, {"valor_original", type text}, {"motivo", type text}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

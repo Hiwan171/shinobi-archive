@@ -1,0 +1,5931 @@
+[
+  {
+    "personagem_id": 1344,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release  (Affinity)",
+    "observacoes": "Affinity",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "natureza_id": "natureza_9721f311a9d652dd",
+    "nome_original": "Lava Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "natureza_id": "natureza_c4d8a411b82629b2",
+    "nome_original": "Magnet Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "natureza_id": "natureza_1798e7a869db9d4b",
+    "nome_original": "Boil Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "natureza_id": "natureza_818bebc70517458e",
+    "nome_original": "Yin–Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Affinity; Anime only)",
+    "observacoes": "Affinity; Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "natureza_id": "natureza_c026faf2ba7a5da2",
+    "nome_original": "Storm Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "natureza_id": "natureza_818bebc70517458e",
+    "nome_original": "Yin–Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Affinity)",
+    "observacoes": "Affinity",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "natureza_id": "natureza_818bebc70517458e",
+    "nome_original": "Yin–Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "natureza_id": "natureza_c4d8a411b82629b2",
+    "nome_original": "Magnet Release  (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 344,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 344,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 813,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 813,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 865,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 865,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 865,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 865,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 865,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Affinity)",
+    "observacoes": "Affinity",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 600,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 600,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 600,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "natureza_id": "natureza_818bebc70517458e",
+    "nome_original": "Yin–Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 636,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 636,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 636,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 636,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 222,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1100,
+    "natureza_id": "natureza_c4d8a411b82629b2",
+    "nome_original": "Magnet Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1100,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1100,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1100,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1335,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 193,
+    "natureza_id": "natureza_fbddc2c158a87dea",
+    "nome_original": "Explosion Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 193,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 193,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 421,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 421,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 421,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 421,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 6,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 6,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 6,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1208,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 940,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 940,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 940,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 940,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 940,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 940,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 940,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 940,
+    "natureza_id": "natureza_818bebc70517458e",
+    "nome_original": "Yin–Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1400,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 104,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 521,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 521,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 521,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 521,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 480,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 480,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "natureza_id": "natureza_818bebc70517458e",
+    "nome_original": "Yin–Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "natureza_id": "natureza_818bebc70517458e",
+    "nome_original": "Yin–Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1051,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1051,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1203,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 162,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 162,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 162,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 870,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 870,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 876,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 876,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1091,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1091,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1091,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1346,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1346,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1346,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1346,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1346,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1346,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 430,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 430,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 25,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 120,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 158,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 701,
+    "natureza_id": "natureza_f3cde3def026a12f",
+    "nome_original": "Dust Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 701,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 701,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 701,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 791,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 725,
+    "natureza_id": "natureza_9721f311a9d652dd",
+    "nome_original": "Lava Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 725,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 725,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 725,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 725,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 809,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 809,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 414,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 414,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 414,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 920,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1,
+    "natureza_id": "natureza_818bebc70517458e",
+    "nome_original": "Yin–Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 230,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 230,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 230,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 240,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 549,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 549,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 609,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 831,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1009,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1127,
+    "natureza_id": "natureza_c4d8a411b82629b2",
+    "nome_original": "Magnet Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1127,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1127,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1143,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1367,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "natureza_id": "natureza_c026faf2ba7a5da2",
+    "nome_original": "Storm Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 42,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 127,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 274,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 422,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 546,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 684,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 684,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 684,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 684,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 669,
+    "natureza_id": "natureza_1798e7a869db9d4b",
+    "nome_original": "Boil Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 669,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 669,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 723,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 724,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 724,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 765,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 765,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 765,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 936,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 936,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 936,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 936,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 936,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 936,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 936,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 936,
+    "natureza_id": "natureza_818bebc70517458e",
+    "nome_original": "Yin–Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1034,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release  (Affinity)",
+    "observacoes": "Affinity",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1034,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1165,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 152,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 266,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 266,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 593,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 593,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 593,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 593,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 531,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 531,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 591,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 591,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 622,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 622,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 818,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 818,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 860,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1038,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release  (Affinity; Anime only)",
+    "observacoes": "Affinity; Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1038,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1038,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1038,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1134,
+    "natureza_id": "natureza_9721f311a9d652dd",
+    "nome_original": "Lava Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1134,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1134,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1120,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (While chakra enhanced)",
+    "observacoes": "While chakra enhanced",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1120,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (While chakra enhanced)",
+    "observacoes": "While chakra enhanced",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1123,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1123,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1310,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1310,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1310,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1310,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1426,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1426,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1426,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1426,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1426,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1426,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1426,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1426,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1279,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 5,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 5,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 5,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 72,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 124,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 192,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 224,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 224,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 261,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 271,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 327,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release  (While chakra enhanced)",
+    "observacoes": "While chakra enhanced",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 327,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (While chakra enhanced)",
+    "observacoes": "While chakra enhanced",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 363,
+    "natureza_id": "natureza_1798e7a869db9d4b",
+    "nome_original": "Boil Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 363,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 363,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 356,
+    "natureza_id": "natureza_0105e8d001947cbd",
+    "nome_original": "Ice Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 356,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 356,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 574,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 574,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 568,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 628,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 635,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 635,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 718,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 718,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 844,
+    "natureza_id": "natureza_f3cde3def026a12f",
+    "nome_original": "Dust Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 844,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 844,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 844,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 844,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 844,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 844,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 845,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 845,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 845,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 847,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 854,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 854,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 939,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 939,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 975,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1055,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1082,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1135,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1144,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 80,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 80,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 62,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 55,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 125,
+    "natureza_id": "natureza_9721f311a9d652dd",
+    "nome_original": "Lava Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 125,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 125,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 125,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 125,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 119,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 159,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 199,
+    "natureza_id": "natureza_9721f311a9d652dd",
+    "nome_original": "Lava Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 199,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 199,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 339,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 368,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 553,
+    "natureza_id": "natureza_f3cde3def026a12f",
+    "nome_original": "Dust Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 553,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 553,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 553,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 598,
+    "natureza_id": "natureza_9721f311a9d652dd",
+    "nome_original": "Lava Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 598,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 598,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 649,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 649,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 704,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 757,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 912,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 912,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 909,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 938,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 938,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 938,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 967,
+    "natureza_id": "natureza_c4d8a411b82629b2",
+    "nome_original": "Magnet Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 967,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 967,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 967,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 967,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 986,
+    "natureza_id": "natureza_0105e8d001947cbd",
+    "nome_original": "Ice Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 986,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 986,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1003,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1074,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release  (While chakra enhanced)",
+    "observacoes": "While chakra enhanced",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1166,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1179,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1274,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1427,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1427,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1427,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 63,
+    "natureza_id": "natureza_eaab4117f6f6ca34",
+    "nome_original": "Mud Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 63,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 63,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1325,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1325,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1325,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 38,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 46,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 58,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 73,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 77,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 157,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 160,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 160,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 206,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 206,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 247,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 267,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 269,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 269,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 297,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 302,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 348,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 389,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 408,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 408,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 537,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 571,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 621,
+    "natureza_id": "natureza_c4d8a411b82629b2",
+    "nome_original": "Magnet Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 621,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 621,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 780,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 846,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 852,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 857,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 873,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 979,
+    "natureza_id": "natureza_0105e8d001947cbd",
+    "nome_original": "Ice Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 984,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1052,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1052,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1054,
+    "natureza_id": "natureza_fbddc2c158a87dea",
+    "nome_original": "Explosion Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1054,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1054,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1076,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1147,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1276,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1411,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 630,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1223,
+    "natureza_id": "natureza_9721f311a9d652dd",
+    "nome_original": "Lava Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1223,
+    "natureza_id": "natureza_1798e7a869db9d4b",
+    "nome_original": "Boil Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1223,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1223,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1223,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1223,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1397,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 90,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 113,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 116,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 122,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 244,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 288,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 288,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 347,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 375,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 381,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 381,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 409,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 405,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 415,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 415,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 475,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 485,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 488,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 517,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 512,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 555,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 557,
+    "natureza_id": "natureza_0105e8d001947cbd",
+    "nome_original": "Ice Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 552,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 552,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 558,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 558,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 558,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 558,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 558,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 590,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 615,
+    "natureza_id": "natureza_0105e8d001947cbd",
+    "nome_original": "Ice Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 651,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 713,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 753,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 764,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 764,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 766,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 833,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 849,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 861,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 861,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 861,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 861,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 861,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 861,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 903,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 903,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 903,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 907,
+    "natureza_id": "natureza_5eab52104dc2b88e",
+    "nome_original": "Typhoon Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 907,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 908,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 908,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 908,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 966,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 981,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 997,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1158,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1202,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1202,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1202,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1202,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1202,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1255,
+    "natureza_id": "natureza_c4d8a411b82629b2",
+    "nome_original": "Magnet Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1255,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1255,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1265,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1289,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1289,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1296,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1296,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1313,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1330,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1323,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1341,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1341,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1341,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1374,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1356,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1356,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1356,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1405,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 540,
+    "natureza_id": "natureza_0105e8d001947cbd",
+    "nome_original": "Ice Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 540,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 540,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 660,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 661,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 688,
+    "natureza_id": "natureza_747ccdbd28381b7a",
+    "nome_original": "Steel Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 688,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 711,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 711,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 958,
+    "natureza_id": "natureza_0105e8d001947cbd",
+    "nome_original": "Ice Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 958,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 958,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1084,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 35,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 477,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 596,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 618,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 618,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 618,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 774,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 925,
+    "natureza_id": "natureza_f3cde3def026a12f",
+    "nome_original": "Dust Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 925,
+    "natureza_id": "natureza_9721f311a9d652dd",
+    "nome_original": "Lava Release  (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 925,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 925,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 925,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 925,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 925,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1321,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1321,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1321,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 27,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 27,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 39,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 39,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 43,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 44,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 45,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 47,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 52,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 54,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 68,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 71,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 79,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 100,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 107,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 123,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 135,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 135,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 145,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 145,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 166,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 170,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 191,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 194,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 212,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 242,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 256,
+    "natureza_id": "natureza_1798e7a869db9d4b",
+    "nome_original": "Boil Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 256,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 256,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 281,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 282,
+    "natureza_id": "natureza_fbddc2c158a87dea",
+    "nome_original": "Explosion Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 282,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 282,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 229,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 229,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 229,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 229,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 229,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 292,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 310,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 312,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 329,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 331,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 338,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 341,
+    "natureza_id": "natureza_e0a1b9fea1ad3734",
+    "nome_original": "Crystal Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 341,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release  (Presumed)",
+    "observacoes": "Presumed",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "natureza_id": "natureza_709f2a90f9251307",
+    "nome_original": "Dark Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "natureza_id": "natureza_747ccdbd28381b7a",
+    "nome_original": "Steel Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "natureza_id": "natureza_c026faf2ba7a5da2",
+    "nome_original": "Storm Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "natureza_id": "natureza_3a19dccb8c2584b1",
+    "nome_original": "Swift Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 428,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 428,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 428,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 428,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 428,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 428,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 470,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 479,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 493,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 508,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 426,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 526,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 526,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 526,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 550,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 554,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 587,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 592,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 624,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 605,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 605,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 605,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 605,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 605,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 619,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 653,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 655,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 722,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 729,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 736,
+    "natureza_id": "natureza_9721f311a9d652dd",
+    "nome_original": "Lava Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 736,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 736,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 771,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 776,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 779,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 810,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Anime Only)",
+    "observacoes": "Anime Only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 840,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 871,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 874,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 875,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 877,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 879,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 885,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 891,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 897,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 898,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 911,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 911,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 911,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 917,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 941,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 942,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 942,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 942,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 942,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 942,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 942,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 942,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release  (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 950,
+    "natureza_id": "natureza_bf822cba7616e5b4",
+    "nome_original": "Scorch Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 950,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 950,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 983,
+    "natureza_id": "natureza_9721f311a9d652dd",
+    "nome_original": "Lava Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 983,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 983,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 985,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1017,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1027,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1028,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1053,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1058,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1059,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1087,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1098,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1108,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1119,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1149,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1155,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1200,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1205,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1205,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1229,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1229,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1229,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1229,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1229,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1229,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1242,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1256,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1259,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1282,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1283,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1288,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1288,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1301,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1301,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1302,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1305,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1305,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1353,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1372,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1401,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "natureza_id": "natureza_66233ddf2f79b507",
+    "nome_original": "Wood Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 286,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 359,
+    "natureza_id": "natureza_0105e8d001947cbd",
+    "nome_original": "Ice Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 359,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 359,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 362,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 548,
+    "natureza_id": "natureza_c4d8a411b82629b2",
+    "nome_original": "Magnet Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 548,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 548,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 548,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 657,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 687,
+    "natureza_id": "natureza_9721f311a9d652dd",
+    "nome_original": "Lava Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 687,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 687,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 687,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1061,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1088,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1237,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1237,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 83,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 201,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 211,
+    "natureza_id": "natureza_29513ef02a097110",
+    "nome_original": "Earth Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 236,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 243,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 251,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 301,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 358,
+    "natureza_id": "natureza_0105e8d001947cbd",
+    "nome_original": "Ice Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 358,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 358,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 452,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 456,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 462,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 495,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release  (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 645,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 712,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 743,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 960,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1067,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1170,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1171,
+    "natureza_id": "natureza_4f2098f11b4a9536",
+    "nome_original": "Yin Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1292,
+    "natureza_id": "natureza_d6025347f8ef0736",
+    "nome_original": "Fire Release  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1322,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1421,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release  (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 650,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 685,
+    "natureza_id": "natureza_826a8dfde07ce277",
+    "nome_original": "This article is a stub. You can help the Narutopedia by expanding it, or perhaps you could contribute to the discussion on the topic.",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 742,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 830,
+    "natureza_id": "natureza_519d39bd39759135",
+    "nome_original": "Water Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 856,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 856,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 856,
+    "natureza_id": "natureza_a5e9b009e2d7a308",
+    "nome_original": "Yang Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 892,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1095,
+    "natureza_id": "natureza_bf31afe1bdee1e17",
+    "nome_original": "Lightning Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1284,
+    "natureza_id": "natureza_3e93b5aeeeb3d187",
+    "nome_original": "Wind Release",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  }
+]

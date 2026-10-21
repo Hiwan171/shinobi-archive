@@ -1,0 +1,646 @@
+[
+  {
+    "code": "new16",
+    "name": "うちはナナシ"
+  },
+  {
+    "code": "new15",
+    "name": "うずまきボルト(「楔」進化)"
+  },
+  {
+    "code": "new14",
+    "name": "カワキ(「楔」進化)"
+  },
+  {
+    "code": "new13",
+    "name": "夕日紅"
+  },
+  {
+    "code": "new12",
+    "name": "大筒木イッシキ"
+  },
+  {
+    "code": "new11",
+    "name": "大筒木ハゴロモ"
+  },
+  {
+    "code": "new10",
+    "name": "果心居士"
+  },
+  {
+    "code": "new09",
+    "name": "ボロ"
+  },
+  {
+    "code": "new08",
+    "name": "デルタ"
+  },
+  {
+    "code": "new05",
+    "name": "うずまきボルト「楔」"
+  },
+  {
+    "code": "new06",
+    "name": "カワキ"
+  },
+  {
+    "code": "new07",
+    "name": "ジゲン"
+  },
+  {
+    "code": "new04",
+    "name": "うちはサスケ(支う影)"
+  },
+  {
+    "code": "new03",
+    "name": "うずまきナルト(重粒子モード)"
+  },
+  {
+    "code": "new01",
+    "name": "大筒木アシュラ"
+  },
+  {
+    "code": "new02",
+    "name": "大筒木インドラ"
+  },
+  {
+    "code": "chara001",
+    "name": "うずまきナルト(少年篇)"
+  },
+  {
+    "code": "chara002",
+    "name": "うずまきナルト"
+  },
+  {
+    "code": "chara003",
+    "name": "うずまきナルト(仙人モード)"
+  },
+  {
+    "code": "chara126",
+    "name": "うずまきナルト(仙法・超大玉螺旋多連丸)"
+  },
+  {
+    "code": "chara127",
+    "name": "うずまきナルト(尾獣玉)"
+  },
+  {
+    "code": "chara004",
+    "name": "うずまきナルト(九喇嘛リンクモード)"
+  },
+  {
+    "code": "chara005",
+    "name": "うずまきナルト(六道仙人モード)"
+  },
+  {
+    "code": "chara006",
+    "name": "うずまきナルト(THE LAST)"
+  },
+  {
+    "code": "chara007",
+    "name": "うずまきナルト(BORUTO)"
+  },
+  {
+    "code": "chara008",
+    "name": "うちはサスケ(少年篇)"
+  },
+  {
+    "code": "chara128",
+    "name": "うちはサスケ(少年篇・後期服)"
+  },
+  {
+    "code": "chara009",
+    "name": "うちはサスケ"
+  },
+  {
+    "code": "chara010",
+    "name": "うちはサスケ(”鷹”)"
+  },
+  {
+    "code": "chara011",
+    "name": "うちはサスケ(永遠の万華鏡写輪眼)"
+  },
+  {
+    "code": "chara012",
+    "name": "うちはサスケ(五影会談)"
+  },
+  {
+    "code": "chara013",
+    "name": "うちはサスケ(輪廻写輪眼)"
+  },
+  {
+    "code": "chara014",
+    "name": "うちはサスケ(THE LAST)"
+  },
+  {
+    "code": "chara015",
+    "name": "うちはサスケ(BORUTO)"
+  },
+  {
+    "code": "chara016",
+    "name": "春野サクラ(少年篇)"
+  },
+  {
+    "code": "chara017",
+    "name": "春野サクラ"
+  },
+  {
+    "code": "chara129",
+    "name": "うちはサクラ(BORUTO)"
+  },
+  {
+    "code": "chara018",
+    "name": "うずまきボルト"
+  },
+  {
+    "code": "chara019",
+    "name": "うずまきボルト(科学忍具)"
+  },
+  {
+    "code": "chara020",
+    "name": "うずまきボルト(中忍試験)"
+  },
+  {
+    "code": "chara021",
+    "name": "うちはサラダ"
+  },
+  {
+    "code": "chara022",
+    "name": "うちはサラダ(千鳥)"
+  },
+  {
+    "code": "chara023",
+    "name": "ミツキ"
+  },
+  {
+    "code": "chara024",
+    "name": "はたけカカシ"
+  },
+  {
+    "code": "chara130",
+    "name": "はたけカカシ(忍界大戦)"
+  },
+  {
+    "code": "chara131",
+    "name": "はたけカカシ(両目写輪眼)"
+  },
+  {
+    "code": "chara025",
+    "name": "ロック・リー(少年篇)"
+  },
+  {
+    "code": "chara026",
+    "name": "ロック・リー"
+  },
+  {
+    "code": "chara132",
+    "name": "ロック・リー(BORUTO)"
+  },
+  {
+    "code": "chara027",
+    "name": "日向ネジ(少年篇)"
+  },
+  {
+    "code": "chara028",
+    "name": "日向ネジ"
+  },
+  {
+    "code": "chara029",
+    "name": "テンテン(少年篇)"
+  },
+  {
+    "code": "chara030",
+    "name": "テンテン"
+  },
+  {
+    "code": "chara133",
+    "name": "テンテン(BORUTO)"
+  },
+  {
+    "code": "chara031",
+    "name": "山中いの(少年篇)"
+  },
+  {
+    "code": "chara032",
+    "name": "山中いの"
+  },
+  {
+    "code": "chara134",
+    "name": "山中いの(BORUTO)"
+  },
+  {
+    "code": "chara033",
+    "name": "奈良シカマル(少年篇)"
+  },
+  {
+    "code": "chara034",
+    "name": "奈良シカマル"
+  },
+  {
+    "code": "chara135",
+    "name": "奈良シカマル(BORUTO)"
+  },
+  {
+    "code": "chara035",
+    "name": "秋道チョウジ(少年篇)"
+  },
+  {
+    "code": "chara036",
+    "name": "秋道チョウジ"
+  },
+  {
+    "code": "chara136",
+    "name": "秋道チョウジ(BORUTO)"
+  },
+  {
+    "code": "chara037",
+    "name": "日向ヒナタ(少年篇)"
+  },
+  {
+    "code": "chara038",
+    "name": "日向ヒナタ"
+  },
+  {
+    "code": "chara137",
+    "name": "うずまきヒナタ(BORUTO)"
+  },
+  {
+    "code": "chara039",
+    "name": "日向ハナビ"
+  },
+  {
+    "code": "chara040",
+    "name": "犬塚キバ(少年篇)"
+  },
+  {
+    "code": "chara041",
+    "name": "犬塚キバ"
+  },
+  {
+    "code": "chara138",
+    "name": "犬塚キバ(BORUTO)"
+  },
+  {
+    "code": "chara042",
+    "name": "油女シノ(少年篇)"
+  },
+  {
+    "code": "chara043",
+    "name": "油女シノ"
+  },
+  {
+    "code": "chara139",
+    "name": "油女シノ(BORUTO)"
+  },
+  {
+    "code": "chara044",
+    "name": "マイト・ガイ"
+  },
+  {
+    "code": "chara140",
+    "name": "マイト・ガイ(忍界大戦)"
+  },
+  {
+    "code": "chara045",
+    "name": "猿飛アスマ"
+  },
+  {
+    "code": "chara046",
+    "name": "サイ"
+  },
+  {
+    "code": "chara141",
+    "name": "山中サイ(BORUTO)"
+  },
+  {
+    "code": "chara047",
+    "name": "ヤマト"
+  },
+  {
+    "code": "chara048",
+    "name": "うみのイルカ"
+  },
+  {
+    "code": "chara049",
+    "name": "自来也"
+  },
+  {
+    "code": "chara050",
+    "name": "綱手"
+  },
+  {
+    "code": "chara051",
+    "name": "初代火影千手柱間"
+  },
+  {
+    "code": "chara052",
+    "name": "志村ダンゾウ"
+  },
+  {
+    "code": "chara053",
+    "name": "猿飛木ノ葉丸"
+  },
+  {
+    "code": "chara054",
+    "name": "うちはシスイ"
+  },
+  {
+    "code": "chara055",
+    "name": "波風ミナト"
+  },
+  {
+    "code": "chara056",
+    "name": "うずまきクシナ"
+  },
+  {
+    "code": "chara057",
+    "name": "うちはオビト(少年期)"
+  },
+  {
+    "code": "chara058",
+    "name": "はたけカカシ(少年期)"
+  },
+  {
+    "code": "chara059",
+    "name": "のはらリン"
+  },
+  {
+    "code": "chara060",
+    "name": "我愛羅(少年篇)"
+  },
+  {
+    "code": "chara061",
+    "name": "風影・我愛羅"
+  },
+  {
+    "code": "chara142",
+    "name": "風影・我愛羅(五影会談)"
+  },
+  {
+    "code": "chara062",
+    "name": "風影・我愛羅(忍界大戦)"
+  },
+  {
+    "code": "chara143",
+    "name": "風影・我愛羅(BORUTO)"
+  },
+  {
+    "code": "chara063",
+    "name": "カンクロウ(少年篇)"
+  },
+  {
+    "code": "chara064",
+    "name": "カンクロウ"
+  },
+  {
+    "code": "chara144",
+    "name": "カンクロウ(BORUTO)"
+  },
+  {
+    "code": "chara065",
+    "name": "テマリ(少年篇)"
+  },
+  {
+    "code": "chara066",
+    "name": "テマリ"
+  },
+  {
+    "code": "chara145",
+    "name": "奈良テマリ(BORUTO)"
+  },
+  {
+    "code": "chara067",
+    "name": "チヨバア"
+  },
+  {
+    "code": "chara068",
+    "name": "キラービー"
+  },
+  {
+    "code": "chara069",
+    "name": "キラービー(鮫肌)"
+  },
+  {
+    "code": "chara070",
+    "name": "雷影・エー"
+  },
+  {
+    "code": "chara071",
+    "name": "ダルイ"
+  },
+  {
+    "code": "chara072",
+    "name": "オオノキ"
+  },
+  {
+    "code": "chara073",
+    "name": "桃地再不斬"
+  },
+  {
+    "code": "chara074",
+    "name": "白"
+  },
+  {
+    "code": "chara075",
+    "name": "照美メイ"
+  },
+  {
+    "code": "chara076",
+    "name": "香燐"
+  },
+  {
+    "code": "chara077",
+    "name": "鬼灯水月"
+  },
+  {
+    "code": "chara078",
+    "name": "重吾"
+  },
+  {
+    "code": "chara079",
+    "name": "うちはイタチ"
+  },
+  {
+    "code": "chara080",
+    "name": "干柿鬼鮫"
+  },
+  {
+    "code": "chara081",
+    "name": "角都"
+  },
+  {
+    "code": "chara082",
+    "name": "飛段"
+  },
+  {
+    "code": "chara083",
+    "name": "デイダラ"
+  },
+  {
+    "code": "chara084",
+    "name": "サソリ"
+  },
+  {
+    "code": "chara085",
+    "name": "ペイン"
+  },
+  {
+    "code": "chara086",
+    "name": "小南"
+  },
+  {
+    "code": "chara087",
+    "name": "仮面の男"
+  },
+  {
+    "code": "chara088",
+    "name": "トビ"
+  },
+  {
+    "code": "chara089",
+    "name": "トビ(忍界大戦)"
+  },
+  {
+    "code": "chara090",
+    "name": "うちはオビト"
+  },
+  {
+    "code": "chara091",
+    "name": "うちはオビト(十尾の人柱力)"
+  },
+  {
+    "code": "chara092",
+    "name": "うちはオビト(暴走)"
+  },
+  {
+    "code": "chara146",
+    "name": "うちはマダラ"
+  },
+  {
+    "code": "chara093",
+    "name": "うちはマダラ(穢土転生・解)"
+  },
+  {
+    "code": "chara094",
+    "name": "うちはマダラ(六道)"
+  },
+  {
+    "code": "chara095",
+    "name": "大筒木カグヤ"
+  },
+  {
+    "code": "chara096",
+    "name": "大筒木モモシキ"
+  },
+  {
+    "code": "chara097",
+    "name": "大筒木キンシキ"
+  },
+  {
+    "code": "chara098",
+    "name": "長門"
+  },
+  {
+    "code": "chara100",
+    "name": "二位ユギト"
+  },
+  {
+    "code": "chara101",
+    "name": "やぐら"
+  },
+  {
+    "code": "chara102",
+    "name": "老紫"
+  },
+  {
+    "code": "chara103",
+    "name": "ハン"
+  },
+  {
+    "code": "chara104",
+    "name": "ウタカタ"
+  },
+  {
+    "code": "chara105",
+    "name": "フウ"
+  },
+  {
+    "code": "chara106",
+    "name": "初代火影 千手柱間(穢土転生)"
+  },
+  {
+    "code": "chara107",
+    "name": "二代目火影 千手扉間"
+  },
+  {
+    "code": "chara108",
+    "name": "三代目火影 猿飛ヒルゼン"
+  },
+  {
+    "code": "chara109",
+    "name": "波風ミナト(穢土転生)"
+  },
+  {
+    "code": "chara110",
+    "name": "四代目風影"
+  },
+  {
+    "code": "chara111",
+    "name": "三代目雷影"
+  },
+  {
+    "code": "chara112",
+    "name": "二代目土影"
+  },
+  {
+    "code": "chara113",
+    "name": "二代目水影"
+  },
+  {
+    "code": "chara114",
+    "name": "半蔵"
+  },
+  {
+    "code": "chara115",
+    "name": "ミフネ"
+  },
+  {
+    "code": "chara116",
+    "name": "大蛇丸"
+  },
+  {
+    "code": "chara117",
+    "name": "薬師カブト"
+  },
+  {
+    "code": "chara118",
+    "name": "薬師カブト(蛇マント)"
+  },
+  {
+    "code": "chara119",
+    "name": "薬師カブト(仙人モード)"
+  },
+  {
+    "code": "chara120",
+    "name": "君麻呂"
+  },
+  {
+    "code": "chara121",
+    "name": "次郎坊"
+  },
+  {
+    "code": "chara122",
+    "name": "左近/右近"
+  },
+  {
+    "code": "chara123",
+    "name": "鬼童丸"
+  },
+  {
+    "code": "chara124",
+    "name": "多由也"
+  },
+  {
+    "code": "chara125",
+    "name": "メカナルト"
+  }
+]

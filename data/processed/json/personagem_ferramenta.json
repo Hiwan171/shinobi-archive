@@ -1,0 +1,5476 @@
+[
+  {
+    "personagem_id": 1344,
+    "ferramenta_id": "ferramenta_b351332f6a90f518",
+    "nome_original": "Absorbing Hand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome_original": "Chakra Blade (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "ferramenta_id": "ferramenta_d5498597fa0969ca",
+    "nome_original": "Flying Thunder God Kunai",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "ferramenta_id": "ferramenta_8267a6317b8a8f26",
+    "nome_original": "Hidden Kunai Mechanism",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "ferramenta_id": "ferramenta_c7f8652bb8a2904a",
+    "nome_original": "Konoha Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "ferramenta_id": "ferramenta_40fe4fa303c1379e",
+    "nome_original": "Stone of Gelel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "ferramenta_id": "ferramenta_396215b9832a06b2",
+    "nome_original": "Bow & Arrow",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "ferramenta_id": "ferramenta_4a91e8861c197f61",
+    "nome_original": "Katar",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "ferramenta_id": "ferramenta_d9d6950191be4aa4",
+    "nome_original": "Kusari (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "ferramenta_id": "ferramenta_a70016b07c1dfb16",
+    "nome_original": "Mind Awakening Pill",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "ferramenta_id": "ferramenta_e92b49d54a125f49",
+    "nome_original": "Scalpel (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "ferramenta_id": "ferramenta_e57b4d55631c7030",
+    "nome_original": "Sword of Kusanagi",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "ferramenta_id": "ferramenta_8ca314872db59de5",
+    "nome_original": "Gunbai",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome_original": "Kama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "ferramenta_id": "ferramenta_8f2cc936b1968c90",
+    "nome_original": "Spear (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "ferramenta_id": "ferramenta_396215b9832a06b2",
+    "nome_original": "Bow & Arrow (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "ferramenta_id": "ferramenta_8eda24cc88d308a5",
+    "nome_original": "Chakra-Suppressing Seal",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "ferramenta_id": "ferramenta_d5498597fa0969ca",
+    "nome_original": "Flying Thunder God Kunai",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "ferramenta_id": "ferramenta_8cccfa4517f71dad",
+    "nome_original": "Kubikiribōchō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "ferramenta_id": "ferramenta_1a9716fe25881f75",
+    "nome_original": "Kusarigama (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "ferramenta_id": "ferramenta_cd19745b4785d8f2",
+    "nome_original": "Lightning Barrel (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "ferramenta_id": "ferramenta_95ea96e11f6d84d8",
+    "nome_original": "Makibishi",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "ferramenta_id": "ferramenta_8733790dbab3ade1",
+    "nome_original": "White Light Chakra Sabre",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "ferramenta_id": "ferramenta_a01a4252fbdf2756",
+    "nome_original": "Genjutsu Pill (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "ferramenta_id": "ferramenta_a70016b07c1dfb16",
+    "nome_original": "Mind Awakening Pill",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "ferramenta_id": "ferramenta_3a2c1056ba4a26aa",
+    "nome_original": "Shinigami Mask",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "ferramenta_id": "ferramenta_e57b4d55631c7030",
+    "nome_original": "Sword of Kusanagi",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "ferramenta_id": "ferramenta_8ca314872db59de5",
+    "nome_original": "Gunbai",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "ferramenta_id": "ferramenta_d9d6950191be4aa4",
+    "nome_original": "Kusari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "ferramenta_id": "ferramenta_f230816dbc8f4918",
+    "nome_original": "Sword of Nunoboko",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "ferramenta_id": "ferramenta_052f48e4164ab85c",
+    "nome_original": "Gold Dust",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "ferramenta_id": "ferramenta_89064c38d5797e2f",
+    "nome_original": "Jōhyō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "ferramenta_id": "ferramenta_79aa2040d5bc25f1",
+    "nome_original": "Sand Gourd",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "ferramenta_id": "ferramenta_206dae97bf87a8d5",
+    "nome_original": "Sealing Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "ferramenta_id": "ferramenta_bb3c6dd34ea7ec28",
+    "nome_original": "Blood Increasing Pill",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "ferramenta_id": "ferramenta_a8071a8bbbfdcab0",
+    "nome_original": "Blowpipe (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "ferramenta_id": "ferramenta_695edc21be76ba67",
+    "nome_original": "Military Rations Pill",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "ferramenta_id": "ferramenta_a4a7392e7dd7f00b",
+    "nome_original": "Ninja Info Cards",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "ferramenta_id": "ferramenta_2d7a97028c0ff102",
+    "nome_original": "Triple-Bladed Scythe (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "ferramenta_id": "ferramenta_8eda24cc88d308a5",
+    "nome_original": "Chakra-Suppressing Seal",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "ferramenta_id": "ferramenta_8267a6317b8a8f26",
+    "nome_original": "Hidden Kunai Mechanism (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "ferramenta_id": "ferramenta_93c4fe9108ed0817",
+    "nome_original": "Stone Swords",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "ferramenta_id": "ferramenta_7522d0cfe10ee4be",
+    "nome_original": "Antidote (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "ferramenta_id": "ferramenta_cafde34cc4641181",
+    "nome_original": "First Hokage's Necklace",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "ferramenta_id": "ferramenta_c7f8652bb8a2904a",
+    "nome_original": "Konoha Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 344,
+    "ferramenta_id": "ferramenta_396215b9832a06b2",
+    "nome_original": "Bow & Arrow (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 344,
+    "ferramenta_id": "ferramenta_1a9716fe25881f75",
+    "nome_original": "Kusarigama (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 344,
+    "ferramenta_id": "ferramenta_9dc3c5e2c4c31f55",
+    "nome_original": "Nunchaku",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 344,
+    "ferramenta_id": "ferramenta_fb433cf73a049195",
+    "nome_original": "Sōshūga",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "ferramenta_id": "ferramenta_ba4eaec639075b70",
+    "nome_original": "Adamantine Staff (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome_original": "Chakra Blade (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "ferramenta_id": "ferramenta_d04b5cadc0adb92e",
+    "nome_original": "Shinobi Gauntlet",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 813,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 813,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 865,
+    "ferramenta_id": "ferramenta_d5498597fa0969ca",
+    "nome_original": "Flying Thunder God Kunai",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome_original": "Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "ferramenta_id": "ferramenta_f01bc9949e06138c",
+    "nome_original": "Flash Bomb (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "ferramenta_id": "ferramenta_8267a6317b8a8f26",
+    "nome_original": "Hidden Kunai Mechanism (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "ferramenta_id": "ferramenta_c838ed5bc5e8bde4",
+    "nome_original": "Jutsu Absorption Arm",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "ferramenta_id": "ferramenta_d04b5cadc0adb92e",
+    "nome_original": "Shinobi Gauntlet",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "ferramenta_id": "ferramenta_695edc21be76ba67",
+    "nome_original": "Military Rations Pill (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "ferramenta_id": "ferramenta_317c9f950207e027",
+    "nome_original": "Sword of Totsuka",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "ferramenta_id": "ferramenta_26e13047c598e685",
+    "nome_original": "Yata Mirror",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "ferramenta_id": "ferramenta_cafde34cc4641181",
+    "nome_original": "First Hokage's Necklace",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "ferramenta_id": "ferramenta_7522d0cfe10ee4be",
+    "nome_original": "Antidote",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "ferramenta_id": "ferramenta_adac59db1ba6916a",
+    "nome_original": "Mechanical Eight Trigrams Formation Drum (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "ferramenta_id": "ferramenta_a4a7392e7dd7f00b",
+    "nome_original": "Ninja Info Cards (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "ferramenta_id": "ferramenta_d5498597fa0969ca",
+    "nome_original": "Flying Thunder God Kunai",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "ferramenta_id": "ferramenta_695edc21be76ba67",
+    "nome_original": "Military Rations Pill (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "ferramenta_id": "ferramenta_b6485468b2659e7b",
+    "nome_original": "Tonfa (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "ferramenta_id": "ferramenta_9a129038d9a00aed",
+    "nome_original": "Weights",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "ferramenta_id": "ferramenta_36673ee9070048ce",
+    "nome_original": "Bashōsen",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "ferramenta_id": "ferramenta_668315890cd6e884",
+    "nome_original": "Benihisago",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "ferramenta_id": "ferramenta_088d7441159b0b9c",
+    "nome_original": "Kohaku no Jōhei",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "ferramenta_id": "ferramenta_4dbfecaef7baa87e",
+    "nome_original": "Kōkinjō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "ferramenta_id": "ferramenta_2440b07391c297ec",
+    "nome_original": "Secret Treasure of the Toads (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "ferramenta_id": "ferramenta_d9f69cb9344cb11f",
+    "nome_original": "Shakujō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "ferramenta_id": "ferramenta_b19d6ac8e0eca0b7",
+    "nome_original": "Shichiseiken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "ferramenta_id": "ferramenta_904cd276ecd139f4",
+    "nome_original": "Shuigu (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "ferramenta_id": "ferramenta_f230816dbc8f4918",
+    "nome_original": "Sword of Nunoboko",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "ferramenta_id": "ferramenta_f01bc9949e06138c",
+    "nome_original": "Flash Bomb (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "ferramenta_id": "ferramenta_c378642896508dc9",
+    "nome_original": "Smoke-Flash Bomb",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "ferramenta_id": "ferramenta_7522d0cfe10ee4be",
+    "nome_original": "Antidote",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "ferramenta_id": "ferramenta_c7f8652bb8a2904a",
+    "nome_original": "Konoha Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "ferramenta_id": "ferramenta_cd19745b4785d8f2",
+    "nome_original": "Lightning Barrel (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "ferramenta_id": "ferramenta_695edc21be76ba67",
+    "nome_original": "Military Rations Pill (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "ferramenta_id": "ferramenta_ba4eaec639075b70",
+    "nome_original": "Adamantine Staff",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "ferramenta_id": "ferramenta_56edaf4597bdd823",
+    "nome_original": "Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 636,
+    "ferramenta_id": "ferramenta_4bb0f54595d45686",
+    "nome_original": "Chakra Cannon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 636,
+    "ferramenta_id": "ferramenta_7228e5c20e1aed22",
+    "nome_original": "Samehada",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 636,
+    "ferramenta_id": "ferramenta_8f8c01981a68d73a",
+    "nome_original": "Supervibrato Lightning Release Swords",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 222,
+    "ferramenta_id": "ferramenta_3750a9c4915fcaa9",
+    "nome_original": "Altering Terrain Diagram Scroll",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "ferramenta_id": "ferramenta_cefdc89a0a5bc9f7",
+    "nome_original": "Sword of the Thunder God (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1100,
+    "ferramenta_id": "ferramenta_7c95613f01b17476",
+    "nome_original": "Iron Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1100,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand (Manga only)",
+    "observacoes": "Manga only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "ferramenta_id": "ferramenta_206dae97bf87a8d5",
+    "nome_original": "Sealing Tag (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_025412d3df803873",
+    "nome_original": "Axe (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_36673ee9070048ce",
+    "nome_original": "Bashōsen",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_668315890cd6e884",
+    "nome_original": "Benihisago",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_396215b9832a06b2",
+    "nome_original": "Bow & Arrow (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_78edf5975850104b",
+    "nome_original": "Chain Wind Staff (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome_original": "Chakra Blade (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_cc2585df74ecdb8b",
+    "nome_original": "Club",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_8fd4adeddac337d9",
+    "nome_original": "Crossbow (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_c5a98ae49e04fae5",
+    "nome_original": "Exploding Sphere",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_b334cddd1e794947",
+    "nome_original": "Flail",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_27e08e82ec49dbe2",
+    "nome_original": "Handheld Kunai Launcher (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_36c5364b7d155032",
+    "nome_original": "Injection Shot (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_a51ae5013446e7ef",
+    "nome_original": "Jidanda (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_89064c38d5797e2f",
+    "nome_original": "Jōhyō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome_original": "Kama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_4a91e8861c197f61",
+    "nome_original": "Katar",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_088d7441159b0b9c",
+    "nome_original": "Kohaku no Jōhei",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_4dbfecaef7baa87e",
+    "nome_original": "Kōkinjō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_d9d6950191be4aa4",
+    "nome_original": "Kusari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_1a9716fe25881f75",
+    "nome_original": "Kusarigama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_2cade07069b1f894",
+    "nome_original": "Metal Doll (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_9dc3c5e2c4c31f55",
+    "nome_original": "Nunchaku",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_4b02e0c6135a5924",
+    "nome_original": "Puppet (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_8f2cc936b1968c90",
+    "nome_original": "Spear (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_154117beb0807f96",
+    "nome_original": "Three-Section Staff",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_b6485468b2659e7b",
+    "nome_original": "Tonfa (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_eaeeef0170ecaecb",
+    "nome_original": "Whip",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "ferramenta_id": "ferramenta_742137df8b5185a0",
+    "nome_original": "Ōtsutsuki Clan Puppets",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "ferramenta_id": "ferramenta_cdd7561a01f2e1c2",
+    "nome_original": "Palace of the Dragon King",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "ferramenta_id": "ferramenta_f757c8801a5f174a",
+    "nome_original": "Sealing Arm Braces",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1335,
+    "ferramenta_id": "ferramenta_331392787b2b3fea",
+    "nome_original": "Bubble-Utilising Pipe",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "ferramenta_id": "ferramenta_695edc21be76ba67",
+    "nome_original": "Military Rations Pill",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "ferramenta_id": "ferramenta_b62b9472edecb271",
+    "nome_original": "Three Coloured Pills",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "ferramenta_id": "ferramenta_a3fd4eb7bec5dc77",
+    "nome_original": "Hyūga Clan Secret Ointment",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "ferramenta_id": "ferramenta_244b8aae0708a61d",
+    "nome_original": "Chakra Transmission Communication Device",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "ferramenta_id": "ferramenta_95ea96e11f6d84d8",
+    "nome_original": "Makibishi (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 193,
+    "ferramenta_id": "ferramenta_9ac114e8a466f7e3",
+    "nome_original": "Eye Scope",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 193,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 421,
+    "ferramenta_id": "ferramenta_7228e5c20e1aed22",
+    "nome_original": "Samehada",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 421,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 148,
+    "ferramenta_id": "ferramenta_7522d0cfe10ee4be",
+    "nome_original": "Antidote",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 148,
+    "ferramenta_id": "ferramenta_d10841688251d388",
+    "nome_original": "Chikamatsu Collection",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 148,
+    "ferramenta_id": "ferramenta_1e9ef4f2ffead2ca",
+    "nome_original": "Lion-Headed Kannon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 148,
+    "ferramenta_id": "ferramenta_711945d6598fb11f",
+    "nome_original": "Mother and Father",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 148,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 148,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 148,
+    "ferramenta_id": "ferramenta_eaeeef0170ecaecb",
+    "nome_original": "Whip",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 148,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 6,
+    "ferramenta_id": "ferramenta_4bb0f54595d45686",
+    "nome_original": "Chakra Cannon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 6,
+    "ferramenta_id": "ferramenta_e014808e7f3490ba",
+    "nome_original": "Vambraces",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "ferramenta_id": "ferramenta_695edc21be76ba67",
+    "nome_original": "Military Rations Pill",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1208,
+    "ferramenta_id": "ferramenta_4a1b37add045b731",
+    "nome_original": "Giant Folding Fan",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1208,
+    "ferramenta_id": "ferramenta_695edc21be76ba67",
+    "nome_original": "Military Rations Pill (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1208,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1208,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1400,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1400,
+    "ferramenta_id": "ferramenta_c278ec5a69c34aac",
+    "nome_original": "Jō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1400,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome_original": "Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "ferramenta_id": "ferramenta_f01bc9949e06138c",
+    "nome_original": "Flash Bomb",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 104,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 104,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_206bb9ab7c3f4eed",
+    "nome_original": "Flamethrower",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_e0e79a5540c3e2c7",
+    "nome_original": "Hiruko",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_0357ae47bc9a323d",
+    "nome_original": "Hundred Puppet Army",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_7c95613f01b17476",
+    "nome_original": "Iron Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome_original": "Kama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_0aba6acb8b1b6e4a",
+    "nome_original": "Karasu",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_4575d225423b894f",
+    "nome_original": "Third Kazekage",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_113f7668eeea5316",
+    "nome_original": "Komushi  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_439ce567f307b49f",
+    "nome_original": "Kuroari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_711945d6598fb11f",
+    "nome_original": "Mother and Father",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_7f70d3ec02533a26",
+    "nome_original": "Puppet Buzzsaw",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_3d6a8bd8b8c9d9d2",
+    "nome_original": "Sanshōuo",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_9e16fbdc9bdd9a47",
+    "nome_original": "Sasori",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "ferramenta_id": "ferramenta_37657f669aff58ea",
+    "nome_original": "Water Stream Shooters (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 29,
+    "ferramenta_id": "ferramenta_695edc21be76ba67",
+    "nome_original": "Military Rations Pill",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "ferramenta_id": "ferramenta_d9f69cb9344cb11f",
+    "nome_original": "Shakujō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "ferramenta_id": "ferramenta_742137df8b5185a0",
+    "nome_original": "Ōtsutsuki Clan Puppets",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1203,
+    "ferramenta_id": "ferramenta_9d1df66e154dae47",
+    "nome_original": "Demonic Flute",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1368,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "ferramenta_id": "ferramenta_206bb9ab7c3f4eed",
+    "nome_original": "Flamethrower (Manga only)",
+    "observacoes": "Manga only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "ferramenta_id": "ferramenta_0aba6acb8b1b6e4a",
+    "nome_original": "Karasu",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "ferramenta_id": "ferramenta_4a91e8861c197f61",
+    "nome_original": "Katar",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "ferramenta_id": "ferramenta_439ce567f307b49f",
+    "nome_original": "Kuroari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "ferramenta_id": "ferramenta_1a9716fe25881f75",
+    "nome_original": "Kusarigama (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "ferramenta_id": "ferramenta_711945d6598fb11f",
+    "nome_original": "Mother and Father (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "ferramenta_id": "ferramenta_3d6a8bd8b8c9d9d2",
+    "nome_original": "Sanshōuo",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "ferramenta_id": "ferramenta_9e16fbdc9bdd9a47",
+    "nome_original": "Sasori",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "ferramenta_id": "ferramenta_f01bc9949e06138c",
+    "nome_original": "Flash Bomb (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "ferramenta_id": "ferramenta_c7f8652bb8a2904a",
+    "nome_original": "Konoha Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 876,
+    "ferramenta_id": "ferramenta_4a1b37add045b731",
+    "nome_original": "Giant Folding Fan (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1346,
+    "ferramenta_id": "ferramenta_d04b5cadc0adb92e",
+    "nome_original": "Shinobi Gauntlet",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1346,
+    "ferramenta_id": "ferramenta_0ad2e037c2885749",
+    "nome_original": "Space-Time Gate",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 430,
+    "ferramenta_id": "ferramenta_8cccfa4517f71dad",
+    "nome_original": "Kubikiribōchō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 158,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 701,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 791,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 725,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 809,
+    "ferramenta_id": "ferramenta_4a91e8861c197f61",
+    "nome_original": "Katar (Manga only)",
+    "observacoes": "Manga only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 809,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 414,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 920,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 230,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 240,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 240,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 549,
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome_original": "Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 549,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 549,
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome_original": "Kama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 609,
+    "ferramenta_id": "ferramenta_b351332f6a90f518",
+    "nome_original": "Absorbing Hand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 609,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 609,
+    "ferramenta_id": "ferramenta_a9618d69c516dfe5",
+    "nome_original": "Microscopic Scientific Ninja Tools",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 609,
+    "ferramenta_id": "ferramenta_d04b5cadc0adb92e",
+    "nome_original": "Shinobi Gauntlet (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 609,
+    "ferramenta_id": "ferramenta_c378642896508dc9",
+    "nome_original": "Smoke-Flash Bomb (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 831,
+    "ferramenta_id": "ferramenta_8cccfa4517f71dad",
+    "nome_original": "Kubikiribōchō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 831,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō (Manga only)",
+    "observacoes": "Manga only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1127,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1143,
+    "ferramenta_id": "ferramenta_a2d077513ce12c74",
+    "nome_original": "Hero Water",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1367,
+    "ferramenta_id": "ferramenta_244b8aae0708a61d",
+    "nome_original": "Chakra Transmission Communication Device",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1367,
+    "ferramenta_id": "ferramenta_7424289d96610a27",
+    "nome_original": "Mind Reading Amplification Machine",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "ferramenta_id": "ferramenta_668315890cd6e884",
+    "nome_original": "Benihisago",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "ferramenta_id": "ferramenta_12ea7ae91348b1e4",
+    "nome_original": "Cleaver Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "ferramenta_id": "ferramenta_088d7441159b0b9c",
+    "nome_original": "Kohaku no Jōhei",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "ferramenta_id": "ferramenta_b19d6ac8e0eca0b7",
+    "nome_original": "Shichiseiken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1122,
+    "ferramenta_id": "ferramenta_7522d0cfe10ee4be",
+    "nome_original": "Antidote",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1122,
+    "ferramenta_id": "ferramenta_36c5364b7d155032",
+    "nome_original": "Injection Shot (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1122,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1122,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1122,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1122,
+    "ferramenta_id": "ferramenta_d7a2ff8f68763353",
+    "nome_original": "Wrist-Mounted Senbon Launcher",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 42,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 127,
+    "ferramenta_id": "ferramenta_4a1b37add045b731",
+    "nome_original": "Giant Folding Fan",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 422,
+    "ferramenta_id": "ferramenta_7228e5c20e1aed22",
+    "nome_original": "Samehada (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 422,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 684,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 723,
+    "ferramenta_id": "ferramenta_6a0a8acede6386e0",
+    "nome_original": "Kiba  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 723,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 724,
+    "ferramenta_id": "ferramenta_6a0a8acede6386e0",
+    "nome_original": "Kiba",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 765,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 936,
+    "ferramenta_id": "ferramenta_d9f69cb9344cb11f",
+    "nome_original": "Shakujō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 936,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1034,
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome_original": "Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1104,
+    "ferramenta_id": "ferramenta_f683740cded6680d",
+    "nome_original": "Bell",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 152,
+    "ferramenta_id": "ferramenta_cbe46d8fd9a2ac03",
+    "nome_original": "Hiramekarei",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 152,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 266,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 591,
+    "ferramenta_id": "ferramenta_cc2585df74ecdb8b",
+    "nome_original": "Club",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 622,
+    "ferramenta_id": "ferramenta_ef2df411023aaca6",
+    "nome_original": "Chakra Enhanced Triple-Bladed Claw",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 622,
+    "ferramenta_id": "ferramenta_d9d6950191be4aa4",
+    "nome_original": "Kusari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 622,
+    "ferramenta_id": "ferramenta_d9f69cb9344cb11f",
+    "nome_original": "Shakujō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 794,
+    "ferramenta_id": "ferramenta_244b8aae0708a61d",
+    "nome_original": "Chakra Transmission Communication Device (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 794,
+    "ferramenta_id": "ferramenta_886574b7639867fc",
+    "nome_original": "Kurosawa",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 794,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 818,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 818,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 860,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1038,
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome_original": "Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1038,
+    "ferramenta_id": "ferramenta_695edc21be76ba67",
+    "nome_original": "Military Rations Pill (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1310,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1426,
+    "ferramenta_id": "ferramenta_7228e5c20e1aed22",
+    "nome_original": "Samehada",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1279,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1279,
+    "ferramenta_id": "ferramenta_abeffdaafecde2cb",
+    "nome_original": "Tailed Beast Drug",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 5,
+    "ferramenta_id": "ferramenta_088d7441159b0b9c",
+    "nome_original": "Kohaku no Jōhei",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 15,
+    "ferramenta_id": "ferramenta_7522d0cfe10ee4be",
+    "nome_original": "Antidote",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 15,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 15,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 72,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 124,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 224,
+    "ferramenta_id": "ferramenta_3750a9c4915fcaa9",
+    "nome_original": "Altering Terrain Diagram Scroll",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 224,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 261,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 363,
+    "ferramenta_id": "ferramenta_71b67ecb18a3d669",
+    "nome_original": "Steam Armour",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 356,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 568,
+    "ferramenta_id": "ferramenta_f01bc9949e06138c",
+    "nome_original": "Flash Bomb (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 568,
+    "ferramenta_id": "ferramenta_904f2bcb12a451bf",
+    "nome_original": "Lightning Release Suit (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 568,
+    "ferramenta_id": "ferramenta_c378642896508dc9",
+    "nome_original": "Smoke-Flash Bomb (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 719,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 718,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 844,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 845,
+    "ferramenta_id": "ferramenta_8fd4adeddac337d9",
+    "nome_original": "Crossbow (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 845,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 847,
+    "ferramenta_id": "ferramenta_ab0fda388829e815",
+    "nome_original": "Box of Ultimate Bliss",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 939,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 975,
+    "ferramenta_id": "ferramenta_6a0a8acede6386e0",
+    "nome_original": "Kiba",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1082,
+    "ferramenta_id": "ferramenta_a2d077513ce12c74",
+    "nome_original": "Hero Water",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1135,
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome_original": "Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1135,
+    "ferramenta_id": "ferramenta_ef2df411023aaca6",
+    "nome_original": "Chakra Enhanced Triple-Bladed Claw",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1337,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 80,
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome_original": "Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 80,
+    "ferramenta_id": "ferramenta_c838ed5bc5e8bde4",
+    "nome_original": "Jutsu Absorption Arm",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 80,
+    "ferramenta_id": "ferramenta_66d525be231aee63",
+    "nome_original": "Mirror Drone",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 80,
+    "ferramenta_id": "ferramenta_d04b5cadc0adb92e",
+    "nome_original": "Shinobi Gauntlet",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 62,
+    "ferramenta_id": "ferramenta_e92b49d54a125f49",
+    "nome_original": "Scalpel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 55,
+    "ferramenta_id": "ferramenta_e92b49d54a125f49",
+    "nome_original": "Scalpel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 125,
+    "ferramenta_id": "ferramenta_6de253948e8df09d",
+    "nome_original": "Dark Cloud",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 125,
+    "ferramenta_id": "ferramenta_0ad2e037c2885749",
+    "nome_original": "Space-Time Gate",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 143,
+    "ferramenta_id": "ferramenta_d10841688251d388",
+    "nome_original": "Chikamatsu Collection",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 143,
+    "ferramenta_id": "ferramenta_1e9ef4f2ffead2ca",
+    "nome_original": "Lion-Headed Kannon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 159,
+    "ferramenta_id": "ferramenta_a9618d69c516dfe5",
+    "nome_original": "Microscopic Scientific Ninja Tools (Manga only)",
+    "observacoes": "Manga only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 159,
+    "ferramenta_id": "ferramenta_0ad2e037c2885749",
+    "nome_original": "Space-Time Gate",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 293,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 293,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 328,
+    "ferramenta_id": "ferramenta_a8071a8bbbfdcab0",
+    "nome_original": "Blowpipe (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 328,
+    "ferramenta_id": "ferramenta_36c5364b7d155032",
+    "nome_original": "Injection Shot (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 368,
+    "ferramenta_id": "ferramenta_7522d0cfe10ee4be",
+    "nome_original": "Antidote",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 368,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 368,
+    "ferramenta_id": "ferramenta_1a9716fe25881f75",
+    "nome_original": "Kusarigama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 368,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 413,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 668,
+    "ferramenta_id": "ferramenta_072a626ed2d6cc7d",
+    "nome_original": "Shield (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 704,
+    "ferramenta_id": "ferramenta_8b283b91166aae41",
+    "nome_original": "Weaknessless Soaring Shortswords",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 909,
+    "ferramenta_id": "ferramenta_8d8ea317f02f063f",
+    "nome_original": "Slime Suit",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 938,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 967,
+    "ferramenta_id": "ferramenta_052f48e4164ab85c",
+    "nome_original": "Gold Dust",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1048,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1115,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1197,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1274,
+    "ferramenta_id": "ferramenta_c662f6c75a3acf30",
+    "nome_original": "New Moon Flower Perfume",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1274,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1364,
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome_original": "Kama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1364,
+    "ferramenta_id": "ferramenta_bed6dc961bd714d0",
+    "nome_original": "Kuwa",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1364,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 835,
+    "ferramenta_id": "ferramenta_a8071a8bbbfdcab0",
+    "nome_original": "Blowpipe (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 835,
+    "ferramenta_id": "ferramenta_ccdca2a6d55620dc",
+    "nome_original": "Concealed Mouth Ember (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 835,
+    "ferramenta_id": "ferramenta_4a91e8861c197f61",
+    "nome_original": "Katar (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 46,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 57,
+    "ferramenta_id": "ferramenta_ef2df411023aaca6",
+    "nome_original": "Chakra Enhanced Triple-Bladed Claw",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 58,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 73,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 146,
+    "ferramenta_id": "ferramenta_8f2cc936b1968c90",
+    "nome_original": "Spear (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 247,
+    "ferramenta_id": "ferramenta_4bb0f54595d45686",
+    "nome_original": "Chakra Cannon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 267,
+    "ferramenta_id": "ferramenta_2440b07391c297ec",
+    "nome_original": "Secret Treasure of the Toads (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 297,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 302,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 348,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 348,
+    "ferramenta_id": "ferramenta_5133e4a896f3bac7",
+    "nome_original": "Conch Shell Mace",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 348,
+    "ferramenta_id": "ferramenta_4593799c8d0e457b",
+    "nome_original": "Kunai Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 348,
+    "ferramenta_id": "ferramenta_d9d6950191be4aa4",
+    "nome_original": "Kusari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 408,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "ferramenta_id": "ferramenta_cbe46d8fd9a2ac03",
+    "nome_original": "Hiramekarei",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "ferramenta_id": "ferramenta_e40ad2a7a2359736",
+    "nome_original": "Kabutowari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "ferramenta_id": "ferramenta_6a0a8acede6386e0",
+    "nome_original": "Kiba",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "ferramenta_id": "ferramenta_8cccfa4517f71dad",
+    "nome_original": "Kubikiribōchō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "ferramenta_id": "ferramenta_0868bd47885f4eb8",
+    "nome_original": "Nuibari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "ferramenta_id": "ferramenta_7228e5c20e1aed22",
+    "nome_original": "Samehada",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "ferramenta_id": "ferramenta_d7a0986ac5577ef6",
+    "nome_original": "Shibuki",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 468,
+    "ferramenta_id": "ferramenta_f01bc9949e06138c",
+    "nome_original": "Flash Bomb",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 463,
+    "ferramenta_id": "ferramenta_d04b5cadc0adb92e",
+    "nome_original": "Shinobi Gauntlet (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 509,
+    "ferramenta_id": "ferramenta_1a9716fe25881f75",
+    "nome_original": "Kusarigama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 537,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 571,
+    "ferramenta_id": "ferramenta_4593799c8d0e457b",
+    "nome_original": "Kunai Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 571,
+    "ferramenta_id": "ferramenta_d9d6950191be4aa4",
+    "nome_original": "Kusari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 621,
+    "ferramenta_id": "ferramenta_7c95613f01b17476",
+    "nome_original": "Iron Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 674,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 716,
+    "ferramenta_id": "ferramenta_0868bd47885f4eb8",
+    "nome_original": "Nuibari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 716,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 716,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 754,
+    "ferramenta_id": "ferramenta_c28666b412893856",
+    "nome_original": "Binding Cloth",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 754,
+    "ferramenta_id": "ferramenta_206dae97bf87a8d5",
+    "nome_original": "Sealing Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 780,
+    "ferramenta_id": "ferramenta_32a6c866b8261c05",
+    "nome_original": "Ocarina",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 834,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 852,
+    "ferramenta_id": "ferramenta_ab0fda388829e815",
+    "nome_original": "Box of Ultimate Bliss",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 965,
+    "ferramenta_id": "ferramenta_40fe4fa303c1379e",
+    "nome_original": "Stone of Gelel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 979,
+    "ferramenta_id": "ferramenta_987ddaf0e6f58d40",
+    "nome_original": "Chakra Armour",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 979,
+    "ferramenta_id": "ferramenta_b442eb33f6d48814",
+    "nome_original": "Chakra Disruption Device",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 984,
+    "ferramenta_id": "ferramenta_b6485468b2659e7b",
+    "nome_original": "Tonfa",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1022,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1052,
+    "ferramenta_id": "ferramenta_d55eb45c5687801f",
+    "nome_original": "Fire Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1052,
+    "ferramenta_id": "ferramenta_0d6c31d96c0d6b98",
+    "nome_original": "Garian Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1052,
+    "ferramenta_id": "ferramenta_19f9e58dd1fd8646",
+    "nome_original": "Infinite Armour",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1052,
+    "ferramenta_id": "ferramenta_8b283b91166aae41",
+    "nome_original": "Weaknessless Soaring Shortswords",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1145,
+    "ferramenta_id": "ferramenta_7228e5c20e1aed22",
+    "nome_original": "Samehada",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1147,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1147,
+    "ferramenta_id": "ferramenta_2974744982f08b20",
+    "nome_original": "Umbrella",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1214,
+    "ferramenta_id": "ferramenta_d9f69cb9344cb11f",
+    "nome_original": "Shakujō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1260,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 90,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 90,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 131,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 122,
+    "ferramenta_id": "ferramenta_8cccfa4517f71dad",
+    "nome_original": "Kubikiribōchō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 198,
+    "ferramenta_id": "ferramenta_27feed9c395bc97a",
+    "nome_original": "Ama no Hoko",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 198,
+    "ferramenta_id": "ferramenta_c0e1981510f4b789",
+    "nome_original": "Saezuri",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 244,
+    "ferramenta_id": "ferramenta_25bc02167277d0ac",
+    "nome_original": "Marlin Harpoon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 246,
+    "ferramenta_id": "ferramenta_9be54a1e535b16c1",
+    "nome_original": "Ray Bow",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 246,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 257,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 257,
+    "ferramenta_id": "ferramenta_2974744982f08b20",
+    "nome_original": "Umbrella",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 258,
+    "ferramenta_id": "ferramenta_987ddaf0e6f58d40",
+    "nome_original": "Chakra Armour",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 258,
+    "ferramenta_id": "ferramenta_e234e59939d43a6c",
+    "nome_original": "Retractable Cable Arm",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 258,
+    "ferramenta_id": "ferramenta_5bcb80d0681d6b5e",
+    "nome_original": "Snowboard",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 335,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 347,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 347,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 351,
+    "ferramenta_id": "ferramenta_b2490d04bc0c9144",
+    "nome_original": "Book of Gelel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 351,
+    "ferramenta_id": "ferramenta_40fe4fa303c1379e",
+    "nome_original": "Stone of Gelel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 375,
+    "ferramenta_id": "ferramenta_331392787b2b3fea",
+    "nome_original": "Bubble-Utilising Pipe",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 409,
+    "ferramenta_id": "ferramenta_a2d077513ce12c74",
+    "nome_original": "Hero Water",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 405,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 415,
+    "ferramenta_id": "ferramenta_d55eb45c5687801f",
+    "nome_original": "Fire Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 415,
+    "ferramenta_id": "ferramenta_0d6c31d96c0d6b98",
+    "nome_original": "Garian Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 415,
+    "ferramenta_id": "ferramenta_19f9e58dd1fd8646",
+    "nome_original": "Infinite Armour",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 415,
+    "ferramenta_id": "ferramenta_8b283b91166aae41",
+    "nome_original": "Weaknessless Soaring Shortswords",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 448,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 488,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 555,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 557,
+    "ferramenta_id": "ferramenta_987ddaf0e6f58d40",
+    "nome_original": "Chakra Armour",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 557,
+    "ferramenta_id": "ferramenta_cfaf6789ebe784e8",
+    "nome_original": "Ice Bomb",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 552,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 570,
+    "ferramenta_id": "ferramenta_40fe4fa303c1379e",
+    "nome_original": "Stone of Gelel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 590,
+    "ferramenta_id": "ferramenta_cbe46d8fd9a2ac03",
+    "nome_original": "Hiramekarei (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 590,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 615,
+    "ferramenta_id": "ferramenta_987ddaf0e6f58d40",
+    "nome_original": "Chakra Armour",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 615,
+    "ferramenta_id": "ferramenta_f402811bcd7d5894",
+    "nome_original": "Hexagonal Crystal",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 615,
+    "ferramenta_id": "ferramenta_e509846eb71e3630",
+    "nome_original": "Mechanical Kunai Thrower",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 629,
+    "ferramenta_id": "ferramenta_b1109c2ff556431e",
+    "nome_original": "Wrist Launcher",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 651,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 744,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 753,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 758,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 766,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 781,
+    "ferramenta_id": "ferramenta_eeaada79fb446ce4",
+    "nome_original": "Barrier Puppets",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 781,
+    "ferramenta_id": "ferramenta_e639f9bca3a7f7be",
+    "nome_original": "Insect Queen Bee Drone Puppet",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 853,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 853,
+    "ferramenta_id": "ferramenta_d7a0986ac5577ef6",
+    "nome_original": "Shibuki",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 916,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 907,
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome_original": "Chakra Blade (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 977,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 981,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 981,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 981,
+    "ferramenta_id": "ferramenta_cefdc89a0a5bc9f7",
+    "nome_original": "Sword of the Thunder God",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 981,
+    "ferramenta_id": "ferramenta_2974744982f08b20",
+    "nome_original": "Umbrella",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1050,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1158,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1158,
+    "ferramenta_id": "ferramenta_14913486bee8f56d",
+    "nome_original": "Water-Firing Puppets",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1210,
+    "ferramenta_id": "ferramenta_4e61438bcd2ac387",
+    "nome_original": "Knight Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1210,
+    "ferramenta_id": "ferramenta_8d90f812c7ad4a40",
+    "nome_original": "Retractable Shield",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1210,
+    "ferramenta_id": "ferramenta_34b9b9fcf88b9566",
+    "nome_original": "Space–Time Hole",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1210,
+    "ferramenta_id": "ferramenta_40fe4fa303c1379e",
+    "nome_original": "Stone of Gelel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1255,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1255,
+    "ferramenta_id": "ferramenta_56edaf4597bdd823",
+    "nome_original": "Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1265,
+    "ferramenta_id": "ferramenta_f683740cded6680d",
+    "nome_original": "Bell",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1265,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1265,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1296,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1330,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1356,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1389,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 752,
+    "ferramenta_id": "ferramenta_7522d0cfe10ee4be",
+    "nome_original": "Antidote",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 752,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 752,
+    "ferramenta_id": "ferramenta_abeffdaafecde2cb",
+    "nome_original": "Tailed Beast Drug",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 958,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1084,
+    "ferramenta_id": "ferramenta_052f48e4164ab85c",
+    "nome_original": "Gold Dust",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 596,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 774,
+    "ferramenta_id": "ferramenta_89064c38d5797e2f",
+    "nome_original": "Jōhyō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 28,
+    "ferramenta_id": "ferramenta_a2597040339596ea",
+    "nome_original": "Meteorite",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 36,
+    "ferramenta_id": "ferramenta_e40ad2a7a2359736",
+    "nome_original": "Kabutowari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 43,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 45,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 47,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō (Manga only)",
+    "observacoes": "Manga only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 47,
+    "ferramenta_id": "ferramenta_072a626ed2d6cc7d",
+    "nome_original": "Shield (Manga only)",
+    "observacoes": "Manga only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 71,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 88,
+    "ferramenta_id": "ferramenta_3d6a8bd8b8c9d9d2",
+    "nome_original": "Sanshōuo (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 88,
+    "ferramenta_id": "ferramenta_8f2cc936b1968c90",
+    "nome_original": "Spear (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 88,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 100,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 156,
+    "ferramenta_id": "ferramenta_e2d67a40068a8bf3",
+    "nome_original": "Prayer Beads",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 166,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 191,
+    "ferramenta_id": "ferramenta_f01bc9949e06138c",
+    "nome_original": "Flash Bomb",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 194,
+    "ferramenta_id": "ferramenta_99c584cec2b2cb9d",
+    "nome_original": "Absorbing Eye",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 194,
+    "ferramenta_id": "ferramenta_a9618d69c516dfe5",
+    "nome_original": "Microscopic Scientific Ninja Tools",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 194,
+    "ferramenta_id": "ferramenta_0ad2e037c2885749",
+    "nome_original": "Space-Time Gate",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 194,
+    "ferramenta_id": "ferramenta_9da2c4b7dad5e7b4",
+    "nome_original": "Spy Drone",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 203,
+    "ferramenta_id": "ferramenta_7424289d96610a27",
+    "nome_original": "Mind Reading Amplification Machine",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 225,
+    "ferramenta_id": "ferramenta_40fe4fa303c1379e",
+    "nome_original": "Stone of Gelel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 226,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 226,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 242,
+    "ferramenta_id": "ferramenta_4bb0f54595d45686",
+    "nome_original": "Chakra Cannon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 242,
+    "ferramenta_id": "ferramenta_25bc02167277d0ac",
+    "nome_original": "Marlin Harpoon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 242,
+    "ferramenta_id": "ferramenta_8f2cc936b1968c90",
+    "nome_original": "Spear",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 265,
+    "ferramenta_id": "ferramenta_3e8d211318719501",
+    "nome_original": "Sasumata",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 265,
+    "ferramenta_id": "ferramenta_072a626ed2d6cc7d",
+    "nome_original": "Shield",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 273,
+    "ferramenta_id": "ferramenta_eeaada79fb446ce4",
+    "nome_original": "Barrier Puppets",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 273,
+    "ferramenta_id": "ferramenta_f491e649a6a071b8",
+    "nome_original": "Elemental Puppets",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 292,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 331,
+    "ferramenta_id": "ferramenta_8f2cc936b1968c90",
+    "nome_original": "Spear",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 331,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 336,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 338,
+    "ferramenta_id": "ferramenta_d9d6950191be4aa4",
+    "nome_original": "Kusari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 338,
+    "ferramenta_id": "ferramenta_2dd534e0cd81721b",
+    "nome_original": "Metal Gauntlets",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 338,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 365,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 377,
+    "ferramenta_id": "ferramenta_8733790dbab3ade1",
+    "nome_original": "White Light Chakra Sabre",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 382,
+    "ferramenta_id": "ferramenta_0868bd47885f4eb8",
+    "nome_original": "Nuibari (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 382,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 383,
+    "ferramenta_id": "ferramenta_e560e144590d6c94",
+    "nome_original": "Smoke Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 388,
+    "ferramenta_id": "ferramenta_bbf3c0c0c16c0f98",
+    "nome_original": "Retractable Spear",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 388,
+    "ferramenta_id": "ferramenta_2d7a97028c0ff102",
+    "nome_original": "Triple-Bladed Scythe",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 391,
+    "ferramenta_id": "ferramenta_7424289d96610a27",
+    "nome_original": "Mind Reading Amplification Machine",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 401,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 417,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 432,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 449,
+    "ferramenta_id": "ferramenta_3d5756f7d12fc561",
+    "nome_original": "Lizard Puppet",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 449,
+    "ferramenta_id": "ferramenta_280ed47f47e6935b",
+    "nome_original": "Spirit Orbs",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 469,
+    "ferramenta_id": "ferramenta_68eb1f723316c76a",
+    "nome_original": "Dakō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 469,
+    "ferramenta_id": "ferramenta_a51ae5013446e7ef",
+    "nome_original": "Jidanda",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 469,
+    "ferramenta_id": "ferramenta_7240a4ff61bfe91c",
+    "nome_original": "Tsurukame",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 470,
+    "ferramenta_id": "ferramenta_206dae97bf87a8d5",
+    "nome_original": "Sealing Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 491,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 592,
+    "ferramenta_id": "ferramenta_19033a872cc1e0da",
+    "nome_original": "Odourless Poison Mist",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 641,
+    "ferramenta_id": "ferramenta_36673ee9070048ce",
+    "nome_original": "Bashōsen",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 641,
+    "ferramenta_id": "ferramenta_088d7441159b0b9c",
+    "nome_original": "Kohaku no Jōhei",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 641,
+    "ferramenta_id": "ferramenta_4dbfecaef7baa87e",
+    "nome_original": "Kōkinjō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 641,
+    "ferramenta_id": "ferramenta_b19d6ac8e0eca0b7",
+    "nome_original": "Shichiseiken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 644,
+    "ferramenta_id": "ferramenta_fbe33c13fa558705",
+    "nome_original": "Resonating Echo Speaker",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 655,
+    "ferramenta_id": "ferramenta_e40ad2a7a2359736",
+    "nome_original": "Kabutowari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 665,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 692,
+    "ferramenta_id": "ferramenta_14913486bee8f56d",
+    "nome_original": "Water-Firing Puppets",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 699,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 702,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 732,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 732,
+    "ferramenta_id": "ferramenta_7240a4ff61bfe91c",
+    "nome_original": "Tsurukame",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 736,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 779,
+    "ferramenta_id": "ferramenta_d9d6950191be4aa4",
+    "nome_original": "Kusari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 779,
+    "ferramenta_id": "ferramenta_2dd534e0cd81721b",
+    "nome_original": "Metal Gauntlets",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 779,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 806,
+    "ferramenta_id": "ferramenta_f683740cded6680d",
+    "nome_original": "Bell",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 841,
+    "ferramenta_id": "ferramenta_7424289d96610a27",
+    "nome_original": "Mind Reading Amplification Machine (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 863,
+    "ferramenta_id": "ferramenta_1e0bd0ffa17de982",
+    "nome_original": "Kokutō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 863,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 905,
+    "ferramenta_id": "ferramenta_c28666b412893856",
+    "nome_original": "Binding Cloth",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 905,
+    "ferramenta_id": "ferramenta_206dae97bf87a8d5",
+    "nome_original": "Sealing Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 970,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 992,
+    "ferramenta_id": "ferramenta_0d6c31d96c0d6b98",
+    "nome_original": "Garian Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 998,
+    "ferramenta_id": "ferramenta_b31e6cc0546ee3cc",
+    "nome_original": "Double-Bladed Scythe (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 998,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 998,
+    "ferramenta_id": "ferramenta_bbf3c0c0c16c0f98",
+    "nome_original": "Retractable Spear",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1000,
+    "ferramenta_id": "ferramenta_025412d3df803873",
+    "nome_original": "Axe",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1012,
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome_original": "Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1027,
+    "ferramenta_id": "ferramenta_0ad2e037c2885749",
+    "nome_original": "Space-Time Gate",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1028,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1029,
+    "ferramenta_id": "ferramenta_c7f8652bb8a2904a",
+    "nome_original": "Konoha Chakra Blade",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1049,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1059,
+    "ferramenta_id": "ferramenta_a9940e2f3ccc956c",
+    "nome_original": "Tessen",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1068,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1069,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1070,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1077,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1085,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1085,
+    "ferramenta_id": "ferramenta_2974744982f08b20",
+    "nome_original": "Umbrella",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1087,
+    "ferramenta_id": "ferramenta_9d1df66e154dae47",
+    "nome_original": "Demonic Flute",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1094,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1094,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1098,
+    "ferramenta_id": "ferramenta_a6090076aaeb4b93",
+    "nome_original": "Demon Shinki",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1101,
+    "ferramenta_id": "ferramenta_e92b49d54a125f49",
+    "nome_original": "Scalpel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1101,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1108,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1110,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1129,
+    "ferramenta_id": "ferramenta_206bb9ab7c3f4eed",
+    "nome_original": "Flamethrower",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1129,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1129,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1129,
+    "ferramenta_id": "ferramenta_2974744982f08b20",
+    "nome_original": "Umbrella",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1129,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1154,
+    "ferramenta_id": "ferramenta_8fd4adeddac337d9",
+    "nome_original": "Crossbow",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1205,
+    "ferramenta_id": "ferramenta_2e61cf99ec7820b5",
+    "nome_original": "Double Bladed Bracers",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1232,
+    "ferramenta_id": "ferramenta_7424289d96610a27",
+    "nome_original": "Mind Reading Amplification Machine",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1240,
+    "ferramenta_id": "ferramenta_425efe7f17f8c61e",
+    "nome_original": "Mechanical Drilling Arm",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1242,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1270,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1282,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1288,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1301,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1302,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1305,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1338,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1350,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1362,
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome_original": "Kama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1375,
+    "ferramenta_id": "ferramenta_14913486bee8f56d",
+    "nome_original": "Water-Firing Puppets",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1387,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1396,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1401,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1413,
+    "ferramenta_id": "ferramenta_8f8c01981a68d73a",
+    "nome_original": "Supervibrato Lightning Release Swords",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1428,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 12,
+    "ferramenta_id": "ferramenta_7522d0cfe10ee4be",
+    "nome_original": "Antidote",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 12,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 286,
+    "ferramenta_id": "ferramenta_cc2585df74ecdb8b",
+    "nome_original": "Club",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 548,
+    "ferramenta_id": "ferramenta_7c95613f01b17476",
+    "nome_original": "Iron Sand",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 56,
+    "ferramenta_id": "ferramenta_4a91e8861c197f61",
+    "nome_original": "Katar",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 78,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 458,
+    "ferramenta_id": "ferramenta_8fd4adeddac337d9",
+    "nome_original": "Crossbow",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 602,
+    "ferramenta_id": "ferramenta_70e7990c57a8cb72",
+    "nome_original": "Curse Mask",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 49,
+    "ferramenta_id": "ferramenta_8f2cc936b1968c90",
+    "nome_original": "Spear",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 49,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 60,
+    "ferramenta_id": "ferramenta_e92b49d54a125f49",
+    "nome_original": "Scalpel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 70,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 74,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 75,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 76,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 96,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 105,
+    "ferramenta_id": "ferramenta_2974744982f08b20",
+    "nome_original": "Umbrella",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 114,
+    "ferramenta_id": "ferramenta_cc2585df74ecdb8b",
+    "nome_original": "Club",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 132,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 150,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 201,
+    "ferramenta_id": "ferramenta_cc2585df74ecdb8b",
+    "nome_original": "Club",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 202,
+    "ferramenta_id": "ferramenta_27feed9c395bc97a",
+    "nome_original": "Ama no Hoko",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 202,
+    "ferramenta_id": "ferramenta_c0e1981510f4b789",
+    "nome_original": "Saezuri",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 223,
+    "ferramenta_id": "ferramenta_e40ad2a7a2359736",
+    "nome_original": "Kabutowari (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 223,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 239,
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome_original": "Fūma Shuriken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 239,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 241,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 251,
+    "ferramenta_id": "ferramenta_d9d6950191be4aa4",
+    "nome_original": "Kusari",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 264,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 272,
+    "ferramenta_id": "ferramenta_68eb1f723316c76a",
+    "nome_original": "Dakō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 276,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 280,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 283,
+    "ferramenta_id": "ferramenta_d04b5cadc0adb92e",
+    "nome_original": "Shinobi Gauntlet",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 287,
+    "ferramenta_id": "ferramenta_94a8981e9139830b",
+    "nome_original": "Explosive Tag Ball",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 287,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 290,
+    "ferramenta_id": "ferramenta_cc2585df74ecdb8b",
+    "nome_original": "Club",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 291,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 326,
+    "ferramenta_id": "ferramenta_668315890cd6e884",
+    "nome_original": "Benihisago",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 326,
+    "ferramenta_id": "ferramenta_088d7441159b0b9c",
+    "nome_original": "Kohaku no Jōhei",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 326,
+    "ferramenta_id": "ferramenta_4dbfecaef7baa87e",
+    "nome_original": "Kōkinjō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 326,
+    "ferramenta_id": "ferramenta_b19d6ac8e0eca0b7",
+    "nome_original": "Shichiseiken",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 367,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 387,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 399,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 399,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 402,
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome_original": "Bō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 402,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 411,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 453,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 455,
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome_original": "Kama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 457,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 478,
+    "ferramenta_id": "ferramenta_19033a872cc1e0da",
+    "nome_original": "Odourless Poison Mist",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 519,
+    "ferramenta_id": "ferramenta_d9f69cb9344cb11f",
+    "nome_original": "Shakujō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 528,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 563,
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome_original": "Kama (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 563,
+    "ferramenta_id": "ferramenta_1a9716fe25881f75",
+    "nome_original": "Kusarigama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 565,
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome_original": "Kama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 566,
+    "ferramenta_id": "ferramenta_4590ddd6d5abd981",
+    "nome_original": "Scissor Pincers",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 575,
+    "ferramenta_id": "ferramenta_8fd4adeddac337d9",
+    "nome_original": "Crossbow",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 575,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 575,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 575,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 581,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 582,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 604,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 616,
+    "ferramenta_id": "ferramenta_f402811bcd7d5894",
+    "nome_original": "Hexagonal Crystal",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 616,
+    "ferramenta_id": "ferramenta_aa8ed98116ec224b",
+    "nome_original": "Pepper Balloon Earrings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 617,
+    "ferramenta_id": "ferramenta_f402811bcd7d5894",
+    "nome_original": "Hexagonal Crystal",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 642,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 648,
+    "ferramenta_id": "ferramenta_e92b49d54a125f49",
+    "nome_original": "Scalpel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 656,
+    "ferramenta_id": "ferramenta_a8071a8bbbfdcab0",
+    "nome_original": "Blowpipe",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 656,
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome_original": "Senbon",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 658,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 673,
+    "ferramenta_id": "ferramenta_b6485468b2659e7b",
+    "nome_original": "Tonfa",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 677,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 686,
+    "ferramenta_id": "ferramenta_19033a872cc1e0da",
+    "nome_original": "Odourless Poison Mist",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 695,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 703,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 731,
+    "ferramenta_id": "ferramenta_e92b49d54a125f49",
+    "nome_original": "Scalpel (Movie only)",
+    "observacoes": "Movie only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 747,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 759,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 767,
+    "ferramenta_id": "ferramenta_8fd4adeddac337d9",
+    "nome_original": "Crossbow",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 787,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 790,
+    "ferramenta_id": "ferramenta_2974744982f08b20",
+    "nome_original": "Umbrella",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 801,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 808,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 819,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 820,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 828,
+    "ferramenta_id": "ferramenta_cdad7f971215a968",
+    "nome_original": "Cursed Seal Device",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 836,
+    "ferramenta_id": "ferramenta_9a129038d9a00aed",
+    "nome_original": "Weights",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 858,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 867,
+    "ferramenta_id": "ferramenta_8fd4adeddac337d9",
+    "nome_original": "Crossbow",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 869,
+    "ferramenta_id": "ferramenta_904cd276ecd139f4",
+    "nome_original": "Shuigu (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 894,
+    "ferramenta_id": "ferramenta_40fe4fa303c1379e",
+    "nome_original": "Stone of Gelel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 910,
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome_original": "Wire Strings",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 924,
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome_original": "Explosive Tag (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 924,
+    "ferramenta_id": "ferramenta_d7a0986ac5577ef6",
+    "nome_original": "Shibuki  (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 924,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 926,
+    "ferramenta_id": "ferramenta_8cccfa4517f71dad",
+    "nome_original": "Kubikiribōchō (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 926,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 957,
+    "ferramenta_id": "ferramenta_904cd276ecd139f4",
+    "nome_original": "Shuigu (Novel only)",
+    "observacoes": "Novel only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 963,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1019,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1040,
+    "ferramenta_id": "ferramenta_95ea96e11f6d84d8",
+    "nome_original": "Makibishi",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1040,
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome_original": "Poison",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1041,
+    "ferramenta_id": "ferramenta_cdad7f971215a968",
+    "nome_original": "Cursed Seal Device",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1062,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1062,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1071,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1099,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1114,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1130,
+    "ferramenta_id": "ferramenta_02b7351134462c3e",
+    "nome_original": "Winged Mechanical Device",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1146,
+    "ferramenta_id": "ferramenta_b334cddd1e794947",
+    "nome_original": "Flail",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1146,
+    "ferramenta_id": "ferramenta_19f9e58dd1fd8646",
+    "nome_original": "Infinite Armour",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1152,
+    "ferramenta_id": "ferramenta_e92b49d54a125f49",
+    "nome_original": "Scalpel",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1153,
+    "ferramenta_id": "ferramenta_814272d46fe1f4e3",
+    "nome_original": "Chilli Pepper Bomb",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1153,
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome_original": "Kama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1186,
+    "ferramenta_id": "ferramenta_244b8aae0708a61d",
+    "nome_original": "Chakra Transmission Communication Device",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1187,
+    "ferramenta_id": "ferramenta_814272d46fe1f4e3",
+    "nome_original": "Chilli Pepper Bomb",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1187,
+    "ferramenta_id": "ferramenta_8a4372f10d707941",
+    "nome_original": "Slingshot",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1213,
+    "ferramenta_id": "ferramenta_396215b9832a06b2",
+    "nome_original": "Bow & Arrow",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1233,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1239,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1246,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1248,
+    "ferramenta_id": "ferramenta_c838ed5bc5e8bde4",
+    "nome_original": "Jutsu Absorption Arm",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1248,
+    "ferramenta_id": "ferramenta_d04b5cadc0adb92e",
+    "nome_original": "Shinobi Gauntlet",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1257,
+    "ferramenta_id": "ferramenta_cdad7f971215a968",
+    "nome_original": "Cursed Seal Device",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1268,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1269,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1285,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1286,
+    "ferramenta_id": "ferramenta_6de253948e8df09d",
+    "nome_original": "Dark Cloud",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1287,
+    "ferramenta_id": "ferramenta_8500a6cb846603de",
+    "nome_original": "Moulding Mushroom",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1292,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword (Anime only)",
+    "observacoes": "Anime only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1308,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1311,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1312,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1322,
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome_original": "Kama",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1331,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1357,
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome_original": "Tantō (Manga only)",
+    "observacoes": "Manga only",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1379,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1398,
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome_original": "Sword",
+    "observacoes": null,
+    "fonte": "Dattebayo"
+  }
+]

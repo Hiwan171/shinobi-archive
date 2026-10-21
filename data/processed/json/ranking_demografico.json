@@ -1,0 +1,1082 @@
+[
+  {
+    "narutop99_id": 330,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 1,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "60+",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 2,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 2,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 2,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "60+",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 3,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 3,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 3,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 3,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 3,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "60+",
+    "posicao": 3,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 67,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 4,
+    "personagem_id": 1310,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 67,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 4,
+    "personagem_id": 1310,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 4,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 4,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 4,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 67,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "60+",
+    "posicao": 4,
+    "personagem_id": 1310,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 362,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 5,
+    "personagem_id": 377,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 5,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 382,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 5,
+    "personagem_id": 437,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 382,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 5,
+    "personagem_id": 437,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 56,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 5,
+    "personagem_id": 1344,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 56,
+    "genero_votante": "all",
+    "faixa_etaria_votante": "60+",
+    "posicao": 5,
+    "personagem_id": 1344,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "60+",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 67,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 2,
+    "personagem_id": 1310,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "60+",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 3,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 67,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 3,
+    "personagem_id": 1310,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 3,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 237,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 3,
+    "personagem_id": 515,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 3,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "60+",
+    "posicao": 3,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 362,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 4,
+    "personagem_id": 377,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 362,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 4,
+    "personagem_id": 377,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 237,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 4,
+    "personagem_id": 515,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 4,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 237,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 4,
+    "personagem_id": 515,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 67,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "60+",
+    "posicao": 4,
+    "personagem_id": 1310,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 74,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 5,
+    "personagem_id": 1299,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 5,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 56,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 5,
+    "personagem_id": 1344,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 5,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 56,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 5,
+    "personagem_id": 1344,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 74,
+    "genero_votante": "male",
+    "faixa_etaria_votante": "60+",
+    "posicao": 5,
+    "personagem_id": 1299,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 1,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 1,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 1,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 1,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 1,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "60+",
+    "posicao": 1,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 2,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 2,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 2,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "60+",
+    "posicao": 2,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 3,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 3,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 3,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 81,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 3,
+    "personagem_id": 1325,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 3,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "60+",
+    "posicao": 3,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 4,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 66,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 4,
+    "personagem_id": 1307,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 66,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 4,
+    "personagem_id": 1307,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 4,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 56,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 4,
+    "personagem_id": 1344,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "60+",
+    "posicao": 4,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 56,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 5,
+    "personagem_id": 1344,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 5,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 5,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 66,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 5,
+    "personagem_id": 1307,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 5,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 56,
+    "genero_votante": "female",
+    "faixa_etaria_votante": "60+",
+    "posicao": 5,
+    "personagem_id": 1344,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 1,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 1,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "60+",
+    "posicao": 1,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 2,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 2,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 382,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 2,
+    "personagem_id": 437,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 330,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 2,
+    "personagem_id": 865,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "60+",
+    "posicao": 2,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 3,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 3,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 3,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 382,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 3,
+    "personagem_id": 437,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 3,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "60+",
+    "posicao": 3,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 382,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 4,
+    "personagem_id": 437,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 64,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 4,
+    "personagem_id": 1303,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 366,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 4,
+    "personagem_id": 374,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 61,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 4,
+    "personagem_id": 1293,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 67,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 4,
+    "personagem_id": 1310,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 67,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "60+",
+    "posicao": 4,
+    "personagem_id": 1310,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 361,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "10-19",
+    "posicao": 5,
+    "personagem_id": 376,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 382,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "20-29",
+    "posicao": 5,
+    "personagem_id": 437,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 55,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "30-39",
+    "posicao": 5,
+    "personagem_id": 1341,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 56,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "40-49",
+    "posicao": 5,
+    "personagem_id": 1344,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 56,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "50-59",
+    "posicao": 5,
+    "personagem_id": 1344,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  },
+  {
+    "narutop99_id": 56,
+    "genero_votante": "other",
+    "faixa_etaria_votante": "60+",
+    "posicao": 5,
+    "personagem_id": 1344,
+    "fonte": "NARUTOP99",
+    "resultado_ano": 2023
+  }
+]

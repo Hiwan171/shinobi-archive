@@ -1,0 +1,1307 @@
+[
+  {
+    "personagem_id": 9,
+    "cla_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 10,
+    "cla_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 11,
+    "cla_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 12,
+    "cla_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "cla_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 14,
+    "cla_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 15,
+    "cla_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 16,
+    "cla_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 38,
+    "cla_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 39,
+    "cla_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "cla_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 41,
+    "cla_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 42,
+    "cla_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 43,
+    "cla_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 44,
+    "cla_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 45,
+    "cla_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 46,
+    "cla_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 47,
+    "cla_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 596,
+    "cla_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 57,
+    "cla_id": 2,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 58,
+    "cla_id": 2,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 145,
+    "cla_id": 3,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 947,
+    "cla_id": 3,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 240,
+    "cla_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 242,
+    "cla_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 243,
+    "cla_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 244,
+    "cla_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 245,
+    "cla_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 246,
+    "cla_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 247,
+    "cla_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 331,
+    "cla_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 508,
+    "cla_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 655,
+    "cla_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 656,
+    "cla_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 78,
+    "cla_id": 5,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 238,
+    "cla_id": 5,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 239,
+    "cla_id": 6,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 87,
+    "cla_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 367,
+    "cla_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 511,
+    "cla_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 531,
+    "cla_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 566,
+    "cla_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 699,
+    "cla_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1040,
+    "cla_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "cla_id": 8,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 377,
+    "cla_id": 8,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 404,
+    "cla_id": 9,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 422,
+    "cla_id": 10,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 421,
+    "cla_id": 11,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 434,
+    "cla_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 435,
+    "cla_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 436,
+    "cla_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 438,
+    "cla_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 439,
+    "cla_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 440,
+    "cla_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 441,
+    "cla_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 442,
+    "cla_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 443,
+    "cla_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "cla_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 445,
+    "cla_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 434,
+    "cla_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 435,
+    "cla_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 436,
+    "cla_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 438,
+    "cla_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 439,
+    "cla_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 440,
+    "cla_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 441,
+    "cla_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 442,
+    "cla_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 443,
+    "cla_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "cla_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 445,
+    "cla_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1088,
+    "cla_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 428,
+    "cla_id": 15,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "cla_id": 15,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 430,
+    "cla_id": 15,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 336,
+    "cla_id": 16,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1217,
+    "cla_id": 16,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1407,
+    "cla_id": 16,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 29,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 37,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 138,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 353,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 463,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 464,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 465,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 467,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 468,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 634,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 721,
+    "cla_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 496,
+    "cla_id": 18,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 497,
+    "cla_id": 18,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 498,
+    "cla_id": 18,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 499,
+    "cla_id": 18,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 521,
+    "cla_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 532,
+    "cla_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 533,
+    "cla_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 534,
+    "cla_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 535,
+    "cla_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 536,
+    "cla_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 538,
+    "cla_id": 21,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 637,
+    "cla_id": 21,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 117,
+    "cla_id": 22,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 507,
+    "cla_id": 22,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 700,
+    "cla_id": 22,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 717,
+    "cla_id": 22,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1165,
+    "cla_id": 22,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 479,
+    "cla_id": 23,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 725,
+    "cla_id": 23,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 925,
+    "cla_id": 23,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 590,
+    "cla_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 591,
+    "cla_id": 25,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "cla_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "cla_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 597,
+    "cla_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 967,
+    "cla_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1100,
+    "cla_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "cla_id": 27,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "cla_id": 27,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 597,
+    "cla_id": 27,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 967,
+    "cla_id": 27,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1100,
+    "cla_id": 27,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 542,
+    "cla_id": 28,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 659,
+    "cla_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 660,
+    "cla_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 661,
+    "cla_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 712,
+    "cla_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 713,
+    "cla_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 714,
+    "cla_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 715,
+    "cla_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 738,
+    "cla_id": 31,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "cla_id": 31,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 871,
+    "cla_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 872,
+    "cla_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 873,
+    "cla_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 874,
+    "cla_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 875,
+    "cla_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 877,
+    "cla_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "cla_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 879,
+    "cla_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 880,
+    "cla_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 923,
+    "cla_id": 33,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 757,
+    "cla_id": 34,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1417,
+    "cla_id": 34,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1201,
+    "cla_id": 35,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1202,
+    "cla_id": 35,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1034,
+    "cla_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1035,
+    "cla_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "cla_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "cla_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1038,
+    "cla_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1039,
+    "cla_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1397,
+    "cla_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1060,
+    "cla_id": 37,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 886,
+    "cla_id": 38,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1062,
+    "cla_id": 38,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "cla_id": 38,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1064,
+    "cla_id": 38,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1065,
+    "cla_id": 38,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "cla_id": 38,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1067,
+    "cla_id": 38,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "cla_id": 38,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 886,
+    "cla_id": 39,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1062,
+    "cla_id": 39,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "cla_id": 39,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1064,
+    "cla_id": 39,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1065,
+    "cla_id": 39,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "cla_id": 39,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1067,
+    "cla_id": 39,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "cla_id": 39,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 780,
+    "cla_id": 40,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1087,
+    "cla_id": 40,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "cla_id": 41,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 273,
+    "cla_id": 42,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 449,
+    "cla_id": 42,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 770,
+    "cla_id": 42,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 781,
+    "cla_id": 42,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1214,
+    "cla_id": 43,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1215,
+    "cla_id": 43,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 217,
+    "cla_id": 44,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 378,
+    "cla_id": 44,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 426,
+    "cla_id": 44,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1109,
+    "cla_id": 44,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1245,
+    "cla_id": 44,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1266,
+    "cla_id": 44,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1288,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1289,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1290,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1291,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1292,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1295,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1296,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1297,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1298,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1300,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1301,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1302,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1304,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1305,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1308,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1310,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1311,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1312,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1313,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1314,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1315,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1316,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1317,
+    "cla_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 252,
+    "cla_id": 46,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 593,
+    "cla_id": 46,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 595,
+    "cla_id": 46,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 861,
+    "cla_id": 46,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1338,
+    "cla_id": 46,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1341,
+    "cla_id": 46,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1342,
+    "cla_id": 46,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "cla_id": 46,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 252,
+    "cla_id": 47,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 593,
+    "cla_id": 47,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 595,
+    "cla_id": 47,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 861,
+    "cla_id": 47,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1338,
+    "cla_id": 47,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1341,
+    "cla_id": 47,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1342,
+    "cla_id": 47,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "cla_id": 47,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 393,
+    "cla_id": 48,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1349,
+    "cla_id": 49,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1351,
+    "cla_id": 50,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 836,
+    "cla_id": 51,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "cla_id": 52,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1364,
+    "cla_id": 52,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "cla_id": 52,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1366,
+    "cla_id": 52,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1367,
+    "cla_id": 52,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1368,
+    "cla_id": 52,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1369,
+    "cla_id": 52,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1370,
+    "cla_id": 52,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 91,
+    "cla_id": 53,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1378,
+    "cla_id": 53,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1390,
+    "cla_id": 54,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1392,
+    "cla_id": 55,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 356,
+    "cla_id": 56,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 358,
+    "cla_id": 56,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 578,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 933,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 935,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 936,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 938,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 939,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 940,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 941,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 942,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 943,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "cla_id": 57,
+    "fonte": "Dattebayo"
+  }
+]

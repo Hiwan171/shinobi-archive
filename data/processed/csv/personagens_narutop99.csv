@@ -1,0 +1,489 @@
+﻿narutop99_id;personagem_id;metodo_correspondencia;nome;nome_japones;vila_japones;vila;retrato_local;card_local;url_fonte;fonte
+1;80;nome_exato_normalizado;Ao;青;霧;Kirigakure;assets/official_portraits/narutop99_1.png;assets/official_cards/narutop99_1.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+2;81;nome_exato_normalizado;Aoda;アオダ;その他;Outros;assets/official_portraits/narutop99_2.png;assets/official_cards/narutop99_2.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+3;35;nome_exato_normalizado;Akatsuchi;赤ツチ;岩;Iwagakure;assets/official_portraits/narutop99_3.png;assets/official_cards/narutop99_3.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+4;27;nome_exato_normalizado;Yoroi Akado;赤胴ヨロイ;その他;Outros;assets/official_portraits/narutop99_4.png;assets/official_cards/narutop99_4.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+5;26;nome_exato_normalizado;Manabu Akado;赤門マナブ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_5.png;assets/official_cards/narutop99_5.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+6;31;nome_exato_normalizado;Akane;アカネ;その他;Outros;assets/official_portraits/narutop99_6.png;assets/official_cards/narutop99_6.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+7;29;nome_exato_normalizado;Akamaru;赤丸;木ノ葉;Konohagakure;assets/official_portraits/narutop99_7.png;assets/official_cards/narutop99_7.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+8;30;nome_exato_normalizado;Iwana Akame;赤目イワナ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_8.png;assets/official_cards/narutop99_8.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+9;18;nome_exato_normalizado;Agara;アガラ;その他;Outros;assets/official_portraits/narutop99_9.png;assets/official_cards/narutop99_9.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+10;19;nome_exato_normalizado;Agari;アガリ;その他;Outros;assets/official_portraits/narutop99_10.png;assets/official_cards/narutop99_10.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+11;;nao_resolvido;Sito Akimichi;秋道シトウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_11.png;assets/official_cards/narutop99_11.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+12;42;nome_exato_normalizado;Choza Akimichi;秋道チョウザ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_12.png;assets/official_cards/narutop99_12.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+13;40;nome_exato_normalizado;Choji Akimichi;秋道チョウジ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_13.png;assets/official_cards/narutop99_13.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+14;43;transliteracao_e_ordem;Douto Akimichi;秋道ドウトウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_14.png;assets/official_cards/narutop99_14.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+15;47;nome_exato_normalizado;Torifu Akimichi;秋道トリフ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_15.png;assets/official_cards/narutop99_15.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+16;44;nome_exato_normalizado;Makaro Akimichi;秋道マカロ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_16.png;assets/official_cards/narutop99_16.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+17;45;nome_exato_normalizado;Maruten Akimichi;秋道マルテン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_17.png;assets/official_cards/narutop99_17.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+18;20;nome_exato_normalizado;Ageha;アゲハ;その他;Outros;assets/official_portraits/narutop99_18.png;assets/official_cards/narutop99_18.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+19;36;nome_exato_normalizado;Jinin Akebino;通草野餌人;霧;Kirigakure;assets/official_portraits/narutop99_19.png;assets/official_cards/narutop99_19.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+20;;nao_resolvido;Ashura Otsutsuki;大筒木アシュラ;その他;Outros;assets/official_portraits/narutop99_20.png;assets/official_cards/narutop99_20.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+21;103;nome_exato_normalizado;Shibito Azuma;東シビト;岩;Iwagakure;assets/official_portraits/narutop99_21.png;assets/official_cards/narutop99_21.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+22;100;nome_exato_normalizado;Atsui;アツイ;雲;Kumogakure;assets/official_portraits/narutop99_22.png;assets/official_cards/narutop99_22.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+23;21;nome_exato_normalizado;Ahiko;アヒコ;その他;Outros;assets/official_portraits/narutop99_23.png;assets/official_cards/narutop99_23.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+24;7;nome_exato_normalizado;Abiru;アビル;砂;Sunagakure;assets/official_portraits/narutop99_24.png;assets/official_cards/narutop99_24.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+25;14;nome_exato_normalizado;Tatsuma Aburame;油女タツマ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_25.png;assets/official_cards/narutop99_25.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+26;13;nome_exato_normalizado;Shino Aburame;油女シノ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_26.png;assets/official_cards/narutop99_26.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+27;11;nome_exato_normalizado;Shibi Aburame;油女シビ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_27.png;assets/official_cards/narutop99_27.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+28;15;nome_exato_normalizado;Torune Aburame;油女トルネ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_28.png;assets/official_cards/narutop99_28.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+29;10;nome_exato_normalizado;Muta Aburame;油女ムタ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_29.png;assets/official_cards/narutop99_29.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+30;64;nome_exato_normalizado;Ami;アミ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_30.png;assets/official_cards/narutop99_30.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+31;101;nome_exato_normalizado;Ayame;アヤメ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_31.png;assets/official_cards/narutop99_31.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+32;473;nome_exato_normalizado;Isago;イサゴ;砂;Sunagakure;assets/official_portraits/narutop99_32.png;assets/official_cards/narutop99_32.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+33;479;nome_exato_normalizado;Ishikawa(First Tsuchikage);イシカワ(初代土影);岩;Iwagakure;assets/official_portraits/narutop99_33.png;assets/official_cards/narutop99_33.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+34;476;nome_exato_normalizado;Ise;伊勢;その他;Outros;assets/official_portraits/narutop99_34.png;assets/official_cards/narutop99_34.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+35;451;nome_exato_normalizado;Ichigen;一見;その他;Outros;assets/official_portraits/narutop99_35.png;assets/official_cards/narutop99_35.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+36;480;nome_exato_normalizado;Isobu(Three Tails);礒撫（三尾）;霧;Kirigakure;assets/official_portraits/narutop99_36.png;assets/official_cards/narutop99_36.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+37;485;nome_exato_normalizado;Ittan;イッタン;岩;Iwagakure;assets/official_portraits/narutop99_37.png;assets/official_cards/narutop99_37.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+38;486;nome_exato_normalizado;Ittetsu;イッテツ;砂;Sunagakure;assets/official_portraits/narutop99_38.png;assets/official_cards/narutop99_38.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+39;457;nome_exato_normalizado;Inaho;イナホ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_39.png;assets/official_cards/narutop99_39.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+40;458;nome_exato_normalizado;Inari;イナリ;その他;Outros;assets/official_portraits/narutop99_40.png;assets/official_cards/narutop99_40.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+41;464;nome_exato_normalizado;Gaku Inuzuka;犬塚ガク;木ノ葉;Konohagakure;assets/official_portraits/narutop99_41.png;assets/official_cards/narutop99_41.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+42;466;nome_exato_normalizado;Kiba Inuzuka;犬塚キバ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_42.png;assets/official_cards/narutop99_42.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+43;468;nome_exato_normalizado;Tsume Inuzuka;犬塚ツメ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_43.png;assets/official_cards/narutop99_43.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+44;465;nome_exato_normalizado;Hana Inuzuka;犬塚ハナ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_44.png;assets/official_cards/narutop99_44.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+45;460;nome_exato_normalizado;Inomatsu;イノマツ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_45.png;assets/official_cards/narutop99_45.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+46;447;nome_exato_normalizado;Ibara;イバラ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_46.png;assets/official_cards/narutop99_46.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+47;448;nome_exato_normalizado;Ibuse;イブセ;その他;Outros;assets/official_portraits/narutop99_47.png;assets/official_cards/narutop99_47.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+48;494;nome_exato_normalizado;Iyashi;イヤシ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_48.png;assets/official_cards/narutop99_48.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+49;938;nome_exato_normalizado;Indra Otsutsuki;大筒木インドラ;その他;Outros;assets/official_portraits/narutop99_49.png;assets/official_cards/narutop99_49.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+50;1318;nome_exato_normalizado;Ugai;ウガイ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_50.png;assets/official_cards/narutop99_50.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+51;1319;nome_exato_normalizado;Ugatsu;ウガツ;その他;Outros;assets/official_portraits/narutop99_51.png;assets/official_cards/narutop99_51.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+52;;nao_resolvido;Ukon;右近;その他;Outros;assets/official_portraits/narutop99_52.png;assets/official_cards/narutop99_52.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+53;1334;nome_exato_normalizado;Ushi;ウシ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_53.png;assets/official_cards/narutop99_53.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+54;1338;nome_exato_normalizado;Ashina Uzumaki;うずまきアシナ;その他;Outros;assets/official_portraits/narutop99_54.png;assets/official_cards/narutop99_54.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+55;1341;nome_exato_normalizado;Kushina Uzumaki;うずまきクシナ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_55.png;assets/official_cards/narutop99_55.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+56;1344;nome_exato_normalizado;Naruto Uzumaki;うずまきナルト;木ノ葉;Konohagakure;assets/official_portraits/narutop99_56.png;assets/official_cards/narutop99_56.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+57;1343;nome_exato_normalizado;Mito Uzumaki;うずまきミト;木ノ葉;Konohagakure;assets/official_portraits/narutop99_57.png;assets/official_cards/narutop99_57.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+58;1335;nome_exato_normalizado;Utakata;ウタカタ;霧;Kirigakure;assets/official_portraits/narutop99_58.png;assets/official_cards/narutop99_58.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+59;1336;nome_exato_normalizado;Koharu Utatane;うたたねコハル;木ノ葉;Konohagakure;assets/official_portraits/narutop99_59.png;assets/official_cards/narutop99_59.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+60;1296;nome_exato_normalizado;Izuna Uchiha;うちはイズナ;その他;Outros;assets/official_portraits/narutop99_60.png;assets/official_cards/narutop99_60.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+61;1293;nome_exato_normalizado;Itachi Uchiha;うちはイタチ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_61.png;assets/official_cards/narutop99_61.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+62;1292;nome_exato_normalizado;Inabi Uchiha;うちはイナビ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_62.png;assets/official_cards/narutop99_62.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+63;1315;nome_exato_normalizado;Uruchi Uchiha;うちはウルチ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_63.png;assets/official_cards/narutop99_63.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+64;1303;nome_exato_normalizado;Obito Uchiha;うちはオビト;木ノ葉;Konohagakure;assets/official_portraits/narutop99_64.png;assets/official_cards/narutop99_64.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+65;1297;nome_exato_normalizado;Kagami Uchiha;うちはカガミ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_65.png;assets/official_cards/narutop99_65.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+66;1307;nome_exato_normalizado;Sasuke Uchiha;うちはサスケ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_66.png;assets/official_cards/narutop99_66.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+67;1310;nome_exato_normalizado;Shisui Uchiha;うちはシスイ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_67.png;assets/official_cards/narutop99_67.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+68;1308;nome_exato_normalizado;Setsuna Uchiha;うちはセツナ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_68.png;assets/official_cards/narutop99_68.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+69;1312;nome_exato_normalizado;Tajima Uchiha;うちはタジマ;その他;Outros;assets/official_portraits/narutop99_69.png;assets/official_cards/narutop99_69.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+70;1313;nome_exato_normalizado;Tekka Uchiha;うちはテッカ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_70.png;assets/official_cards/narutop99_70.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+71;1314;nome_exato_normalizado;Teyaki Uchiha;うちはテヤキ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_71.png;assets/official_cards/narutop99_71.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+72;1291;nome_exato_normalizado;Hikaku Uchiha;うちはヒカク;その他;Outros;assets/official_portraits/narutop99_72.png;assets/official_cards/narutop99_72.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+73;1289;nome_exato_normalizado;Fugaku Uchiha;うちはフガク;木ノ葉;Konohagakure;assets/official_portraits/narutop99_73.png;assets/official_cards/narutop99_73.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+74;1299;nome_exato_normalizado;Madara Uchiha;うちはマダラ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_74.png;assets/official_cards/narutop99_74.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+75;1300;nome_exato_normalizado;Mikoto Uchiha;うちはミコト;木ノ葉;Konohagakure;assets/official_portraits/narutop99_75.png;assets/official_cards/narutop99_75.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+76;1316;nome_exato_normalizado;Yakumi Uchiha;うちはヤクミ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_76.png;assets/official_cards/narutop99_76.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+77;1317;nome_exato_normalizado;Yashiro Uchiha;うちはヤシロ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_77.png;assets/official_cards/narutop99_77.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+78;1337;nome_exato_normalizado;Yugao Uzuki;卯月夕顔;木ノ葉;Konohagakure;assets/official_portraits/narutop99_78.png;assets/official_cards/narutop99_78.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+79;;nao_resolvido;Udon;ウドン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_79.png;assets/official_cards/narutop99_79.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+80;1324;nome_exato_normalizado;Ikkaku Umino;うみのイッカク;木ノ葉;Konohagakure;assets/official_portraits/narutop99_80.png;assets/official_cards/narutop99_80.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+81;1325;nome_exato_normalizado;Iruka Umino;うみのイルカ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_81.png;assets/official_cards/narutop99_81.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+82;1326;nome_exato_normalizado;Kohari Umino;うみのコハリ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_82.png;assets/official_cards/narutop99_82.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+83;1331;nome_exato_normalizado;Urakaku;ウラカク;その他;Outros;assets/official_portraits/narutop99_83.png;assets/official_cards/narutop99_83.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+84;1332;nome_exato_normalizado;Urushi;ウルシ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_84.png;assets/official_cards/narutop99_84.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+85;;nao_resolvido;Ay(First Raikage);エー(初代雷影);雲;Kumogakure;assets/official_portraits/narutop99_85.png;assets/official_cards/narutop99_85.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+86;;nao_resolvido;Ay(Second Raikage);エー(二代目雷影);雲;Kumogakure;assets/official_portraits/narutop99_86.png;assets/official_cards/narutop99_86.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+87;;nao_resolvido;Ay(Third Raikage);エー(三代目雷影);雲;Kumogakure;assets/official_portraits/narutop99_87.png;assets/official_cards/narutop99_87.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+88;;nao_resolvido;Ay(Fourth Raikage);エー(四代目雷影);雲;Kumogakure;assets/official_portraits/narutop99_88.png;assets/official_cards/narutop99_88.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+89;212;nome_exato_normalizado;Ebisu;エビス;木ノ葉;Konohagakure;assets/official_portraits/narutop99_89.png;assets/official_cards/narutop99_89.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+90;213;nome_exato_normalizado;Ebizo;エビゾウ;砂;Sunagakure;assets/official_portraits/narutop99_90.png;assets/official_cards/narutop99_90.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+91;214;nome_exato_normalizado;Emi;エミ;その他;Outros;assets/official_portraits/narutop99_91.png;assets/official_cards/narutop99_91.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+92;216;nome_exato_normalizado;Emiru;エミル;その他;Outros;assets/official_portraits/narutop99_92.png;assets/official_cards/narutop99_92.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+93;;nao_resolvido;Monkey King Enma;猿猴王・猿魔;木ノ葉;Konohagakure;assets/official_portraits/narutop99_93.png;assets/official_cards/narutop99_93.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+94;915;transliteracao_e_ordem;Oukei;オウケイ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_94.png;assets/official_cards/narutop99_94.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+95;940;nome_exato_normalizado;Kaguya Otsutsuki;大筒木カグヤ;その他;Outros;assets/official_portraits/narutop99_95.png;assets/official_cards/narutop99_95.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+96;935;nome_exato_normalizado;Hagoromo Otsutsuki;大筒木ハゴロモ;その他;Outros;assets/official_portraits/narutop99_96.png;assets/official_cards/narutop99_96.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+97;936;nome_exato_normalizado;Hamura Otsutsuki;大筒木ハムラ;その他;Outros;assets/official_portraits/narutop99_97.png;assets/official_cards/narutop99_97.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+98;932;nome_exato_normalizado;Otora;大虎;砂;Sunagakure;assets/official_portraits/narutop99_98.png;assets/official_cards/narutop99_98.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+99;;nao_resolvido;Ohnoki(Third Tsuchikage);オオノキ(三代目土影);岩;Iwagakure;assets/official_portraits/narutop99_99.png;assets/official_cards/narutop99_99.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+100;916;nome_exato_normalizado;Okisuke;オキスケ;その他;Outros;assets/official_portraits/narutop99_100.png;assets/official_cards/narutop99_100.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+101;918;nome_exato_normalizado;Okyo;お京;木ノ葉;Konohagakure;assets/official_portraits/narutop99_101.png;assets/official_cards/narutop99_101.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+102;931;nome_exato_normalizado;Otokaze;オトカゼ;砂;Sunagakure;assets/official_portraits/narutop99_102.png;assets/official_cards/narutop99_102.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+103;930;nome_exato_normalizado;Otoha;オトハ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_103.png;assets/official_cards/narutop99_103.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+104;;nao_resolvido;The Demon Brothers;鬼兄弟;霧;Kirigakure;assets/official_portraits/narutop99_104.png;assets/official_cards/narutop99_104.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+105;911;nome_exato_normalizado;Oboro;朧;その他;Outros;assets/official_portraits/narutop99_105.png;assets/official_cards/narutop99_105.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+106;920;nome_exato_normalizado;Omoi;オモイ;雲;Kumogakure;assets/official_portraits/narutop99_106.png;assets/official_cards/narutop99_106.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+107;928;nome_exato_normalizado;Orochimaru;大蛇丸;木ノ葉;Konohagakure;assets/official_portraits/narutop99_107.png;assets/official_cards/narutop99_107.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+108;259;nome_exato_normalizado;Gaara(Fifth Kazekage);我愛羅(五代目風影);砂;Sunagakure;assets/official_portraits/narutop99_108.png;assets/official_cards/narutop99_108.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+109;544;nome_exato_normalizado;Kaiza;カイザ;その他;Outros;assets/official_portraits/narutop99_109.png;assets/official_cards/narutop99_109.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+110;586;nome_exato_normalizado;Kaori;カオリ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_110.png;assets/official_cards/narutop99_110.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+111;526;nome_exato_normalizado;Kagari;篝;その他;Outros;assets/official_portraits/narutop99_111.png;assets/official_cards/narutop99_111.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+112;;nao_resolvido;Gakido;餓鬼道;その他;Outros;assets/official_portraits/narutop99_112.png;assets/official_cards/narutop99_112.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+113;558;nome_exato_normalizado;Kakuzu;角都;その他;Outros;assets/official_portraits/narutop99_113.png;assets/official_cards/narutop99_113.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+114;;nao_resolvido;Kage;影;木ノ葉;Konohagakure;assets/official_portraits/narutop99_114.png;assets/official_cards/narutop99_114.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+115;554;nome_exato_normalizado;Kakoi;カコイ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_115.png;assets/official_cards/narutop99_115.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+116;614;nome_exato_normalizado;Kazabune;カザブネ;その他;Outros;assets/official_portraits/narutop99_116.png;assets/official_cards/narutop99_116.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+117;545;nome_exato_normalizado;Kaji;カジ;その他;Outros;assets/official_portraits/narutop99_117.png;assets/official_cards/narutop99_117.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+118;599;nome_exato_normalizado;Kashike;カシケ;砂;Sunagakure;assets/official_portraits/narutop99_118.png;assets/official_cards/narutop99_118.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+119;601;nome_exato_normalizado;Kasumi;カスミ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_119.png;assets/official_cards/narutop99_119.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+120;;nao_resolvido;Feudal Lord(Land of Wind);風の国の大名;その他;Outros;assets/official_portraits/narutop99_120.png;assets/official_cards/narutop99_120.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+121;291;nome_exato_normalizado;Gazeru;ガゼル;木ノ葉;Konohagakure;assets/official_portraits/narutop99_121.png;assets/official_cards/narutop99_121.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+122;552;transliteracao_e_ordem;Kakkou;カッコウ;岩;Iwagakure;assets/official_portraits/narutop99_122.png;assets/official_cards/narutop99_122.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+123;608;nome_exato_normalizado;Katsuyu;カツユ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_123.png;assets/official_cards/narutop99_123.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+124;289;nome_exato_normalizado;Gato;ガトー;その他;Outros;assets/official_portraits/narutop99_124.png;assets/official_cards/narutop99_124.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+125;605;nome_exato_normalizado;Dan Kato;加藤ダン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_125.png;assets/official_cards/narutop99_125.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+126;260;nome_exato_normalizado;Gama;蝦蟇;木ノ葉;Konohagakure;assets/official_portraits/narutop99_126.png;assets/official_cards/narutop99_126.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+127;266;nome_exato_normalizado;Gamakichi;ガマ吉;木ノ葉;Konohagakure;assets/official_portraits/narutop99_127.png;assets/official_cards/narutop99_127.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+128;265;nome_exato_normalizado;(Mister) Gamaken;ガマケン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_128.png;assets/official_cards/narutop99_128.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+129;271;nome_exato_normalizado;Gamatatsu;ガマ竜;木ノ葉;Konohagakure;assets/official_portraits/narutop99_129.png;assets/official_cards/narutop99_129.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+130;270;nome_exato_normalizado;Gamatama;ガマたま;木ノ葉;Konohagakure;assets/official_portraits/narutop99_130.png;assets/official_cards/narutop99_130.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+131;565;nome_exato_normalizado;Kamatari;カマタリ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_131.png;assets/official_cards/narutop99_131.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+132;262;nome_exato_normalizado;Gamaden;ガマ伝;木ノ葉;Konohagakure;assets/official_portraits/narutop99_132.png;assets/official_cards/narutop99_132.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+133;563;nome_exato_normalizado;Saisu Kamano;鎌野サイス;木ノ葉;Konohagakure;assets/official_portraits/narutop99_133.png;assets/official_cards/narutop99_133.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+134;264;nome_exato_normalizado;Gamahiro;ガマヒロ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_134.png;assets/official_cards/narutop99_134.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+135;261;nome_exato_normalizado;Gamabunta;ガマブン太;木ノ葉;Konohagakure;assets/official_portraits/narutop99_135.png;assets/official_cards/narutop99_135.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+136;267;nome_exato_normalizado;Gamamaru;ガマ丸;木ノ葉;Konohagakure;assets/official_portraits/narutop99_136.png;assets/official_cards/narutop99_136.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+137;571;nome_exato_normalizado;Izumo Kamizuki;神月イズモ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_137.png;assets/official_cards/narutop99_137.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+138;;nao_resolvido;Feudal Lord(Land of Lightning);雷の国の大名;その他;Outros;assets/official_portraits/narutop99_138.png;assets/official_cards/narutop99_138.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+139;282;nome_exato_normalizado;Gari;ガリ;岩;Iwagakure;assets/official_portraits/narutop99_139.png;assets/official_cards/narutop99_139.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+140;593;nome_exato_normalizado;Karin;香燐;その他;Outros;assets/official_portraits/narutop99_140.png;assets/official_cards/narutop99_140.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+141;596;nome_exato_normalizado;Karui;カルイ;雲;Kumogakure;assets/official_portraits/narutop99_141.png;assets/official_cards/narutop99_141.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+142;284;nome_exato_normalizado;Garuda;ガルダ;その他;Outros;assets/official_portraits/narutop99_142.png;assets/official_cards/narutop99_142.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+143;597;nome_exato_normalizado;Karura;加瑠羅;砂;Sunagakure;assets/official_portraits/narutop99_143.png;assets/official_cards/narutop99_143.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+144;577;nome_exato_normalizado;Kankuro;カンクロウ;砂;Sunagakure;assets/official_portraits/narutop99_144.png;assets/official_cards/narutop99_144.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+145;278;nome_exato_normalizado;Gantetsu;ガンテツ;岩;Iwagakure;assets/official_portraits/narutop99_145.png;assets/official_cards/narutop99_145.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+146;584;nome_exato_normalizado;Kanpu;カンプ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_146.png;assets/official_cards/narutop99_146.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+147;324;nome_exato_normalizado;Giichi;ギイチ;その他;Outros;assets/official_portraits/narutop99_147.png;assets/official_cards/narutop99_147.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+148;627;nome_exato_normalizado;Kie;帰依;その他;Outros;assets/official_portraits/narutop99_148.png;assets/official_cards/narutop99_148.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+149;653;nome_exato_normalizado;Kitsuchi;黄ツチ;岩;Iwagakure;assets/official_portraits/narutop99_149.png;assets/official_cards/narutop99_149.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+150;652;nome_exato_normalizado;Kito;キトウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_150.png;assets/official_cards/narutop99_150.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+151;626;nome_exato_normalizado;Kidomaru;鬼童丸;その他;Outros;assets/official_portraits/narutop99_151.png;assets/official_cards/narutop99_151.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+152;637;nome_exato_normalizado;Kimimaro;君麻呂;その他;Outros;assets/official_portraits/narutop99_152.png;assets/official_cards/narutop99_152.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+153;345;nome_exato_normalizado;Gyuki(Eight Tails);牛鬼（八尾）;雲;Kumogakure;assets/official_portraits/narutop99_153.png;assets/official_cards/narutop99_153.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+154;711;nome_exato_normalizado;Kurama(Nine Tails);九喇嘛（九尾）;木ノ葉;Konohagakure;assets/official_portraits/narutop99_154.png;assets/official_cards/narutop99_154.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+155;735;nome_exato_normalizado;Kyoya;キョウヤ;その他;Outros;assets/official_portraits/narutop99_155.png;assets/official_cards/narutop99_155.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+156;;nao_resolvido;Giant Spider;巨大蜘蛛;その他;Outros;assets/official_portraits/narutop99_156.png;assets/official_cards/narutop99_156.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+157;;nao_resolvido;Giant Snake;巨大蛇;その他;Outros;assets/official_portraits/narutop99_157.png;assets/official_cards/narutop99_157.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+158;;nao_resolvido;Killer Bee;キラービー;雲;Kumogakure;assets/official_portraits/narutop99_158.png;assets/official_cards/narutop99_158.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+159;;nao_resolvido;Kiri;キリ;岩;Iwagakure;assets/official_portraits/narutop99_159.png;assets/official_cards/narutop99_159.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+160;641;nome_exato_normalizado;Kinkaku;金角;雲;Kumogakure;assets/official_portraits/narutop99_160.png;assets/official_cards/narutop99_160.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+161;326;nome_exato_normalizado;Ginkaku;銀角;雲;Kumogakure;assets/official_portraits/narutop99_161.png;assets/official_cards/narutop99_161.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+162;639;nome_exato_normalizado;King;キング;その他;Outros;assets/official_portraits/narutop99_162.png;assets/official_cards/narutop99_162.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+163;325;nome_exato_normalizado;Ginji;ギンジ;その他;Outros;assets/official_portraits/narutop99_163.png;assets/official_cards/narutop99_163.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+164;1265;nome_exato_normalizado;Kin Tsuchi;キン・ツチ;その他;Outros;assets/official_portraits/narutop99_164.png;assets/official_cards/narutop99_164.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+165;643;nome_exato_normalizado;Kintoki;キントキ;その他;Outros;assets/official_portraits/narutop99_165.png;assets/official_cards/narutop99_165.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+166;728;nome_exato_normalizado;Kusabi;クサビ;その他;Outros;assets/official_portraits/narutop99_166.png;assets/official_cards/narutop99_166.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+167;733;nome_exato_normalizado;Kusushi;クスシ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_167.png;assets/official_cards/narutop99_167.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+168;730;nome_exato_normalizado;Kusuma;クスマ;その他;Outros;assets/official_portraits/narutop99_168.png;assets/official_cards/narutop99_168.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+169;729;nome_exato_normalizado;Kussaku;クッサク;岩;Iwagakure;assets/official_portraits/narutop99_169.png;assets/official_cards/narutop99_169.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+170;706;nome_exato_normalizado;Kumadori;クマドリ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_170.png;assets/official_cards/narutop99_170.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+171;;nao_resolvido;Ninja Leader(Hidden Cloud Village);雲隠れの里の忍頭;雲;Kumogakure;assets/official_portraits/narutop99_171.png;assets/official_cards/narutop99_171.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+172;716;nome_exato_normalizado;Kushimaru Kuriarare;栗霰串丸;霧;Kirigakure;assets/official_portraits/narutop99_172.png;assets/official_cards/narutop99_172.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+173;341;nome_exato_normalizado;Guren;グレン;その他;Outros;assets/official_portraits/narutop99_173.png;assets/official_cards/narutop99_173.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+174;727;nome_exato_normalizado;Kurozuka;クロヅカ;その他;Outros;assets/official_portraits/narutop99_174.png;assets/official_cards/narutop99_174.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+175;725;nome_exato_normalizado;Kurotsuchi;黒ツチ;岩;Iwagakure;assets/official_portraits/narutop99_175.png;assets/official_cards/narutop99_175.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+176;721;nome_exato_normalizado;Kuromaru;黒丸;木ノ葉;Konohagakure;assets/official_portraits/narutop99_176.png;assets/official_cards/narutop99_176.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+177;;nao_resolvido;Ke;ケー;雲;Kumogakure;assets/official_portraits/narutop99_177.png;assets/official_cards/narutop99_177.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+178;625;nome_exato_normalizado;Keiri;ケイリ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_178.png;assets/official_cards/narutop99_178.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+179;293;nome_exato_normalizado;Hayate Gekko;月光ハヤテ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_179.png;assets/official_cards/narutop99_179.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+180;306;nome_exato_normalizado;Gerotora;ゲロ寅;木ノ葉;Konohagakure;assets/official_portraits/narutop99_180.png;assets/official_cards/narutop99_180.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+181;299;nome_exato_normalizado;Genji;元師;霧;Kirigakure;assets/official_portraits/narutop99_181.png;assets/official_cards/narutop99_181.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+182;305;transliteracao_e_ordem;Genzou;ゲンゾウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_182.png;assets/official_cards/narutop99_182.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+183;301;nome_exato_normalizado;Gennai;源内;木ノ葉;Konohagakure;assets/official_portraits/narutop99_183.png;assets/official_cards/narutop99_183.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+184;295;nome_exato_normalizado;Genbu;ゲンブ;霧;Kirigakure;assets/official_portraits/narutop99_184.png;assets/official_cards/narutop99_184.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+185;304;nome_exato_normalizado;Genyumaru;幻幽丸;その他;Outros;assets/official_portraits/narutop99_185.png;assets/official_cards/narutop99_185.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+186;337;transliteracao_e_ordem;Gouza;ゴウザ;砂;Sunagakure;assets/official_portraits/narutop99_186.png;assets/official_cards/narutop99_186.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+187;666;nome_exato_normalizado;Koji;コウジ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_187.png;assets/official_cards/narutop99_187.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+188;;ambiguo;Kosuke;こうすけ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_188.png;assets/official_cards/narutop99_188.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+189;698;nome_exato_normalizado;Kota;コウタ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_189.png;assets/official_cards/narutop99_189.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+190;333;nome_exato_normalizado;Goshiki;ゴシキ;その他;Outros;assets/official_portraits/narutop99_190.png;assets/official_cards/narutop99_190.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+191;669;nome_exato_normalizado;Kokuo(Five Tails);穆王（五尾）;岩;Iwagakure;assets/official_portraits/narutop99_191.png;assets/official_cards/narutop99_191.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+192;;ambiguo;Kosuke;小助;霧;Kirigakure;assets/official_portraits/narutop99_192.png;assets/official_cards/narutop99_192.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+193;684;nome_exato_normalizado;Konan;小南;その他;Outros;assets/official_portraits/narutop99_193.png;assets/official_cards/narutop99_193.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+194;663;nome_exato_normalizado;Kohada;コハダ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_194.png;assets/official_cards/narutop99_194.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+195;;nao_resolvido;Kosuma;コマザ;砂;Sunagakure;assets/official_portraits/narutop99_195.png;assets/official_cards/narutop99_195.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+196;681;nome_exato_normalizado;Komugi;コムギ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_196.png;assets/official_cards/narutop99_196.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+197;;nao_resolvido;Gonbe;権兵衛;霧;Kirigakure;assets/official_portraits/narutop99_197.png;assets/official_cards/narutop99_197.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+198;1008;nome_exato_normalizado;Sai;サイ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_198.png;assets/official_cards/narutop99_198.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+199;1009;nome_exato_normalizado;Saiken(Six Tails);犀犬（六尾）;霧;Kirigakure;assets/official_portraits/narutop99_199.png;assets/official_cards/narutop99_199.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+200;8;nome_exato_normalizado;Zaku Abumi;ザク・アブミ;その他;Outros;assets/official_portraits/narutop99_200.png;assets/official_cards/narutop99_200.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+201;;nao_resolvido;Sakon;左近;その他;Outros;assets/official_portraits/narutop99_201.png;assets/official_cards/narutop99_201.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+202;1418;nome_exato_normalizado;Zaji;ザジ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_202.png;assets/official_cards/narutop99_202.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+203;;nao_resolvido;Sajyo;サジョウ;砂;Sunagakure;assets/official_portraits/narutop99_203.png;assets/official_cards/narutop99_203.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+204;1011;nome_exato_normalizado;Sajin;砂仁;砂;Sunagakure;assets/official_portraits/narutop99_204.png;assets/official_cards/narutop99_204.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+205;1042;nome_exato_normalizado;Sasori;サソリ;砂;Sunagakure;assets/official_portraits/narutop99_205.png;assets/official_cards/narutop99_205.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+206;1045;nome_exato_normalizado;Satetsu;サテツ;砂;Sunagakure;assets/official_portraits/narutop99_206.png;assets/official_cards/narutop99_206.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+207;1000;nome_exato_normalizado;Sabu;サブちゃん;その他;Outros;assets/official_portraits/narutop99_207.png;assets/official_cards/narutop99_207.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+208;1019;nome_exato_normalizado;Samui;サムイ;雲;Kumogakure;assets/official_portraits/narutop99_208.png;assets/official_cards/narutop99_208.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+209;1032;nome_exato_normalizado;Sari;サリ;砂;Sunagakure;assets/official_portraits/narutop99_209.png;assets/official_cards/narutop99_209.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+210;1033;nome_exato_normalizado;Tsuzumi Sarugaku;申楽ツヅミ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_210.png;assets/official_cards/narutop99_210.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+211;1034;nome_exato_normalizado;Asuma Sarutobi;猿飛アスマ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_211.png;assets/official_cards/narutop99_211.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+212;1037;nome_exato_normalizado;Konohamaru Sarutobi;猿飛木ノ葉丸;木ノ葉;Konohagakure;assets/official_portraits/narutop99_212.png;assets/official_cards/narutop99_212.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+213;1036;nome_exato_normalizado;Hiruzen Sarutobi(Third Hokage);猿飛ヒルゼン(三代目火影);木ノ葉;Konohagakure;assets/official_portraits/narutop99_213.png;assets/official_cards/narutop99_213.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+214;1035;nome_exato_normalizado;Biwako Sarutobi;猿飛ビワコ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_214.png;assets/official_cards/narutop99_214.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+215;1420;nome_exato_normalizado;Zangei;ザンゲイ;その他;Outros;assets/official_portraits/narutop99_215.png;assets/official_cards/narutop99_215.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+216;;nao_resolvido;Cee;シー;雲;Kumogakure;assets/official_portraits/narutop99_216.png;assets/official_cards/narutop99_216.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+217;;nao_resolvido;Jigokudo;地獄道;その他;Outros;assets/official_portraits/narutop99_217.png;assets/official_cards/narutop99_217.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+218;;nao_resolvido;Syamon (Second Kazekage);沙門(二代目風影);砂;Sunagakure;assets/official_portraits/narutop99_218.png;assets/official_cards/narutop99_218.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+219;;nao_resolvido;Jay;ジェイ;雲;Kumogakure;assets/official_portraits/narutop99_219.png;assets/official_cards/narutop99_219.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+220;1085;nome_exato_normalizado;Shigure;シグレ;その他;Outros;assets/official_portraits/narutop99_220.png;assets/official_cards/narutop99_220.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+221;1122;nome_exato_normalizado;Shizune;シズネ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_221.png;assets/official_cards/narutop99_221.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+222;1079;nome_exato_normalizado;Shiba;シバ;その他;Outros;assets/official_portraits/narutop99_222.png;assets/official_cards/narutop99_222.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+223;1081;nome_exato_normalizado;Shibire;シビレ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_223.png;assets/official_cards/narutop99_223.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+224;1086;nome_exato_normalizado;Shiho;シホ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_224.png;assets/official_cards/narutop99_224.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+225;1091;nome_exato_normalizado;Shima;シマ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_225.png;assets/official_cards/narutop99_225.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+226;1093;nome_exato_normalizado;Danzo Shimura;志村ダンゾウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_226.png;assets/official_cards/narutop99_226.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+227;513;nome_exato_normalizado;Jimei;ジメイ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_227.png;assets/official_cards/narutop99_227.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+228;1092;nome_exato_normalizado;Shimeji;しめじ;その他;Outros;assets/official_portraits/narutop99_228.png;assets/official_cards/narutop99_228.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+229;;nao_resolvido;Feudal Lord(Land of Frost);霜の国の大名;その他;Outros;assets/official_portraits/narutop99_229.png;assets/official_cards/narutop99_229.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+230;;nao_resolvido;Jyanto;ジャントウ;その他;Outros;assets/official_portraits/narutop99_230.png;assets/official_cards/narutop99_230.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+231;1125;nome_exato_normalizado;Shu;シュウ;その他;Outros;assets/official_portraits/narutop99_231.png;assets/official_cards/narutop99_231.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+232;521;nome_exato_normalizado;Jugo;重吾;その他;Outros;assets/official_portraits/narutop99_232.png;assets/official_cards/narutop99_232.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+233;1;nome_exato_normalizado;Ten Tails;十尾;その他;Outros;assets/official_portraits/narutop99_233.png;assets/official_cards/narutop99_233.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+234;1127;nome_exato_normalizado;Shukaku(One Tail);守鶴（一尾）;砂;Sunagakure;assets/official_portraits/narutop99_234.png;assets/official_cards/narutop99_234.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+235;;nao_resolvido;Shurado;修羅道;その他;Outros;assets/official_portraits/narutop99_235.png;assets/official_cards/narutop99_235.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+236;;nao_resolvido;Jyoseki;ジョウセキ;砂;Sunagakure;assets/official_portraits/narutop99_236.png;assets/official_cards/narutop99_236.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+237;515;nome_exato_normalizado;Jiraiya;自来也;木ノ葉;Konohagakure;assets/official_portraits/narutop99_237.png;assets/official_cards/narutop99_237.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+238;1110;nome_exato_normalizado;Genma Shiranui;不知火ゲンマ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_238.png;assets/official_cards/narutop99_238.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+239;517;nome_exato_normalizado;Jirobo;次郎坊;その他;Outros;assets/official_portraits/narutop99_239.png;assets/official_cards/narutop99_239.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+240;1094;nome_exato_normalizado;Shin;シン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_240.png;assets/official_cards/narutop99_240.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+241;1102;nome_exato_normalizado;Shinta;シンタ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_241.png;assets/official_cards/narutop99_241.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+242;1145;nome_exato_normalizado;Fuguki Suikazan;西瓜山河豚鬼;霧;Kirigakure;assets/official_portraits/narutop99_242.png;assets/official_cards/narutop99_242.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+243;1151;nome_exato_normalizado;Sukima;スキマ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_243.png;assets/official_cards/narutop99_243.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+244;1160;nome_exato_normalizado;Susuki;ススキ;その他;Outros;assets/official_portraits/narutop99_244.png;assets/official_cards/narutop99_244.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+245;1164;nome_exato_normalizado;Suzume;スズメ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_245.png;assets/official_cards/narutop99_245.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+246;1159;nome_exato_normalizado;Suname;スナメ;砂;Sunagakure;assets/official_portraits/narutop99_246.png;assets/official_cards/narutop99_246.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+247;1155;nome_exato_normalizado;Sumashi;スマシ;岩;Iwagakure;assets/official_portraits/narutop99_247.png;assets/official_cards/narutop99_247.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+248;;nao_resolvido;Sumire;スミレ;その他;Outros;assets/official_portraits/narutop99_248.png;assets/official_cards/narutop99_248.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+249;1424;nome_exato_normalizado;Zetsu;ゼツ;その他;Outros;assets/official_portraits/narutop99_249.png;assets/official_cards/narutop99_249.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+250;1057;nome_exato_normalizado;Sekka;セッカ;砂;Sunagakure;assets/official_portraits/narutop99_250.png;assets/official_cards/narutop99_250.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+251;1423;nome_exato_normalizado;Zenza;禅座;その他;Outros;assets/official_portraits/narutop99_251.png;assets/official_cards/narutop99_251.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+252;1064;nome_exato_normalizado;Itama Senju;千手板間;その他;Outros;assets/official_portraits/narutop99_252.png;assets/official_cards/narutop99_252.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+253;1065;nome_exato_normalizado;Kawarama Senju;千手瓦間;その他;Outros;assets/official_portraits/narutop99_253.png;assets/official_cards/narutop99_253.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+254;1067;transliteracao_e_ordem;Touka Senju;千手桃華;その他;Outros;assets/official_portraits/narutop99_254.png;assets/official_cards/narutop99_254.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+255;1066;nome_exato_normalizado;Tobirama Senju(Second Hokage);千手扉間(二代目火影);木ノ葉;Konohagakure;assets/official_portraits/narutop99_255.png;assets/official_cards/narutop99_255.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+256;1063;nome_exato_normalizado;Hashirama Senju(First Hokage);千手柱間(初代火影);木ノ葉;Konohagakure;assets/official_portraits/narutop99_256.png;assets/official_cards/narutop99_256.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+257;1062;nome_exato_normalizado;Butsuma Senju;千手仏間;その他;Outros;assets/official_portraits/narutop99_257.png;assets/official_cards/narutop99_257.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+258;1061;nome_exato_normalizado;Senji;千時;その他;Outros;assets/official_portraits/narutop99_258.png;assets/official_cards/narutop99_258.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+259;1427;nome_exato_normalizado;Zo;ゾウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_259.png;assets/official_cards/narutop99_259.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+260;1138;transliteracao_e_ordem;Souzu;ソウズ;その他;Outros;assets/official_portraits/narutop99_260.png;assets/official_cards/narutop99_260.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+261;1428;nome_exato_normalizado;Zori;ゾウリ;その他;Outros;assets/official_portraits/narutop99_261.png;assets/official_cards/narutop99_261.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+262;1134;nome_exato_normalizado;Son Goku(Four Tails);孫悟空（四尾）;岩;Iwagakure;assets/official_portraits/narutop99_262.png;assets/official_cards/narutop99_262.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+263;1173;nome_exato_normalizado;Taiseki;タイセキ;岩;Iwagakure;assets/official_portraits/narutop99_263.png;assets/official_cards/narutop99_263.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+264;167;nome_exato_normalizado;Daichi;ダイチ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_264.png;assets/official_cards/narutop99_264.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+265;1177;nome_exato_normalizado;Takamaru;タカ丸;砂;Sunagakure;assets/official_portraits/narutop99_265.png;assets/official_cards/narutop99_265.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+266;1180;nome_exato_normalizado;Takishi;タキシ;その他;Outros;assets/official_portraits/narutop99_266.png;assets/official_cards/narutop99_266.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+267;1175;nome_exato_normalizado;Taji;タジ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_267.png;assets/official_cards/narutop99_267.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+268;1176;nome_exato_normalizado;Tajiki;タジキ;雲;Kumogakure;assets/official_portraits/narutop99_268.png;assets/official_cards/narutop99_268.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+269;1204;nome_exato_normalizado;Tazuna;タズナ;その他;Outros;assets/official_portraits/narutop99_269.png;assets/official_cards/narutop99_269.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+270;1196;nome_exato_normalizado;Iwashi Tatami;たたみイワシ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_270.png;assets/official_cards/narutop99_270.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+271;1182;nome_exato_normalizado;Tamae;たまえ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_271.png;assets/official_cards/narutop99_271.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+272;1183;nome_exato_normalizado;Tamaki;タマキ;その他;Outros;assets/official_portraits/narutop99_272.png;assets/official_cards/narutop99_272.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+273;1185;nome_exato_normalizado;Tami;たみ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_273.png;assets/official_cards/narutop99_273.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+274;1203;nome_exato_normalizado;Tayuya;多由也;その他;Outros;assets/official_portraits/narutop99_274.png;assets/official_cards/narutop99_274.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+275;190;nome_exato_normalizado;Darui;ダルイ;雲;Kumogakure;assets/official_portraits/narutop99_275.png;assets/official_cards/narutop99_275.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+276;1186;nome_exato_normalizado;Tango;タンゴ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_276.png;assets/official_cards/narutop99_276.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+277;188;nome_exato_normalizado;Dango;ダンゴウ;その他;Outros;assets/official_portraits/narutop99_277.png;assets/official_cards/narutop99_277.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+278;1188;nome_exato_normalizado;Tanzo;タンゾウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_278.png;assets/official_cards/narutop99_278.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+279;;nao_resolvido;Chikushodo(First);畜生道(初代);その他;Outros;assets/official_portraits/narutop99_279.png;assets/official_cards/narutop99_279.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+280;;nao_resolvido;Chikushodo(Second);畜生道(二代目);その他;Outros;assets/official_portraits/narutop99_280.png;assets/official_cards/narutop99_280.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+281;141;nome_exato_normalizado;Chibi;チビ;その他;Outros;assets/official_portraits/narutop99_281.png;assets/official_cards/narutop99_281.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+282;157;nome_exato_normalizado;Chukichi;中吉;霧;Kirigakure;assets/official_portraits/narutop99_282.png;assets/official_cards/narutop99_282.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+283;148;nome_exato_normalizado;Chiyo;チヨ;砂;Sunagakure;assets/official_portraits/narutop99_283.png;assets/official_cards/narutop99_283.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+284;152;nome_exato_normalizado;Chojuro;長十郎;霧;Kirigakure;assets/official_portraits/narutop99_284.png;assets/official_cards/narutop99_284.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+285;154;nome_exato_normalizado;Choseki;チョウセキ;岩;Iwagakure;assets/official_portraits/narutop99_285.png;assets/official_cards/narutop99_285.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+286;151;nome_exato_normalizado;Chohan;チョウハン;その他;Outros;assets/official_portraits/narutop99_286.png;assets/official_cards/narutop99_286.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+287;153;nome_exato_normalizado;Chomei(Seven Tails);重明（七尾）;その他;Outros;assets/official_portraits/narutop99_287.png;assets/official_cards/narutop99_287.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+288;150;nome_exato_normalizado;Chiyomatsu;チヨマツ;その他;Outros;assets/official_portraits/narutop99_288.png;assets/official_cards/narutop99_288.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+289;146;nome_exato_normalizado;Chiriku;地陸;その他;Outros;assets/official_portraits/narutop99_289.png;assets/official_cards/narutop99_289.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+290;1278;nome_exato_normalizado;Tsukushi;ツクシ;その他;Outros;assets/official_portraits/narutop99_290.png;assets/official_cards/narutop99_290.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+291;1267;nome_exato_normalizado;Tsuchino;ツチノ;砂;Sunagakure;assets/official_portraits/narutop99_291.png;assets/official_cards/narutop99_291.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+292;;nao_resolvido;Feudal Lord(Land of Earth);土の国の大名;その他;Outros;assets/official_portraits/narutop99_292.png;assets/official_cards/narutop99_292.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+293;1280;nome_exato_normalizado;Tsunade(Fifth Hokage);綱手(五代目火影);木ノ葉;Konohagakure;assets/official_portraits/narutop99_293.png;assets/official_cards/narutop99_293.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+294;1281;nome_exato_normalizado;Tsunami;ツナミ;その他;Outros;assets/official_portraits/narutop99_294.png;assets/official_cards/narutop99_294.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+295;;nao_resolvido;Tsubaki;ツバキ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_295.png;assets/official_cards/narutop99_295.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+296;1283;nome_exato_normalizado;Misumi Tsurugi;剣ミスミ;その他;Outros;assets/official_portraits/narutop99_296.png;assets/official_cards/narutop99_296.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+297;193;nome_exato_normalizado;Deidara;デイダラ;岩;Iwagakure;assets/official_portraits/narutop99_297.png;assets/official_cards/narutop99_297.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+298;1227;nome_exato_normalizado;Teuchi;テウチ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_298.png;assets/official_cards/narutop99_298.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+299;1206;nome_exato_normalizado;Teguse;テグセ;その他;Outros;assets/official_portraits/narutop99_299.png;assets/official_cards/narutop99_299.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+300;1224;nome_exato_normalizado;Tessa;テッサ;砂;Sunagakure;assets/official_portraits/narutop99_300.png;assets/official_cards/narutop99_300.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+301;1226;nome_exato_normalizado;Tetsuru;テツル;その他;Outros;assets/official_portraits/narutop99_301.png;assets/official_cards/narutop99_301.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+302;1208;nome_exato_normalizado;Temari;テマリ;砂;Sunagakure;assets/official_portraits/narutop99_302.png;assets/official_cards/narutop99_302.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+303;1220;nome_exato_normalizado;Terai;テライ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_303.png;assets/official_cards/narutop99_303.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+304;1222;nome_exato_normalizado;Terubo;テルボウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_304.png;assets/official_cards/narutop99_304.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+305;1223;nome_exato_normalizado;Mei Terumi(Fifth Mizukage);照美メイ(五代目水影);霧;Kirigakure;assets/official_portraits/narutop99_305.png;assets/official_cards/narutop99_305.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+306;1212;nome_exato_normalizado;Tenga;天画;その他;Outros;assets/official_portraits/narutop99_306.png;assets/official_cards/narutop99_306.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+307;196;nome_exato_normalizado;Dengaku;デンガク;その他;Outros;assets/official_portraits/narutop99_307.png;assets/official_cards/narutop99_307.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+308;1216;nome_exato_normalizado;Tenten;テンテン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_308.png;assets/official_cards/narutop99_308.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+309;;nao_resolvido;Tendo;天道;その他;Outros;assets/official_portraits/narutop99_309.png;assets/official_cards/narutop99_309.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+310;201;nome_exato_normalizado;Doki;怒鬼;その他;Outros;assets/official_portraits/narutop99_310.png;assets/official_cards/narutop99_310.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+311;;nao_resolvido;Kabure Tokiysuki;時好カブレ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_311.png;assets/official_cards/narutop99_311.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+312;203;nome_exato_normalizado;Mawashi Dokuraku;独楽マワシ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_312.png;assets/official_cards/narutop99_312.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+313;1236;nome_exato_normalizado;Tessen Togeito;棘糸テッセン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_313.png;assets/official_cards/narutop99_313.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+314;644;nome_exato_normalizado;Dosu Kinuta;ドス・キヌタ;その他;Outros;assets/official_portraits/narutop99_314.png;assets/official_cards/narutop99_314.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+315;199;nome_exato_normalizado;Dodai;ドダイ;雲;Kumogakure;assets/official_portraits/narutop99_315.png;assets/official_cards/narutop99_315.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+316;;nao_resolvido;Tobi;トビ;その他;Outros;assets/official_portraits/narutop99_316.png;assets/official_cards/narutop99_316.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+317;1231;nome_exato_normalizado;Tobio;トビオ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_317.png;assets/official_cards/narutop99_317.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+318;1232;nome_exato_normalizado;Tonbo Tobitake;飛竹トンボ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_318.png;assets/official_cards/narutop99_318.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+319;1230;nome_exato_normalizado;Tobimaru;飛丸;砂;Sunagakure;assets/official_portraits/narutop99_319.png;assets/official_cards/narutop99_319.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+320;1243;nome_exato_normalizado;Tomari;トマリ;砂;Sunagakure;assets/official_portraits/narutop99_320.png;assets/official_cards/narutop99_320.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+321;1251;nome_exato_normalizado;Tora;トラ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_321.png;assets/official_cards/narutop99_321.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+322;1253;nome_exato_normalizado;Kumade Toriichi;酉市クマデ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_322.png;assets/official_cards/narutop99_322.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+323;1254;nome_exato_normalizado;Takajo Torikai;鳥飼タカジョウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_323.png;assets/official_cards/narutop99_323.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+324;1255;nome_exato_normalizado;Toroi;トロイ;雲;Kumogakure;assets/official_portraits/narutop99_324.png;assets/official_cards/narutop99_324.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+325;1250;nome_exato_normalizado;Tonton;トントン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_325.png;assets/official_cards/narutop99_325.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+326;859;nome_exato_normalizado;Nae;ナエ;砂;Sunagakure;assets/official_portraits/narutop99_326.png;assets/official_cards/narutop99_326.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+327;861;nome_exato_normalizado;Nagato;長門;その他;Outros;assets/official_portraits/narutop99_327.png;assets/official_cards/narutop99_327.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+328;882;nome_exato_normalizado;Natori;ナトリ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_328.png;assets/official_cards/narutop99_328.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+329;863;nome_exato_normalizado;Raido Namiashi;並足ライドウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_329.png;assets/official_cards/narutop99_329.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+330;865;nome_exato_normalizado;Minato Namikaze(Fourth Hokage);波風ミナト(四代目火影);木ノ葉;Konohagakure;assets/official_portraits/narutop99_330.png;assets/official_cards/narutop99_330.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+331;873;nome_exato_normalizado;Ensui Nara;奈良エンスイ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_331.png;assets/official_cards/narutop99_331.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+332;874;nome_exato_normalizado;Kasuga Nara;奈良カスガ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_332.png;assets/official_cards/narutop99_332.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+333;877;nome_exato_normalizado;Shikaku Nara;奈良シカク;木ノ葉;Konohagakure;assets/official_portraits/narutop99_333.png;assets/official_cards/narutop99_333.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+334;878;nome_exato_normalizado;Shikamaru Nara;奈良シカマル;木ノ葉;Konohagakure;assets/official_portraits/narutop99_334.png;assets/official_cards/narutop99_334.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+335;879;nome_exato_normalizado;Suzaku Nara;奈良スザク;木ノ葉;Konohagakure;assets/official_portraits/narutop99_335.png;assets/official_cards/narutop99_335.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+336;871;nome_exato_normalizado;Daen Nara;奈良ダエン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_336.png;assets/official_cards/narutop99_336.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+337;875;nome_exato_normalizado;Maen Nara;奈良マエン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_337.png;assets/official_cards/narutop99_337.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+338;880;nome_exato_normalizado;Yoshino Nara;奈良ヨシノ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_338.png;assets/official_cards/narutop99_338.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+339;886;nome_exato_normalizado;Nawaki;縄樹;木ノ葉;Konohagakure;assets/official_portraits/narutop99_339.png;assets/official_cards/narutop99_339.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+340;898;nome_exato_normalizado;Yugito Ni'i;二位ユギト;雲;Kumogakure;assets/official_portraits/narutop99_340.png;assets/official_cards/narutop99_340.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+341;900;nome_exato_normalizado;Nishi;西;木ノ葉;Konohagakure;assets/official_portraits/narutop99_341.png;assets/official_cards/narutop99_341.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+342;761;nome_exato_normalizado;Manda(Second);二代目マンダ;その他;Outros;assets/official_portraits/narutop99_342.png;assets/official_cards/narutop99_342.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+343;;nao_resolvido;Tortoise Ninja;忍亀;木ノ葉;Konohagakure;assets/official_portraits/narutop99_343.png;assets/official_cards/narutop99_343.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+344;;nao_resolvido;Ninja Hounds;八忍犬;木ノ葉;Konohagakure;assets/official_portraits/narutop99_344.png;assets/official_cards/narutop99_344.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+345;;nao_resolvido;Ningendo;人間道;その他;Outros;assets/official_portraits/narutop99_345.png;assets/official_cards/narutop99_345.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+346;;nao_resolvido;Ninja Cats;忍猫;その他;Outros;assets/official_portraits/narutop99_346.png;assets/official_cards/narutop99_346.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+347;;nao_resolvido;Granny Cat;猫バア;その他;Outros;assets/official_portraits/narutop99_347.png;assets/official_cards/narutop99_347.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+348;888;nome_exato_normalizado;Nejiri;ネジリ;砂;Sunagakure;assets/official_portraits/narutop99_348.png;assets/official_cards/narutop99_348.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+349;903;nome_exato_normalizado;Rin Nohara;のはらリン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_349.png;assets/official_cards/narutop99_349.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+350;;nao_resolvido;Noburi;ノボリ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_350.png;assets/official_cards/narutop99_350.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+351;105;nome_exato_normalizado;Baiu;バイウ;その他;Outros;assets/official_portraits/narutop99_351.png;assets/official_cards/narutop99_351.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+352;353;transliteracao_e_ordem;Haimaru Three Brothers;灰丸三兄弟;木ノ葉;Konohagakure;assets/official_portraits/narutop99_352.png;assets/official_cards/narutop99_352.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+353;348;nome_exato_normalizado;Kotetsu Hagane;はがねコテツ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_353.png;assets/official_cards/narutop99_353.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+354;107;nome_exato_normalizado;Baki;バキ;砂;Sunagakure;assets/official_portraits/narutop99_354.png;assets/official_cards/narutop99_354.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+355;356;nome_exato_normalizado;Haku;白;霧;Kirigakure;assets/official_portraits/narutop99_355.png;assets/official_cards/narutop99_355.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+356;108;nome_exato_normalizado;Baku;バク;木ノ葉;Konohagakure;assets/official_portraits/narutop99_356.png;assets/official_cards/narutop99_356.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+357;360;nome_exato_normalizado;Hakui;ハクイ;雲;Kumogakure;assets/official_portraits/narutop99_357.png;assets/official_cards/narutop99_357.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+358;1353;nome_exato_normalizado;White Snake Sage;白蛇仙人;その他;Outros;assets/official_portraits/narutop99_358.png;assets/official_cards/narutop99_358.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+359;110;nome_exato_normalizado;Bakuto;バクト;その他;Outros;assets/official_portraits/narutop99_359.png;assets/official_cards/narutop99_359.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+360;950;nome_exato_normalizado;Pakura;パクラ;砂;Sunagakure;assets/official_portraits/narutop99_360.png;assets/official_cards/narutop99_360.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+361;376;nome_exato_normalizado;Kakashi Hatake;はたけカカシ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_361.png;assets/official_cards/narutop99_361.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+362;377;nome_exato_normalizado;Sakumo Hatake;はたけサクモ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_362.png;assets/official_cards/narutop99_362.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+363;949;nome_exato_normalizado;Pakkun;パックン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_363.png;assets/official_cards/narutop99_363.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+364;379;nome_exato_normalizado;Hayase;ハヤセ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_364.png;assets/official_cards/narutop99_364.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+365;370;nome_exato_normalizado;Harine;ハリネ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_365.png;assets/official_cards/narutop99_365.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+366;374;nome_exato_normalizado;Sakura Haruno;春野サクラ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_366.png;assets/official_cards/narutop99_366.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+367;363;nome_exato_normalizado;Han;ハン;岩;Iwagakure;assets/official_portraits/narutop99_367.png;assets/official_cards/narutop99_367.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+368;115;nome_exato_normalizado;Bansai;板斎;その他;Outros;assets/official_portraits/narutop99_368.png;assets/official_cards/narutop99_368.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+369;368;nome_exato_normalizado;Hanzo;半蔵;その他;Outros;assets/official_portraits/narutop99_369.png;assets/official_cards/narutop99_369.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+370;392;nome_exato_normalizado;Hikaru;ヒカル;雲;Kumogakure;assets/official_portraits/narutop99_370.png;assets/official_cards/narutop99_370.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+371;;nao_resolvido;Simon Hijiri;聖シモン;木ノ葉;Konohagakure;assets/official_portraits/narutop99_371.png;assets/official_cards/narutop99_371.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+372;388;nome_exato_normalizado;Hidan;飛段;その他;Outros;assets/official_portraits/narutop99_372.png;assets/official_cards/narutop99_372.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+373;;nao_resolvido;Feudal Lord(Land of Fire);火の国の大名;その他;Outros;assets/official_portraits/narutop99_373.png;assets/official_cards/narutop99_373.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+374;386;nome_exato_normalizado;Hibari;ひばり;木ノ葉;Konohagakure;assets/official_portraits/narutop99_374.png;assets/official_cards/narutop99_374.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+375;441;nome_exato_normalizado;Iroha Hyuga;日向イロハ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_375.png;assets/official_cards/narutop99_375.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+376;442;nome_exato_normalizado;Ko Hyuga;日向コウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_376.png;assets/official_cards/narutop99_376.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+377;445;nome_exato_normalizado;Tokuma Hyuga;日向トクマ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_377.png;assets/official_cards/narutop99_377.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+378;444;nome_exato_normalizado;Neji Hyuga;日向ネジ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_378.png;assets/official_cards/narutop99_378.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+379;435;nome_exato_normalizado;Hanabi Hyuga;日向ハナビ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_379.png;assets/official_cards/narutop99_379.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+380;436;nome_exato_normalizado;Hiashi Hyuga;日向ヒアシ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_380.png;assets/official_cards/narutop99_380.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+381;439;nome_exato_normalizado;Hizashi Hyuga;日向ヒザシ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_381.png;assets/official_cards/narutop99_381.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+382;437;nome_exato_normalizado;Hinata Hyuga;日向ヒナタ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_382.png;assets/official_cards/narutop99_382.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+383;440;nome_exato_normalizado;Hoheto Hyuga;日向ホヘト;木ノ葉;Konohagakure;assets/official_portraits/narutop99_383.png;assets/official_cards/narutop99_383.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+384;134;nome_exato_normalizado;Byakuren(First Mizukage);白蓮(初代水影);霧;Kirigakure;assets/official_portraits/narutop99_384.png;assets/official_cards/narutop99_384.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+385;432;nome_exato_normalizado;Hyo;ヒョウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_385.png;assets/official_cards/narutop99_385.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+386;122;nome_exato_normalizado;Juzo Biwa;枇杷十蔵;霧;Kirigakure;assets/official_portraits/narutop99_386.png;assets/official_cards/narutop99_386.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+387;;nao_resolvido;Foo;フウ;その他;Outros;assets/official_portraits/narutop99_387.png;assets/official_cards/narutop99_387.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+388;230;nome_exato_normalizado;Fukasaku;フカサク;木ノ葉;Konohagakure;assets/official_portraits/narutop99_388.png;assets/official_cards/narutop99_388.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+389;231;nome_exato_normalizado;Fuki;フキ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_389.png;assets/official_cards/narutop99_389.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+390;235;nome_exato_normalizado;Fukuemon;フクエモン;雲;Kumogakure;assets/official_portraits/narutop99_390.png;assets/official_cards/narutop99_390.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+391;252;nome_exato_normalizado;Fuso;扶桑;その他;Outros;assets/official_portraits/narutop99_391.png;assets/official_cards/narutop99_391.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+392;253;nome_exato_normalizado;Futaba;フタバ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_392.png;assets/official_cards/narutop99_392.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+393;130;nome_exato_normalizado;Buna;ブナ;その他;Outros;assets/official_portraits/narutop99_393.png;assets/official_cards/narutop99_393.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+394;241;nome_exato_normalizado;Funari;フナリ;その他;Outros;assets/official_portraits/narutop99_394.png;assets/official_cards/narutop99_394.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+395;249;nome_exato_normalizado;Daikoku Funeno;ふねのダイコク;木ノ葉;Konohagakure;assets/official_portraits/narutop99_395.png;assets/official_cards/narutop99_395.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+396;;nao_resolvido;Blue Bee;ブルービー;雲;Kumogakure;assets/official_portraits/narutop99_396.png;assets/official_cards/narutop99_396.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+397;251;nome_exato_normalizado;Furui;フルイ;雲;Kumogakure;assets/official_portraits/narutop99_397.png;assets/official_cards/narutop99_397.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+398;131;nome_exato_normalizado;Bunpuku;分福;砂;Sunagakure;assets/official_portraits/narutop99_398.png;assets/official_cards/narutop99_398.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+399;384;nome_exato_normalizado;Heki;碧;霧;Kirigakure;assets/official_portraits/narutop99_399.png;assets/official_cards/narutop99_399.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+400;118;nome_exato_normalizado;Bekko;ベッコウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_400.png;assets/official_cards/narutop99_400.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+401;;nao_resolvido;Hoki;ホウキ;その他;Outros;assets/official_portraits/narutop99_401.png;assets/official_cards/narutop99_401.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+402;425;nome_exato_normalizado;Hosho;ホウショウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_402.png;assets/official_cards/narutop99_402.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+403;428;nome_exato_normalizado;Gengetsu Hozuki(Second Mizukage);鬼灯幻月(二代目水影);霧;Kirigakure;assets/official_portraits/narutop99_403.png;assets/official_cards/narutop99_403.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+404;430;nome_exato_normalizado;Suigetsu Hozuki;鬼灯水月;霧;Kirigakure;assets/official_portraits/narutop99_404.png;assets/official_cards/narutop99_404.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+405;429;nome_exato_normalizado;Mangetsu Hozuki;鬼灯満月;霧;Kirigakure;assets/official_portraits/narutop99_405.png;assets/official_cards/narutop99_405.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+406;421;nome_exato_normalizado;Kisame Hoshigaki;干柿鬼鮫;霧;Kirigakure;assets/official_portraits/narutop99_406.png;assets/official_cards/narutop99_406.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+407;952;nome_exato_normalizado;Pochi;ポチ;その他;Outros;assets/official_portraits/narutop99_407.png;assets/official_cards/narutop99_407.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+408;953;nome_exato_normalizado;Ponta;ポン太;その他;Outros;assets/official_portraits/narutop99_408.png;assets/official_cards/narutop99_408.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+409;344;nome_exato_normalizado;Might Guy;マイト・ガイ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_409.png;assets/official_cards/narutop99_409.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+410;;nao_resolvido;Might Dai;マイト・ダイ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_410.png;assets/official_cards/narutop99_410.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+411;754;nome_exato_normalizado;Maki;マキ;砂;Sunagakure;assets/official_portraits/narutop99_411.png;assets/official_cards/narutop99_411.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+412;771;nome_exato_normalizado;Matatabi (Two Tails);又旅（ニ尾）;雲;Kumogakure;assets/official_portraits/narutop99_412.png;assets/official_cards/narutop99_412.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+413;;nao_resolvido;Lady Shijimi;マダム・しじみ;その他;Outros;assets/official_portraits/narutop99_413.png;assets/official_cards/narutop99_413.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+414;772;nome_exato_normalizado;Matsu;松;木ノ葉;Konohagakure;assets/official_portraits/narutop99_414.png;assets/official_cards/narutop99_414.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+415;774;nome_exato_normalizado;Matsuri;マツリ;砂;Sunagakure;assets/official_portraits/narutop99_415.png;assets/official_cards/narutop99_415.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+416;753;nome_exato_normalizado;Mahiru;マヒル;岩;Iwagakure;assets/official_portraits/narutop99_416.png;assets/official_cards/narutop99_416.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+417;749;nome_exato_normalizado;Mabui;マブイ;雲;Kumogakure;assets/official_portraits/narutop99_417.png;assets/official_cards/narutop99_417.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+418;761;nome_exato_normalizado;Manda;マンダ;その他;Outros;assets/official_portraits/narutop99_418.png;assets/official_cards/narutop99_418.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+419;795;nome_exato_normalizado;Migaki;ミガキ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_419.png;assets/official_cards/narutop99_419.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+420;818;nome_exato_normalizado;Mizuki;ミズキ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_420.png;assets/official_cards/narutop99_420.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+421;;nao_resolvido;Feudal Lord(Land of Water);水の国の大名;その他;Outros;assets/official_portraits/narutop99_421.png;assets/official_cards/narutop99_421.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+422;810;nome_exato_normalizado;Mitate;ミタテ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_422.png;assets/official_cards/narutop99_422.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+423;809;nome_exato_normalizado;Anko Mitarashi;みたらしアンコ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_423.png;assets/official_cards/narutop99_423.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+424;790;nome_exato_normalizado;Midare;ミダレ;その他;Outros;assets/official_portraits/narutop99_424.png;assets/official_cards/narutop99_424.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+425;814;nome_exato_normalizado;Dango Mitsuki;観月ダンゴ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_425.png;assets/official_cards/narutop99_425.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+426;811;nome_exato_normalizado;Homura Mitokado;水戸門ホムラ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_426.png;assets/official_cards/narutop99_426.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+427;812;nome_exato_normalizado;Mitoku;ミトク;木ノ葉;Konohagakure;assets/official_portraits/narutop99_427.png;assets/official_cards/narutop99_427.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+428;792;nome_exato_normalizado;Midori;ミドリ;その他;Outros;assets/official_portraits/narutop99_428.png;assets/official_cards/narutop99_428.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+429;802;nome_exato_normalizado;Tomaru Minakura;皆蔵トマル;木ノ葉;Konohagakure;assets/official_portraits/narutop99_429.png;assets/official_cards/narutop99_429.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+430;805;nome_exato_normalizado;Minoji;ミノジ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_430.png;assets/official_cards/narutop99_430.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+431;787;nome_exato_normalizado;Shinobu Mibu;壬生シノブ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_431.png;assets/official_cards/narutop99_431.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+432;794;nome_exato_normalizado;Mifune;ミフネ;その他;Outros;assets/official_portraits/narutop99_432.png;assets/official_cards/narutop99_432.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+433;801;nome_exato_normalizado;Hamaki Mimura;美村ハマキ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_433.png;assets/official_cards/narutop99_433.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+434;807;nome_exato_normalizado;Miru;美瑠;霧;Kirigakure;assets/official_portraits/narutop99_434.png;assets/official_cards/narutop99_434.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+435;844;nome_exato_normalizado;Mu (Second Tsuchikage);無(二代目土影);岩;Iwagakure;assets/official_portraits/narutop99_435.png;assets/official_cards/narutop99_435.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+436;850;nome_exato_normalizado;Mukade;ムカデ;砂;Sunagakure;assets/official_portraits/narutop99_436.png;assets/official_cards/narutop99_436.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+437;853;nome_exato_normalizado;Jinpachi Munashi;無梨甚八;霧;Kirigakure;assets/official_portraits/narutop99_437.png;assets/official_cards/narutop99_437.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+438;845;nome_exato_normalizado;Mubi;夢火;その他;Outros;assets/official_portraits/narutop99_438.png;assets/official_cards/narutop99_438.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+439;;nao_resolvido;Moegi;モエギ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_439.png;assets/official_cards/narutop99_439.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+440;824;nome_exato_normalizado;Mogusa;モグサ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_440.png;assets/official_cards/narutop99_440.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+441;825;nome_exato_normalizado;Kunugi Mokume;木目クヌギ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_441.png;assets/official_cards/narutop99_441.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+442;841;nome_exato_normalizado;Mozuku;モズク;木ノ葉;Konohagakure;assets/official_portraits/narutop99_442.png;assets/official_cards/narutop99_442.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+443;840;nome_exato_normalizado;Motoi;モトイ;雲;Kumogakure;assets/official_portraits/narutop99_443.png;assets/official_cards/narutop99_443.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+444;826;nome_exato_normalizado;Momiji;モミジ;その他;Outros;assets/official_portraits/narutop99_444.png;assets/official_cards/narutop99_444.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+445;831;nome_exato_normalizado;Zabuza Momochi;桃地再不斬;霧;Kirigakure;assets/official_portraits/narutop99_445.png;assets/official_cards/narutop99_445.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+446;837;nome_exato_normalizado;Morio;モリオ;岩;Iwagakure;assets/official_portraits/narutop99_446.png;assets/official_cards/narutop99_446.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+447;835;nome_exato_normalizado;Ibiki Morino;森乃イビキ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_447.png;assets/official_cards/narutop99_447.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+448;838;nome_exato_normalizado;Moroi;モロイ;雲;Kumogakure;assets/official_portraits/narutop99_448.png;assets/official_cards/narutop99_448.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+449;1359;nome_exato_normalizado;Kabuto Yakushi;薬師カブト;木ノ葉;Konohagakure;assets/official_portraits/narutop99_449.png;assets/official_cards/narutop99_449.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+450;1361;transliteracao_e_ordem;Nonou Yakushi;薬師ノノウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_450.png;assets/official_cards/narutop99_450.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+451;;nao_resolvido;Yagura (Fourth Mizukage);やぐら(四代目水影);霧;Kirigakure;assets/official_portraits/narutop99_451.png;assets/official_cards/narutop99_451.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+452;;nao_resolvido;Yajirobe;ヤジロベエ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_452.png;assets/official_cards/narutop99_452.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+453;1376;nome_exato_normalizado;Yashamaru;夜叉丸;砂;Sunagakure;assets/official_portraits/narutop99_453.png;assets/official_cards/narutop99_453.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+454;1358;nome_exato_normalizado;Yakku;ヤック;砂;Sunagakure;assets/official_portraits/narutop99_454.png;assets/official_cards/narutop99_454.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+455;1374;nome_exato_normalizado;Kokage Yanagikage;柳陰コカゲ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_455.png;assets/official_cards/narutop99_455.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+456;1356;nome_exato_normalizado;Yahiko;弥彦;その他;Outros;assets/official_portraits/narutop99_456.png;assets/official_cards/narutop99_456.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+457;1372;nome_exato_normalizado;Aoba Yamashiro;山城アオバ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_457.png;assets/official_cards/narutop99_457.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+458;1373;nome_exato_normalizado;Yamato;ヤマト;木ノ葉;Konohagakure;assets/official_portraits/narutop99_458.png;assets/official_cards/narutop99_458.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+459;1365;nome_exato_normalizado;Ino Yamanaka;山中いの;木ノ葉;Konohagakure;assets/official_portraits/narutop99_459.png;assets/official_cards/narutop99_459.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+460;1367;nome_exato_normalizado;Inoichi Yamanaka;山中いのいち;木ノ葉;Konohagakure;assets/official_portraits/narutop99_460.png;assets/official_cards/narutop99_460.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+461;1370;nome_exato_normalizado;Santa Yamanaka;山中サンタ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_461.png;assets/official_cards/narutop99_461.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+462;;nao_resolvido;Foo Yamanaka;山中フー;木ノ葉;Konohagakure;assets/official_portraits/narutop99_462.png;assets/official_cards/narutop99_462.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+463;1399;nome_exato_normalizado;Yui;ユイ;その他;Outros;assets/official_portraits/narutop99_463.png;assets/official_cards/narutop99_463.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+464;1395;nome_exato_normalizado;Yudachi;ユウダチ;その他;Outros;assets/official_portraits/narutop99_464.png;assets/official_cards/narutop99_464.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+465;1397;nome_exato_normalizado;Kurenai Yuhi;夕日紅;木ノ葉;Konohagakure;assets/official_portraits/narutop99_465.png;assets/official_cards/narutop99_465.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+466;1398;nome_exato_normalizado;Shinku Yuhi;夕日真紅;木ノ葉;Konohagakure;assets/official_portraits/narutop99_466.png;assets/official_cards/narutop99_466.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+467;1409;nome_exato_normalizado;Yura;由良;砂;Sunagakure;assets/official_portraits/narutop99_467.png;assets/official_cards/narutop99_467.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+468;;nao_resolvido;Feudal Lord(Land of Steam);湯の国の大名;その他;Outros;assets/official_portraits/narutop99_468.png;assets/official_cards/narutop99_468.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+469;1410;nome_exato_normalizado;yurika;ユリカ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_469.png;assets/official_cards/narutop99_469.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+470;1392;nome_exato_normalizado;Kiyoi Yotsuki;夜月キヨイ;雲;Kumogakure;assets/official_portraits/narutop99_470.png;assets/official_cards/narutop99_470.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+471;1389;nome_exato_normalizado;Yoshiteru;ヨシテル;その他;Outros;assets/official_portraits/narutop99_471.png;assets/official_cards/narutop99_471.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+472;967;nome_exato_normalizado;Rasa (Fourth Kazekage);羅砂(四代目風影);砂;Sunagakure;assets/official_portraits/narutop99_472.png;assets/official_cards/narutop99_472.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+473;;nao_resolvido;Rashi;ラシイ;雲;Kumogakure;assets/official_portraits/narutop99_473.png;assets/official_cards/narutop99_473.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+474;964;nome_exato_normalizado;Ranka;ランカ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_474.png;assets/official_cards/narutop99_474.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+475;972;nome_exato_normalizado;Riichi;リイチ;その他;Outros;assets/official_portraits/narutop99_475.png;assets/official_cards/narutop99_475.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+476;974;nome_exato_normalizado;Rikumaru;リク丸;木ノ葉;Konohagakure;assets/official_portraits/narutop99_476.png;assets/official_cards/narutop99_476.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+477;993;nome_exato_normalizado;Yatogo Ryugen;りゅうげんヤトゴ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_477.png;assets/official_cards/narutop99_477.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+478;995;nome_exato_normalizado;Ryusa;リュウサ;砂;Sunagakure;assets/official_portraits/narutop99_478.png;assets/official_cards/narutop99_478.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+479;996;nome_exato_normalizado;Ryusui;リュウスイ;その他;Outros;assets/official_portraits/narutop99_479.png;assets/official_cards/narutop99_479.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+480;987;nome_exato_normalizado;Ryokan;リョウカン;砂;Sunagakure;assets/official_portraits/narutop99_480.png;assets/official_cards/narutop99_480.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+481;975;nome_exato_normalizado;Ameyuri Ringo;林檎雨由利;霧;Kirigakure;assets/official_portraits/narutop99_481.png;assets/official_cards/narutop99_481.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+482;969;nome_exato_normalizado;Reki;レキ;砂;Sunagakure;assets/official_portraits/narutop99_482.png;assets/official_cards/narutop99_482.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+483;971;nome_exato_normalizado;Reto (First Kazekage);列斗(初代風影);砂;Sunagakure;assets/official_portraits/narutop99_483.png;assets/official_cards/narutop99_483.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+484;983;nome_exato_normalizado;Roshi;老紫;岩;Iwagakure;assets/official_portraits/narutop99_484.png;assets/official_cards/narutop99_484.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+485;739;nome_exato_normalizado;Rock Lee;ロック・リー;木ノ葉;Konohagakure;assets/official_portraits/narutop99_485.png;assets/official_cards/narutop99_485.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+486;1350;nome_exato_normalizado;Waraji;ワラジ;その他;Outros;assets/official_portraits/narutop99_486.png;assets/official_cards/narutop99_486.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+487;583;nome_exato_normalizado;Kanpo;カンポウ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_487.png;assets/official_cards/narutop99_487.png;https://narutop99.naruto-official.com/en/;NARUTOP99
+488;774;nome_exato_normalizado;Matsuri;マツリ;木ノ葉;Konohagakure;assets/official_portraits/narutop99_488.png;assets/official_cards/narutop99_488.png;https://narutop99.naruto-official.com/en/;NARUTOP99

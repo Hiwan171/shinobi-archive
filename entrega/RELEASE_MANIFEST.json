@@ -1,0 +1,66 @@
+{
+  "release": "v9.0.0",
+  "repository": "https://github.com/Hiwan171/shinobi-archive",
+  "archives": [
+    {
+      "file": "entrega/Naruto_BI_Materiais.zip",
+      "bytes": 108545127,
+      "sha256": "5001d9f206aa3efdc4b42481fa4434d0581ab82156317816624ab2dba9cb66fe",
+      "entries": 1751
+    },
+    {
+      "file": "entrega/ShinobiArchive_HTML_Content.zip",
+      "bytes": 14409324,
+      "sha256": "c0318b01d32596f63409c10fb8543533c6939bef4b358bb8ef697b151785a156",
+      "entries": 236
+    },
+    {
+      "file": "entrega/ShinobiArchive_PowerBI.zip",
+      "bytes": 1304277,
+      "sha256": "6e67b2f219d7bd45c38eb3849f8365cdbcba8c14fa8f34231c8e0d8cebad57da",
+      "entries": 302
+    },
+    {
+      "file": "entrega/versoes/ShinobiArchive_ArquivoNinja_v3_antes_artes_sprites.zip",
+      "bytes": 1551067,
+      "sha256": "e73e2e291c544dfddf5e4b1e87700080c012ddd5b0a47c51e95ce2fb19567c36",
+      "entries": 94
+    },
+    {
+      "file": "entrega/versoes/ShinobiArchive_ArquivoNinja_v4_antes_palco.zip",
+      "bytes": 13297627,
+      "sha256": "96d1e435c8b588c69204142bd4d0c39a8178ecaa6d63cc9da36ff05ab3ccec8b",
+      "entries": 215
+    },
+    {
+      "file": "entrega/versoes/ShinobiArchive_ArquivoNinja_v5_antes_dossie_visual.zip",
+      "bytes": 13318968,
+      "sha256": "bbd39530cb4b3ee5dabad0557ba1064988d2d7373b782458b5a26be37a2bf54d",
+      "entries": 218
+    },
+    {
+      "file": "entrega/versoes/ShinobiArchive_HTML_v2_antes_refinamento.zip",
+      "bytes": 1417034,
+      "sha256": "2040cc1bb932b733000cec7427ac7ac26cec127d62f35f3aa12232716eaa19d7",
+      "entries": 78
+    },
+    {
+      "file": "entrega/versoes/ShinobiArchive_v6_antes_mundo_shinobi.zip",
+      "bytes": 13990029,
+      "sha256": "e2ba104f3de90a2cb66e9f4a67675174492e4cbb8eea843061ac769ef75375e2",
+      "entries": 222
+    },
+    {
+      "file": "entrega/versoes/ShinobiArchive_v7_antes_frente_a_frente.zip",
+      "bytes": 14101528,
+      "sha256": "ad8235b786dae51f1c3ea66f5764c3b913bb631abbf54e196944e145a3ea92ba",
+      "entries": 229
+    },
+    {
+      "file": "entrega/versoes/ShinobiArchive_v8_antes_popularidade.zip",
+      "bytes": 14152123,
+      "sha256": "522ee1554d50bc77cb78285d0f1d99c1d0284fd3e01d82f7ba420535613065c5",
+      "entries": 233
+    }
+  ]
+}

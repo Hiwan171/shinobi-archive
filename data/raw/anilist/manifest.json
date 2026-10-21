@@ -1,0 +1,261 @@
+[
+  {
+    "file": "data/raw/anilist/characters_1735_01.json",
+    "sha256": "ececf8ed307e16e1ea9a6f23f3c9f4e718173b1094b996c41e2d6c1a1bec1529",
+    "bytes": 51772,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:29.237259+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_02.json",
+    "sha256": "2b6bf30baaa8536025835ba6c5d3ee198e62b31e8e11eb81263f05df50acae42",
+    "bytes": 52138,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:32.029687+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_03.json",
+    "sha256": "672909e0f968c480d6ec1763a7c7d33b16b9f5f9637d279c88a9a0f84ddacd5e",
+    "bytes": 38092,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:34.754604+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_04.json",
+    "sha256": "5ef5a1553654e9843e2930c2d4ce6b5e088c5ba17b52363cef1da448492e8650",
+    "bytes": 35390,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:37.417350+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_05.json",
+    "sha256": "aae16cab813da4347f4ee5fdf635bf0e71a0c278723f906aa6c68e71ed275d65",
+    "bytes": 30993,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:40.141014+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_06.json",
+    "sha256": "7de22a32eaa7778cde95d3852a5b674ea1cc598706cbbf50e2e9f49d1655a40b",
+    "bytes": 27944,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:42.802752+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_07.json",
+    "sha256": "271de8dd90af66f0925672b304b677d9f07ff46c8091f662dbddabc8d60b4873",
+    "bytes": 29599,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:45.443623+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_08.json",
+    "sha256": "4e4f77049064619542ca6f725263581fb4df7ff88e1d60dbc9c9ea4ab3a0d4f9",
+    "bytes": 25634,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:48.098143+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_09.json",
+    "sha256": "949bfeb4ea9cea18b35ecae73cda605482ba63f7ac7649e36ba0de76df0ea07c",
+    "bytes": 22723,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:50.825322+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_10.json",
+    "sha256": "0ee32c755378674d9ede56f0f06f4e27b030c3cbeb3868808135e6160ee8f890",
+    "bytes": 26487,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:53.462309+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_11.json",
+    "sha256": "ffdb31f926e18e63d696462be6a36db4e2e5055997fe4069d5534d1961933403",
+    "bytes": 25069,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:56.133624+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_12.json",
+    "sha256": "26bea559f424772ef8416a767e4ba815e5316cba1450053fe1556375288dab75",
+    "bytes": 25996,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:58.842396+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_13.json",
+    "sha256": "3fd34d04eb2e3584e2df43e613a5a8a15572f6f4650d8a1894d321b8fab39f5d",
+    "bytes": 24842,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:01.511800+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_1735_14.json",
+    "sha256": "b34b801be40a9b7dcf699f3a7e0c17adb8102874a675bb49c1fca2a2f902fc86",
+    "bytes": 1839,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:04.029458+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_20_01.json",
+    "sha256": "7e7379a3af7191648f437f0f96f522b9880d9b068cf9cce74ce4a5775aa5a4ed",
+    "bytes": 66570,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:04.596723+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_20_02.json",
+    "sha256": "6f6e7fb29fc1e87bd02b7bb5ff6dc00728740f95dd8607ae3d71565dd6f6cba8",
+    "bytes": 53687,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:07.401178+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_20_03.json",
+    "sha256": "c238c4cd79ec63292a6976123d312ad0b6b7031c7783cf19b56a61c6c0510486",
+    "bytes": 48732,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:10.186167+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_20_04.json",
+    "sha256": "260d388b257399959ad4367b5637393706048793774394c8722fda784746646d",
+    "bytes": 42731,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:12.956870+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_20_05.json",
+    "sha256": "3536c8e53a79fefd575d2631b4a8681a54bb0ecd63acdaa3f038083ef2e76a31",
+    "bytes": 38006,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:15.626559+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_20_06.json",
+    "sha256": "451b2375baf226735e28ee83fcf70c3b91515528884936f9e90004ef62d9fb50",
+    "bytes": 42208,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:18.427153+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_20_07.json",
+    "sha256": "9b68f6f20735bda1e242c484dc6eb017f865de8e6393f52b7a46ae6f2f680d58",
+    "bytes": 33902,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:21.162963+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_20_08.json",
+    "sha256": "8dbfc235b00c0e3b34bacfcaa7094e74f1205b434e3298a7fc2dddf4094ff622",
+    "bytes": 14251,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:23.796539+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_97938_01.json",
+    "sha256": "f0468ca8751c90622d51776683c641cacb7cb6dd9961958bb676fdda75eed4f0",
+    "bytes": 36835,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:09.403744+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_97938_02.json",
+    "sha256": "7d5c9d124d9f292052df3c1510347959cfc43894eec94967cdeae0b531ea3551",
+    "bytes": 28814,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:12.053117+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_97938_03.json",
+    "sha256": "7fc2b36c1f16af032020bc904ef431d829f56b363cc2a097fe633677271b274b",
+    "bytes": 25372,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:14.708525+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_97938_04.json",
+    "sha256": "8714b052f97b8b899163d8ad526cce52ba4561324b8b72735750005dd6a432fc",
+    "bytes": 26132,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:17.338351+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_97938_05.json",
+    "sha256": "b0dd73210dfa310fa57da7fd1880d586fa9fe4dc425bb03248677d30d8cb98a3",
+    "bytes": 27574,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:19.897394+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_97938_06.json",
+    "sha256": "d68ac4243cf1c13160d5be8733bdbcff4f29f0634b0a91d0968b430853cdbeff",
+    "bytes": 30822,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:22.537490+00:00"
+  },
+  {
+    "file": "data/raw/anilist/characters_97938_07.json",
+    "sha256": "650986d07c7d9eb35245599b26d91b2e9c3a34d88827f5daeec642646789d859",
+    "bytes": 20770,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:25.192384+00:00"
+  },
+  {
+    "file": "data/raw/anilist/manifest.json",
+    "sha256": "105d7e642cac0f6806df1fb07c2184e9eba72baa6e76b9fea2fc953d57c32103",
+    "bytes": 9375,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:32.547307+00:00"
+  },
+  {
+    "file": "data/raw/anilist/media_1735.json",
+    "sha256": "11dbe49f43a29ae6b5ac68d6852d709565ed51bffbff3e0452d2acf72af838b3",
+    "bytes": 17498,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:26.417636+00:00"
+  },
+  {
+    "file": "data/raw/anilist/media_20.json",
+    "sha256": "b593e06f56a9f8e0153f4252925970fd3cf75de039b1934bd0d11997330c151c",
+    "bytes": 14210,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:23:01.739731+00:00"
+  },
+  {
+    "file": "data/raw/anilist/media_97938.json",
+    "sha256": "c2484c45060d73e26bfc3414211a3fd504cd756551ac025b577e1f9556f7c5cc",
+    "bytes": 13031,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:06.671246+00:00"
+  },
+  {
+    "file": "data/raw/anilist/search_boruto.json",
+    "sha256": "7b908c44227536ba218a28df26c7d1b923b17cc0c0c0dcd8f0b4d147e87058ef",
+    "bytes": 4561,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:30.300478+00:00"
+  },
+  {
+    "file": "data/raw/anilist/search_boruto_01.json",
+    "sha256": "7b908c44227536ba218a28df26c7d1b923b17cc0c0c0dcd8f0b4d147e87058ef",
+    "bytes": 4561,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:25:27.098101+00:00"
+  },
+  {
+    "file": "data/raw/anilist/search_naruto.json",
+    "sha256": "1d8a6d9551b30e8f55503780fe4aa91d489e0be54468ed9bb323ab98bf98caa1",
+    "bytes": 24793,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:24:27.820468+00:00"
+  },
+  {
+    "file": "data/raw/anilist/search_naruto_01.json",
+    "sha256": "1d8a6d9551b30e8f55503780fe4aa91d489e0be54468ed9bb323ab98bf98caa1",
+    "bytes": 24793,
+    "source": "https://graphql.anilist.co",
+    "retrieved_at_utc": "2026-10-21T11:25:24.580006+00:00"
+  }
+]

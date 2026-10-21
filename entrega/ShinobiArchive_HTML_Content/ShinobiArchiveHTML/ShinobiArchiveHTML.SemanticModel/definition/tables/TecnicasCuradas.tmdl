@@ -1,0 +1,57 @@
+table TecnicasCuradas
+	isHidden
+	lineageTag: 28c281f1-eb49-50e3-b6dc-c81c21fe6437
+
+	column jutsu_id
+		dataType: string
+		lineageTag: 5d1b4093-b67f-51e7-ae8b-0e0f035d8129
+		summarizeBy: none
+		sourceColumn: jutsu_id
+
+	column nome_pt
+		dataType: string
+		lineageTag: 0a4abd59-9626-56c1-b8fe-c73d5b0b0d2d
+		summarizeBy: none
+		sourceColumn: nome_pt
+
+	column categoria
+		dataType: string
+		lineageTag: 80ec52a1-71da-5054-8b32-12e6c2cf5f5f
+		summarizeBy: none
+		sourceColumn: categoria
+
+	column animacao
+		dataType: string
+		lineageTag: 90eb735c-4f2f-58c9-8412-2e5b53ba7f96
+		summarizeBy: none
+		sourceColumn: animacao
+
+	column descricao
+		dataType: string
+		lineageTag: 0247da03-9c62-5568-9ece-be98d9ce44fd
+		summarizeBy: none
+		sourceColumn: descricao
+
+	column url_fonte
+		dataType: string
+		isHidden
+		lineageTag: c680f1a8-de32-53e2-be22-620a1324a27f
+		summarizeBy: none
+		sourceColumn: url_fonte
+
+	column tipo_midia
+		dataType: string
+		lineageTag: 2f90868b-dc59-516c-bb92-4255ddecd438
+		summarizeBy: none
+		sourceColumn: tipo_midia
+
+	partition TecnicasCuradas = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"jutsu_id", type text}, {"nome_pt", type text}, {"categoria", type text}, {"animacao", type text}, {"descricao", type text}, {"url_fonte", type text}, {"tipo_midia", type text}}, "en-US")
+				in
+				    Tipos
+

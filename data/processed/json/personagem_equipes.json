@@ -1,0 +1,3167 @@
+[
+  {
+    "personagem_id": 132,
+    "equipe_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1071,
+    "equipe_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 41,
+    "equipe_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 373,
+    "equipe_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 880,
+    "equipe_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1366,
+    "equipe_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 880,
+    "equipe_id": 2,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "equipe_id": 3,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 684,
+    "equipe_id": 3,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 861,
+    "equipe_id": 3,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1356,
+    "equipe_id": 3,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 203,
+    "equipe_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 391,
+    "equipe_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 706,
+    "equipe_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 948,
+    "equipe_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 964,
+    "equipe_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1232,
+    "equipe_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "equipe_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1367,
+    "equipe_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 6,
+    "equipe_id": 5,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 636,
+    "equipe_id": 5,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "equipe_id": 6,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 29,
+    "equipe_id": 6,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "equipe_id": 6,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "equipe_id": 6,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "equipe_id": 6,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 292,
+    "equipe_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 917,
+    "equipe_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 986,
+    "equipe_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 199,
+    "equipe_id": 8,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1186,
+    "equipe_id": 8,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 56,
+    "equipe_id": 9,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "equipe_id": 10,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 421,
+    "equipe_id": 11,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 807,
+    "equipe_id": 11,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 152,
+    "equipe_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 863,
+    "equipe_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1110,
+    "equipe_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1223,
+    "equipe_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1196,
+    "equipe_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 598,
+    "equipe_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 338,
+    "equipe_id": 15,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 779,
+    "equipe_id": 15,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 258,
+    "equipe_id": 16,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 557,
+    "equipe_id": 16,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 979,
+    "equipe_id": 16,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "equipe_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 29,
+    "equipe_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "equipe_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "equipe_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "equipe_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "equipe_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "equipe_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "equipe_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "equipe_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 5,
+    "equipe_id": 18,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 6,
+    "equipe_id": 18,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 251,
+    "equipe_id": 18,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 297,
+    "equipe_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 680,
+    "equipe_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 804,
+    "equipe_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 47,
+    "equipe_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 811,
+    "equipe_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "equipe_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "equipe_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "equipe_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1297,
+    "equipe_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1336,
+    "equipe_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 207,
+    "equipe_id": 21,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 208,
+    "equipe_id": 21,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 193,
+    "equipe_id": 22,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 282,
+    "equipe_id": 22,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 51,
+    "equipe_id": 23,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "equipe_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 29,
+    "equipe_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 353,
+    "equipe_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 465,
+    "equipe_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "equipe_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 794,
+    "equipe_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 916,
+    "equipe_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "equipe_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 916,
+    "equipe_id": 25,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 42,
+    "equipe_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 100,
+    "equipe_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "equipe_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 348,
+    "equipe_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 436,
+    "equipe_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 571,
+    "equipe_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 968,
+    "equipe_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1019,
+    "equipe_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "equipe_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 274,
+    "equipe_id": 27,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 415,
+    "equipe_id": 28,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 704,
+    "equipe_id": 28,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 992,
+    "equipe_id": 28,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1146,
+    "equipe_id": 28,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 126,
+    "equipe_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 161,
+    "equipe_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 307,
+    "equipe_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "equipe_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 199,
+    "equipe_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "equipe_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "equipe_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1005,
+    "equipe_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1208,
+    "equipe_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1224,
+    "equipe_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1402,
+    "equipe_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 774,
+    "equipe_id": 31,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 847,
+    "equipe_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 222,
+    "equipe_id": 33,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 224,
+    "equipe_id": 33,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 229,
+    "equipe_id": 33,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 622,
+    "equipe_id": 33,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 327,
+    "equipe_id": 34,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 731,
+    "equipe_id": 34,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1074,
+    "equipe_id": 34,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1120,
+    "equipe_id": 34,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1383,
+    "equipe_id": 34,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 281,
+    "equipe_id": 35,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 289,
+    "equipe_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 728,
+    "equipe_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1350,
+    "equipe_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1428,
+    "equipe_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1058,
+    "equipe_id": 37,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 839,
+    "equipe_id": 38,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1383,
+    "equipe_id": 38,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 326,
+    "equipe_id": 39,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 641,
+    "equipe_id": 39,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 997,
+    "equipe_id": 40,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 225,
+    "equipe_id": 41,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 351,
+    "equipe_id": 41,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 570,
+    "equipe_id": 41,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 965,
+    "equipe_id": 41,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1210,
+    "equipe_id": 41,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "equipe_id": 42,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "equipe_id": 42,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "equipe_id": 42,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "equipe_id": 42,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "equipe_id": 42,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 90,
+    "equipe_id": 43,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 405,
+    "equipe_id": 43,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1387,
+    "equipe_id": 43,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1396,
+    "equipe_id": 43,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "equipe_id": 44,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 450,
+    "equipe_id": 44,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 895,
+    "equipe_id": 44,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1020,
+    "equipe_id": 44,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 863,
+    "equipe_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1110,
+    "equipe_id": 45,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1196,
+    "equipe_id": 46,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 148,
+    "equipe_id": 47,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 213,
+    "equipe_id": 47,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 15,
+    "equipe_id": 48,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 156,
+    "equipe_id": 48,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 170,
+    "equipe_id": 48,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 383,
+    "equipe_id": 48,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 929,
+    "equipe_id": 48,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 15,
+    "equipe_id": 49,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 10,
+    "equipe_id": 50,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 445,
+    "equipe_id": 50,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 809,
+    "equipe_id": 50,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 814,
+    "equipe_id": 50,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 964,
+    "equipe_id": 50,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "equipe_id": 50,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "equipe_id": 50,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "equipe_id": 51,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "equipe_id": 51,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "equipe_id": 51,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 42,
+    "equipe_id": 52,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 877,
+    "equipe_id": 52,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1367,
+    "equipe_id": 52,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1212,
+    "equipe_id": 53,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1367,
+    "equipe_id": 53,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1372,
+    "equipe_id": 53,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 548,
+    "equipe_id": 54,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 687,
+    "equipe_id": 54,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 688,
+    "equipe_id": 54,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 504,
+    "equipe_id": 55,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1142,
+    "equipe_id": 55,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 509,
+    "equipe_id": 56,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 970,
+    "equipe_id": 56,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 984,
+    "equipe_id": 56,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "equipe_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 809,
+    "equipe_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "equipe_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "equipe_id": 57,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 572,
+    "equipe_id": 58,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 148,
+    "equipe_id": 59,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "equipe_id": 59,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "equipe_id": 59,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "equipe_id": 59,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 641,
+    "equipe_id": 60,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 29,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "equipe_id": 61,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 554,
+    "equipe_id": 62,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1195,
+    "equipe_id": 62,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "equipe_id": 62,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1369,
+    "equipe_id": 62,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 348,
+    "equipe_id": 63,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 571,
+    "equipe_id": 63,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1195,
+    "equipe_id": 63,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1368,
+    "equipe_id": 63,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 811,
+    "equipe_id": 64,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "equipe_id": 64,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1336,
+    "equipe_id": 64,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 812,
+    "equipe_id": 65,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1086,
+    "equipe_id": 65,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1410,
+    "equipe_id": 65,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 239,
+    "equipe_id": 66,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1289,
+    "equipe_id": 66,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1292,
+    "equipe_id": 66,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1298,
+    "equipe_id": 66,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1308,
+    "equipe_id": 66,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1311,
+    "equipe_id": 66,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1313,
+    "equipe_id": 66,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1316,
+    "equipe_id": 66,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1317,
+    "equipe_id": 66,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "equipe_id": 67,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 863,
+    "equipe_id": 68,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1110,
+    "equipe_id": 68,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1122,
+    "equipe_id": 68,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1196,
+    "equipe_id": 68,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 835,
+    "equipe_id": 69,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 841,
+    "equipe_id": 69,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 787,
+    "equipe_id": 70,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 441,
+    "equipe_id": 71,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 838,
+    "equipe_id": 71,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 135,
+    "equipe_id": 72,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "equipe_id": 72,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 636,
+    "equipe_id": 72,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1055,
+    "equipe_id": 73,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1056,
+    "equipe_id": 73,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 588,
+    "equipe_id": 74,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 966,
+    "equipe_id": 74,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 724,
+    "equipe_id": 75,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 206,
+    "equipe_id": 76,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 360,
+    "equipe_id": 76,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1098,
+    "equipe_id": 76,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 228,
+    "equipe_id": 77,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 959,
+    "equipe_id": 77,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 67,
+    "equipe_id": 78,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 145,
+    "equipe_id": 78,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 598,
+    "equipe_id": 78,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 907,
+    "equipe_id": 78,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 145,
+    "equipe_id": 79,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 361,
+    "equipe_id": 80,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 470,
+    "equipe_id": 80,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1122,
+    "equipe_id": 80,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1152,
+    "equipe_id": 80,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1379,
+    "equipe_id": 80,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1337,
+    "equipe_id": 81,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 25,
+    "equipe_id": 82,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 120,
+    "equipe_id": 82,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 158,
+    "equipe_id": 82,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 870,
+    "equipe_id": 82,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1109,
+    "equipe_id": 82,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 425,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 494,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 583,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 652,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 706,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 733,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 795,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 810,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 824,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 948,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1318,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1361,
+    "equipe_id": 83,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 785,
+    "equipe_id": 84,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 843,
+    "equipe_id": 85,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 76,
+    "equipe_id": 86,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 822,
+    "equipe_id": 86,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1354,
+    "equipe_id": 86,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 670,
+    "equipe_id": 87,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1123,
+    "equipe_id": 87,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1276,
+    "equipe_id": 87,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 223,
+    "equipe_id": 88,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 382,
+    "equipe_id": 88,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 422,
+    "equipe_id": 88,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 590,
+    "equipe_id": 88,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 723,
+    "equipe_id": 88,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 924,
+    "equipe_id": 88,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 926,
+    "equipe_id": 88,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 397,
+    "equipe_id": 89,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1122,
+    "equipe_id": 90,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "equipe_id": 91,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "equipe_id": 91,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "equipe_id": 91,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 727,
+    "equipe_id": 92,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 148,
+    "equipe_id": 93,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "equipe_id": 93,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 285,
+    "equipe_id": 94,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 540,
+    "equipe_id": 94,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 958,
+    "equipe_id": 94,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 29,
+    "equipe_id": 95,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "equipe_id": 95,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "equipe_id": 95,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "equipe_id": 95,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "equipe_id": 95,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "equipe_id": 95,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 463,
+    "equipe_id": 96,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 550,
+    "equipe_id": 96,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 696,
+    "equipe_id": 96,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1027,
+    "equipe_id": 96,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1248,
+    "equipe_id": 96,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1287,
+    "equipe_id": 97,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 754,
+    "equipe_id": 98,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 905,
+    "equipe_id": 98,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "equipe_id": 99,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "equipe_id": 99,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 596,
+    "equipe_id": 99,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 653,
+    "equipe_id": 99,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 725,
+    "equipe_id": 99,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 883,
+    "equipe_id": 99,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1128,
+    "equipe_id": 99,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 80,
+    "equipe_id": 100,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 135,
+    "equipe_id": 100,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 729,
+    "equipe_id": 100,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 36,
+    "equipe_id": 101,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 122,
+    "equipe_id": 101,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 152,
+    "equipe_id": 101,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 421,
+    "equipe_id": 101,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "equipe_id": 101,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 716,
+    "equipe_id": 101,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 724,
+    "equipe_id": 101,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 831,
+    "equipe_id": 101,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 853,
+    "equipe_id": 101,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 975,
+    "equipe_id": 101,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1145,
+    "equipe_id": 101,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1309,
+    "equipe_id": 102,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 278,
+    "equipe_id": 103,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 834,
+    "equipe_id": 103,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1129,
+    "equipe_id": 103,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1240,
+    "equipe_id": 103,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 273,
+    "equipe_id": 104,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 449,
+    "equipe_id": 104,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 781,
+    "equipe_id": 104,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 637,
+    "equipe_id": 105,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 517,
+    "equipe_id": 106,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 626,
+    "equipe_id": 106,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1015,
+    "equipe_id": 106,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1203,
+    "equipe_id": 106,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "equipe_id": 106,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "equipe_id": 107,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "equipe_id": 107,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "equipe_id": 107,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "equipe_id": 107,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "equipe_id": 108,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1381,
+    "equipe_id": 109,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 107,
+    "equipe_id": 110,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 337,
+    "equipe_id": 110,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 454,
+    "equipe_id": 110,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 520,
+    "equipe_id": 110,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 995,
+    "equipe_id": 110,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1013,
+    "equipe_id": 110,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1237,
+    "equipe_id": 110,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1409,
+    "equipe_id": 110,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 213,
+    "equipe_id": 111,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 440,
+    "equipe_id": 112,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 485,
+    "equipe_id": 112,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "equipe_id": 112,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 646,
+    "equipe_id": 112,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 920,
+    "equipe_id": 112,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "equipe_id": 112,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1186,
+    "equipe_id": 112,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1418,
+    "equipe_id": 112,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 157,
+    "equipe_id": 113,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 193,
+    "equipe_id": 113,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1042,
+    "equipe_id": 113,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1094,
+    "equipe_id": 113,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 430,
+    "equipe_id": 114,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 521,
+    "equipe_id": 114,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 593,
+    "equipe_id": 114,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "equipe_id": 114,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 39,
+    "equipe_id": 115,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "equipe_id": 115,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 618,
+    "equipe_id": 115,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 876,
+    "equipe_id": 115,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "equipe_id": 115,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1034,
+    "equipe_id": 115,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "equipe_id": 115,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1368,
+    "equipe_id": 115,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 435,
+    "equipe_id": 116,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 499,
+    "equipe_id": 116,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 550,
+    "equipe_id": 116,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 719,
+    "equipe_id": 116,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1166,
+    "equipe_id": 116,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 435,
+    "equipe_id": 117,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 16,
+    "equipe_id": 118,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 459,
+    "equipe_id": 118,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 495,
+    "equipe_id": 118,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 668,
+    "equipe_id": 118,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 720,
+    "equipe_id": 118,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 803,
+    "equipe_id": 118,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1163,
+    "equipe_id": 118,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1179,
+    "equipe_id": 118,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "equipe_id": 119,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 668,
+    "equipe_id": 120,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 720,
+    "equipe_id": 120,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1179,
+    "equipe_id": 120,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "equipe_id": 121,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 328,
+    "equipe_id": 122,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 483,
+    "equipe_id": 122,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 923,
+    "equipe_id": 122,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 328,
+    "equipe_id": 123,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 835,
+    "equipe_id": 123,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 568,
+    "equipe_id": 124,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 738,
+    "equipe_id": 124,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1400,
+    "equipe_id": 124,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 477,
+    "equipe_id": 125,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 609,
+    "equipe_id": 126,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 813,
+    "equipe_id": 126,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "equipe_id": 126,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "equipe_id": 126,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "equipe_id": 126,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "equipe_id": 127,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 29,
+    "equipe_id": 127,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "equipe_id": 127,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "equipe_id": 127,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1397,
+    "equipe_id": 127,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "equipe_id": 128,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 610,
+    "equipe_id": 129,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 24,
+    "equipe_id": 130,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 257,
+    "equipe_id": 130,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1147,
+    "equipe_id": 130,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 24,
+    "equipe_id": 131,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 62,
+    "equipe_id": 132,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 665,
+    "equipe_id": 132,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1115,
+    "equipe_id": 132,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "equipe_id": 133,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "equipe_id": 134,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 113,
+    "equipe_id": 135,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 631,
+    "equipe_id": 135,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1002,
+    "equipe_id": 135,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 212,
+    "equipe_id": 136,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 344,
+    "equipe_id": 136,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1110,
+    "equipe_id": 136,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 42,
+    "equipe_id": 137,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 8,
+    "equipe_id": 138,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 644,
+    "equipe_id": 138,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "equipe_id": 138,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1265,
+    "equipe_id": 138,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 212,
+    "equipe_id": 139,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 477,
+    "equipe_id": 139,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 618,
+    "equipe_id": 139,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "equipe_id": 139,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 221,
+    "equipe_id": 140,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 624,
+    "equipe_id": 140,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1386,
+    "equipe_id": 140,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 221,
+    "equipe_id": 141,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 276,
+    "equipe_id": 142,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 523,
+    "equipe_id": 142,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1148,
+    "equipe_id": 142,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 191,
+    "equipe_id": 143,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 329,
+    "equipe_id": 143,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1205,
+    "equipe_id": 143,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 339,
+    "equipe_id": 144,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 341,
+    "equipe_id": 144,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 628,
+    "equipe_id": 144,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 629,
+    "equipe_id": 144,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 909,
+    "equipe_id": 144,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 976,
+    "equipe_id": 144,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 344,
+    "equipe_id": 145,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "equipe_id": 145,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "equipe_id": 145,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "equipe_id": 145,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "equipe_id": 146,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "equipe_id": 146,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "equipe_id": 146,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "equipe_id": 146,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "equipe_id": 147,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 865,
+    "equipe_id": 147,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 27,
+    "equipe_id": 148,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1283,
+    "equipe_id": 148,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "equipe_id": 148,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1360,
+    "equipe_id": 148,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 491,
+    "equipe_id": 149,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 546,
+    "equipe_id": 149,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1362,
+    "equipe_id": 149,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "equipe_id": 150,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "equipe_id": 150,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 864,
+    "equipe_id": 150,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "equipe_id": 150,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1135,
+    "equipe_id": 150,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "equipe_id": 150,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "equipe_id": 150,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "equipe_id": 150,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 133,
+    "equipe_id": 151,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 619,
+    "equipe_id": 151,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 857,
+    "equipe_id": 151,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 301,
+    "equipe_id": 152,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 457,
+    "equipe_id": 152,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 681,
+    "equipe_id": 152,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 800,
+    "equipe_id": 153,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1402,
+    "equipe_id": 153,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 774,
+    "equipe_id": 154,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "equipe_id": 155,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 865,
+    "equipe_id": 155,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 903,
+    "equipe_id": 155,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "equipe_id": 155,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 526,
+    "equipe_id": 156,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 845,
+    "equipe_id": 156,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 911,
+    "equipe_id": 156,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 981,
+    "equipe_id": 156,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "equipe_id": 157,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "equipe_id": 157,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "equipe_id": 157,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "equipe_id": 157,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 809,
+    "equipe_id": 158,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "equipe_id": 158,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1360,
+    "equipe_id": 158,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 16,
+    "equipe_id": 159,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 654,
+    "equipe_id": 159,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "equipe_id": 160,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "equipe_id": 160,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1337,
+    "equipe_id": 160,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "equipe_id": 160,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 797,
+    "equipe_id": 161,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 848,
+    "equipe_id": 161,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1012,
+    "equipe_id": 161,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 596,
+    "equipe_id": 162,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 920,
+    "equipe_id": 162,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1019,
+    "equipe_id": 162,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 758,
+    "equipe_id": 163,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1022,
+    "equipe_id": 163,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1048,
+    "equipe_id": 163,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 805,
+    "equipe_id": 164,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1081,
+    "equipe_id": 164,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1188,
+    "equipe_id": 164,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 593,
+    "equipe_id": 165,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 105,
+    "equipe_id": 166,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 790,
+    "equipe_id": 166,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1085,
+    "equipe_id": 166,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 88,
+    "equipe_id": 167,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1100,
+    "equipe_id": 167,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1377,
+    "equipe_id": 167,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1105,
+    "equipe_id": 168,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1059,
+    "equipe_id": 169,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1106,
+    "equipe_id": 169,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1382,
+    "equipe_id": 169,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1310,
+    "equipe_id": 170,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 830,
+    "equipe_id": 171,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 856,
+    "equipe_id": 171,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1284,
+    "equipe_id": 171,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 408,
+    "equipe_id": 172,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 649,
+    "equipe_id": 172,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 854,
+    "equipe_id": 172,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1143,
+    "equipe_id": 172,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "equipe_id": 173,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "equipe_id": 173,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "equipe_id": 173,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 811,
+    "equipe_id": 174,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "equipe_id": 174,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "equipe_id": 174,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1336,
+    "equipe_id": 174,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 29,
+    "equipe_id": 175,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "equipe_id": 175,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "equipe_id": 175,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "equipe_id": 175,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "equipe_id": 175,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1193,
+    "equipe_id": 176,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1256,
+    "equipe_id": 176,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1413,
+    "equipe_id": 176,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 344,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 613,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 754,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 833,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 873,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 910,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 963,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 985,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1176,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1196,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1370,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1414,
+    "equipe_id": 177,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 489,
+    "equipe_id": 178,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 490,
+    "equipe_id": 178,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 493,
+    "equipe_id": 178,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 989,
+    "equipe_id": 179,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 990,
+    "equipe_id": 179,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 991,
+    "equipe_id": 179,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 107,
+    "equipe_id": 180,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "equipe_id": 180,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "equipe_id": 180,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1208,
+    "equipe_id": 180,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1068,
+    "equipe_id": 181,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1069,
+    "equipe_id": 181,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1070,
+    "equipe_id": 181,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1401,
+    "equipe_id": 182,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 146,
+    "equipe_id": 183,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 622,
+    "equipe_id": 183,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 651,
+    "equipe_id": 183,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 885,
+    "equipe_id": 183,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1034,
+    "equipe_id": 183,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1053,
+    "equipe_id": 183,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1259,
+    "equipe_id": 183,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "equipe_id": 184,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 348,
+    "equipe_id": 184,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 571,
+    "equipe_id": 184,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 863,
+    "equipe_id": 184,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "equipe_id": 184,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 973,
+    "equipe_id": 184,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1034,
+    "equipe_id": 184,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "equipe_id": 184,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1372,
+    "equipe_id": 184,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 787,
+    "equipe_id": 185,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1360,
+    "equipe_id": 185,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 230,
+    "equipe_id": 186,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1091,
+    "equipe_id": 186,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 478,
+    "equipe_id": 187,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 592,
+    "equipe_id": 187,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 686,
+    "equipe_id": 187,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 414,
+    "equipe_id": 188,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 417,
+    "equipe_id": 188,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 860,
+    "equipe_id": 188,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1229,
+    "equipe_id": 189,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1426,
+    "equipe_id": 189,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1208,
+    "equipe_id": 190,
+    "fonte": "Dattebayo"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "ownedModelDefinitionsMatchBetweenMainAndOpenProject": {
+    "InterfaceHTML.tmdl": true,
+    "TecnicasCuradas.tmdl": true,
+    "Indicadores.tmdl": true
+  },
+  "liveModelHtmlMatchesCompiledSources": true,
+  "guardedCodeChunks": 41,
+  "version": "9.0.0",
+  "note": "Live model exported and DAX verified after native Apply and Save; partial Popularidade rendering reviewed in Desktop; final native capture unavailable, final DAX readback verified after last Apply and Save."
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "serie_anilist_id": 20,
+    "status_lista": "CURRENT",
+    "usuarios": 64826,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "status_lista": "PLANNING",
+    "usuarios": 47826,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "status_lista": "COMPLETED",
+    "usuarios": 569625,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "status_lista": "DROPPED",
+    "usuarios": 26692,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "status_lista": "PAUSED",
+    "usuarios": 26095,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "status_lista": "CURRENT",
+    "usuarios": 76529,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "status_lista": "PLANNING",
+    "usuarios": 51519,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "status_lista": "COMPLETED",
+    "usuarios": 435395,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "status_lista": "DROPPED",
+    "usuarios": 26269,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "status_lista": "PAUSED",
+    "usuarios": 28416,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "status_lista": "CURRENT",
+    "usuarios": 67616,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "status_lista": "PLANNING",
+    "usuarios": 30391,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "status_lista": "COMPLETED",
+    "usuarios": 40577,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "status_lista": "DROPPED",
+    "usuarios": 55695,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "status_lista": "PAUSED",
+    "usuarios": 33038,
+    "fonte": "AniList"
+  }
+]

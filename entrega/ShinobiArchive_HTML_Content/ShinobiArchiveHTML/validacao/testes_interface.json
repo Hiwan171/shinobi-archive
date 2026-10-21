@@ -1,0 +1,28 @@
+{
+  "input": "C:\\Users\\User\\Desktop\\BI\\BI MCP\\powerbi\\build\\html\\saida_real_dax.html",
+  "passed": 21,
+  "results": [
+    "Catálogo completo vindo do modelo",
+    "Ficha inicial de Naruto",
+    "Retratos mantêm altura e rolagem do catálogo",
+    "Busca e seleção alteram a ficha",
+    "A fase altera as medidas físicas",
+    "Barra abre os membros reais do grupo",
+    "Membro abre seu próprio dossiê",
+    "Técnica mostra usuários vinculados",
+    "Comparador cruza Naruto e Sasuke",
+    "Trocar personagem recalcula interseção",
+    "Votação global sem duplicação",
+    "Região recalcula ranking e votos",
+    "Naruto tem 220 episódios",
+    "Todas as classificações são visíveis",
+    "Shippuden filtra episódios e arcos",
+    "Boruto filtra episódios e arcos",
+    "O arco reduz a lista de episódios",
+    "Créditos e limites acessíveis",
+    "Escape fecha a sobreposição",
+    "Sem transbordamento horizontal na largura menor",
+    "JavaScript sem erros"
+  ],
+  "errors": []
+}

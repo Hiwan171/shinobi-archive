@@ -1,0 +1,35 @@
+table generos_por_serie
+	isHidden
+	lineageTag: 80b55704-3339-5ae2-b958-903a07153e36
+
+	column serie_anilist_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 47ee7ae0-f925-5254-8b63-7b882f63bc0e
+		summarizeBy: none
+		sourceColumn: serie_anilist_id
+
+	column genero
+		dataType: string
+		lineageTag: 57c3d651-8935-54c7-8de8-5b840e9bceef
+		summarizeBy: none
+		sourceColumn: genero
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: f0b1f1b7-9163-591a-8a01-aaf8e351b0f8
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition generos_por_serie = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCqWXO0/DMBSF/4vnDvE76YaomGCBEaHKag2K1DgoSZEqxH+njL6RgHPvWvU792mf+PlTzXnq8z6V/tTPy74/qq1pNuotlzyNaqtuDks/FrVRr2NZ8s8Ppb+//lN9bf5mjx+5LOcp8/DbccjHC4/dTWlIPPQulSXNzLhP5/c8lXQtOp3+reA7x+84geGW1zzY8xi0KHjNg8E7G/htIzCcec2LMsd2tWbRZa1p1rbqJso2jgiAvdPRev7YKY0nXwvIkscmT2B09ARnzd5oJ7iqKI3bg4tGEJ7Q0vCoP9U0Oj6nreDUOGcjv3OEZq1OsEZwbgmN2pQNguopjbtcLQAm3xon8DlCo/dV00TJbUtwOLpvO0l0gjOcqlZ4uMxLnpACghcVUONw+0IbRNFb2TeStkFy7lY4nkBoo+Axs8LFCYCGT2jY8Qn/OA6pHPjZ8z4XO6+1YAYER01XG9FzluL4NwNRgPP3sZPkX+PoOyV2thW8sSiOv7KIAnwCrgZktMzAjBZ6CJFAb3HvrRMMYc3jJVAJ8BqjODxFKsC7iILxQbILK55hB0QC3YXgvbGSEijPKIFI/DLMl28mWFoRXxQAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"serie_anilist_id", Int64.Type}, {"genero", type text}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

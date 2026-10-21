@@ -1,0 +1,62 @@
+table ranking_demografico
+	lineageTag: 6e479b53-e402-5e41-9d87-352bd1e0ddfb
+
+	column narutop99_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: d76b185e-4573-5087-8a98-ad9e5cba0eb8
+		summarizeBy: none
+		sourceColumn: narutop99_id
+
+	column genero_votante
+		dataType: string
+		lineageTag: b7c9a46c-adc9-55d1-90a0-0d0f0ef7e5a4
+		summarizeBy: none
+		sourceColumn: genero_votante
+
+	column faixa_etaria_votante
+		dataType: string
+		lineageTag: 798eb0df-8019-550e-88b7-c89947d822a8
+		summarizeBy: none
+		sourceColumn: faixa_etaria_votante
+
+	column posicao
+		dataType: int64
+		formatString: #,0
+		lineageTag: f0d9359a-04f2-5e8f-9ccf-537ca0eaecba
+		summarizeBy: none
+		sourceColumn: posicao
+
+	column personagem_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 6b8040a0-e956-5bba-95ee-79c3f276069b
+		summarizeBy: none
+		sourceColumn: personagem_id
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 3874a0f0-7df8-598d-bf83-08335a13de77
+		summarizeBy: none
+		sourceColumn: fonte
+
+	column resultado_ano
+		dataType: int64
+		formatString: #,0
+		lineageTag: 8a159d88-a0a0-5029-bfbf-e3a7114b3872
+		summarizeBy: none
+		sourceColumn: resultado_ano
+
+	partition ranking_demografico = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCs2bz4rbQAzG38XXJuD5Z8d76wu0pbSnUsLQ9W4D2XhxvKVQ+u7NtpeSGWJppNHMbSHr8CHpJ4++aL78ak5+flmm52HYH+6bO2PaTfM4nsZ52v+YFn9axuau8cdjs2ke/OGn34+Lnw/+vw9Vu1XD5ePn6Xz45qfmTl3+HufzdPKP49Pfb9117vL49O//3739+PnT+w/D6zPzeH45Lv5+2vvT5UndavN7w6BJt1tdmybTbk1eTZ3CarLt1q5oMn0nGyfXbl1tuevaNzkV4RMXQKcDSUoPRlRTAB27JtN1ZOp0pMKtrKaAugo0BdRxa8LX0xV0NVRTgJ0pn7kAO1M8cwF0hj13+B4eUGeKd/EAOlNBjV9hx15NPRk6G0bJqFZUUwAduybDgJ1lPs0xHDAtf4XTsWOPU0+ELkM1aTJ2LhKlXjZzAXaOe17ZaTJ1oSZrellNAXbcmhz9gOkiNW6tqKYr6tgVxU8pT/44Vmen3BZVyE+5LSq/oZIgCuCoyIsqZKncFpXbU+np6Gn2g6aioyfj9CDRq0EUwFaRFwXwVeRF5XZWEiQBnBWqqJ7OnuE/l3d0+LhHdG16OnyhKKeccKQA/koOuw4FH78kTYfPso96mg4ft6iUMgdYLPJlDjBZ5BsCwGShRSqhn+d2WV6DTEXPxd57g3BFgXwW9lkdiR7/uM5x6OR2pBzDa489UgmFvu615Cjzh5HstuQ4IazJAvgtJWQBHBeqLJUgK/8WS5IsgOtClZWSxFXfJcOvxWgMZUZSNIZa5tcrNIe6isoqtNeC5pBdVtT9RHKoRSxZNIimClkAIybD7gYaQ3bPasfyOoy5Vlo+iQA3pkASV+2YIh0e5MiQVhRYjqWxCbrtpWUBTBmqLBYO2XdfHMvr0MrM0UgQrcQcjcbQ1RGr/HswSR0eYNEQOzzLsdRV0R4gLk2B9lBmJ2Zavo9zyaWYaGWtqMrv0qTESuCeUUKsQB6NeKwKLcasqMq8GZOUP4BDUyB/AIOGGKvo7iWWQM29EZoSK4A7k2H8wgIoY/zhAKxCk8CCjGIAsApVAvePUvoCwJgh9oWUzl5oSQaHILumlPwBTBla/jrLQGDU/DDS+QPdRbLCfSG/IxNdSsECKHO/DQeg0P02LIEy93+wCLLftnEMAEYnecVtL2AJlLkFhCWwClXMTszXPySOZkXtRQAA", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"narutop99_id", Int64.Type}, {"genero_votante", type text}, {"faixa_etaria_votante", type text}, {"posicao", Int64.Type}, {"personagem_id", Int64.Type}, {"fonte", type text}, {"resultado_ano", Int64.Type}}, "en-US")
+				in
+				    Tipos
+

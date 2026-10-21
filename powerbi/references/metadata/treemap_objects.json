@@ -1,0 +1,30 @@
+{
+  "data": {
+    "objects": [
+      "categoryLabels",
+      "dataPoint",
+      "general",
+      "labels",
+      "layout",
+      "legend"
+    ],
+    "visualContainerObjects": [
+      "actionButtonSection",
+      "background",
+      "border",
+      "divider",
+      "dropShadow",
+      "general",
+      "lockAspect",
+      "padding",
+      "spacing",
+      "stylePreset",
+      "subTitle",
+      "title",
+      "visualHeader",
+      "visualHeaderTooltip",
+      "visualLink",
+      "visualTooltip"
+    ]
+  }
+}

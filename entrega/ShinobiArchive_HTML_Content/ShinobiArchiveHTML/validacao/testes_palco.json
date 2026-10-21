@@ -1,0 +1,29 @@
+{
+  "input": "C:\\Users\\User\\Desktop\\BI\\BI MCP\\powerbi\\build\\html\\saida_real_dax.html",
+  "passed": 22,
+  "results": [
+    "Arte central ocupa o palco e permanece dentro dele",
+    "Prévia e informações ao lado do personagem",
+    "Lista completa recolhida para dar espaço à demonstração",
+    "Abas acessíveis por teclado",
+    "Vínculos mantêm familiares e acesso às equipes",
+    "Todas as relações continuam disponíveis",
+    "Ficha completa preserva patente, sangue, equipes e linhagens",
+    "Fase altera medidas e arte oficial",
+    "Busca do arsenal preservada na biblioteca",
+    "Selecionar técnica fecha biblioteca e atualiza prévia",
+    "Descrição completa e fonte da técnica acessíveis",
+    "Escape fecha biblioteca e devolve foco",
+    "Consultar história preserva execução da demonstração",
+    "Arte responde ao cursor",
+    "Movimento reduzido respeita preferência do sistema",
+    "Sem transbordamento horizontal em 1366x768",
+    "Conteúdo inferior alcançável em 1366x768",
+    "Sem transbordamento horizontal em 1100x720",
+    "Conteúdo inferior alcançável em 1100x720",
+    "Sem transbordamento horizontal em 900x720",
+    "Conteúdo inferior alcançável em 900x720",
+    "Sem erros de JavaScript"
+  ],
+  "errors": []
+}

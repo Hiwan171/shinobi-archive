@@ -1,0 +1,52 @@
+table simbolos_vilas
+	lineageTag: f4b5ef62-5030-5555-9460-cf8bcd8f04c4
+
+	column vila_id
+		dataType: int64
+		formatString: #,0
+		lineageTag: c016cec8-e94b-5970-9f30-f2594ce3e2c3
+		summarizeBy: none
+		sourceColumn: vila_id
+
+	column nome_vila
+		dataType: string
+		lineageTag: bd8bc614-1aaa-5ce8-beff-27d627792d90
+		summarizeBy: none
+		sourceColumn: nome_vila
+
+	column arquivo_local
+		dataType: string
+		lineageTag: 4ba4d9f4-e239-540f-8338-74fefef91b5c
+		summarizeBy: none
+		sourceColumn: arquivo_local
+
+	column url_fonte
+		dataType: string
+		isHidden
+		lineageTag: a24082b8-8197-5eef-834f-ee9c30d5b781
+		summarizeBy: none
+		sourceColumn: url_fonte
+
+	column sha256
+		dataType: string
+		lineageTag: a0697404-d099-5aba-aa99-9871f2d27fa8
+		summarizeBy: none
+		sourceColumn: sha256
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 64befde7-c1b0-572b-b8a2-304d64617f4b
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition simbolos_vilas = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCq2TS4sbMRCE/8ucvZ5uPVu+5RgCScjjFIJpSS172PHMxuOxCSH/PdpkA9nFkDn4IBBSUVJ/VH350Zy7nrddbjboVs0wHmT7eNJsmjfjMO55x/fzUZpVw8dvc3cet/2YuK/XPE1ymtrp+yGO/dTe/1avp/Ouaudjvy3jcJKq259OD9OmbQc+zqfxIYT1n93dWEqXOu7XaTy03WHX1nd73sldl8bhye/usn+ynPasrKt+mW1mtOR8ylqRolhiUGR9jkVLYALx4hFRe7BkkyjG6EoA8tEhUfX6+7W3rz58/vTufQjNz9U/IBQ9B/FxHhZjmKr2dhAe3a4g0IkEIvhEMYRiuBiM4kuOHqXYZEr2MStMYFMwQMpHyMVqCiLJSiz/R4DmRRa6Y7c4CVV7wxxUt2sICulckNFYStFZrQphsIlUAYciDkP02SQkJq8TxmA8BdZgQtZO1AIE/gWC+TAuRlC1N0RQ3a4gABZgk6COn42LYDFi8ozZpyBBORNj9oKAjh1CtlEL1RqkjJ4AlF6AAJ8jeH1Z3IPucsMaVLMr8yeW2m4MoIoQFCAsqjgwTht2XBMfpFYkKqRSFwDHjBoKa1ZBUML1+b/+AuBp5ZwTBQAA", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"vila_id", Int64.Type}, {"nome_vila", type text}, {"arquivo_local", type text}, {"url_fonte", type text}, {"sha256", type text}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

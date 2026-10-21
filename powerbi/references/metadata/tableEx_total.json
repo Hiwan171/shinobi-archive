@@ -1,0 +1,56 @@
+{
+  "data": {
+    "totals": {
+      "type": "bool",
+      "displayName": "Totals"
+    },
+    "label": {
+      "type": "text",
+      "displayName": "Total label"
+    },
+    "outlineStyle": {
+      "type": "unknown",
+      "displayName": "Outline"
+    },
+    "outlineColor": {
+      "type": "fill",
+      "displayName": "Outline color",
+      "description": "Color of the outline"
+    },
+    "outlineWeight": {
+      "type": "numeric",
+      "displayName": "Outline weight",
+      "description": "Thickness of the outline in pixels"
+    },
+    "fontFamily": {
+      "type": "formatting",
+      "displayName": "Font family"
+    },
+    "fontSize": {
+      "type": "formatting",
+      "displayName": "Text size"
+    },
+    "bold": {
+      "type": "bool",
+      "displayName": "Bold"
+    },
+    "italic": {
+      "type": "bool",
+      "displayName": "Italic"
+    },
+    "underline": {
+      "type": "bool",
+      "displayName": "Underline"
+    },
+    "fontColor": {
+      "type": "fill",
+      "displayName": "Font color",
+      "description": "Font color of the cells"
+    },
+    "backColor": {
+      "type": "fill",
+      "displayName": "Background color",
+      "description": "Background color of the cells"
+    }
+  }
+}

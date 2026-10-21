@@ -1,0 +1,53 @@
+table links_por_serie
+	isHidden
+	lineageTag: 0ed1f423-a3ec-5dc8-82da-693d15d94088
+
+	column serie_anilist_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: a667383e-80c7-50e5-8b50-38e0b678d97c
+		summarizeBy: none
+		sourceColumn: serie_anilist_id
+
+	column site
+		dataType: string
+		lineageTag: ca66eb70-63a9-5369-84a5-f6556a6fd7e2
+		summarizeBy: none
+		sourceColumn: site
+
+	column url
+		dataType: string
+		lineageTag: 5618d8dd-86d3-5d4b-bf82-9275255401b5
+		summarizeBy: none
+		sourceColumn: url
+
+	column tipo
+		dataType: string
+		lineageTag: 8a498db9-4840-5c16-bd22-7cdeebb83031
+		summarizeBy: none
+		sourceColumn: tipo
+
+	column idioma
+		dataType: string
+		lineageTag: 8dd74b27-e003-56dc-a8c4-f69f4533e57b
+		summarizeBy: none
+		sourceColumn: idioma
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 3b41f533-06a5-5fa5-9b62-df4c55ddcdc2
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition links_por_serie = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCsWVa2+bMBSG/0rF5xAb5waRpi29bd2yZG2zTdM0RSY4xauxGbZz0bT/PkOomjS0a9a4/QAo5wDnyXsO5/3+25Eko2SMOWVUqjGNnC6CNUdSRZyuc5RpPomXmWDMqTk6YyYWK5V2AZjP5/XJbbo+EQngONNKmDsVTYW59XJ0cdL7eDZ4a0I0oiLBTpdrxmrOVPCiQI/Tvqnr/Kn9g+SdZroKITZx27UHRE0ZXWyUl2V9vsoVCIoqRkAHItiCHrKCMtIhPRh92UJRJq5mBUXxvAReGyGbohyaaGiOSlXCMllXM0A4SBleAg/CltdsWoGh55UY9FehCGahvhkQ1yOzBdJLv4FjKyjD6ZROKGYHl/nvKio1c5W4XgrDVv+ZAvOehJR0CEIEbrHOBqfDNSLnPU4xJzJ/7c5c34Q2w7NNtBTaDA8phMr7lD/7Oj+9+tQ/Pj69nvZjch7Eg0x3vooRRu0o5W0RuL2T9x/sfOlCGI5K5eIiFdErqjBbH/ayt5EOQxIBz/Mhyk8weHlCRRiZUUkFv6GUBaUrCZaCux7wmm3o+509fhlep9F62g53ZUzTVEeEW6J65D63ztGLNFMHl3OaVPYT52lpsgXTjEZEyOdC2812zLRD2IYNSzCPW/c5Toj5lU4oSEhEMUiiBvI7wDJVlSXe9aFbEwpalnBGc6oUybbdeRUv5Bn0Lj6PhkocDvPrGsjw6KzXf9K232B5kg8ByiOyQPVYJWyPdrQBeJ8h5WjrpvRmpdh4JdhYlP9rEmPOCbPUyYfVKxfADUqBea9MuzAEnaDhPwLioQ6GoujgHtu2SbWjn6xw3FIyThbKvSKcZFgZS5T7a98m5Ja9yLv+8jJcO+50D/qwhRq2aP5/qbeCjm+baqel3kRtWzzPt9V//AWYFkTgkA8AAA==", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"serie_anilist_id", Int64.Type}, {"site", type text}, {"url", type text}, {"tipo", type text}, {"idioma", type text}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

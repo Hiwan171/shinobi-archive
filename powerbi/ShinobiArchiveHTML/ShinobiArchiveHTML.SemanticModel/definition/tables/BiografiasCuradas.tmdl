@@ -1,0 +1,52 @@
+table BiografiasCuradas
+	isHidden
+	lineageTag: 6e50848a-e511-51eb-8763-8bc115631c59
+
+	column personagem_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: a608bf60-76db-5375-94c3-35eda7d58ae5
+		summarizeBy: none
+		sourceColumn: personagem_id
+
+	column titulo
+		dataType: string
+		lineageTag: f4fa6341-b176-518f-b84b-ce036774d877
+		summarizeBy: none
+		sourceColumn: titulo
+
+	column resumo
+		dataType: string
+		lineageTag: 5e13fe32-7fa8-5ad1-91b5-26eabb83bc7a
+		summarizeBy: none
+		sourceColumn: resumo
+
+	column estilo
+		dataType: string
+		lineageTag: 98152024-6b63-5ef2-abeb-98fa521dd1e7
+		summarizeBy: none
+		sourceColumn: estilo
+
+	column fontes
+		dataType: string
+		lineageTag: 73b5aae9-770b-5fc0-a02f-b8d459519bc9
+		summarizeBy: none
+		sourceColumn: fontes
+
+	column tipo_texto
+		dataType: string
+		lineageTag: 087393a5-dfd3-5b19-b30f-47557edc428d
+		summarizeBy: none
+		sourceColumn: tipo_texto
+
+	partition BiografiasCuradas = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"personagem_id", Int64.Type}, {"titulo", type text}, {"resumo", type text}, {"estilo", type text}, {"fontes", type text}, {"tipo_texto", type text}}, "en-US")
+				in
+				    Tipos
+

@@ -1,0 +1,72 @@
+{
+  "name": "shinobi_20261021.json",
+  "dataColors": [
+    "#F47A24",
+    "#4C93FF",
+    "#50C28B",
+    "#B28AFF",
+    "#F4CC58",
+    "#DF5560",
+    "#76C6D5",
+    "#CF92B9"
+  ],
+  "background": "#0D1117",
+  "foreground": "#F2F5F8",
+  "tableAccent": "#F47A24",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 16,
+      "color": "#F2F5F8"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#F2F5F8"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 11,
+      "color": "#A8B4C2"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 32,
+      "color": "#F2F5F8"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "visualHeader": [
+          {
+            "show": false
+          }
+        ],
+        "title": [
+          {
+            "show": false
+          }
+        ],
+        "background": [
+          {
+            "show": false
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "padding": [
+          {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          }
+        ]
+      }
+    }
+  }
+}

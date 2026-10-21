@@ -1,0 +1,33 @@
+table clas
+	lineageTag: 60b3ef4c-4573-50be-9eff-fd91fa221c10
+
+	column cla_id
+		dataType: int64
+		formatString: #,0
+		lineageTag: a0311a75-193d-58d0-846d-954d91660d78
+		summarizeBy: none
+		sourceColumn: cla_id
+
+	column nome
+		dataType: string
+		lineageTag: 4b626888-745f-5130-a492-e6ad1fe5de23
+		summarizeBy: none
+		sourceColumn: nome
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 1a2e1111-fa88-5872-8106-5683603f4533
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition clas = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCqWW3WrbMBSAX8X4Zh3koralpuld2SjJUrrRtIwwylBqxdYcScO2BvbYG7RP0ufwe025ydHabueY3Rmj70jnnE8/X37G9zvxVeXx2fEkNlbL+Cw+37ha+K9JvLWm3f95L9pWbkRn418TIBIgKqXVfalQJAVEi0LVOJEdiHelMlZV+LrYAblwRrQWBTgAw5MW6PiTP8dHUXT0qZaN0zJ/i8LT5/DRpTB5ZLfRyjpDCHB6CDAXrSDUYwaAqkUjKjzDBGyY26ZUhajwViXJS2hfm3OjtIys2XV4cgkYMu+Gp4Kw1Gw0AYLMh0e/xguh1a7DOR5yvaOUBFRZ+F1FAECPhXF+DkI6IMSidwbXPQEhPviC2TcNvm/Bh6UoZNs4atHSJCRdh+eTpgGhVe9qhzPZC2aseSkLQtR+Z/nzjJwk/ys7dhUnQaReVr7Y+0Su7A+5o4aY/n8IUGop8+FRGRwBqZY2tziQBUrt7xtcjAxUupSjc8pAqyvfI3w8KPXRqMpRFggKXStTEgDw5tqfXfh4sGMlatfaDeECBR1W0vhm4sRpSHzDd182Gwkw6P2qVAS7WBIC2hH6x9IQqW0hDOHpAE2/kaYmFItBz28a5/d94TR+BDNo/K1nCKowaP1t72UkXD5sOh6B1n8Whd8mDf0QZLNX2C2N5ccB24gNeVKevA7uj93cfm8pLzIOpqz9OWQoDyQOoqwtTUjOAqQVhFuX85BoKA8ODpqsSePBkeHBT/GPWe5+A1zvRIctDAAA", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"cla_id", Int64.Type}, {"nome", type text}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

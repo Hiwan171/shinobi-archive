@@ -1,0 +1,2442 @@
+[
+  {
+    "rank": 1,
+    "character": "330",
+    "score": 244351
+  },
+  {
+    "rank": 2,
+    "character": "61",
+    "score": 175395
+  },
+  {
+    "rank": 3,
+    "character": "366",
+    "score": 135059
+  },
+  {
+    "rank": 4,
+    "character": "56",
+    "score": 60210
+  },
+  {
+    "rank": 5,
+    "character": "361",
+    "score": 51144
+  },
+  {
+    "rank": 6,
+    "character": "66",
+    "score": 44984
+  },
+  {
+    "rank": 7,
+    "character": "67",
+    "score": 37336
+  },
+  {
+    "rank": 8,
+    "character": "74",
+    "score": 36104
+  },
+  {
+    "rank": 9,
+    "character": "382",
+    "score": 35073
+  },
+  {
+    "rank": 10,
+    "character": "64",
+    "score": 31834
+  },
+  {
+    "rank": 11,
+    "character": "237",
+    "score": 28985
+  },
+  {
+    "rank": 12,
+    "character": "362",
+    "score": 17350
+  },
+  {
+    "rank": 13,
+    "character": "255",
+    "score": 11870
+  },
+  {
+    "rank": 14,
+    "character": "256",
+    "score": 11568
+  },
+  {
+    "rank": 15,
+    "character": "378",
+    "score": 8595
+  },
+  {
+    "rank": 16,
+    "character": "108",
+    "score": 8462
+  },
+  {
+    "rank": 17,
+    "character": "334",
+    "score": 8066
+  },
+  {
+    "rank": 18,
+    "character": "154",
+    "score": 7296
+  },
+  {
+    "rank": 19,
+    "character": "297",
+    "score": 6351
+  },
+  {
+    "rank": 20,
+    "character": "409",
+    "score": 6255
+  },
+  {
+    "rank": 21,
+    "character": "316",
+    "score": 5529
+  },
+  {
+    "rank": 22,
+    "character": "205",
+    "score": 5136
+  },
+  {
+    "rank": 23,
+    "character": "372",
+    "score": 4527
+  },
+  {
+    "rank": 24,
+    "character": "293",
+    "score": 4159
+  },
+  {
+    "rank": 25,
+    "character": "107",
+    "score": 4037
+  },
+  {
+    "rank": 26,
+    "character": "55",
+    "score": 3991
+  },
+  {
+    "rank": 27,
+    "character": "485",
+    "score": 3339
+  },
+  {
+    "rank": 28,
+    "character": "308",
+    "score": 3130
+  },
+  {
+    "rank": 29,
+    "character": "327",
+    "score": 3034
+  },
+  {
+    "rank": 30,
+    "character": "193",
+    "score": 2652
+  },
+  {
+    "rank": 31,
+    "character": "95",
+    "score": 2624
+  },
+  {
+    "rank": 32,
+    "character": "81",
+    "score": 2618
+  },
+  {
+    "rank": 33,
+    "character": "73",
+    "score": 2364
+  },
+  {
+    "rank": 34,
+    "character": "298",
+    "score": 2310
+  },
+  {
+    "rank": 35,
+    "character": "459",
+    "score": 2196
+  },
+  {
+    "rank": 36,
+    "character": "410",
+    "score": 2133
+  },
+  {
+    "rank": 37,
+    "character": "309",
+    "score": 1966
+  },
+  {
+    "rank": 38,
+    "character": "302",
+    "score": 1777
+  },
+  {
+    "rank": 39,
+    "character": "54",
+    "score": 1747
+  },
+  {
+    "rank": 40,
+    "character": "198",
+    "score": 1667
+  },
+  {
+    "rank": 41,
+    "character": "57",
+    "score": 1286
+  },
+  {
+    "rank": 42,
+    "character": "355",
+    "score": 1207
+  },
+  {
+    "rank": 43,
+    "character": "49",
+    "score": 1151
+  },
+  {
+    "rank": 44,
+    "character": "349",
+    "score": 1148
+  },
+  {
+    "rank": 45,
+    "character": "60",
+    "score": 1062
+  },
+  {
+    "rank": 46,
+    "character": "96",
+    "score": 1021
+  },
+  {
+    "rank": 47,
+    "character": "305",
+    "score": 943
+  },
+  {
+    "rank": 48,
+    "character": "458",
+    "score": 912
+  },
+  {
+    "rank": 49,
+    "character": "213",
+    "score": 865
+  },
+  {
+    "rank": 50,
+    "character": "249",
+    "score": 804
+  },
+  {
+    "rank": 51,
+    "character": "212",
+    "score": 781
+  },
+  {
+    "rank": 52,
+    "character": "113",
+    "score": 773
+  },
+  {
+    "rank": 53,
+    "character": "65",
+    "score": 768
+  },
+  {
+    "rank": 54,
+    "character": "97",
+    "score": 698
+  },
+  {
+    "rank": 55,
+    "character": "406",
+    "score": 676
+  },
+  {
+    "rank": 56,
+    "character": "152",
+    "score": 669
+  },
+  {
+    "rank": 57,
+    "character": "238",
+    "score": 658
+  },
+  {
+    "rank": 58,
+    "character": "445",
+    "score": 652
+  },
+  {
+    "rank": 59,
+    "character": "26",
+    "score": 647
+  },
+  {
+    "rank": 60,
+    "character": "20",
+    "score": 607
+  },
+  {
+    "rank": 61,
+    "character": "211",
+    "score": 588
+  },
+  {
+    "rank": 62,
+    "character": "208",
+    "score": 567
+  },
+  {
+    "rank": 63,
+    "character": "42",
+    "score": 559
+  },
+  {
+    "rank": 64,
+    "character": "233",
+    "score": 538
+  },
+  {
+    "rank": 65,
+    "character": "88",
+    "score": 507
+  },
+  {
+    "rank": 66,
+    "character": "456",
+    "score": 506
+  },
+  {
+    "rank": 67,
+    "character": "72",
+    "score": 480
+  },
+  {
+    "rank": 68,
+    "character": "75",
+    "score": 449
+  },
+  {
+    "rank": 69,
+    "character": "449",
+    "score": 439
+  },
+  {
+    "rank": 70,
+    "character": "158",
+    "score": 436
+  },
+  {
+    "rank": 71,
+    "character": "103",
+    "score": 419
+  },
+  {
+    "rank": 72,
+    "character": "379",
+    "score": 413
+  },
+  {
+    "rank": 73,
+    "character": "226",
+    "score": 406
+  },
+  {
+    "rank": 74,
+    "character": "7",
+    "score": 376
+  },
+  {
+    "rank": 75,
+    "character": "451",
+    "score": 372
+  },
+  {
+    "rank": 76,
+    "character": "140",
+    "score": 371
+  },
+  {
+    "rank": 77,
+    "character": "58",
+    "score": 367
+  },
+  {
+    "rank": 78,
+    "character": "404",
+    "score": 331
+  },
+  {
+    "rank": 79,
+    "character": "363",
+    "score": 308
+  },
+  {
+    "rank": 80,
+    "character": "274",
+    "score": 289
+  },
+  {
+    "rank": 81,
+    "character": "144",
+    "score": 280
+  },
+  {
+    "rank": 82,
+    "character": "179",
+    "score": 267
+  },
+  {
+    "rank": 83,
+    "character": "423",
+    "score": 258
+  },
+  {
+    "rank": 84,
+    "character": "194",
+    "score": 256
+  },
+  {
+    "rank": 85,
+    "character": "221",
+    "score": 239
+  },
+  {
+    "rank": 85,
+    "character": "135",
+    "score": 239
+  },
+  {
+    "rank": 87,
+    "character": "465",
+    "score": 222
+  },
+  {
+    "rank": 88,
+    "character": "123",
+    "score": 221
+  },
+  {
+    "rank": 89,
+    "character": "387",
+    "score": 217
+  },
+  {
+    "rank": 90,
+    "character": "340",
+    "score": 195
+  },
+  {
+    "rank": 91,
+    "character": "333",
+    "score": 192
+  },
+  {
+    "rank": 92,
+    "character": "125",
+    "score": 190
+  },
+  {
+    "rank": 93,
+    "character": "325",
+    "score": 187
+  },
+  {
+    "rank": 94,
+    "character": "93",
+    "score": 177
+  },
+  {
+    "rank": 95,
+    "character": "412",
+    "score": 165
+  },
+  {
+    "rank": 96,
+    "character": "283",
+    "score": 162
+  },
+  {
+    "rank": 97,
+    "character": "136",
+    "score": 160
+  },
+  {
+    "rank": 98,
+    "character": "369",
+    "score": 155
+  },
+  {
+    "rank": 99,
+    "character": "127",
+    "score": 149
+  },
+  {
+    "rank": 100,
+    "character": "346",
+    "score": 145
+  },
+  {
+    "rank": 101,
+    "character": "13",
+    "score": 144
+  },
+  {
+    "rank": 102,
+    "character": "128",
+    "score": 140
+  },
+  {
+    "rank": 102,
+    "character": "329",
+    "score": 140
+  },
+  {
+    "rank": 104,
+    "character": "68",
+    "score": 139
+  },
+  {
+    "rank": 105,
+    "character": "231",
+    "score": 137
+  },
+  {
+    "rank": 105,
+    "character": "129",
+    "score": 137
+  },
+  {
+    "rank": 107,
+    "character": "344",
+    "score": 134
+  },
+  {
+    "rank": 108,
+    "character": "435",
+    "score": 133
+  },
+  {
+    "rank": 108,
+    "character": "280",
+    "score": 133
+  },
+  {
+    "rank": 110,
+    "character": "275",
+    "score": 129
+  },
+  {
+    "rank": 111,
+    "character": "360",
+    "score": 128
+  },
+  {
+    "rank": 112,
+    "character": "31",
+    "score": 124
+  },
+  {
+    "rank": 113,
+    "character": "367",
+    "score": 122
+  },
+  {
+    "rank": 114,
+    "character": "216",
+    "score": 115
+  },
+  {
+    "rank": 115,
+    "character": "234",
+    "score": 111
+  },
+  {
+    "rank": 116,
+    "character": "403",
+    "score": 109
+  },
+  {
+    "rank": 117,
+    "character": "252",
+    "score": 103
+  },
+  {
+    "rank": 117,
+    "character": "164",
+    "score": 103
+  },
+  {
+    "rank": 119,
+    "character": "405",
+    "score": 101
+  },
+  {
+    "rank": 119,
+    "character": "87",
+    "score": 101
+  },
+  {
+    "rank": 121,
+    "character": "160",
+    "score": 98
+  },
+  {
+    "rank": 122,
+    "character": "153",
+    "score": 97
+  },
+  {
+    "rank": 122,
+    "character": "161",
+    "score": 97
+  },
+  {
+    "rank": 124,
+    "character": "175",
+    "score": 94
+  },
+  {
+    "rank": 125,
+    "character": "444",
+    "score": 87
+  },
+  {
+    "rank": 126,
+    "character": "472",
+    "score": 85
+  },
+  {
+    "rank": 127,
+    "character": "89",
+    "score": 83
+  },
+  {
+    "rank": 128,
+    "character": "322",
+    "score": 81
+  },
+  {
+    "rank": 129,
+    "character": "99",
+    "score": 79
+  },
+  {
+    "rank": 130,
+    "character": "339",
+    "score": 77
+  },
+  {
+    "rank": 130,
+    "character": "418",
+    "score": 77
+  },
+  {
+    "rank": 130,
+    "character": "126",
+    "score": 77
+  },
+  {
+    "rank": 133,
+    "character": "388",
+    "score": 76
+  },
+  {
+    "rank": 133,
+    "character": "450",
+    "score": 76
+  },
+  {
+    "rank": 135,
+    "character": "106",
+    "score": 75
+  },
+  {
+    "rank": 135,
+    "character": "191",
+    "score": 75
+  },
+  {
+    "rank": 137,
+    "character": "463",
+    "score": 74
+  },
+  {
+    "rank": 138,
+    "character": "78",
+    "score": 73
+  },
+  {
+    "rank": 139,
+    "character": "232",
+    "score": 72
+  },
+  {
+    "rank": 139,
+    "character": "28",
+    "score": 72
+  },
+  {
+    "rank": 141,
+    "character": "447",
+    "score": 71
+  },
+  {
+    "rank": 141,
+    "character": "262",
+    "score": 71
+  },
+  {
+    "rank": 141,
+    "character": "484",
+    "score": 71
+  },
+  {
+    "rank": 141,
+    "character": "432",
+    "score": 71
+  },
+  {
+    "rank": 145,
+    "character": "483",
+    "score": 70
+  },
+  {
+    "rank": 145,
+    "character": "457",
+    "score": 70
+  },
+  {
+    "rank": 147,
+    "character": "380",
+    "score": 68
+  },
+  {
+    "rank": 147,
+    "character": "407",
+    "score": 68
+  },
+  {
+    "rank": 149,
+    "character": "353",
+    "score": 66
+  },
+  {
+    "rank": 150,
+    "character": "284",
+    "score": 62
+  },
+  {
+    "rank": 151,
+    "character": "142",
+    "score": 60
+  },
+  {
+    "rank": 152,
+    "character": "460",
+    "score": 59
+  },
+  {
+    "rank": 152,
+    "character": "289",
+    "score": 59
+  },
+  {
+    "rank": 154,
+    "character": "415",
+    "score": 57
+  },
+  {
+    "rank": 155,
+    "character": "358",
+    "score": 56
+  },
+  {
+    "rank": 156,
+    "character": "287",
+    "score": 55
+  },
+  {
+    "rank": 156,
+    "character": "282",
+    "score": 55
+  },
+  {
+    "rank": 158,
+    "character": "40",
+    "score": 54
+  },
+  {
+    "rank": 159,
+    "character": "281",
+    "score": 53
+  },
+  {
+    "rank": 160,
+    "character": "488",
+    "score": 52
+  },
+  {
+    "rank": 160,
+    "character": "481",
+    "score": 52
+  },
+  {
+    "rank": 160,
+    "character": "12",
+    "score": 52
+  },
+  {
+    "rank": 163,
+    "character": "218",
+    "score": 50
+  },
+  {
+    "rank": 164,
+    "character": "254",
+    "score": 49
+  },
+  {
+    "rank": 164,
+    "character": "343",
+    "score": 49
+  },
+  {
+    "rank": 164,
+    "character": "239",
+    "score": 49
+  },
+  {
+    "rank": 164,
+    "character": "381",
+    "score": 49
+  },
+  {
+    "rank": 168,
+    "character": "272",
+    "score": 48
+  },
+  {
+    "rank": 168,
+    "character": "137",
+    "score": 48
+  },
+  {
+    "rank": 168,
+    "character": "69",
+    "score": 48
+  },
+  {
+    "rank": 168,
+    "character": "199",
+    "score": 48
+  },
+  {
+    "rank": 168,
+    "character": "307",
+    "score": 48
+  },
+  {
+    "rank": 173,
+    "character": "201",
+    "score": 46
+  },
+  {
+    "rank": 173,
+    "character": "253",
+    "score": 46
+  },
+  {
+    "rank": 175,
+    "character": "257",
+    "score": 45
+  },
+  {
+    "rank": 175,
+    "character": "91",
+    "score": 45
+  },
+  {
+    "rank": 177,
+    "character": "143",
+    "score": 44
+  },
+  {
+    "rank": 177,
+    "character": "156",
+    "score": 44
+  },
+  {
+    "rank": 177,
+    "character": "2",
+    "score": 44
+  },
+  {
+    "rank": 180,
+    "character": "44",
+    "score": 43
+  },
+  {
+    "rank": 180,
+    "character": "240",
+    "score": 43
+  },
+  {
+    "rank": 182,
+    "character": "71",
+    "score": 42
+  },
+  {
+    "rank": 183,
+    "character": "141",
+    "score": 41
+  },
+  {
+    "rank": 183,
+    "character": "487",
+    "score": 41
+  },
+  {
+    "rank": 183,
+    "character": "184",
+    "score": 41
+  },
+  {
+    "rank": 186,
+    "character": "62",
+    "score": 40
+  },
+  {
+    "rank": 186,
+    "character": "352",
+    "score": 40
+  },
+  {
+    "rank": 188,
+    "character": "417",
+    "score": 39
+  },
+  {
+    "rank": 188,
+    "character": "223",
+    "score": 39
+  },
+  {
+    "rank": 188,
+    "character": "134",
+    "score": 39
+  },
+  {
+    "rank": 191,
+    "character": "176",
+    "score": 38
+  },
+  {
+    "rank": 192,
+    "character": "273",
+    "score": 37
+  },
+  {
+    "rank": 193,
+    "character": "36",
+    "score": 36
+  },
+  {
+    "rank": 193,
+    "character": "1",
+    "score": 36
+  },
+  {
+    "rank": 193,
+    "character": "188",
+    "score": 36
+  },
+  {
+    "rank": 196,
+    "character": "224",
+    "score": 35
+  },
+  {
+    "rank": 196,
+    "character": "345",
+    "score": 35
+  },
+  {
+    "rank": 196,
+    "character": "235",
+    "score": 35
+  },
+  {
+    "rank": 196,
+    "character": "326",
+    "score": 35
+  },
+  {
+    "rank": 196,
+    "character": "244",
+    "score": 35
+  },
+  {
+    "rank": 201,
+    "character": "453",
+    "score": 34
+  },
+  {
+    "rank": 202,
+    "character": "439",
+    "score": 33
+  },
+  {
+    "rank": 202,
+    "character": "480",
+    "score": 33
+  },
+  {
+    "rank": 202,
+    "character": "265",
+    "score": 33
+  },
+  {
+    "rank": 202,
+    "character": "318",
+    "score": 33
+  },
+  {
+    "rank": 202,
+    "character": "342",
+    "score": 33
+  },
+  {
+    "rank": 207,
+    "character": "79",
+    "score": 32
+  },
+  {
+    "rank": 207,
+    "character": "101",
+    "score": 32
+  },
+  {
+    "rank": 209,
+    "character": "259",
+    "score": 31
+  },
+  {
+    "rank": 210,
+    "character": "112",
+    "score": 30
+  },
+  {
+    "rank": 210,
+    "character": "486",
+    "score": 30
+  },
+  {
+    "rank": 210,
+    "character": "482",
+    "score": 30
+  },
+  {
+    "rank": 210,
+    "character": "364",
+    "score": 30
+  },
+  {
+    "rank": 214,
+    "character": "314",
+    "score": 29
+  },
+  {
+    "rank": 214,
+    "character": "279",
+    "score": 29
+  },
+  {
+    "rank": 214,
+    "character": "85",
+    "score": 29
+  },
+  {
+    "rank": 214,
+    "character": "452",
+    "score": 29
+  },
+  {
+    "rank": 214,
+    "character": "63",
+    "score": 29
+  },
+  {
+    "rank": 219,
+    "character": "476",
+    "score": 28
+  },
+  {
+    "rank": 219,
+    "character": "183",
+    "score": 28
+  },
+  {
+    "rank": 219,
+    "character": "182",
+    "score": 28
+  },
+  {
+    "rank": 219,
+    "character": "434",
+    "score": 28
+  },
+  {
+    "rank": 219,
+    "character": "270",
+    "score": 28
+  },
+  {
+    "rank": 219,
+    "character": "306",
+    "score": 28
+  },
+  {
+    "rank": 219,
+    "character": "464",
+    "score": 28
+  },
+  {
+    "rank": 226,
+    "character": "317",
+    "score": 27
+  },
+  {
+    "rank": 226,
+    "character": "151",
+    "score": 27
+  },
+  {
+    "rank": 226,
+    "character": "398",
+    "score": 27
+  },
+  {
+    "rank": 229,
+    "character": "200",
+    "score": 26
+  },
+  {
+    "rank": 229,
+    "character": "84",
+    "score": 26
+  },
+  {
+    "rank": 229,
+    "character": "384",
+    "score": 26
+  },
+  {
+    "rank": 229,
+    "character": "189",
+    "score": 26
+  },
+  {
+    "rank": 229,
+    "character": "180",
+    "score": 26
+  },
+  {
+    "rank": 229,
+    "character": "30",
+    "score": 26
+  },
+  {
+    "rank": 235,
+    "character": "429",
+    "score": 25
+  },
+  {
+    "rank": 235,
+    "character": "157",
+    "score": 25
+  },
+  {
+    "rank": 235,
+    "character": "411",
+    "score": 25
+  },
+  {
+    "rank": 235,
+    "character": "43",
+    "score": 25
+  },
+  {
+    "rank": 239,
+    "character": "300",
+    "score": 24
+  },
+  {
+    "rank": 239,
+    "character": "52",
+    "score": 24
+  },
+  {
+    "rank": 239,
+    "character": "462",
+    "score": 24
+  },
+  {
+    "rank": 239,
+    "character": "82",
+    "score": 24
+  },
+  {
+    "rank": 239,
+    "character": "335",
+    "score": 24
+  },
+  {
+    "rank": 239,
+    "character": "185",
+    "score": 24
+  },
+  {
+    "rank": 245,
+    "character": "347",
+    "score": 23
+  },
+  {
+    "rank": 245,
+    "character": "377",
+    "score": 23
+  },
+  {
+    "rank": 245,
+    "character": "114",
+    "score": 23
+  },
+  {
+    "rank": 245,
+    "character": "386",
+    "score": 23
+  },
+  {
+    "rank": 245,
+    "character": "420",
+    "score": 23
+  },
+  {
+    "rank": 250,
+    "character": "121",
+    "score": 22
+  },
+  {
+    "rank": 250,
+    "character": "469",
+    "score": 22
+  },
+  {
+    "rank": 250,
+    "character": "288",
+    "score": 22
+  },
+  {
+    "rank": 250,
+    "character": "86",
+    "score": 22
+  },
+  {
+    "rank": 250,
+    "character": "338",
+    "score": 22
+  },
+  {
+    "rank": 250,
+    "character": "210",
+    "score": 22
+  },
+  {
+    "rank": 250,
+    "character": "299",
+    "score": 22
+  },
+  {
+    "rank": 250,
+    "character": "248",
+    "score": 22
+  },
+  {
+    "rank": 250,
+    "character": "131",
+    "score": 22
+  },
+  {
+    "rank": 250,
+    "character": "290",
+    "score": 22
+  },
+  {
+    "rank": 260,
+    "character": "172",
+    "score": 21
+  },
+  {
+    "rank": 260,
+    "character": "436",
+    "score": 21
+  },
+  {
+    "rank": 260,
+    "character": "356",
+    "score": 21
+  },
+  {
+    "rank": 260,
+    "character": "470",
+    "score": 21
+  },
+  {
+    "rank": 260,
+    "character": "149",
+    "score": 21
+  },
+  {
+    "rank": 260,
+    "character": "230",
+    "score": 21
+  },
+  {
+    "rank": 260,
+    "character": "401",
+    "score": 21
+  },
+  {
+    "rank": 260,
+    "character": "59",
+    "score": 21
+  },
+  {
+    "rank": 268,
+    "character": "319",
+    "score": 20
+  },
+  {
+    "rank": 268,
+    "character": "304",
+    "score": 20
+  },
+  {
+    "rank": 268,
+    "character": "80",
+    "score": 20
+  },
+  {
+    "rank": 268,
+    "character": "365",
+    "score": 20
+  },
+  {
+    "rank": 268,
+    "character": "315",
+    "score": 20
+  },
+  {
+    "rank": 268,
+    "character": "76",
+    "score": 20
+  },
+  {
+    "rank": 268,
+    "character": "225",
+    "score": 20
+  },
+  {
+    "rank": 268,
+    "character": "376",
+    "score": 20
+  },
+  {
+    "rank": 268,
+    "character": "413",
+    "score": 20
+  },
+  {
+    "rank": 268,
+    "character": "359",
+    "score": 20
+  },
+  {
+    "rank": 268,
+    "character": "242",
+    "score": 20
+  },
+  {
+    "rank": 268,
+    "character": "130",
+    "score": 20
+  },
+  {
+    "rank": 280,
+    "character": "478",
+    "score": 19
+  },
+  {
+    "rank": 280,
+    "character": "348",
+    "score": 19
+  },
+  {
+    "rank": 280,
+    "character": "133",
+    "score": 19
+  },
+  {
+    "rank": 280,
+    "character": "241",
+    "score": 19
+  },
+  {
+    "rank": 280,
+    "character": "214",
+    "score": 19
+  },
+  {
+    "rank": 280,
+    "character": "471",
+    "score": 19
+  },
+  {
+    "rank": 280,
+    "character": "477",
+    "score": 19
+  },
+  {
+    "rank": 280,
+    "character": "120",
+    "score": 19
+  },
+  {
+    "rank": 280,
+    "character": "162",
+    "score": 19
+  },
+  {
+    "rank": 280,
+    "character": "422",
+    "score": 19
+  },
+  {
+    "rank": 280,
+    "character": "29",
+    "score": 19
+  },
+  {
+    "rank": 291,
+    "character": "468",
+    "score": 18
+  },
+  {
+    "rank": 291,
+    "character": "479",
+    "score": 18
+  },
+  {
+    "rank": 293,
+    "character": "437",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "324",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "145",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "146",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "168",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "400",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "368",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "350",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "170",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "98",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "301",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "16",
+    "score": 17
+  },
+  {
+    "rank": 293,
+    "character": "92",
+    "score": 17
+  },
+  {
+    "rank": 306,
+    "character": "19",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "246",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "177",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "139",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "165",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "264",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "197",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "391",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "336",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "263",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "27",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "475",
+    "score": 16
+  },
+  {
+    "rank": 306,
+    "character": "23",
+    "score": 16
+  },
+  {
+    "rank": 319,
+    "character": "227",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "442",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "320",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "461",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "448",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "354",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "41",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "395",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "424",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "375",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "446",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "390",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "45",
+    "score": 15
+  },
+  {
+    "rank": 319,
+    "character": "132",
+    "score": 15
+  },
+  {
+    "rank": 333,
+    "character": "455",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "38",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "408",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "202",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "426",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "440",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "109",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "261",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "115",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "110",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "416",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "104",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "24",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "473",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "90",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "50",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "341",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "47",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "181",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "393",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "25",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "402",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "3",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "207",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "18",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "312",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "371",
+    "score": 14
+  },
+  {
+    "rank": 333,
+    "character": "383",
+    "score": 14
+  },
+  {
+    "rank": 361,
+    "character": "203",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "173",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "467",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "278",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "195",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "247",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "102",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "33",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "122",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "124",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "385",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "373",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "53",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "46",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "15",
+    "score": 13
+  },
+  {
+    "rank": 361,
+    "character": "229",
+    "score": 13
+  },
+  {
+    "rank": 377,
+    "character": "243",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "77",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "70",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "118",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "269",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "474",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "5",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "215",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "116",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "220",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "111",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "337",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "294",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "332",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "431",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "396",
+    "score": 12
+  },
+  {
+    "rank": 377,
+    "character": "303",
+    "score": 12
+  },
+  {
+    "rank": 394,
+    "character": "236",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "291",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "217",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "187",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "430",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "331",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "414",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "427",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "35",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "34",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "148",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "392",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "296",
+    "score": 11
+  },
+  {
+    "rank": 394,
+    "character": "138",
+    "score": 11
+  },
+  {
+    "rank": 408,
+    "character": "171",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "454",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "357",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "370",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "441",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "443",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "196",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "421",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "22",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "174",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "438",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "39",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "169",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "267",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "48",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "428",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "260",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "351",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "310",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "186",
+    "score": 10
+  },
+  {
+    "rank": 408,
+    "character": "271",
+    "score": 10
+  },
+  {
+    "rank": 429,
+    "character": "295",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "321",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "190",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "17",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "399",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "100",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "228",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "37",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "251",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "14",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "425",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "159",
+    "score": 9
+  },
+  {
+    "rank": 429,
+    "character": "389",
+    "score": 9
+  },
+  {
+    "rank": 442,
+    "character": "209",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "311",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "276",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "323",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "119",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "51",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "328",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "285",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "374",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "167",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "204",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "268",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "147",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "105",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "286",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "21",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "266",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "6",
+    "score": 8
+  },
+  {
+    "rank": 442,
+    "character": "397",
+    "score": 8
+  },
+  {
+    "rank": 461,
+    "character": "219",
+    "score": 7
+  },
+  {
+    "rank": 461,
+    "character": "466",
+    "score": 7
+  },
+  {
+    "rank": 461,
+    "character": "433",
+    "score": 7
+  },
+  {
+    "rank": 461,
+    "character": "83",
+    "score": 7
+  },
+  {
+    "rank": 461,
+    "character": "94",
+    "score": 7
+  },
+  {
+    "rank": 461,
+    "character": "222",
+    "score": 7
+  },
+  {
+    "rank": 461,
+    "character": "192",
+    "score": 7
+  },
+  {
+    "rank": 461,
+    "character": "419",
+    "score": 7
+  },
+  {
+    "rank": 461,
+    "character": "313",
+    "score": 7
+  },
+  {
+    "rank": 461,
+    "character": "8",
+    "score": 7
+  },
+  {
+    "rank": 461,
+    "character": "258",
+    "score": 7
+  },
+  {
+    "rank": 472,
+    "character": "178",
+    "score": 6
+  },
+  {
+    "rank": 472,
+    "character": "117",
+    "score": 6
+  },
+  {
+    "rank": 472,
+    "character": "277",
+    "score": 6
+  },
+  {
+    "rank": 472,
+    "character": "292",
+    "score": 6
+  },
+  {
+    "rank": 472,
+    "character": "32",
+    "score": 6
+  },
+  {
+    "rank": 472,
+    "character": "10",
+    "score": 6
+  },
+  {
+    "rank": 472,
+    "character": "11",
+    "score": 6
+  },
+  {
+    "rank": 479,
+    "character": "163",
+    "score": 5
+  },
+  {
+    "rank": 479,
+    "character": "4",
+    "score": 5
+  },
+  {
+    "rank": 479,
+    "character": "166",
+    "score": 5
+  },
+  {
+    "rank": 479,
+    "character": "394",
+    "score": 5
+  },
+  {
+    "rank": 479,
+    "character": "9",
+    "score": 5
+  },
+  {
+    "rank": 484,
+    "character": "206",
+    "score": 4
+  },
+  {
+    "rank": 484,
+    "character": "245",
+    "score": 4
+  },
+  {
+    "rank": 484,
+    "character": "155",
+    "score": 4
+  },
+  {
+    "rank": 487,
+    "character": "250",
+    "score": 2
+  },
+  {
+    "rank": 488,
+    "character": "150",
+    "score": 1
+  }
+]

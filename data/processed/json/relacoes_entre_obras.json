@@ -1,0 +1,434 @@
+[
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 1735,
+    "tipo_relacao": "SEQUEL",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Shippuuden",
+    "url_fonte": "https://anilist.co/anime/1735",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 30011,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO",
+    "url_fonte": "https://anilist.co/manga/30011",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 442,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Dai Katsugeki! Yuki Hime Ninpouchou Dattebayo!!",
+    "url_fonte": "https://anilist.co/anime/442",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 594,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+    "url_fonte": "https://anilist.co/anime/594",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 761,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Akaki Yotsuba no Clover wo Sagase",
+    "url_fonte": "https://anilist.co/anime/761",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 936,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Dai Gekitotsu! Maboroshi no Chitei Iseki Dattebayo",
+    "url_fonte": "https://anilist.co/anime/936",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 1074,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Narutimate Hero 3: Tsui ni Gekitotsu! Jounin VS Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+    "url_fonte": "https://anilist.co/anime/1074",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 2144,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Dai Koufun! Mikazukijima no Animal Panic Dattebayo!",
+    "url_fonte": "https://anilist.co/anime/2144",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 7367,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: THE CROSS ROADS",
+    "url_fonte": "https://anilist.co/anime/7367",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 10659,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Soyokazeden - Naruto to Mashin to Mitsu no Onegai Dattebayo!!",
+    "url_fonte": "https://anilist.co/anime/10659",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 155348,
+    "tipo_relacao": "SUMMARY",
+    "tipo_obra": "ANIME",
+    "titulo": "ROAD OF NARUTO",
+    "url_fonte": "https://anilist.co/anime/155348",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "obra_relacionada_id": 162561,
+    "tipo_relacao": "CHARACTER",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO×NINKU",
+    "url_fonte": "https://anilist.co/anime/162561",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 20,
+    "tipo_relacao": "PREQUEL",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO",
+    "url_fonte": "https://anilist.co/anime/20",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 30011,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO",
+    "url_fonte": "https://anilist.co/manga/30011",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 2472,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Shippuuden Movie",
+    "url_fonte": "https://anilist.co/anime/2472",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 4437,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Shippuuden - Kizuna",
+    "url_fonte": "https://anilist.co/anime/4437",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 6325,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Shippuuden - Hi no Ishi wo Tsugu Mono",
+    "url_fonte": "https://anilist.co/anime/6325",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 8246,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Shippuuden - The Lost Tower",
+    "url_fonte": "https://anilist.co/anime/8246",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 10075,
+    "tipo_relacao": "OTHER",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO×UT",
+    "url_fonte": "https://anilist.co/anime/10075",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 10589,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Blood Prison",
+    "url_fonte": "https://anilist.co/anime/10589",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 13667,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "ROAD TO NINJA: NARUTO THE MOVIE",
+    "url_fonte": "https://anilist.co/anime/13667",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 16870,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "THE LAST: NARUTO THE MOVIE",
+    "url_fonte": "https://anilist.co/anime/16870",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 4134,
+    "tipo_relacao": "OTHER",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Shippuuden - Shippu! \"Konoha Gakuen\" Den",
+    "url_fonte": "https://anilist.co/anime/4134",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 12979,
+    "tipo_relacao": "OTHER",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO SD Rock Lee no Seishun Full-Power Ninden",
+    "url_fonte": "https://anilist.co/anime/12979",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 19511,
+    "tipo_relacao": "OTHER",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Shippuuden - Sunny Side Battle!!!",
+    "url_fonte": "https://anilist.co/anime/19511",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 21579,
+    "tipo_relacao": "SEQUEL",
+    "tipo_obra": "ANIME",
+    "titulo": "BORUTO: NARUTO THE MOVIE - Naruto ga Hokage ni Natta Hi",
+    "url_fonte": "https://anilist.co/anime/21579",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 87232,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO Shinden Series (2015)",
+    "url_fonte": "https://anilist.co/manga/87232",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 97938,
+    "tipo_relacao": "SEQUEL",
+    "tipo_obra": "ANIME",
+    "titulo": "BORUTO: NARUTO NEXT GENERATIONS",
+    "url_fonte": "https://anilist.co/anime/97938",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 10686,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Honoo no Chuunin Shiken! Naruto vs Konohamaru!!",
+    "url_fonte": "https://anilist.co/anime/10686",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 115105,
+    "tipo_relacao": "OTHER",
+    "tipo_obra": "ANIME",
+    "titulo": "Newsong",
+    "url_fonte": "https://anilist.co/anime/115105",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 87230,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO Hiden Series",
+    "url_fonte": "https://anilist.co/manga/87230",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 70549,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO: Road to Ninja",
+    "url_fonte": "https://anilist.co/manga/70549",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "obra_relacionada_id": 155348,
+    "tipo_relacao": "SUMMARY",
+    "tipo_obra": "ANIME",
+    "titulo": "ROAD OF NARUTO",
+    "url_fonte": "https://anilist.co/anime/155348",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 1735,
+    "tipo_relacao": "PREQUEL",
+    "tipo_obra": "ANIME",
+    "titulo": "NARUTO: Shippuuden",
+    "url_fonte": "https://anilist.co/anime/1735",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 87178,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "BORUTO: NARUTO NEXT GENERATIONS",
+    "url_fonte": "https://anilist.co/manga/87178",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 21220,
+    "tipo_relacao": "ALTERNATIVE",
+    "tipo_obra": "ANIME",
+    "titulo": "BORUTO: NARUTO THE MOVIE",
+    "url_fonte": "https://anilist.co/anime/21220",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 100721,
+    "tipo_relacao": "SIDE_STORY",
+    "tipo_obra": "ANIME",
+    "titulo": "BORUTO: Jump Festa 2016 Special",
+    "url_fonte": "https://anilist.co/anime/100721",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 86171,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
+    "url_fonte": "https://anilist.co/manga/86171",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 87175,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO Gaiden: Michita Tsuki ga Terasu Michi",
+    "url_fonte": "https://anilist.co/manga/87175",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 121093,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "BORUTO: NARUTO NEXT GENERATIONS NOVEL",
+    "url_fonte": "https://anilist.co/manga/121093",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 121116,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO Shinden Series (2018)",
+    "url_fonte": "https://anilist.co/manga/121116",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 97219,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO: Konoha Shinden - Yukemuri Ninpouchou",
+    "url_fonte": "https://anilist.co/manga/97219",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 121171,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO Retsuden Series",
+    "url_fonte": "https://anilist.co/manga/121171",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 142845,
+    "tipo_relacao": "ALTERNATIVE",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO: Sasuke Retsuden - Uchiha no Matsuei to Tenkyuu no Hoshikuzu",
+    "url_fonte": "https://anilist.co/manga/142845",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 165523,
+    "tipo_relacao": "SEQUEL",
+    "tipo_obra": "ANIME",
+    "titulo": "BORUTO: NARUTO NEXT GENERATIONS Part 2",
+    "url_fonte": "https://anilist.co/anime/165523",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 142846,
+    "tipo_relacao": "ALTERNATIVE",
+    "tipo_obra": "MANGA",
+    "titulo": "NARUTO: Konoha Shinden—Yukemuri Ninpouchou",
+    "url_fonte": "https://anilist.co/manga/142846",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 87402,
+    "tipo_relacao": "ADAPTATION",
+    "tipo_obra": "MANGA",
+    "titulo": "BORUTO: NARUTO THE MOVIE Tokubetsu Bangai-hen - Naruto ga Hokage ni Natta Hi",
+    "url_fonte": "https://anilist.co/manga/87402",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "obra_relacionada_id": 21579,
+    "tipo_relacao": "ALTERNATIVE",
+    "tipo_obra": "ANIME",
+    "titulo": "BORUTO: NARUTO THE MOVIE - Naruto ga Hokage ni Natta Hi",
+    "url_fonte": "https://anilist.co/anime/21579",
+    "fonte": "AniList"
+  }
+]

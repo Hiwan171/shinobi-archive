@@ -1,0 +1,33 @@
+table vilas
+	lineageTag: 21ccc93b-1047-5a3c-82fd-73cbef6740f7
+
+	column vila_id
+		dataType: int64
+		formatString: #,0
+		lineageTag: 0128acab-6622-58d1-bf2a-072337d01a68
+		summarizeBy: none
+		sourceColumn: vila_id
+
+	column nome
+		dataType: string
+		lineageTag: ddd5daf7-aab2-5794-a22f-ee0eeeeda5d3
+		summarizeBy: none
+		sourceColumn: nome
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: f71353cc-7c70-5706-b257-f31b341aea0b
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition vilas = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCpXW3U6DMBTA8VchXM9kwD5wd7pFnWSaONQYY8zZ1kEF2qS0W6bxEfYkPgfvJbvhNF6Y01uSHy3tvw2vX/6Ol/DON/6k3/OFrJg/8S8qlkFhFPN7/lYKfXo2A63ZCg7S/+5ZKOjQJVQrKb0nXpaQEWTYySlTUPE1nUZIjdLABZ0OOjoDvgFOl8NOXjPxYXRtvFQxRn/BqHvBDazz5kiXY5Syzjl1b2KL7UsuMu9Zllv6sOednwvIHbY2wJTmDvMNMKb5HsgKQ7ptjhU47EiAISUtUC57EmBJCVf0bxxarAYFmUOCASaUSCFz+hphQYmpJJnFFqvpo2E4C2mE9hJoT8vpUwm3Qv+PXRya40oWhkAxnzvYsDa8wuU6wozuNXmFQizo4dD8rHPuTWFHgZjPMgeRKX5WAoENLcaLQp6uoSupWK0JeGRjegYh1rM0Lr2GsQUFuZ8Q+0mhIB+tqG8zUzlMNAosKugjYjOpFLwAhxExnLQ2bTdZey4d+MDmDmuE/Tx+mvaIkCOIMJ4XQ0ZjCznMMrbY//8ib79aojwawggAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"vila_id", Int64.Type}, {"nome", type text}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

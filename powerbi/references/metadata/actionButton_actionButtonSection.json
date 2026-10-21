@@ -1,0 +1,290 @@
+{
+  "data": {
+    "_source": "visualContainerObjects",
+    "show": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "positionShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "position": {
+      "type": "enum",
+      "values": [
+        "withinTitle",
+        "aboveTitle",
+        "belowTitle"
+      ],
+      "displayName": "Position"
+    },
+    "textShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "text": {
+      "type": "text",
+      "displayName": "Text"
+    },
+    "fontFamily": {
+      "type": "formatting",
+      "displayName": "Font family"
+    },
+    "fontSize": {
+      "type": "formatting",
+      "displayName": "Text size"
+    },
+    "bold": {
+      "type": "bool",
+      "displayName": "Bold"
+    },
+    "italic": {
+      "type": "bool",
+      "displayName": "Italic"
+    },
+    "underline": {
+      "type": "bool",
+      "displayName": "Underline"
+    },
+    "textColor": {
+      "type": "fill",
+      "displayName": "Text color"
+    },
+    "textTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "textHorizontalAlignment": {
+      "type": "enum",
+      "values": [
+        "left",
+        "center",
+        "right"
+      ],
+      "displayName": "Horizontal alignment"
+    },
+    "textVerticalAlignment": {
+      "type": "enum",
+      "values": [
+        "top",
+        "middle",
+        "bottom"
+      ],
+      "displayName": "Vertical alignment"
+    },
+    "textPadding": {
+      "type": "numeric",
+      "displayName": "Padding"
+    },
+    "textIndividualPadding": {
+      "type": "bool",
+      "displayName": "Customize padding"
+    },
+    "textPaddingTop": {
+      "type": "numeric",
+      "displayName": "Top padding"
+    },
+    "textPaddingRight": {
+      "type": "numeric",
+      "displayName": "Right padding"
+    },
+    "textPaddingBottom": {
+      "type": "numeric",
+      "displayName": "Bottom padding"
+    },
+    "textPaddingLeft": {
+      "type": "numeric",
+      "displayName": "Left padding"
+    },
+    "iconShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "iconColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "iconTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "iconSize": {
+      "type": "numeric",
+      "displayName": "Icon size"
+    },
+    "iconPadding": {
+      "type": "numeric",
+      "displayName": "Padding"
+    },
+    "iconIndividualPadding": {
+      "type": "bool",
+      "displayName": "Customize padding"
+    },
+    "iconPaddingTop": {
+      "type": "numeric",
+      "displayName": "Top padding"
+    },
+    "iconPaddingRight": {
+      "type": "numeric",
+      "displayName": "Right padding"
+    },
+    "iconPaddingBottom": {
+      "type": "numeric",
+      "displayName": "Bottom padding"
+    },
+    "iconPaddingLeft": {
+      "type": "numeric",
+      "displayName": "Left padding"
+    },
+    "displayIconOnly": {
+      "type": "bool",
+      "displayName": "Icon only"
+    },
+    "padding": {
+      "type": "numeric",
+      "displayName": "Padding"
+    },
+    "individualPadding": {
+      "type": "bool",
+      "displayName": "Customize padding"
+    },
+    "paddingTop": {
+      "type": "numeric",
+      "displayName": "Top padding"
+    },
+    "paddingRight": {
+      "type": "numeric",
+      "displayName": "Right padding"
+    },
+    "paddingBottom": {
+      "type": "numeric",
+      "displayName": "Bottom padding"
+    },
+    "paddingLeft": {
+      "type": "numeric",
+      "displayName": "Left padding"
+    },
+    "fillShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "fillColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "fillTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "backgroundShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "backgroundColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "backgroundTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "matchTileBackground": {
+      "type": "bool",
+      "displayName": "Match tile background"
+    },
+    "borderShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "borderColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "borderWidth": {
+      "type": "numeric",
+      "displayName": "Width"
+    },
+    "borderTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "shadowShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "shadowColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "shadowTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "shadowBlur": {
+      "type": "numeric",
+      "displayName": "Blur"
+    },
+    "shadowOffset": {
+      "type": "enum",
+      "values": [
+        "inside",
+        "outside"
+      ],
+      "displayName": "Shadow position"
+    },
+    "shadowPosition": {
+      "type": "enum",
+      "values": [
+        "topLeft",
+        "top",
+        "topRight",
+        "left",
+        "center",
+        "right",
+        "bottomLeft",
+        "bottom",
+        "bottomRight"
+      ],
+      "displayName": "Position"
+    },
+    "glowShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "glowColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "glowTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "glowBlur": {
+      "type": "numeric",
+      "displayName": "Blur"
+    },
+    "glowOffset": {
+      "type": "enum",
+      "values": [
+        "inside",
+        "outside"
+      ],
+      "displayName": "Shadow position"
+    },
+    "glowPosition": {
+      "type": "enum",
+      "values": [
+        "topLeft",
+        "top",
+        "topRight",
+        "left",
+        "center",
+        "right",
+        "bottomLeft",
+        "bottom",
+        "bottomRight"
+      ],
+      "displayName": "Position"
+    }
+  }
+}

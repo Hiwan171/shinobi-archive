@@ -1,0 +1,26 @@
+{
+  "input": "C:\\Users\\User\\Desktop\\BI\\BI MCP\\powerbi\\build\\html\\saida_real_dax.html",
+  "passed": 19,
+  "results": [
+    "23 biografias e 79 capítulos integrados",
+    "Arsenal mostra só técnicas do personagem",
+    "Naruto inicia com Rasengan",
+    "Executar técnica inicia cena animada",
+    "Filtro de prévias exclui técnicas sem animação",
+    "Busca em português filtra o arsenal",
+    "Trocar técnica altera a demonstração",
+    "Desfechos ocultos por padrão",
+    "Revelar desfechos libera todos os capítulos",
+    "Capítulos têm links das fontes oficiais",
+    "Relações mostram familiares e equipes",
+    "Itachi tem biografia e avatar próprios",
+    "Itachi inicia com Amaterasu",
+    "Técnica sem curadoria não recebe demonstração fictícia",
+    "Personagem sem biografia recebe perfil factual sinalizado",
+    "Medidas continuam respeitando a fase",
+    "Não há transbordamento horizontal",
+    "Informações podem ser percorridas na altura menor",
+    "Sem erros de JavaScript"
+  ],
+  "errors": []
+}

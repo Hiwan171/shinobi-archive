@@ -1,0 +1,32 @@
+{
+  "queries": [],
+  "htmlCharacters": 1855584,
+  "datasets": {
+    "characters": 1431,
+    "clans": 58,
+    "villages": 39,
+    "teams": 191,
+    "clanLinks": 261,
+    "villageLinks": 976,
+    "jutsus": 1393,
+    "techniques": 2661,
+    "chakra": 847,
+    "family": 875,
+    "physical": 1233,
+    "grades": 534,
+    "official": 488,
+    "votes": 4392,
+    "arcs": 80,
+    "episodes": 1013,
+    "profiles": 464,
+    "teamLinks": 633,
+    "inherited": 39,
+    "inheritedLinks": 163,
+    "debuts": 2924,
+    "biographies": 23,
+    "history": 79,
+    "techniqueDetails": 19
+  },
+  "dataComparedWithSources": true,
+  "interfaceCodeMatchesSources": true
+}

@@ -1,0 +1,100 @@
+{
+  "sources": [
+    {
+      "collection": "characters",
+      "url": "https://raw.githubusercontent.com/viniciusschuelter/dattebayo-api/a3871a6c931cd1f503af0bc16c80007c3a9ecda9/src/data/characters.json",
+      "repository": "https://github.com/viniciusschuelter/dattebayo-api",
+      "commit": "a3871a6c931cd1f503af0bc16c80007c3a9ecda9",
+      "retrieved_at_utc": "2026-10-21T11:20:40.073887+00:00",
+      "file": "data/raw/characters.json",
+      "bytes": 1102878,
+      "sha256": "4a1b5a9cd9856ec27616cda6dd46142b40ef9f0f1735fac06ed6c67f3650fc82",
+      "records": 1431,
+      "payload_type": "list"
+    },
+    {
+      "collection": "clans",
+      "url": "https://raw.githubusercontent.com/viniciusschuelter/dattebayo-api/a3871a6c931cd1f503af0bc16c80007c3a9ecda9/src/data/clans.json",
+      "repository": "https://github.com/viniciusschuelter/dattebayo-api",
+      "commit": "a3871a6c931cd1f503af0bc16c80007c3a9ecda9",
+      "retrieved_at_utc": "2026-10-21T11:20:39.767410+00:00",
+      "file": "data/raw/clans.json",
+      "bytes": 8719,
+      "sha256": "ecbdbf8562f5956b68abafc397ad5fda6b79ca1c016af9d60cd6426d778a6628",
+      "records": 58,
+      "payload_type": "list"
+    },
+    {
+      "collection": "villages",
+      "url": "https://raw.githubusercontent.com/viniciusschuelter/dattebayo-api/a3871a6c931cd1f503af0bc16c80007c3a9ecda9/src/data/villages.json",
+      "repository": "https://github.com/viniciusschuelter/dattebayo-api",
+      "commit": "a3871a6c931cd1f503af0bc16c80007c3a9ecda9",
+      "retrieved_at_utc": "2026-10-21T11:20:39.768421+00:00",
+      "file": "data/raw/villages.json",
+      "bytes": 18115,
+      "sha256": "eef6c60344ad2e99c791f5945bd63a09fb96532d7017ab02757bd9c744de07f6",
+      "records": 39,
+      "payload_type": "list"
+    },
+    {
+      "collection": "teams",
+      "url": "https://raw.githubusercontent.com/viniciusschuelter/dattebayo-api/a3871a6c931cd1f503af0bc16c80007c3a9ecda9/src/data/teams.json",
+      "repository": "https://github.com/viniciusschuelter/dattebayo-api",
+      "commit": "a3871a6c931cd1f503af0bc16c80007c3a9ecda9",
+      "retrieved_at_utc": "2026-10-21T11:20:39.777970+00:00",
+      "file": "data/raw/teams.json",
+      "bytes": 27039,
+      "sha256": "9494274532428c44cd81784b09caa13de90d761f27790221cd9dbb982fe33c45",
+      "records": 191,
+      "payload_type": "list"
+    },
+    {
+      "collection": "kekkei-genkai",
+      "url": "https://raw.githubusercontent.com/viniciusschuelter/dattebayo-api/a3871a6c931cd1f503af0bc16c80007c3a9ecda9/src/data/kekkei-genkai.json",
+      "repository": "https://github.com/viniciusschuelter/dattebayo-api",
+      "commit": "a3871a6c931cd1f503af0bc16c80007c3a9ecda9",
+      "retrieved_at_utc": "2026-10-21T11:20:40.168565+00:00",
+      "file": "data/raw/kekkei-genkai.json",
+      "bytes": 6022,
+      "sha256": "f95d30e41789b24b780b7fe047a7e343da9c77829d9abde987dd2c7743dfb746",
+      "records": 39,
+      "payload_type": "list"
+    },
+    {
+      "collection": "tailed-beasts",
+      "url": "https://raw.githubusercontent.com/viniciusschuelter/dattebayo-api/a3871a6c931cd1f503af0bc16c80007c3a9ecda9/src/data/tailed-beasts.json",
+      "repository": "https://github.com/viniciusschuelter/dattebayo-api",
+      "commit": "a3871a6c931cd1f503af0bc16c80007c3a9ecda9",
+      "retrieved_at_utc": "2026-10-21T11:20:40.180647+00:00",
+      "file": "data/raw/tailed-beasts.json",
+      "bytes": 15463,
+      "sha256": "299825252df44c463909b6dab598e6459600f7155dc9125aca5c38a52c3d1e58",
+      "records": 10,
+      "payload_type": "list"
+    },
+    {
+      "collection": "akatsuki",
+      "url": "https://raw.githubusercontent.com/viniciusschuelter/dattebayo-api/a3871a6c931cd1f503af0bc16c80007c3a9ecda9/src/data/akatsuki.json",
+      "repository": "https://github.com/viniciusschuelter/dattebayo-api",
+      "commit": "a3871a6c931cd1f503af0bc16c80007c3a9ecda9",
+      "retrieved_at_utc": "2026-10-21T11:20:40.242901+00:00",
+      "file": "data/raw/akatsuki.json",
+      "bytes": 61891,
+      "sha256": "8867d4b115e93534cbb191bd90cc41d51c124096ddbaae3415307762a6b19612",
+      "records": 44,
+      "payload_type": "list"
+    },
+    {
+      "collection": "kara",
+      "url": "https://raw.githubusercontent.com/viniciusschuelter/dattebayo-api/a3871a6c931cd1f503af0bc16c80007c3a9ecda9/src/data/kara.json",
+      "repository": "https://github.com/viniciusschuelter/dattebayo-api",
+      "commit": "a3871a6c931cd1f503af0bc16c80007c3a9ecda9",
+      "retrieved_at_utc": "2026-10-21T11:20:40.419790+00:00",
+      "file": "data/raw/kara.json",
+      "bytes": 30591,
+      "sha256": "129ee6690fff31e5a879a9fb69b903a3185999c083e05feb914a888fbbf0cccb",
+      "records": 32,
+      "payload_type": "list"
+    }
+  ]
+}

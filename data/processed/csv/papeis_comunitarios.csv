@@ -1,0 +1,65 @@
+﻿serie_anilist_id;personagem_id;nome_original;papel_original;primeiro_episodio_informado;metodo_correspondencia;url_fonte;fonte;licenca
+20;1034;Asuma Sarutobi;Supporting;3;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/asuma-sarutobi;SkipTheFiller;CC BY 4.0
+20;40;Choji Akimichi;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/choji-akimichi;SkipTheFiller;CC BY 4.0
+20;;Gaara of the Desert;Supporting;20;nao_resolvido;https://skipthefiller.com/naruto-characters/gaara;SkipTheFiller;CC BY 4.0
+20;356;Haku;Supporting;9;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/haku;SkipTheFiller;CC BY 4.0
+20;437;Hinata Hyuga;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/hinata-hyuga;SkipTheFiller;CC BY 4.0
+20;;Hiruzen Sarutobi (Third Hokage);Supporting;1;nao_resolvido;https://skipthefiller.com/naruto-characters/third-hokage;SkipTheFiller;CC BY 4.0
+20;1365;Ino Yamanaka;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/ino-yamanaka;SkipTheFiller;CC BY 4.0
+20;1325;Iruka Umino;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/iruka-umino;SkipTheFiller;CC BY 4.0
+20;515;Jiraiya;Supporting;52;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/jiraiya;SkipTheFiller;CC BY 4.0
+20;1359;Kabuto Yakushi;Antagonist;23;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/kabuto-yakushi;SkipTheFiller;CC BY 4.0
+20;376;Kakashi Hatake;Main;3;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/kakashi-hatake;SkipTheFiller;CC BY 4.0
+20;466;Kiba Inuzuka;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/kiba-inuzuka;SkipTheFiller;CC BY 4.0
+20;344;Might Guy;Supporting;21;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/might-guy;SkipTheFiller;CC BY 4.0
+20;;Minato Namikaze (Fourth Hokage);Supporting;168;nao_resolvido;https://skipthefiller.com/naruto-characters/minato-namikaze;SkipTheFiller;CC BY 4.0
+20;1344;Naruto Uzumaki;Main;1;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/naruto-uzumaki;SkipTheFiller;CC BY 4.0
+20;444;Neji Hyuga;Supporting;37;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/neji-hyuga;SkipTheFiller;CC BY 4.0
+20;928;Orochimaru;Antagonist;30;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/orochimaru;SkipTheFiller;CC BY 4.0
+20;;Pain (Nagato);Supporting;;nao_resolvido;https://skipthefiller.com/naruto-characters/pain-nagato;SkipTheFiller;CC BY 4.0
+20;739;Rock Lee;Supporting;21;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/rock-lee;SkipTheFiller;CC BY 4.0
+20;374;Sakura Haruno;Main;3;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/sakura-haruno;SkipTheFiller;CC BY 4.0
+20;1307;Sasuke Uchiha;Main;3;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/sasuke-uchiha;SkipTheFiller;CC BY 4.0
+20;878;Shikamaru Nara;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/shikamaru-nara;SkipTheFiller;CC BY 4.0
+20;13;Shino Aburame;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/shino-aburame;SkipTheFiller;CC BY 4.0
+20;1216;Tenten;Supporting;21;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/tenten;SkipTheFiller;CC BY 4.0
+20;1280;Tsunade;Supporting;91;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/tsunade;SkipTheFiller;CC BY 4.0
+20;831;Zabuza Momochi;Antagonist;6;nome_exato_normalizado;https://skipthefiller.com/naruto-characters/zabuza-momochi;SkipTheFiller;CC BY 4.0
+1735;1093;Danzo Shimura;Antagonist;197;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/danzo-shimura;SkipTheFiller;CC BY 4.0
+1735;193;Deidara;Antagonist;2;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/deidara;SkipTheFiller;CC BY 4.0
+1735;;Gaara of the Desert;Supporting;1;nao_resolvido;https://skipthefiller.com/naruto-shippuden-characters/gaara;SkipTheFiller;CC BY 4.0
+1735;388;Hidan;Antagonist;71;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/hidan;SkipTheFiller;CC BY 4.0
+1735;437;Hinata Hyuga;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/hinata-hyuga;SkipTheFiller;CC BY 4.0
+1735;1293;Itachi Uchiha;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/itachi-uchiha;SkipTheFiller;CC BY 4.0
+1735;521;Jugo;Supporting;115;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/jugo;SkipTheFiller;CC BY 4.0
+1735;376;Kakashi Hatake;Main;1;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/kakashi-hatake;SkipTheFiller;CC BY 4.0
+1735;558;Kakuzu;Antagonist;71;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/kakuzu;SkipTheFiller;CC BY 4.0
+1735;593;Karin;Supporting;115;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/karin;SkipTheFiller;CC BY 4.0
+1735;636;Killer B;Supporting;143;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/killer-b;SkipTheFiller;CC BY 4.0
+1735;421;Kisame Hoshigaki;Antagonist;1;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/kisame-hoshigaki;SkipTheFiller;CC BY 4.0
+1735;684;Konan;Supporting;130;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/konan;SkipTheFiller;CC BY 4.0
+1735;1299;Madara Uchiha;Antagonist;322;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/madara-uchiha;SkipTheFiller;CC BY 4.0
+1735;;Minato Namikaze (Fourth Hokage);Supporting;168;nao_resolvido;https://skipthefiller.com/naruto-shippuden-characters/minato-namikaze;SkipTheFiller;CC BY 4.0
+1735;;Nagato (Pain);Antagonist;130;nao_resolvido;https://skipthefiller.com/naruto-shippuden-characters/nagato;SkipTheFiller;CC BY 4.0
+1735;1344;Naruto Uzumaki;Main;1;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/naruto-uzumaki;SkipTheFiller;CC BY 4.0
+1735;444;Neji Hyuga;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/neji-hyuga;SkipTheFiller;CC BY 4.0
+1735;;Obito Uchiha (Tobi);Antagonist;32;nao_resolvido;https://skipthefiller.com/naruto-shippuden-characters/obito-uchiha;SkipTheFiller;CC BY 4.0
+1735;739;Rock Lee;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/rock-lee;SkipTheFiller;CC BY 4.0
+1735;1008;Sai;Supporting;33;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/sai;SkipTheFiller;CC BY 4.0
+1735;374;Sakura Haruno;Main;1;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/sakura-haruno;SkipTheFiller;CC BY 4.0
+1735;1042;Sasori;Antagonist;2;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/sasori;SkipTheFiller;CC BY 4.0
+1735;1307;Sasuke Uchiha;Main;1;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/sasuke-uchiha;SkipTheFiller;CC BY 4.0
+1735;878;Shikamaru Nara;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/shikamaru-nara;SkipTheFiller;CC BY 4.0
+1735;430;Suigetsu Hozuki;Supporting;115;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/suigetsu-hozuki;SkipTheFiller;CC BY 4.0
+1735;1373;Yamato;Supporting;34;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/yamato;SkipTheFiller;CC BY 4.0
+1735;1424;Zetsu;Antagonist;1;nome_exato_normalizado;https://skipthefiller.com/naruto-shippuden-characters/zetsu;SkipTheFiller;CC BY 4.0
+97938;1339;Boruto Uzumaki;Main;1;nome_exato_normalizado;https://skipthefiller.com/boruto-characters/boruto-uzumaki;SkipTheFiller;CC BY 4.0
+97938;939;Isshiki Otsutsuki;Supporting;202;nome_exato_normalizado;https://skipthefiller.com/boruto-characters/isshiki-otsutsuki;SkipTheFiller;CC BY 4.0
+97938;609;Kawaki;Main;189;nome_exato_normalizado;https://skipthefiller.com/boruto-characters/kawaki;SkipTheFiller;CC BY 4.0
+97938;1037;Konohamaru Sarutobi;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/boruto-characters/konohamaru-sarutobi;SkipTheFiller;CC BY 4.0
+97938;813;Mitsuki;Main;1;nome_exato_normalizado;https://skipthefiller.com/boruto-characters/mitsuki;SkipTheFiller;CC BY 4.0
+97938;942;Momoshiki Otsutsuki;Supporting;53;nome_exato_normalizado;https://skipthefiller.com/boruto-characters/momoshiki-otsutsuki;SkipTheFiller;CC BY 4.0
+97938;1344;Naruto Uzumaki;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/boruto-characters/naruto-uzumaki-boruto;SkipTheFiller;CC BY 4.0
+97938;1306;Sarada Uchiha;Main;1;nome_exato_normalizado;https://skipthefiller.com/boruto-characters/sarada-uchiha;SkipTheFiller;CC BY 4.0
+97938;1307;Sasuke Uchiha;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/boruto-characters/sasuke-uchiha-boruto;SkipTheFiller;CC BY 4.0
+97938;876;Shikadai Nara;Supporting;1;nome_exato_normalizado;https://skipthefiller.com/boruto-characters/shikadai-nara;SkipTheFiller;CC BY 4.0

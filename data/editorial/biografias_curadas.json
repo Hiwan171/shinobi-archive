@@ -1,0 +1,186 @@
+[
+  {
+    "personagem_id": 1344,
+    "titulo": "Um sonho maior que a solidão",
+    "resumo": "Um garoto de Konoha transforma a busca por reconhecimento em um compromisso com as pessoas ao seu redor. Persistência, amizade e a vontade de ser Hokage conduzem seu caminho.",
+    "estilo": "naruto",
+    "fontes": "https://naruto-official.com/en/news/01_1610 | https://naruto-official.com/en/news/01_1611",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 1293,
+    "titulo": "O peso do silêncio",
+    "resumo": "Um prodígio do clã Uchiha, marcado pela guerra e por decisões que colocam em conflito a família, a vila e o amor pelo irmão.",
+    "estilo": "itachi",
+    "fontes": "https://naruto-official.com/en/news/01_1814",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 1307,
+    "titulo": "Laços, ruptura e reencontro",
+    "resumo": "O sobrevivente de uma tragédia familiar busca respostas e poder. Sua ligação com Naruto e o Time 7 acompanha uma trajetória de escolhas difíceis.",
+    "estilo": "sasuke",
+    "fontes": "https://naruto-official.com/en/news/01_1856 | https://naruto-official.com/en/news/01_1858",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 374,
+    "titulo": "Florescer também é uma escolha",
+    "resumo": "Integrante do Time 7, Sakura encontra no controle de chakra, na medicina e na disciplina de Tsunade uma forma própria de proteger seus companheiros.",
+    "estilo": "sakura",
+    "fontes": "https://naruto-official.com/en/news/01_1743",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 376,
+    "titulo": "A força de não abandonar ninguém",
+    "resumo": "O líder do Time 7 combina experiência, análise e um passado de perdas. Sua formação como professor passa pela importância que dá aos companheiros.",
+    "estilo": "kakashi",
+    "fontes": "https://naruto-official.com/en/news/01_1903 | https://naruto-official.com/en/news/01_1904",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 865,
+    "titulo": "Um instante pode proteger uma vida",
+    "resumo": "Conhecido como Relâmpago Amarelo de Konoha, o Quarto Hokage deixa uma história ligada à velocidade, ao ensino e à proteção da família.",
+    "estilo": "minato",
+    "fontes": "https://naruto-official.com/en/news/01_1681 | https://naruto-official.com/en/news/01_1610",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 437,
+    "titulo": "Coragem que cresce em silêncio",
+    "resumo": "Herdeira de uma família tradicional, Hinata procura construir confiança sem perder a gentileza. Sua determinação se fortalece ao observar a persistência de Naruto.",
+    "estilo": "hinata",
+    "fontes": "https://naruto-official.com/en/news/01_1668",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 259,
+    "titulo": "Da solidão à responsabilidade",
+    "resumo": "O shinobi da Areia encontra nos laços humanos uma alternativa à violência e transforma a própria experiência de isolamento em liderança.",
+    "estilo": "gaara",
+    "fontes": "https://naruto-official.com/en/news/01_1688",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 515,
+    "titulo": "Ensinar também é acreditar",
+    "resumo": "Um dos Sannin, Jiraiya liga a experiência de viajante e escritor à formação de alunos que carregariam suas perguntas sobre o futuro do mundo ninja.",
+    "estilo": "jiraiya",
+    "fontes": "https://naruto-official.com/en/news/01_1643",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 1303,
+    "titulo": "Entre o sonho e a perda",
+    "resumo": "Um jovem que deseja ser Hokage tem seu caminho alterado pela guerra. Seus vínculos com Kakashi, Rin e Minato atravessam tanto suas escolhas quanto suas rupturas.",
+    "estilo": "obito",
+    "fontes": "https://naruto-official.com/en/news/01_1706",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 1299,
+    "titulo": "O sonho de paz que tomou outro rumo",
+    "resumo": "Nascido entre conflitos de clãs, Madara compartilha com Hashirama um desejo de mudança. A divergência entre seus caminhos marca a história do mundo shinobi.",
+    "estilo": "madara",
+    "fontes": "https://naruto-official.com/en/news/01_1663",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 1063,
+    "titulo": "Imaginar uma vila antes de ela existir",
+    "resumo": "O Primeiro Hokage procura uma alternativa à guerra entre clãs. Sua relação com Madara e a fundação de Konoha dão forma a esse projeto.",
+    "estilo": "hashirama",
+    "fontes": "https://naruto-official.com/en/news/01_1627",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 1066,
+    "titulo": "Dar estrutura ao futuro",
+    "resumo": "O Segundo Hokage combina estratégia, criação de técnicas e organização institucional para consolidar a vila que ajudou o irmão a construir.",
+    "estilo": "tobirama",
+    "fontes": "https://naruto-official.com/en/news/01_1694",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 1310,
+    "titulo": "A vontade que continua em outra pessoa",
+    "resumo": "Reconhecido pela velocidade e pelo poder ocular, Shisui exerce influência decisiva sobre a maneira como Itachi entende a proteção da vila.",
+    "estilo": "shisui",
+    "fontes": "https://naruto-official.com/en/news/01_1625",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 444,
+    "titulo": "O destino também pode ser questionado",
+    "resumo": "O talento de Neji se desenvolve sob as limitações impostas à família secundária dos Hyūga. Seus encontros colocam em dúvida a ideia de um futuro inevitável.",
+    "estilo": "neji",
+    "fontes": "https://naruto-official.com/en/news/01_1817",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 344,
+    "titulo": "A disciplina de continuar tentando",
+    "resumo": "Especialista em taijutsu e líder apaixonado, Guy transforma os desafios diários em um compromisso com o crescimento dos alunos e com a amizade.",
+    "estilo": "guy",
+    "fontes": "https://naruto-official.com/en/news/01_1673",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 878,
+    "titulo": "Pensar à frente para proteger os outros",
+    "resumo": "O estrategista de Konoha costuma preferir a tranquilidade, mas assume responsabilidades quando seus companheiros dependem de suas decisões.",
+    "estilo": "shikamaru",
+    "fontes": "https://naruto-official.com/en/news/01_1910",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 1339,
+    "titulo": "O legado não escolhe todo o caminho",
+    "resumo": "Filho do Sétimo Hokage, Boruto cresce em uma vila mais pacífica, mas precisa descobrir como construir uma identidade além da história do pai.",
+    "estilo": "boruto",
+    "fontes": "https://naruto-official.com/en/news/01_1745",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 1306,
+    "titulo": "Olhar para a vila e imaginar seu futuro",
+    "resumo": "Sarada reúne a herança dos Uchiha à vontade de seguir o exemplo de Naruto. Seu objetivo é se tornar Hokage e proteger as pessoas à sua volta.",
+    "estilo": "sarada",
+    "fontes": "https://naruto-official.com/en/news/01_1750",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 193,
+    "titulo": "A arte dura o tempo de uma explosão",
+    "resumo": "O integrante da Akatsuki transforma argila e explosões em uma linguagem própria. Seu orgulho artístico atravessa os confrontos e as rivalidades que escolhe alimentar.",
+    "estilo": "deidara",
+    "fontes": "https://naruto-official.com/en/news/01_1781",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 1042,
+    "titulo": "O tempo e a busca de permanência",
+    "resumo": "O mestre de marionetes de Suna procura uma forma de arte que sobreviva ao tempo. Sua história está ligada à solidão, à perda e ao aprendizado com Chiyo.",
+    "estilo": "sasori",
+    "fontes": "https://naruto-official.com/en/news/01_1641",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 377,
+    "titulo": "Um legado além da missão",
+    "resumo": "Conhecido como Presa Branca, o pai de Kakashi deixa uma história em que a escolha pelos companheiros altera tanto a reputação quanto a vida da família.",
+    "estilo": "kakashi",
+    "fontes": "https://naruto-official.com/en/news/01_1875",
+    "tipo_texto": "Síntese editorial original em português"
+  },
+  {
+    "personagem_id": 739,
+    "titulo": "O talento de não desistir",
+    "resumo": "Lee procura provar que esforço, taijutsu e confiança podem sustentar uma vida ninja. A relação com Guy dá forma ao seu treinamento e à sua perseverança.",
+    "estilo": "lee",
+    "fontes": "https://naruto-official.com/en/news/01_1652",
+    "tipo_texto": "Síntese editorial original em português"
+  }
+]

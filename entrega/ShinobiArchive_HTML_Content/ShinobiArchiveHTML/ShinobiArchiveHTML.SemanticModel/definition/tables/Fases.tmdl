@@ -1,0 +1,25 @@
+table Fases
+	lineageTag: 26d404ee-2494-569d-b158-db192cc2045f
+
+	column contexto_original
+		dataType: string
+		lineageTag: a3fe4f7c-0ef0-5183-860b-6d324bb8aedf
+		summarizeBy: none
+		sourceColumn: contexto_original
+
+	column fase
+		dataType: string
+		lineageTag: 9e94f386-106d-5f5e-a10a-3abe1e1016ce
+		summarizeBy: none
+		sourceColumn: fase
+
+	partition Fases = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCoWQQQ6CQAxFr9LMmhOwUxfEhYbEpTGmzgzQyEzJMBiN8TAcwFNwMQmYQALosr99r02PTyHZen33fGZHKVnMRShWEpU2D4gcqgq9FoFIsNRznVcwr1jnaK8Qa0esBrytmzcrBm3g4tBKXhawqzzDDm2Kg6BPQzBt3NR/Yb6RnsIMCeVm+fZNVlmyEDs27IntYJh0lhQRktIj8FsvjcfoPGyH8T1298u8qcuSfnypB0fkIaOiqLpdpw/z7eLB3gEAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"contexto_original", type text}, {"fase", type text}}, "en-US")
+				in
+				    Tipos
+

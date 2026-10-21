@@ -1,0 +1,67 @@
+table arcos
+	lineageTag: 041372f1-0042-54d4-b976-7c0bea0ce9f3
+
+	column arco_id
+		dataType: string
+		lineageTag: b50d985c-82c6-55a3-bef4-54b4e36d7652
+		summarizeBy: none
+		sourceColumn: arco_id
+
+	column serie_anilist_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 72df415a-7b3d-58c6-be0c-aa2aa612dba3
+		summarizeBy: none
+		sourceColumn: serie_anilist_id
+
+	column nome
+		dataType: string
+		lineageTag: 75d76d3f-ba66-54db-81ce-ebebdce4cef6
+		summarizeBy: none
+		sourceColumn: nome
+
+	column primeiro_episodio
+		dataType: int64
+		formatString: #,0
+		lineageTag: 19da37aa-19f6-5414-b96d-c5b46dbb433a
+		summarizeBy: none
+		sourceColumn: primeiro_episodio
+
+	column ultimo_episodio
+		dataType: int64
+		formatString: #,0
+		lineageTag: cfbe0bc6-34f4-50cc-ab48-8dba40c3d9b6
+		summarizeBy: none
+		sourceColumn: ultimo_episodio
+
+	column quantidade_episodios
+		dataType: int64
+		formatString: #,0
+		lineageTag: 6393fcbf-474d-5637-b2b8-d9060abc0a33
+		summarizeBy: none
+		sourceColumn: quantidade_episodios
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 37328a5c-013a-564d-ad7f-73d7a185fed3
+		summarizeBy: none
+		sourceColumn: fonte
+
+	column licenca
+		dataType: string
+		lineageTag: ee649ae5-b30d-544d-85fe-f1fd89c450f3
+		summarizeBy: none
+		sourceColumn: licenca
+
+	partition arcos = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"arco_id", type text}, {"serie_anilist_id", Int64.Type}, {"nome", type text}, {"primeiro_episodio", Int64.Type}, {"ultimo_episodio", Int64.Type}, {"quantidade_episodios", Int64.Type}, {"fonte", type text}, {"licenca", type text}}, "en-US")
+				in
+				    Tipos
+

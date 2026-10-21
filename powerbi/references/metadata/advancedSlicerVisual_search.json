@@ -1,0 +1,152 @@
+{
+  "data": {
+    "cornerRadius": {
+      "type": "numeric",
+      "displayName": "Corner radius"
+    },
+    "individualCorners": {
+      "type": "bool",
+      "displayName": "Individual corners"
+    },
+    "cornerRadiusTopLeft": {
+      "type": "numeric",
+      "displayName": "Top left"
+    },
+    "cornerRadiusTopRight": {
+      "type": "numeric",
+      "displayName": "Top right"
+    },
+    "cornerRadiusBottomLeft": {
+      "type": "numeric",
+      "displayName": "Bottom left"
+    },
+    "cornerRadiusBottomRight": {
+      "type": "numeric",
+      "displayName": "Bottom right"
+    },
+    "paddingUniform": {
+      "type": "numeric",
+      "displayName": "Uniform padding"
+    },
+    "individualPadding": {
+      "type": "bool",
+      "displayName": "Individual padding"
+    },
+    "paddingTop": {
+      "type": "numeric",
+      "displayName": "Top"
+    },
+    "paddingLeft": {
+      "type": "numeric",
+      "displayName": "Left"
+    },
+    "paddingRight": {
+      "type": "numeric",
+      "displayName": "Right"
+    },
+    "paddingBottom": {
+      "type": "numeric",
+      "displayName": "Bottom"
+    },
+    "verticalGap": {
+      "type": "numeric",
+      "displayName": "Vertical gap"
+    },
+    "fontFamily": {
+      "type": "formatting",
+      "displayName": "Font family"
+    },
+    "fontSize": {
+      "type": "formatting",
+      "displayName": "Text size"
+    },
+    "bold": {
+      "type": "bool",
+      "displayName": "Bold"
+    },
+    "italic": {
+      "type": "bool",
+      "displayName": "Italic"
+    },
+    "underline": {
+      "type": "bool",
+      "displayName": "Underline"
+    },
+    "fontColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "fontTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "borderShow": {
+      "type": "bool",
+      "displayName": "Border"
+    },
+    "borderColor": {
+      "type": "fill",
+      "displayName": "Border color"
+    },
+    "borderTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "accentBarShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "accentBarColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "accentBarTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "accentBarWidth": {
+      "type": "numeric",
+      "displayName": "Width"
+    },
+    "accentBarPosition": {
+      "type": "enum",
+      "values": [
+        "Left",
+        "Right",
+        "Bottom",
+        "Top"
+      ],
+      "displayName": "Position"
+    },
+    "iconShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "iconColor": {
+      "type": "fill",
+      "displayName": "Color"
+    },
+    "iconTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency"
+    },
+    "iconSize": {
+      "type": "numeric",
+      "displayName": "Size"
+    },
+    "backgroundShow": {
+      "type": "bool",
+      "displayName": "Show"
+    },
+    "backgroundColor": {
+      "type": "fill",
+      "displayName": "Color",
+      "description": "Background color"
+    },
+    "backgroundTransparency": {
+      "type": "numeric",
+      "displayName": "Transparency",
+      "description": "Background color transparency"
+    }
+  }
+}

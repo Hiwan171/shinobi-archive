@@ -1,0 +1,275 @@
+table Indicadores
+	lineageTag: e359a0ed-4a10-57fa-a4ca-4664c1b16459
+
+	measure Personagens = DISTINCTCOUNT('personagens'[personagem_id])
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: e4252ae7-b713-55a7-a9b9-313296d311d6
+
+	measure 'Catálogo completo' = CALCULATE([Personagens], REMOVEFILTERS('personagens'))
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: d86d9871-3213-53ab-a3cb-235aeda89ab6
+
+	measure Clãs = COUNTROWS('clas')
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: cdec2c5d-bddc-5654-b044-0d5fe63b7f36
+
+	measure Vilas = COUNTROWS('vilas')
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: db73fccf-40ff-5389-ad1e-6da7beb18138
+
+	measure Equipes = COUNTROWS('equipes')
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: 5fa80952-4866-5b7f-880e-9650489bce2c
+
+	measure Jutsus = DISTINCTCOUNT('jutsus'[jutsu_id])
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: d2ddf64a-b57d-58fe-80d6-bb7a8c4ccaab
+
+	measure 'Usuários da técnica' = DISTINCTCOUNT('personagem_jutsu'[personagem_id])
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: dcaf6cb8-7c5e-54e7-b947-9c76f14e116a
+
+	measure 'Membros do clã' = DISTINCTCOUNT('personagem_clas'[personagem_id])
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: d07acc2d-c22f-5e26-ae1c-be9ad9207df7
+
+	measure 'Membros da vila' = DISTINCTCOUNT('personagem_vilas'[personagem_id])
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: e0b2dc19-00ec-595e-bfcd-394dd440d5bf
+
+	measure 'Usuários da natureza' = DISTINCTCOUNT('personagem_natureza'[personagem_id])
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: dee7c260-938c-589a-ba17-22cb4ef92965
+
+	measure Episódios = COUNTROWS('episodios')
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: ce9d6095-434b-5a44-9002-7f95eb2df7f8
+
+	measure Arcos = DISTINCTCOUNT('episodios'[arco_id])
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: 98caab7c-0cb3-5c2e-bd76-85914ab8cd61
+
+	measure 'Episódios filler' = CALCULATE([Episódios], 'episodios'[classificacao_pt] = "Filler")
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: b0ecbcdb-5e4e-5912-9d69-668614b7b14d
+
+	measure 'Percentual filler' = DIVIDE([Episódios filler], [Episódios])
+		formatString: 0.0%
+		displayFolder: Visão geral
+		lineageTag: 3c3ba014-9325-5a27-8def-6dab91e4c6f3
+
+	measure 'Votos do recorte' = VAR Regiao = SELECTEDVALUE('Regioes'[regiao], "all") RETURN CALCULATE(SUM('votacao_narutop99'[votos]), REMOVEFILTERS('Regioes'), TREATAS({Regiao}, 'votacao_narutop99'[regiao]))
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: af8334a9-ba2d-5f2a-a691-1f49594ae0a4
+
+	measure 'Votos globais' = CALCULATE(SUM('votacao_narutop99'[votos]), REMOVEFILTERS('Regioes'), 'votacao_narutop99'[regiao] = "all")
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: ee26ad64-a577-532a-9674-94cfc031b5da
+
+	measure Participantes = DISTINCTCOUNT('votacao_narutop99'[narutop99_id])
+		formatString: #,0
+		displayFolder: Visão geral
+		lineageTag: 8ecafa90-a5c4-5270-bc3f-8b3afcf3cafe
+
+	measure 'Ninja ID' = SELECTEDVALUE('personagens'[personagem_id], 1344)
+		displayFolder: Ficha
+		lineageTag: 6c12f759-5bf8-584a-9507-4d8cb6f79043
+
+	measure 'Nome da ficha' = VAR __NinjaId = [Ninja ID] RETURN COALESCE(LOOKUPVALUE('personagens'[nome], 'personagens'[personagem_id], __NinjaId), "Não informado")
+		displayFolder: Ficha
+		lineageTag: e08fcda3-a782-5cc0-8056-e5d8e2c1316c
+
+	measure 'Clã da ficha' = VAR __NinjaId = [Ninja ID] RETURN COALESCE(LOOKUPVALUE('personagens'[cla_exibicao], 'personagens'[personagem_id], __NinjaId), "Não informado")
+		displayFolder: Ficha
+		lineageTag: f5bf275e-26b8-56ba-9eea-5156c45cfd58
+
+	measure 'Vila da ficha' = VAR __NinjaId = [Ninja ID] RETURN COALESCE(LOOKUPVALUE('personagens'[vila_principal], 'personagens'[personagem_id], __NinjaId), "Não informado")
+		displayFolder: Ficha
+		lineageTag: 835f2379-b741-5129-88bd-aef1671bbeff
+
+	measure 'Classificação da ficha' = VAR __NinjaId = [Ninja ID] RETURN COALESCE(LOOKUPVALUE('personagens'[classificacao_resumo], 'personagens'[personagem_id], __NinjaId), "Não informado")
+		displayFolder: Ficha
+		lineageTag: 0f96b1f4-d2a5-5d15-bfdd-7a800b6cd379
+
+	measure 'Sangue da ficha' = VAR __NinjaId = [Ninja ID] RETURN COALESCE(LOOKUPVALUE('personagens'[tipo_sanguineo], 'personagens'[personagem_id], __NinjaId), "Não informado")
+		displayFolder: Ficha
+		lineageTag: cb6bd3d1-b2ac-5f7e-92cc-4d45e873fc3c
+
+	measure 'Aniversário da ficha' = VAR __NinjaId = [Ninja ID] RETURN COALESCE(LOOKUPVALUE('personagens'[aniversario_original], 'personagens'[personagem_id], __NinjaId), "Não informado")
+		displayFolder: Ficha
+		lineageTag: 84a431e8-3c80-54f1-9f70-37e0c075139b
+
+	measure 'Retrato da ficha' = VAR __NinjaId = [Ninja ID] RETURN LOOKUPVALUE('personagens'[retrato_url], 'personagens'[personagem_id], __NinjaId)
+		displayFolder: Ficha
+		lineageTag: 90d5b1c3-8244-5cdf-8933-d2e438cd5436
+		dataCategory: ImageUrl
+
+	measure 'Card da ficha' = VAR __NinjaId = [Ninja ID] RETURN LOOKUPVALUE('personagens'[card_url], 'personagens'[personagem_id], __NinjaId)
+		displayFolder: Ficha
+		lineageTag: e69c699d-fe9a-5d30-8d0d-a99605976475
+		dataCategory: ImageUrl
+
+	measure 'Retrato no catálogo' = SELECTEDVALUE('personagens'[retrato_url])
+		displayFolder: Ficha
+		lineageTag: 22a3be74-03e7-5fb9-8e8c-112601afff16
+		dataCategory: ImageUrl
+
+	measure 'Técnicas da ficha' = VAR __NinjaId = [Ninja ID] RETURN LOOKUPVALUE('personagens'[quantidade_jutsus_utilizaveis], 'personagens'[personagem_id], __NinjaId)
+		formatString: #,0
+		displayFolder: Ficha
+		lineageTag: 5ba6e093-3a77-5917-80f8-879857c64c90
+
+	measure 'Naturezas da ficha' = VAR __NinjaId = [Ninja ID] RETURN LOOKUPVALUE('personagens'[quantidade_naturezas_listadas], 'personagens'[personagem_id], __NinjaId)
+		formatString: #,0
+		displayFolder: Ficha
+		lineageTag: 18e4a33b-d5c3-55fd-a217-9fa38f135c34
+
+	measure 'Votos da ficha' = VAR __NinjaId = [Ninja ID] RETURN LOOKUPVALUE('personagens'[votos_narutop99], 'personagens'[personagem_id], __NinjaId)
+		formatString: #,0
+		displayFolder: Ficha
+		lineageTag: e46ef16e-037d-5879-b18e-d63210fcdcd7
+
+	measure 'Posição da ficha' = VAR __NinjaId = [Ninja ID] RETURN LOOKUPVALUE('personagens'[posicao_narutop99], 'personagens'[personagem_id], __NinjaId)
+		formatString: #,0
+		displayFolder: Ficha
+		lineageTag: 5cfd79af-ee36-5b43-aa6d-b36a3a77fa7a
+
+	measure 'Idade da ficha' = VAR __NinjaId = [Ninja ID] VAR Fase = SELECTEDVALUE('Fases'[contexto_original], "Part II") RETURN COALESCE(CALCULATE(SELECTEDVALUE('medidas_por_fase'[valor_original]), TREATAS({__NinjaId}, 'medidas_por_fase'[personagem_id]), TREATAS({Fase}, 'medidas_por_fase'[contexto_original]), 'medidas_por_fase'[atributo] = "idade"), "Não informado")
+		displayFolder: Ficha
+		lineageTag: f76586ee-50d4-55f6-99b9-394f8b16e76d
+
+	measure 'Altura da ficha' = VAR __NinjaId = [Ninja ID] VAR Fase = SELECTEDVALUE('Fases'[contexto_original], "Part II") RETURN COALESCE(CALCULATE(SELECTEDVALUE('medidas_por_fase'[valor_original]), TREATAS({__NinjaId}, 'medidas_por_fase'[personagem_id]), TREATAS({Fase}, 'medidas_por_fase'[contexto_original]), 'medidas_por_fase'[atributo] = "altura"), "Não informado")
+		displayFolder: Ficha
+		lineageTag: 80c44157-8949-5e5c-9c01-48bfc26d582a
+
+	measure 'Peso da ficha' = VAR __NinjaId = [Ninja ID] VAR Fase = SELECTEDVALUE('Fases'[contexto_original], "Part II") RETURN COALESCE(CALCULATE(SELECTEDVALUE('medidas_por_fase'[valor_original]), TREATAS({__NinjaId}, 'medidas_por_fase'[personagem_id]), TREATAS({Fase}, 'medidas_por_fase'[contexto_original]), 'medidas_por_fase'[atributo] = "peso"), "Não informado")
+		displayFolder: Ficha
+		lineageTag: 15a54bde-e82a-57b8-a421-1355cda9d35a
+
+	measure 'Patente da ficha' = VAR __NinjaId = [Ninja ID] VAR Fase = SELECTEDVALUE('Fases'[contexto_original], "Part II") RETURN COALESCE(CALCULATE(SELECTEDVALUE('patentes_por_fase'[patente_original]), TREATAS({__NinjaId}, 'patentes_por_fase'[personagem_id]), TREATAS({Fase}, 'patentes_por_fase'[contexto_original])), "Não informado")
+		displayFolder: Ficha
+		lineageTag: 62c4c413-e0b6-53ab-89d9-9f6d07b51577
+
+	measure 'Chakra da ficha' = VAR __NinjaId = [Ninja ID] RETURN CONCATENATEX(FILTER(ALL('personagem_natureza'), 'personagem_natureza'[personagem_id] = __NinjaId), 'personagem_natureza'[nome_original], "  ·  ")
+		displayFolder: Ficha
+		lineageTag: 92bd5a41-300c-5351-b052-2fe3995087ac
+
+	measure 'Ninja A' = SELECTEDVALUE('ComparadorA'[personagem_id], 1344)
+		displayFolder: Comparador
+		lineageTag: 0a28bda7-9149-57ce-b767-ca757b77280a
+
+	measure 'Nome A' = VAR __NinjaId = [Ninja A] RETURN LOOKUPVALUE('personagens'[nome], 'personagens'[personagem_id], __NinjaId)
+		displayFolder: Comparador
+		lineageTag: e6902bfc-a62e-5a7a-ad1f-e3a4d8d5f0a1
+
+	measure 'Retrato A' = VAR __NinjaId = [Ninja A] RETURN LOOKUPVALUE('personagens'[retrato_url], 'personagens'[personagem_id], __NinjaId)
+		displayFolder: Comparador
+		lineageTag: a76e2e04-3513-588d-9d52-aa4141eceaa8
+		dataCategory: ImageUrl
+
+	measure 'Técnicas A' = VAR __NinjaId = [Ninja A] RETURN CALCULATE(DISTINCTCOUNT('personagem_jutsu'[jutsu_id]), REMOVEFILTERS('personagens'), TREATAS({__NinjaId}, 'personagem_jutsu'[personagem_id]))
+		formatString: #,0
+		displayFolder: Comparador
+		lineageTag: fc0c7500-51de-5f25-8854-ba45b9e5a306
+
+	measure 'Naturezas A' = VAR __NinjaId = [Ninja A] RETURN LOOKUPVALUE('personagens'[quantidade_naturezas_listadas], 'personagens'[personagem_id], __NinjaId)
+		formatString: #,0
+		displayFolder: Comparador
+		lineageTag: 99c7f366-c968-57d6-b747-4751c8527e9f
+
+	measure 'Ninja B' = SELECTEDVALUE('ComparadorB'[personagem_id], 1307)
+		displayFolder: Comparador
+		lineageTag: a913a743-22e1-5e8c-a477-3aaed81328e7
+
+	measure 'Nome B' = VAR __NinjaId = [Ninja B] RETURN LOOKUPVALUE('personagens'[nome], 'personagens'[personagem_id], __NinjaId)
+		displayFolder: Comparador
+		lineageTag: 2254c13d-09e6-51f4-9dd4-2ee40f84a69d
+
+	measure 'Retrato B' = VAR __NinjaId = [Ninja B] RETURN LOOKUPVALUE('personagens'[retrato_url], 'personagens'[personagem_id], __NinjaId)
+		displayFolder: Comparador
+		lineageTag: 65c4a3a4-4a05-562a-917c-990f68761865
+		dataCategory: ImageUrl
+
+	measure 'Técnicas B' = VAR __NinjaId = [Ninja B] RETURN CALCULATE(DISTINCTCOUNT('personagem_jutsu'[jutsu_id]), REMOVEFILTERS('personagens'), TREATAS({__NinjaId}, 'personagem_jutsu'[personagem_id]))
+		formatString: #,0
+		displayFolder: Comparador
+		lineageTag: 375d2ef1-86dd-5918-8f89-b24828054a67
+
+	measure 'Naturezas B' = VAR __NinjaId = [Ninja B] RETURN LOOKUPVALUE('personagens'[quantidade_naturezas_listadas], 'personagens'[personagem_id], __NinjaId)
+		formatString: #,0
+		displayFolder: Comparador
+		lineageTag: 5c4ad20c-015b-5c33-ae9d-64b97094377a
+
+	measure 'Técnicas em comum' = VAR IdA = [Ninja A] VAR IdB = [Ninja B] VAR A = DISTINCT(SELECTCOLUMNS(FILTER(ALL('personagem_jutsu'), 'personagem_jutsu'[personagem_id] = IdA), "Tecnica", 'personagem_jutsu'[jutsu_id])) VAR B = DISTINCT(SELECTCOLUMNS(FILTER(ALL('personagem_jutsu'), 'personagem_jutsu'[personagem_id] = IdB), "Tecnica", 'personagem_jutsu'[jutsu_id])) VAR Comuns = INTERSECT(A, B) RETURN COUNTROWS(Comuns)
+		formatString: #,0
+		displayFolder: Comparador
+		lineageTag: d320bbd8-ce6d-5767-94a0-2f3b01142a3a
+
+	measure 'Técnicas compartilhadas' = VAR IdA = [Ninja A] VAR IdB = [Ninja B] VAR A = DISTINCT(SELECTCOLUMNS(FILTER(ALL('personagem_jutsu'), 'personagem_jutsu'[personagem_id] = IdA), "Tecnica", 'personagem_jutsu'[jutsu_id])) VAR B = DISTINCT(SELECTCOLUMNS(FILTER(ALL('personagem_jutsu'), 'personagem_jutsu'[personagem_id] = IdB), "Tecnica", 'personagem_jutsu'[jutsu_id])) VAR Comuns = INTERSECT(A, B) RETURN CONCATENATEX(TOPN(12, Comuns, [Tecnica], ASC), LOOKUPVALUE('jutsus'[nome], 'jutsus'[jutsu_id], [Tecnica]), UNICHAR(10))
+		displayFolder: Comparador
+		lineageTag: 431489eb-49b9-51bb-ac61-640ad457e7ef
+
+	/// Interface completa em HTML/CSS/JS; JSON serializado das tabelas do modelo no contexto recebido pelo visual.
+	measure 'Interface Naruto HTML' =
+			VAR __Jsoncharacters = "[" & CONCATENATEX(FILTER(ALLSELECTED('personagens'), NOT ISBLANK('personagens'[personagem_id])), "[" & IF(ISBLANK('personagens'[personagem_id]), "null", FORMAT('personagens'[personagem_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagens'[nome], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagens'[cla_exibicao], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagens'[vila_principal], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagens'[classificacao_resumo], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagens'[sexo_pt], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagens'[aniversario_original], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagens'[tipo_sanguineo], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagens'[retrato_url], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & IF(ISBLANK('personagens'[posicao_narutop99]), "null", FORMAT('personagens'[posicao_narutop99], "0", "en-US")) & "," & IF(ISBLANK('personagens'[votos_narutop99]), "null", FORMAT('personagens'[votos_narutop99], "0", "en-US")) & "]", ",") & "]"
+			VAR __Jsonclans = "[" & CONCATENATEX(FILTER(ALLSELECTED('clas'), NOT ISBLANK('clas'[cla_id])), "[" & IF(ISBLANK('clas'[cla_id]), "null", FORMAT('clas'[cla_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('clas'[nome], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Jsonvillages = "[" & CONCATENATEX(FILTER(ALLSELECTED('vilas'), NOT ISBLANK('vilas'[vila_id])), "[" & IF(ISBLANK('vilas'[vila_id]), "null", FORMAT('vilas'[vila_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('vilas'[nome], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Jsonteams = "[" & CONCATENATEX(FILTER(ALLSELECTED('equipes'), NOT ISBLANK('equipes'[equipe_id])), "[" & IF(ISBLANK('equipes'[equipe_id]), "null", FORMAT('equipes'[equipe_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('equipes'[nome], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __JsonclanLinks = "[" & CONCATENATEX(FILTER(ALLSELECTED('personagem_clas'), NOT ISBLANK('personagem_clas'[personagem_id])), "[" & IF(ISBLANK('personagem_clas'[personagem_id]), "null", FORMAT('personagem_clas'[personagem_id], "0", "en-US")) & "," & IF(ISBLANK('personagem_clas'[cla_id]), "null", FORMAT('personagem_clas'[cla_id], "0", "en-US")) & "]", ",") & "]"
+			VAR __JsonvillageLinks = "[" & CONCATENATEX(FILTER(ALLSELECTED('personagem_vilas'), NOT ISBLANK('personagem_vilas'[personagem_id])), "[" & IF(ISBLANK('personagem_vilas'[personagem_id]), "null", FORMAT('personagem_vilas'[personagem_id], "0", "en-US")) & "," & IF(ISBLANK('personagem_vilas'[vila_id]), "null", FORMAT('personagem_vilas'[vila_id], "0", "en-US")) & "]", ",") & "]"
+			VAR __Jsonjutsus = "[" & CONCATENATEX(FILTER(ALLSELECTED('jutsus'), NOT ISBLANK('jutsus'[jutsu_id])), "[" & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('jutsus'[jutsu_id], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('jutsus'[nome], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Jsontechniques = "[" & CONCATENATEX(FILTER(ALLSELECTED('personagem_jutsu'), NOT ISBLANK('personagem_jutsu'[personagem_id])), "[" & IF(ISBLANK('personagem_jutsu'[personagem_id]), "null", FORMAT('personagem_jutsu'[personagem_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagem_jutsu'[jutsu_id], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Jsonchakra = "[" & CONCATENATEX(FILTER(ALLSELECTED('personagem_natureza'), NOT ISBLANK('personagem_natureza'[personagem_id])), "[" & IF(ISBLANK('personagem_natureza'[personagem_id]), "null", FORMAT('personagem_natureza'[personagem_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagem_natureza'[nome_original], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Jsonfamily = "[" & CONCATENATEX(FILTER(ALLSELECTED('familia'), NOT ISBLANK('familia'[personagem_id])), "[" & IF(ISBLANK('familia'[personagem_id]), "null", FORMAT('familia'[personagem_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('familia'[parentesco_original], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('familia'[nome_relacionado_original], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & IF(ISBLANK('familia'[personagem_relacionado_id]), "null", FORMAT('familia'[personagem_relacionado_id], "0", "en-US")) & "]", ",") & "]"
+			VAR __Jsonphysical = "[" & CONCATENATEX(FILTER(ALLSELECTED('medidas_por_fase'), NOT ISBLANK('medidas_por_fase'[personagem_id])), "[" & IF(ISBLANK('medidas_por_fase'[personagem_id]), "null", FORMAT('medidas_por_fase'[personagem_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('medidas_por_fase'[atributo], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('medidas_por_fase'[contexto_original], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('medidas_por_fase'[valor_original], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Jsongrades = "[" & CONCATENATEX(FILTER(ALLSELECTED('patentes_por_fase'), NOT ISBLANK('patentes_por_fase'[personagem_id])), "[" & IF(ISBLANK('patentes_por_fase'[personagem_id]), "null", FORMAT('patentes_por_fase'[personagem_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('patentes_por_fase'[contexto_original], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('patentes_por_fase'[patente_original], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Jsonofficial = "[" & CONCATENATEX(FILTER(ALLSELECTED('personagens_narutop99'), NOT ISBLANK('personagens_narutop99'[narutop99_id])), "[" & IF(ISBLANK('personagens_narutop99'[narutop99_id]), "null", FORMAT('personagens_narutop99'[narutop99_id], "0", "en-US")) & "," & IF(ISBLANK('personagens_narutop99'[personagem_id]), "null", FORMAT('personagens_narutop99'[personagem_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagens_narutop99'[nome], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Jsonvotes = "[" & CONCATENATEX(FILTER(ALLSELECTED('votacao_narutop99'), NOT ISBLANK('votacao_narutop99'[narutop99_id])), "[" & IF(ISBLANK('votacao_narutop99'[narutop99_id]), "null", FORMAT('votacao_narutop99'[narutop99_id], "0", "en-US")) & "," & IF(ISBLANK('votacao_narutop99'[personagem_id]), "null", FORMAT('votacao_narutop99'[personagem_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('votacao_narutop99'[regiao], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & IF(ISBLANK('votacao_narutop99'[posicao]), "null", FORMAT('votacao_narutop99'[posicao], "0", "en-US")) & "," & IF(ISBLANK('votacao_narutop99'[votos]), "null", FORMAT('votacao_narutop99'[votos], "0", "en-US")) & "]", ",") & "]"
+			VAR __Jsonarcs = "[" & CONCATENATEX(FILTER(ALLSELECTED('arcos'), NOT ISBLANK('arcos'[arco_id])), "[" & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('arcos'[arco_id], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & IF(ISBLANK('arcos'[serie_anilist_id]), "null", FORMAT('arcos'[serie_anilist_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('arcos'[nome], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & IF(ISBLANK('arcos'[primeiro_episodio]), "null", FORMAT('arcos'[primeiro_episodio], "0", "en-US")) & "," & IF(ISBLANK('arcos'[ultimo_episodio]), "null", FORMAT('arcos'[ultimo_episodio], "0", "en-US")) & "]", ",") & "]"
+			VAR __Jsonepisodes = "[" & CONCATENATEX(FILTER(ALLSELECTED('episodios'), NOT ISBLANK('episodios'[episodio_id])), "[" & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('episodios'[episodio_id], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & IF(ISBLANK('episodios'[serie_anilist_id]), "null", FORMAT('episodios'[serie_anilist_id], "0", "en-US")) & "," & IF(ISBLANK('episodios'[numero]), "null", FORMAT('episodios'[numero], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('episodios'[titulo_original], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('episodios'[classificacao_pt], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('episodios'[arco_id], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Jsonprofiles = "[" & CONCATENATEX(FILTER(ALLSELECTED('personagens_anilist'), NOT ISBLANK('personagens_anilist'[personagem_id])), "[" & IF(ISBLANK('personagens_anilist'[personagem_id]), "null", FORMAT('personagens_anilist'[personagem_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagens_anilist'[nome_nativo], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('personagens_anilist'[url_fonte], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __JsonteamLinks = "[" & CONCATENATEX(FILTER(ALLSELECTED('personagem_equipes'), NOT ISBLANK('personagem_equipes'[personagem_id])), "[" & IF(ISBLANK('personagem_equipes'[personagem_id]), "null", FORMAT('personagem_equipes'[personagem_id], "0", "en-US")) & "," & IF(ISBLANK('personagem_equipes'[equipe_id]), "null", FORMAT('personagem_equipes'[equipe_id], "0", "en-US")) & "]", ",") & "]"
+			VAR __Jsoninherited = "[" & CONCATENATEX(FILTER(ALLSELECTED('kekkei_genkai'), NOT ISBLANK('kekkei_genkai'[kekkei_genkai_id])), "[" & IF(ISBLANK('kekkei_genkai'[kekkei_genkai_id]), "null", FORMAT('kekkei_genkai'[kekkei_genkai_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('kekkei_genkai'[nome], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __JsoninheritedLinks = "[" & CONCATENATEX(FILTER(ALLSELECTED('personagem_kekkei_genkai'), NOT ISBLANK('personagem_kekkei_genkai'[personagem_id])), "[" & IF(ISBLANK('personagem_kekkei_genkai'[personagem_id]), "null", FORMAT('personagem_kekkei_genkai'[personagem_id], "0", "en-US")) & "," & IF(ISBLANK('personagem_kekkei_genkai'[kekkei_genkai_id]), "null", FORMAT('personagem_kekkei_genkai'[kekkei_genkai_id], "0", "en-US")) & "]", ",") & "]"
+			VAR __Jsondebuts = "[" & CONCATENATEX(FILTER(ALLSELECTED('estreias'), NOT ISBLANK('estreias'[personagem_id])), "[" & IF(ISBLANK('estreias'[personagem_id]), "null", FORMAT('estreias'[personagem_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('estreias'[midia], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('estreias'[referencia_original], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Jsonbiographies = "[" & CONCATENATEX(FILTER(ALLSELECTED('BiografiasCuradas'), NOT ISBLANK('BiografiasCuradas'[personagem_id])), "[" & IF(ISBLANK('BiografiasCuradas'[personagem_id]), "null", FORMAT('BiografiasCuradas'[personagem_id], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('BiografiasCuradas'[titulo], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('BiografiasCuradas'[resumo], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('BiografiasCuradas'[estilo], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('BiografiasCuradas'[fontes], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('BiografiasCuradas'[tipo_texto], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Jsonhistory = "[" & CONCATENATEX(FILTER(ALLSELECTED('HistoriaPersonagem'), NOT ISBLANK('HistoriaPersonagem'[personagem_id])), "[" & IF(ISBLANK('HistoriaPersonagem'[personagem_id]), "null", FORMAT('HistoriaPersonagem'[personagem_id], "0", "en-US")) & "," & IF(ISBLANK('HistoriaPersonagem'[ordem]), "null", FORMAT('HistoriaPersonagem'[ordem], "0", "en-US")) & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('HistoriaPersonagem'[fase], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('HistoriaPersonagem'[titulo], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('HistoriaPersonagem'[texto], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & IF('HistoriaPersonagem'[revelacao], "true", "false") & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('HistoriaPersonagem'[url_fonte], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __JsontechniqueDetails = "[" & CONCATENATEX(FILTER(ALLSELECTED('TecnicasCuradas'), NOT ISBLANK('TecnicasCuradas'[jutsu_id])), "[" & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('TecnicasCuradas'[jutsu_id], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('TecnicasCuradas'[nome_pt], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('TecnicasCuradas'[categoria], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('TecnicasCuradas'[animacao], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('TecnicasCuradas'[descricao], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('TecnicasCuradas'[url_fonte], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "," & """" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(COALESCE('TecnicasCuradas'[tipo_midia], ""), "\", "\\"), """", "\"""), UNICHAR(13), "\r"), UNICHAR(10), "\n"), UNICHAR(9), "\t") & """" & "]", ",") & "]"
+			VAR __Dataset = "{" & """characters"":{""fields"":[""id"",""name"",""clan"",""village"",""classification"",""sex"",""birthday"",""blood"",""portrait"",""rank"",""votes""],""rows"":" & __Jsoncharacters & "}" & "," & """clans"":{""fields"":[""id"",""name""],""rows"":" & __Jsonclans & "}" & "," & """villages"":{""fields"":[""id"",""name""],""rows"":" & __Jsonvillages & "}" & "," & """teams"":{""fields"":[""id"",""name""],""rows"":" & __Jsonteams & "}" & "," & """clanLinks"":{""fields"":[""person"",""group""],""rows"":" & __JsonclanLinks & "}" & "," & """villageLinks"":{""fields"":[""person"",""group""],""rows"":" & __JsonvillageLinks & "}" & "," & """jutsus"":{""fields"":[""id"",""name""],""rows"":" & __Jsonjutsus & "}" & "," & """techniques"":{""fields"":[""person"",""technique""],""rows"":" & __Jsontechniques & "}" & "," & """chakra"":{""fields"":[""person"",""name""],""rows"":" & __Jsonchakra & "}" & "," & """family"":{""fields"":[""person"",""kinship"",""name"",""related""],""rows"":" & __Jsonfamily & "}" & "," & """physical"":{""fields"":[""person"",""attribute"",""phase"",""value""],""rows"":" & __Jsonphysical & "}" & "," & """grades"":{""fields"":[""person"",""phase"",""grade""],""rows"":" & __Jsongrades & "}" & "," & """official"":{""fields"":[""id"",""person"",""name""],""rows"":" & __Jsonofficial & "}" & "," & """votes"":{""fields"":[""official"",""person"",""region"",""rank"",""votes""],""rows"":" & __Jsonvotes & "}" & "," & """arcs"":{""fields"":[""id"",""series"",""name"",""first"",""last""],""rows"":" & __Jsonarcs & "}" & "," & """episodes"":{""fields"":[""id"",""series"",""number"",""title"",""kind"",""arc""],""rows"":" & __Jsonepisodes & "}" & "," & """profiles"":{""fields"":[""person"",""native"",""source""],""rows"":" & __Jsonprofiles & "}" & "," & """teamLinks"":{""fields"":[""person"",""team""],""rows"":" & __JsonteamLinks & "}" & "," & """inherited"":{""fields"":[""id"",""name""],""rows"":" & __Jsoninherited & "}" & "," & """inheritedLinks"":{""fields"":[""person"",""ability""],""rows"":" & __JsoninheritedLinks & "}" & "," & """debuts"":{""fields"":[""person"",""medium"",""reference""],""rows"":" & __Jsondebuts & "}" & "," & """biographies"":{""fields"":[""person"",""title"",""intro"",""style"",""sources"",""type""],""rows"":" & __Jsonbiographies & "}" & "," & """history"":{""fields"":[""person"",""order"",""phase"",""title"",""text"",""spoiler"",""source""],""rows"":" & __Jsonhistory & "}" & "," & """techniqueDetails"":{""fields"":[""id"",""name"",""category"",""animation"",""description"",""source"",""mediaType""],""rows"":" & __JsontechniqueDetails & "}" & "}"
+			VAR __Html = CONCATENATEX(ALL('InterfaceHTML'), MID('InterfaceHTML'[conteudo], 2, LEN('InterfaceHTML'[conteudo])-2), "", 'InterfaceHTML'[ordem], ASC)
+			RETURN SUBSTITUTE(__Html, "__NARUTO_DATA__", SUBSTITUTE(__Dataset, "<", "\u003c"))
+		displayFolder: Interface HTML
+		lineageTag: e333c6cf-d48a-5520-8e18-9fb422920965
+
+	column versao
+		dataType: string
+		isHidden
+		lineageTag: 65da5ba6-dc6f-5f6f-ac67-532040ac4241
+		summarizeBy: none
+		sourceColumn: versao
+
+	partition Indicadores = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCouuVipLLSpOzFeyUjLUM1CqjQUAbb8HThIAAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"versao", type text}}, "en-US")
+				in
+				    Tipos
+

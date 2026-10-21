@@ -1,0 +1,28 @@
+{
+  "input": "C:\\Users\\User\\Desktop\\BI\\BI MCP\\powerbi\\build\\html\\saida_real_dax.html",
+  "passed": 21,
+  "results": [
+    "Capa associa a arte oficial ao personagem com retrato alternativo",
+    "Símbolo da vila preserva a imagem documental",
+    "Dados do perfil preservam aniversário e sangue",
+    "Habilidades no perfil vêm dos vínculos do personagem",
+    "Botão de detalhes da técnica cabe inteiro sem rolagem interna",
+    "Linha do tempo mostra somente capítulos liberados",
+    "Marcos narrativos são acessíveis e clicáveis",
+    "Marco abre o capítulo correspondente na biografia",
+    "Abrir marco mantém os desfechos protegidos",
+    "Rede apresenta o personagem e os familiares documentados",
+    "Familiar abre seu próprio dossiê",
+    "Votação abre todas as oito regiões com dados reais",
+    "Global da votação é exibido uma vez, sem somar novamente regiões",
+    "Regiões exibem votos e posições do modelo",
+    "Detalhes mostram nome original, descrição e créditos dos sprites",
+    "Nome longo da técnica mantém detalhes acessíveis no painel",
+    "Categoria exibida corresponde à curadoria",
+    "Ausência de sequência continua explícita, sem reprodução fictícia",
+    "Efeitos novos respeitam movimento reduzido",
+    "Personagem sem votação não recebe números inventados",
+    "Sem erros de JavaScript"
+  ],
+  "errors": []
+}

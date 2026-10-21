@@ -1,0 +1,876 @@
+﻿personagem_id;parentesco_original;nome_relacionado_original;personagem_relacionado_id;metodo_correspondencia;fonte
+1344;father;Minato Namikaze;865;nome_exato_normalizado;Dattebayo
+1344;mother;Kushina Uzumaki;1341;nome_exato_normalizado;Dattebayo
+1344;son;Boruto Uzumaki;1339;nome_exato_normalizado;Dattebayo
+1344;daughter;Himawari Uzumaki;1340;nome_exato_normalizado;Dattebayo
+1344;wife;Hinata Uzumaki;;nao_resolvido;Dattebayo
+1344;adoptive son;Kawaki;609;nome_exato_normalizado;Dattebayo
+1344;godfather;Jiraiya;515;nome_exato_normalizado;Dattebayo
+1307;father;Fugaku Uchiha;1289;nome_exato_normalizado;Dattebayo
+1307;mother;Mikoto Uchiha;1300;nome_exato_normalizado;Dattebayo
+1307;brother;Itachi Uchiha;1293;nome_exato_normalizado;Dattebayo
+1307;daughter;Sarada Uchiha;1306;nome_exato_normalizado;Dattebayo
+1307;wife;Sakura Uchiha;;nao_resolvido;Dattebayo
+1299;father;Tajima Uchiha;1312;nome_exato_normalizado;Dattebayo
+1299;brother;Izuna Uchiha;1296;nome_exato_normalizado;Dattebayo
+376;father;Sakumo Hatake;377;nome_exato_normalizado;Dattebayo
+928;clone/son;Mitsuki;813;nome_exato_normalizado;Dattebayo
+1303;grandmother ;Obito's Grandmother;1304;nome_exato_normalizado;Dattebayo
+259;father;Rasa;967;nome_exato_normalizado;Dattebayo
+259;mother;Karura;597;nome_exato_normalizado;Dattebayo
+259;brother;Kankurō;577;nome_exato_normalizado;Dattebayo
+259;sister;Temari;1208;nome_exato_normalizado;Dattebayo
+259;nephew;Shikadai Nara;876;nome_exato_normalizado;Dattebayo
+259;uncle;Yashamaru;1376;nome_exato_normalizado;Dattebayo
+259;adoptive son;Shinki;1100;nome_exato_normalizado;Dattebayo
+1359;adoptive mother;Nonō Yakushi;1361;nome_exato_normalizado;Dattebayo
+1359;adoptive sons;Shin Uchiha;1309;nome_exato_normalizado;Dattebayo
+1359;adoptive brother;Urushi;1332;nome_exato_normalizado;Dattebayo
+515;clone;Koji Kashin;600;nome_exato_normalizado;Dattebayo
+515;godson;Naruto Uzumaki;1344;nome_exato_normalizado;Dattebayo
+344;father;Might Duy;210;nome_exato_normalizado;Dattebayo
+1037;great-grandfather;Sasuke Sarutobi;1039;nome_exato_normalizado;Dattebayo
+1037;grandfather;Hiruzen Sarutobi;1036;nome_exato_normalizado;Dattebayo
+1037;grandmother;Biwako Sarutobi;1035;nome_exato_normalizado;Dattebayo
+1037;uncle;Asuma Sarutobi;1034;nome_exato_normalizado;Dattebayo
+1037;cousin;Mirai Sarutobi;1038;nome_exato_normalizado;Dattebayo
+813;genetic template/parent;Orochimaru;928;nome_exato_normalizado;Dattebayo
+813;clone/brother;Log;744;nome_exato_normalizado;Dattebayo
+813;pet ;Mikazuki;799;nome_exato_normalizado;Dattebayo
+865;son;Naruto Uzumaki;1344;nome_exato_normalizado;Dattebayo
+865;grandson;Boruto Uzumaki;1339;nome_exato_normalizado;Dattebayo
+865;granddaughter;Himawari Uzumaki;1340;nome_exato_normalizado;Dattebayo
+865;wife;Kushina Uzumaki;1341;nome_exato_normalizado;Dattebayo
+1339;grandfather;Hiashi Hyūga;436;nome_exato_normalizado;Dattebayo
+1339;grandmother;Kushina Uzumaki;1341;nome_exato_normalizado;Dattebayo
+1339;father;Naruto Uzumaki;1344;nome_exato_normalizado;Dattebayo
+1339;great-grandfather;Hyūga Elder;434;nome_exato_normalizado;Dattebayo
+1339;granduncle;Hizashi Hyūga;439;nome_exato_normalizado;Dattebayo
+1339;grandmother ;Hinata and Hanabi's Mother;438;nome_exato_normalizado;Dattebayo
+1339;mother;Hinata Hyūga;437;nome_exato_normalizado;Dattebayo
+1339;aunt;Hanabi Hyūga;435;nome_exato_normalizado;Dattebayo
+1339;sister;Himawari Uzumaki;1340;nome_exato_normalizado;Dattebayo
+1339;first cousin once removed;Neji Hyūga;444;nome_exato_normalizado;Dattebayo
+1339;adoptive brother;Kawaki;609;nome_exato_normalizado;Dattebayo
+1339;host;Momoshiki Ōtsutsuki;942;nome_exato_normalizado;Dattebayo
+1293;father;Fugaku Uchiha;1289;nome_exato_normalizado;Dattebayo
+1293;mother;Mikoto Uchiha;1300;nome_exato_normalizado;Dattebayo
+1293;brother;Sasuke Uchiha;1307;nome_exato_normalizado;Dattebayo
+1293;niece;Sarada Uchiha;1306;nome_exato_normalizado;Dattebayo
+1063;father;Butsuma Senju;1062;nome_exato_normalizado;Dattebayo
+1063;brother;Tobirama Senju;1066;nome_exato_normalizado;Dattebayo
+1063;wife;Mito Uzumaki;1343;nome_exato_normalizado;Dattebayo
+1063;granddaughter;Tsunade;1280;nome_exato_normalizado;Dattebayo
+1063;grandson;Nawaki;886;nome_exato_normalizado;Dattebayo
+1280;great-grandfather;Butsuma Senju;1062;nome_exato_normalizado;Dattebayo
+1280;grandfather;Hashirama Senju;1063;nome_exato_normalizado;Dattebayo
+1280;granduncle;Kawarama Senju;1065;nome_exato_normalizado;Dattebayo
+1280;grandmother;Mito Uzumaki;1343;nome_exato_normalizado;Dattebayo
+1280;brother;Nawaki;886;nome_exato_normalizado;Dattebayo
+1280;lover;Dan Katō;605;nome_exato_normalizado;Dattebayo
+739;son;Metal Lee;738;nome_exato_normalizado;Dattebayo
+600;creator;Amado Sanzu;1027;nome_exato_normalizado;Dattebayo
+600;genetic template;Jiraiya;515;nome_exato_normalizado;Dattebayo
+935;mother;Kaguya Ōtsutsuki;940;nome_exato_normalizado;Dattebayo
+935;father ;Tenji;1213;nome_exato_normalizado;Dattebayo
+935;brother;Hamura Ōtsutsuki;936;nome_exato_normalizado;Dattebayo
+935;son;Indra Ōtsutsuki;938;nome_exato_normalizado;Dattebayo
+935;creations;Tailed Beasts;;nao_resolvido;Dattebayo
+1306;grandfather;Kizashi Haruno;372;nome_exato_normalizado;Dattebayo
+1306;grandmother;Mebuki Haruno;373;nome_exato_normalizado;Dattebayo
+1306;father;Sasuke Uchiha;1307;nome_exato_normalizado;Dattebayo
+1306;uncle;Itachi Uchiha;1293;nome_exato_normalizado;Dattebayo
+1306;mother;Sakura Haruno;374;nome_exato_normalizado;Dattebayo
+374;father;Kizashi Haruno;372;nome_exato_normalizado;Dattebayo
+374;mother;Mebuki Haruno;373;nome_exato_normalizado;Dattebayo
+374;daughter;Sarada Uchiha;1306;nome_exato_normalizado;Dattebayo
+374;husband;Sasuke Uchiha;1307;nome_exato_normalizado;Dattebayo
+1036;father;Sasuke Sarutobi;1039;nome_exato_normalizado;Dattebayo
+1036;son;Asuma Sarutobi;1034;nome_exato_normalizado;Dattebayo
+1036;granddaughter;Mirai Sarutobi;1038;nome_exato_normalizado;Dattebayo
+1036;wife;Biwako Sarutobi;1035;nome_exato_normalizado;Dattebayo
+1036;grandson;Konohamaru Sarutobi;1037;nome_exato_normalizado;Dattebayo
+636;adoptive father;A;;nao_resolvido;Dattebayo
+636;adoptive brother;A;;nao_resolvido;Dattebayo
+636;adoptive cousin;Blue B;124;nome_exato_normalizado;Dattebayo
+1066;father;Butsuma Senju;1062;nome_exato_normalizado;Dattebayo
+1066;brother;Kawarama Senju;1065;nome_exato_normalizado;Dattebayo
+1066;grandniece;Tsunade;1280;nome_exato_normalizado;Dattebayo
+1066;grandnephew;Nawaki;886;nome_exato_normalizado;Dattebayo
+1100;adoptive father;Gaara;259;nome_exato_normalizado;Dattebayo
+1100;adoptive grandfather;Rasa;967;nome_exato_normalizado;Dattebayo
+1100;adoptive grandmother;Karura;597;nome_exato_normalizado;Dattebayo
+1100;adoptive granduncle;Yashamaru;1376;nome_exato_normalizado;Dattebayo
+1100;adoptive uncle;Kankurō;577;nome_exato_normalizado;Dattebayo
+1100;adoptive aunt;Temari;1208;nome_exato_normalizado;Dattebayo
+1100;adoptive cousin;Shikadai Nara;876;nome_exato_normalizado;Dattebayo
+13;father;Shibi Aburame;11;nome_exato_normalizado;Dattebayo
+13;adoptive brother;Torune Aburame;15;nome_exato_normalizado;Dattebayo
+40;father;Chōza Akimichi;42;nome_exato_normalizado;Dattebayo
+40;mother;Chōji's Mother;41;nome_exato_normalizado;Dattebayo
+40;daughter;Chōchō Akimichi;39;nome_exato_normalizado;Dattebayo
+40;wife;Karui Akimichi;;nao_resolvido;Dattebayo
+40;uncle ;Chōbee Akimichi;38;nome_exato_normalizado;Dattebayo
+437;grandfather;Hyūga Elder;434;nome_exato_normalizado;Dattebayo
+437;father;Hiashi Hyūga;436;nome_exato_normalizado;Dattebayo
+437;uncle;Hizashi Hyūga;439;nome_exato_normalizado;Dattebayo
+437;cousin;Neji Hyūga;444;nome_exato_normalizado;Dattebayo
+437;mother ;Hinata and Hanabi's Mother;438;nome_exato_normalizado;Dattebayo
+437;sister;Hanabi Hyūga;435;nome_exato_normalizado;Dattebayo
+437;son;Boruto Uzumaki;1339;nome_exato_normalizado;Dattebayo
+437;daughter;Himawari Uzumaki;1340;nome_exato_normalizado;Dattebayo
+437;husband;Naruto Uzumaki;1344;nome_exato_normalizado;Dattebayo
+437;adoptive son;Kawaki;609;nome_exato_normalizado;Dattebayo
+1365;father;Inoichi Yamanaka;1367;nome_exato_normalizado;Dattebayo
+1365;mother;Ino's Mother;1366;nome_exato_normalizado;Dattebayo
+1365;son;Inojin Yamanaka;1368;nome_exato_normalizado;Dattebayo
+1365;husband;Sai Yamanaka;;nao_resolvido;Dattebayo
+148;son;Sasori's Father;1043;nome_exato_normalizado;Dattebayo
+148;grandson;Sasori;1042;nome_exato_normalizado;Dattebayo
+148;younger brother;Ebizō;213;nome_exato_normalizado;Dattebayo
+6;father;A;;nao_resolvido;Dattebayo
+6;adoptive brother;Killer B;636;nome_exato_normalizado;Dattebayo
+6;cousin;Blue B;124;nome_exato_normalizado;Dattebayo
+466;mother;Tsume Inuzuka;468;nome_exato_normalizado;Dattebayo
+466;sister;Hana Inuzuka;465;nome_exato_normalizado;Dattebayo
+466;lover;Tamaki;1183;nome_exato_normalizado;Dattebayo
+1208;father;Rasa;967;nome_exato_normalizado;Dattebayo
+1208;mother;Karura;597;nome_exato_normalizado;Dattebayo
+1208;brother;Kankurō;577;nome_exato_normalizado;Dattebayo
+1208;son;Shikadai Nara;876;nome_exato_normalizado;Dattebayo
+1208;uncle;Yashamaru;1376;nome_exato_normalizado;Dattebayo
+1208;husband;Shikamaru Nara;878;nome_exato_normalizado;Dattebayo
+1208;adoptive nephew;Shinki;1100;nome_exato_normalizado;Dattebayo
+940;son;Hamura Ōtsutsuki;936;nome_exato_normalizado;Dattebayo
+940;grandson;Indra Ōtsutsuki;938;nome_exato_normalizado;Dattebayo
+940;lover ;Tenji;1213;nome_exato_normalizado;Dattebayo
+940;creation;Black Zetsu;1425;nome_exato_normalizado;Dattebayo
+940;incarnation with the god tree;Ten-Tails;1;nome_exato_normalizado;Dattebayo
+940;depowered form;Demonic Statue of the Outer Path;195;nome_exato_normalizado;Dattebayo
+878;father;Shikaku Nara;877;nome_exato_normalizado;Dattebayo
+878;mother;Yoshino Nara;880;nome_exato_normalizado;Dattebayo
+878;son;Shikadai Nara;876;nome_exato_normalizado;Dattebayo
+878;wife;Temari Nara;;nao_resolvido;Dattebayo
+1042;father;Sasori's Father;1043;nome_exato_normalizado;Dattebayo
+1042;mother;Sasori's Mother;1044;nome_exato_normalizado;Dattebayo
+1042;grandmother;Chiyo;148;nome_exato_normalizado;Dattebayo
+1042;granduncle;Ebizō;213;nome_exato_normalizado;Dattebayo
+480;creator;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+480;sibling;Kurama;711;nome_exato_normalizado;Dattebayo
+934;grandmother;Kaguya Ōtsutsuki;940;nome_exato_normalizado;Dattebayo
+934;grandfather ;Tenji;1213;nome_exato_normalizado;Dattebayo
+934;father;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+934;uncle;Hamura Ōtsutsuki;936;nome_exato_normalizado;Dattebayo
+934;brother;Indra Ōtsutsuki;938;nome_exato_normalizado;Dattebayo
+934;wife ;Kanna;578;nome_exato_normalizado;Dattebayo
+1368;grandmother;Ino's Mother;1366;nome_exato_normalizado;Dattebayo
+1368;grandfather;Inoichi Yamanaka;1367;nome_exato_normalizado;Dattebayo
+1368;mother;Ino Yamanaka;1365;nome_exato_normalizado;Dattebayo
+1368;father;Sai Yamanaka;;nao_resolvido;Dattebayo
+1368;adoptive uncle;Shin;1094;nome_exato_normalizado;Dattebayo
+1368;pet ;Akkun;51;nome_exato_normalizado;Dattebayo
+577;father;Rasa;967;nome_exato_normalizado;Dattebayo
+577;mother;Karura;597;nome_exato_normalizado;Dattebayo
+577;brother;Gaara;259;nome_exato_normalizado;Dattebayo
+577;sister;Temari;1208;nome_exato_normalizado;Dattebayo
+577;nephew;Shikadai Nara;876;nome_exato_normalizado;Dattebayo
+577;uncle;Yashamaru;1376;nome_exato_normalizado;Dattebayo
+577;adoptive nephew;Shinki;1100;nome_exato_normalizado;Dattebayo
+1008;son;Inojin Yamanaka;1368;nome_exato_normalizado;Dattebayo
+1008;adoptive brother;Shin;1094;nome_exato_normalizado;Dattebayo
+1008;wife;Ino Yamanaka;1365;nome_exato_normalizado;Dattebayo
+876;grandfather;Rasa;967;nome_exato_normalizado;Dattebayo
+876;grandmother;Karura;597;nome_exato_normalizado;Dattebayo
+876;father;Shikamaru Nara;878;nome_exato_normalizado;Dattebayo
+876;mother;Temari;1208;nome_exato_normalizado;Dattebayo
+876;uncle;Kankurō;577;nome_exato_normalizado;Dattebayo
+876;granduncle;Yashamaru;1376;nome_exato_normalizado;Dattebayo
+876;adoptive cousin;Shinki;1100;nome_exato_normalizado;Dattebayo
+1091;husband;Fukasaku;230;nome_exato_normalizado;Dattebayo
+430;older brother;Mangetsu Hōzuki;429;nome_exato_normalizado;Dattebayo
+701;genetic template;Ōnoki;925;nome_exato_normalizado;Dattebayo
+701;genetic source;White Zetsu;1426;nome_exato_normalizado;Dattebayo
+701;creator;Iwa Doctor;487;nome_exato_normalizado;Dattebayo
+725;father;Kitsuchi;653;nome_exato_normalizado;Dattebayo
+725;great-great-grandfather;Ishikawa;479;nome_exato_normalizado;Dattebayo
+725;grandfather;Ōnoki;925;nome_exato_normalizado;Dattebayo
+1;incarnation with the god tree;Kaguya Ōtsutsuki;940;nome_exato_normalizado;Dattebayo
+1;depowered form;Demonic Statue of the Outer Path;195;nome_exato_normalizado;Dattebayo
+230;wife;Shima;1091;nome_exato_normalizado;Dattebayo
+240;son;Kobuna;656;nome_exato_normalizado;Dattebayo
+609;father;Kokatsu;667;nome_exato_normalizado;Dattebayo
+609;adoptive father;Naruto Uzumaki;1344;nome_exato_normalizado;Dattebayo
+609;adoptive mother;Hinata Uzumaki;;nao_resolvido;Dattebayo
+609;adoptive brother;Boruto Uzumaki;1339;nome_exato_normalizado;Dattebayo
+609;adoptive sister;Himawari Uzumaki;1340;nome_exato_normalizado;Dattebayo
+609;adoptive grandfather;Hiashi Hyūga;436;nome_exato_normalizado;Dattebayo
+609;adoptive aunt;Hanabi Hyūga;435;nome_exato_normalizado;Dattebayo
+1009;creator;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+1009;sibling;Kurama;711;nome_exato_normalizado;Dattebayo
+1127;creator;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+1127;sibling;Kurama;711;nome_exato_normalizado;Dattebayo
+1367;daughter;Ino Yamanaka;1365;nome_exato_normalizado;Dattebayo
+1367;grandson;Inojin Yamanaka;1368;nome_exato_normalizado;Dattebayo
+1367;wife;Ino's Mother;1366;nome_exato_normalizado;Dattebayo
+1122;uncle;Dan Katō;605;nome_exato_normalizado;Dattebayo
+42;son;Chōji Akimichi;40;nome_exato_normalizado;Dattebayo
+42;granddaughter;Chōchō Akimichi;39;nome_exato_normalizado;Dattebayo
+42;wife;Chōji's Mother;41;nome_exato_normalizado;Dattebayo
+153;creator;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+153;sibling;Kurama;711;nome_exato_normalizado;Dattebayo
+669;creator;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+669;sibling;Kurama;711;nome_exato_normalizado;Dattebayo
+723;father;Raiga Kurosuki;724;nome_exato_normalizado;Dattebayo
+724;daughter;Buntan Kurosuki;723;nome_exato_normalizado;Dattebayo
+936;mother;Kaguya Ōtsutsuki;940;nome_exato_normalizado;Dattebayo
+936;father ;Tenji;1213;nome_exato_normalizado;Dattebayo
+936;brother;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+936;nephew;Indra Ōtsutsuki;938;nome_exato_normalizado;Dattebayo
+1034;grandfather;Sasuke Sarutobi;1039;nome_exato_normalizado;Dattebayo
+1034;father;Hiruzen Sarutobi;1036;nome_exato_normalizado;Dattebayo
+1034;mother;Biwako Sarutobi;1035;nome_exato_normalizado;Dattebayo
+1034;daughter;Mirai Sarutobi;1038;nome_exato_normalizado;Dattebayo
+1034;nephew;Konohamaru Sarutobi;1037;nome_exato_normalizado;Dattebayo
+1034;spouse;Kurenai Yūhi;1397;nome_exato_normalizado;Dattebayo
+1104;mother;Miroku;806;nome_exato_normalizado;Dattebayo
+1165;younger brother;Jibachi;507;nome_exato_normalizado;Dattebayo
+1165;older brother;Kurobachi;717;nome_exato_normalizado;Dattebayo
+1165;grandfather;Ishikawa;479;nome_exato_normalizado;Dattebayo
+266;father;Gamabunta;261;nome_exato_normalizado;Dattebayo
+266;brother;Gamatatsu;271;nome_exato_normalizado;Dattebayo
+593;mother ;Karin's Mother;595;nome_exato_normalizado;Dattebayo
+591;grandson;Kagura Karatachi;590;nome_exato_normalizado;Dattebayo
+622;son;Sora;1135;nome_exato_normalizado;Dattebayo
+1038;grandfather;Hiruzen Sarutobi;1036;nome_exato_normalizado;Dattebayo
+1038;mother;Kurenai Yūhi;1397;nome_exato_normalizado;Dattebayo
+1038;grandmother;Biwako Sarutobi;1035;nome_exato_normalizado;Dattebayo
+1038;great-grandfather;Sasuke Sarutobi;1039;nome_exato_normalizado;Dattebayo
+1038;father;Asuma Sarutobi;1034;nome_exato_normalizado;Dattebayo
+1038;cousin;Konohamaru Sarutobi;1037;nome_exato_normalizado;Dattebayo
+1109;father;Hāto;378;nome_exato_normalizado;Dattebayo
+1134;creator;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+1134;sibling;Kurama;711;nome_exato_normalizado;Dattebayo
+1310;ancestor;Kagami Uchiha;1297;nome_exato_normalizado;Dattebayo
+5;son;A;;nao_resolvido;Dattebayo
+5;nephew;Blue B;124;nome_exato_normalizado;Dattebayo
+5;adoptive son;Killer B;636;nome_exato_normalizado;Dattebayo
+15;father;Shikuro Aburame;12;nome_exato_normalizado;Dattebayo
+15;adoptive brother;Shino Aburame;13;nome_exato_normalizado;Dattebayo
+15;adoptive father;Shibi Aburame;11;nome_exato_normalizado;Dattebayo
+124;uncle;A;;nao_resolvido;Dattebayo
+124;cousin;A;;nao_resolvido;Dattebayo
+124;adoptive cousin;Killer B;636;nome_exato_normalizado;Dattebayo
+261;son;Gamatatsu;271;nome_exato_normalizado;Dattebayo
+271;father;Gamabunta;261;nome_exato_normalizado;Dattebayo
+271;brother;Gamakichi;266;nome_exato_normalizado;Dattebayo
+356;father;Haku's Father;357;nome_exato_normalizado;Dattebayo
+356;mother;Haku's Mother;358;nome_exato_normalizado;Dattebayo
+568;father;Ereki Kaminarimon;569;nome_exato_normalizado;Dattebayo
+718;brother;Jujumaru;522;nome_exato_normalizado;Dattebayo
+847;son;Muku;852;nome_exato_normalizado;Dattebayo
+939;adoptive son;Kawaki;609;nome_exato_normalizado;Dattebayo
+939;vessel;Jigen;510;nome_exato_normalizado;Dattebayo
+1082;father;Hisen;409;nome_exato_normalizado;Dattebayo
+1135;father;Kazuma;622;nome_exato_normalizado;Dattebayo
+1337;lover;Hayate Gekkō;293;nome_exato_normalizado;Dattebayo
+293;lover;Yūgao Uzuki;1337;nome_exato_normalizado;Dattebayo
+553;genetic template;White Zetsu;1426;nome_exato_normalizado;Dattebayo
+553;genetic source;Ōnoki;925;nome_exato_normalizado;Dattebayo
+553;creator;Iwa Doctor;487;nome_exato_normalizado;Dattebayo
+757;son;Yūto;1417;nome_exato_normalizado;Dattebayo
+938;grandmother;Kaguya Ōtsutsuki;940;nome_exato_normalizado;Dattebayo
+938;grandfather ;Tenji;1213;nome_exato_normalizado;Dattebayo
+938;father;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+938;uncle;Hamura Ōtsutsuki;936;nome_exato_normalizado;Dattebayo
+938;brother;Asura Ōtsutsuki;934;nome_exato_normalizado;Dattebayo
+967;son;Kankurō;577;nome_exato_normalizado;Dattebayo
+967;daughter;Temari;1208;nome_exato_normalizado;Dattebayo
+967;grandson;Shikadai Nara;876;nome_exato_normalizado;Dattebayo
+967;wife;Karura;597;nome_exato_normalizado;Dattebayo
+967;adoptive grandson;Shinki;1100;nome_exato_normalizado;Dattebayo
+986;adoptive father;Gekkō;292;nome_exato_normalizado;Dattebayo
+1274;father;Tsukino's Father;1275;nome_exato_normalizado;Dattebayo
+1342;father;Minato Namikaze;865;nome_exato_normalizado;Dattebayo
+1342;mother;Kushina Uzumaki;1341;nome_exato_normalizado;Dattebayo
+1345;genetic donor;Naruto Uzumaki;1344;nome_exato_normalizado;Dattebayo
+1345;chakra donor;Kurama;711;nome_exato_normalizado;Dattebayo
+1345;creator;Kabuto Yakushi;1359;nome_exato_normalizado;Dattebayo
+835;younger brother ;Idate Morino;836;nome_exato_normalizado;Dattebayo
+1325;father;Ikkaku Umino;1324;nome_exato_normalizado;Dattebayo
+1325;mother;Kohari Umino;1326;nome_exato_normalizado;Dattebayo
+38;nephew;Chōji Akimichi;40;nome_exato_normalizado;Dattebayo
+38;grandniece;Chōchō Akimichi;39;nome_exato_normalizado;Dattebayo
+57;son;Taisa Amagiri;58;nome_exato_normalizado;Dattebayo
+58;father;Gensui Amagiri;57;nome_exato_normalizado;Dattebayo
+247;adoptive father;Araumi Funato;242;nome_exato_normalizado;Dattebayo
+247;adoptive brother;Isari Funato;244;nome_exato_normalizado;Dattebayo
+247;adoptive sister;Seiren Funato;246;nome_exato_normalizado;Dattebayo
+302;son;Gennō's Son;303;nome_exato_normalizado;Dattebayo
+429;younger brother;Suigetsu Hōzuki;430;nome_exato_normalizado;Dattebayo
+468;daughter;Hana Inuzuka;465;nome_exato_normalizado;Dattebayo
+468;son;Kiba Inuzuka;466;nome_exato_normalizado;Dattebayo
+507;sister;Suzumebachi;1165;nome_exato_normalizado;Dattebayo
+507;older brother;Kurobachi;717;nome_exato_normalizado;Dattebayo
+507;grandfather;Ishikawa;479;nome_exato_normalizado;Dattebayo
+509;oldest brother;Renga;970;nome_exato_normalizado;Dattebayo
+509;younger brother;Ruiga;984;nome_exato_normalizado;Dattebayo
+717;younger brother;Jibachi;507;nome_exato_normalizado;Dattebayo
+717;sister;Suzumebachi;1165;nome_exato_normalizado;Dattebayo
+717;grandfather;Ishikawa;479;nome_exato_normalizado;Dattebayo
+852;father;Mui;847;nome_exato_normalizado;Dattebayo
+984;oldest brother;Renga;970;nome_exato_normalizado;Dattebayo
+984;older brother;Jiga;509;nome_exato_normalizado;Dattebayo
+989;father;Agira Ryūdōin;988;nome_exato_normalizado;Dattebayo
+989;brother;Rokkaku Ryūdōin;991;nome_exato_normalizado;Dattebayo
+1054;creator;Iwa Doctor;487;nome_exato_normalizado;Dattebayo
+1054;genetic source;White Zetsu;1426;nome_exato_normalizado;Dattebayo
+1214;daughter;Ryuka Tenrō;1215;nome_exato_normalizado;Dattebayo
+1215;father;Enzo Tenrō;1214;nome_exato_normalizado;Dattebayo
+630;brother;Komitsu;679;nome_exato_normalizado;Dattebayo
+630;wife;Kanyū;585;nome_exato_normalizado;Dattebayo
+435;grandfather;Hyūga Elder;434;nome_exato_normalizado;Dattebayo
+435;father;Hiashi Hyūga;436;nome_exato_normalizado;Dattebayo
+435;uncle;Hizashi Hyūga;439;nome_exato_normalizado;Dattebayo
+435;cousin;Neji Hyūga;444;nome_exato_normalizado;Dattebayo
+435;mother ;Hinata and Hanabi's Mother;438;nome_exato_normalizado;Dattebayo
+435;sister;Hinata Hyūga;437;nome_exato_normalizado;Dattebayo
+435;nephew;Boruto Uzumaki;1339;nome_exato_normalizado;Dattebayo
+435;niece;Himawari Uzumaki;1340;nome_exato_normalizado;Dattebayo
+435;adoptive nephew;Kawaki;609;nome_exato_normalizado;Dattebayo
+436;father;Hyūga Elder;434;nome_exato_normalizado;Dattebayo
+436;brother;Hizashi Hyūga;439;nome_exato_normalizado;Dattebayo
+436;nephew;Neji Hyūga;444;nome_exato_normalizado;Dattebayo
+436;daughter;Hinata Hyūga;437;nome_exato_normalizado;Dattebayo
+436;grandson;Boruto Uzumaki;1339;nome_exato_normalizado;Dattebayo
+436;granddaughter;Himawari Uzumaki;1340;nome_exato_normalizado;Dattebayo
+436;wife ;Hinata and Hanabi's Mother;438;nome_exato_normalizado;Dattebayo
+436;adoptive grandson;Kawaki;609;nome_exato_normalizado;Dattebayo
+444;grandfather;Hyūga Elder;434;nome_exato_normalizado;Dattebayo
+444;father;Hizashi Hyūga;439;nome_exato_normalizado;Dattebayo
+444;uncle;Hiashi Hyūga;436;nome_exato_normalizado;Dattebayo
+444;cousin;Hinata Hyūga;437;nome_exato_normalizado;Dattebayo
+444;first cousin once removed;Himawari Uzumaki;1340;nome_exato_normalizado;Dattebayo
+1397;father;Shinku Yūhi;1398;nome_exato_normalizado;Dattebayo
+1397;daughter;Mirai Sarutobi;1038;nome_exato_normalizado;Dattebayo
+1397;spouse;Asuma Sarutobi;1034;nome_exato_normalizado;Dattebayo
+87;younger cousin;Sasame;1040;nome_exato_normalizado;Dattebayo
+90;brother;Yūga;1396;nome_exato_normalizado;Dattebayo
+195;original form;Ten-Tails;1;nome_exato_normalizado;Dattebayo
+218;grandfather;Enma;;nao_resolvido;Dattebayo
+244;father;Araumi Funato;242;nome_exato_normalizado;Dattebayo
+244;mother;Minamo Funato;245;nome_exato_normalizado;Dattebayo
+244;brother;Ikada Funato;243;nome_exato_normalizado;Dattebayo
+244;sister;Seiren Funato;246;nome_exato_normalizado;Dattebayo
+244;adoptive brother;Tenma Funato;247;nome_exato_normalizado;Dattebayo
+246;father;Araumi Funato;242;nome_exato_normalizado;Dattebayo
+246;mother;Minamo Funato;245;nome_exato_normalizado;Dattebayo
+246;brother;Isari Funato;244;nome_exato_normalizado;Dattebayo
+246;adoptive brother;Tenma Funato;247;nome_exato_normalizado;Dattebayo
+345;creator;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+345;sibling;Kurama;711;nome_exato_normalizado;Dattebayo
+409;son;Shibuki;1082;nome_exato_normalizado;Dattebayo
+405;brother;Yūga;1396;nome_exato_normalizado;Dattebayo
+439;father;Hyūga Elder;434;nome_exato_normalizado;Dattebayo
+439;brother;Hiashi Hyūga;436;nome_exato_normalizado;Dattebayo
+439;niece;Hinata Hyūga;437;nome_exato_normalizado;Dattebayo
+439;son;Neji Hyūga;444;nome_exato_normalizado;Dattebayo
+439;grandnephew;Boruto Uzumaki;1339;nome_exato_normalizado;Dattebayo
+439;grandniece;Himawari Uzumaki;1340;nome_exato_normalizado;Dattebayo
+465;mother;Tsume Inuzuka;468;nome_exato_normalizado;Dattebayo
+465;brother;Kiba Inuzuka;466;nome_exato_normalizado;Dattebayo
+512;fiancée;Margo;763;nome_exato_normalizado;Dattebayo
+522;brother;Kurobane;718;nome_exato_normalizado;Dattebayo
+578;husband;Asura Ōtsutsuki;934;nome_exato_normalizado;Dattebayo
+590;grandfather;Yagura Karatachi;591;nome_exato_normalizado;Dattebayo
+615;niece;Koyuki Kazahana;616;nome_exato_normalizado;Dattebayo
+615;brother;Sōsetsu Kazahana;617;nome_exato_normalizado;Dattebayo
+713;niece;Yakumo Kurama;715;nome_exato_normalizado;Dattebayo
+744;genetic template/parent;Orochimaru;928;nome_exato_normalizado;Dattebayo
+744;clone/brother;Mitsuki;813;nome_exato_normalizado;Dattebayo
+761;altered clone;Manda II;762;nome_exato_normalizado;Dattebayo
+861;mother;Fusō;252;nome_exato_normalizado;Dattebayo
+861;father;Ise;476;nome_exato_normalizado;Dattebayo
+908;creator;Tanuki Shigaraki;1083;nome_exato_normalizado;Dattebayo
+908;genetic source;Hashirama Senju;1063;nome_exato_normalizado;Dattebayo
+908;owner;Sumire Kakei;550;nome_exato_normalizado;Dattebayo
+1202;sister;Akari Tatsushiro;1201;nome_exato_normalizado;Dattebayo
+1289;son;Sasuke Uchiha;1307;nome_exato_normalizado;Dattebayo
+1289;granddaughter;Sarada Uchiha;1306;nome_exato_normalizado;Dattebayo
+1289;wife;Mikoto Uchiha;1300;nome_exato_normalizado;Dattebayo
+1296;father;Tajima Uchiha;1312;nome_exato_normalizado;Dattebayo
+1296;brother;Madara Uchiha;1299;nome_exato_normalizado;Dattebayo
+1341;son;Naruto Uzumaki;1344;nome_exato_normalizado;Dattebayo
+1341;grandson;Boruto Uzumaki;1339;nome_exato_normalizado;Dattebayo
+1341;granddaughter;Himawari Uzumaki;1340;nome_exato_normalizado;Dattebayo
+1341;husband;Minato Namikaze;865;nome_exato_normalizado;Dattebayo
+1405;mother;Yūkimaru's Mother;1406;nome_exato_normalizado;Dattebayo
+540;son ;Hakuhyō;359;nome_exato_normalizado;Dattebayo
+540;brother ;Rahyō;958;nome_exato_normalizado;Dattebayo
+660;father;Tenma Kodon;661;nome_exato_normalizado;Dattebayo
+660;brother;Kina Kodon;659;nome_exato_normalizado;Dattebayo
+661;son;Reishi Kodon;660;nome_exato_normalizado;Dattebayo
+688;twin brother;Etoro Konjiki;687;nome_exato_normalizado;Dattebayo
+711;creator;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+711;sibling;Gyūki;345;nome_exato_normalizado;Dattebayo
+958;sister;Kahyō;540;nome_exato_normalizado;Dattebayo
+958;nephew;Hakuhyō;359;nome_exato_normalizado;Dattebayo
+1084;fiancée;Hakuto;362;nome_exato_normalizado;Dattebayo
+596;daughter;Chōchō Akimichi;39;nome_exato_normalizado;Dattebayo
+596;husband;Chōji Akimichi;40;nome_exato_normalizado;Dattebayo
+925;grandfather;Ishikawa;479;nome_exato_normalizado;Dattebayo
+925;granddaughter;Kurotsuchi;725;nome_exato_normalizado;Dattebayo
+925;grandson ;Kozuchi;700;nome_exato_normalizado;Dattebayo
+925;creation/clone;Kū;701;nome_exato_normalizado;Dattebayo
+925;creation ;Sekiei;1054;nome_exato_normalizado;Dattebayo
+11;son;Shino Aburame;13;nome_exato_normalizado;Dattebayo
+11;adoptive son;Torune Aburame;15;nome_exato_normalizado;Dattebayo
+39;grandmother;Chōji's Mother;41;nome_exato_normalizado;Dattebayo
+39;grandfather;Chōza Akimichi;42;nome_exato_normalizado;Dattebayo
+39;father;Chōji Akimichi;40;nome_exato_normalizado;Dattebayo
+39;mother;Karui Akimichi;;nao_resolvido;Dattebayo
+39;granduncle ;Chōbee Akimichi;38;nome_exato_normalizado;Dattebayo
+54;sister;Mikazuki Amaashi;53;nome_exato_normalizado;Dattebayo
+100;sister;Samui;1019;nome_exato_normalizado;Dattebayo
+140;granddaughter;Azami;102;nome_exato_normalizado;Dattebayo
+145;father;En Oyashiro;947;nome_exato_normalizado;Dattebayo
+165;sister;Ada;17;nome_exato_normalizado;Dattebayo
+194;genetic source;Akebi Sanzu;1026;nome_exato_normalizado;Dattebayo
+194;creator/father;Amado Sanzu;1027;nome_exato_normalizado;Dattebayo
+210;son;Might Guy;344;nome_exato_normalizado;Dattebayo
+217;granddaughter;Hotaru;426;nome_exato_normalizado;Dattebayo
+242;son;Isari Funato;244;nome_exato_normalizado;Dattebayo
+242;daughter;Seiren Funato;246;nome_exato_normalizado;Dattebayo
+242;wife;Minamo Funato;245;nome_exato_normalizado;Dattebayo
+242;adoptive son;Tenma Funato;247;nome_exato_normalizado;Dattebayo
+292;adoptive son;Ryōgi;986;nome_exato_normalizado;Dattebayo
+338;twin brother;Meizu;779;nome_exato_normalizado;Dattebayo
+373;daughter;Sakura Haruno;374;nome_exato_normalizado;Dattebayo
+373;granddaughter;Sarada Uchiha;1306;nome_exato_normalizado;Dattebayo
+373;husband;Kizashi Haruno;372;nome_exato_normalizado;Dattebayo
+377;son;Kakashi Hatake;376;nome_exato_normalizado;Dattebayo
+378;son;Shiranami;1109;nome_exato_normalizado;Dattebayo
+479;granddaughter ;Suzumebachi;1165;nome_exato_normalizado;Dattebayo
+479;grandson;Ōnoki;925;nome_exato_normalizado;Dattebayo
+479;grandson ;Kurobachi;717;nome_exato_normalizado;Dattebayo
+479;great-great-granddaughter;Kurotsuchi;725;nome_exato_normalizado;Dattebayo
+479;great-great-grandson ;Kozuchi;700;nome_exato_normalizado;Dattebayo
+493;older brother;Iwakyō;490;nome_exato_normalizado;Dattebayo
+493;brother;Iwaji;489;nome_exato_normalizado;Dattebayo
+499;grandmother ;Amagi Izuno;496;nome_exato_normalizado;Dattebayo
+499;father ;Daruma Izuno;497;nome_exato_normalizado;Dattebayo
+499;mother ;Mazuma Izuno;498;nome_exato_normalizado;Dattebayo
+510;host;Isshiki Ōtsutsuki;939;nome_exato_normalizado;Dattebayo
+426;grandfather;En no Gyōja;217;nome_exato_normalizado;Dattebayo
+427;son;Sumaru;1154;nome_exato_normalizado;Dattebayo
+427;wife;Natsuhi;884;nome_exato_normalizado;Dattebayo
+550;father;Tanuki Shigaraki;1083;nome_exato_normalizado;Dattebayo
+550;pet;Nue;908;nome_exato_normalizado;Dattebayo
+605;niece;Shizune;1122;nome_exato_normalizado;Dattebayo
+605;lover;Tsunade;1280;nome_exato_normalizado;Dattebayo
+641;brother;Ginkaku;326;nome_exato_normalizado;Dattebayo
+653;daughter;Kurotsuchi;725;nome_exato_normalizado;Dattebayo
+738;father;Rock Lee;739;nome_exato_normalizado;Dattebayo
+771;creator;Hagoromo Ōtsutsuki;935;nome_exato_normalizado;Dattebayo
+771;sibling;Kurama;711;nome_exato_normalizado;Dattebayo
+777;creator;Orochimaru;928;nome_exato_normalizado;Dattebayo
+779;twin brother;Gōzu;;ambiguo;Dattebayo
+806;daughter;Shion;1104;nome_exato_normalizado;Dattebayo
+840;father;Furui;251;nome_exato_normalizado;Dattebayo
+864;father;Minato Namikaze;865;nome_exato_normalizado;Dattebayo
+864;mother;Kushina Uzumaki;1341;nome_exato_normalizado;Dattebayo
+877;son;Shikamaru Nara;878;nome_exato_normalizado;Dattebayo
+877;grandson;Shikadai Nara;876;nome_exato_normalizado;Dattebayo
+877;wife;Yoshino Nara;880;nome_exato_normalizado;Dattebayo
+880;son;Shikamaru Nara;878;nome_exato_normalizado;Dattebayo
+880;grandson;Shikadai Nara;876;nome_exato_normalizado;Dattebayo
+880;husband;Shikaku Nara;877;nome_exato_normalizado;Dattebayo
+884;son;Sumaru;1154;nome_exato_normalizado;Dattebayo
+884;husband;Hotarubi;427;nome_exato_normalizado;Dattebayo
+941;foster son;Momoshiki Ōtsutsuki;942;nome_exato_normalizado;Dattebayo
+942;foster father;Kinshiki Ōtsutsuki;941;nome_exato_normalizado;Dattebayo
+942;vessel;Boruto Uzumaki;1339;nome_exato_normalizado;Dattebayo
+947;daughter;Chino;145;nome_exato_normalizado;Dattebayo
+970;younger brother;Jiga;509;nome_exato_normalizado;Dattebayo
+970;youngest brother;Ruiga;984;nome_exato_normalizado;Dattebayo
+988;son;Rokkaku Ryūdōin;991;nome_exato_normalizado;Dattebayo
+990;father;Agira Ryūdōin;988;nome_exato_normalizado;Dattebayo
+990;brother;Rokkaku Ryūdōin;991;nome_exato_normalizado;Dattebayo
+991;father;Agira Ryūdōin;988;nome_exato_normalizado;Dattebayo
+991;brother;Jakō Ryūdōin;990;nome_exato_normalizado;Dattebayo
+1027;daughter;Akebi Sanzu;1026;nome_exato_normalizado;Dattebayo
+1027;creation/clone daughter;Delta;194;nome_exato_normalizado;Dattebayo
+1027;creation;Koji Kashin;600;nome_exato_normalizado;Dattebayo
+1029;mother;Sēramu;1073;nome_exato_normalizado;Dattebayo
+1029;daughter;Sāra's Daughter;1030;nome_exato_normalizado;Dattebayo
+1068;brother;Takanami Senka;1070;nome_exato_normalizado;Dattebayo
+1069;brother;Takanami Senka;1070;nome_exato_normalizado;Dattebayo
+1070;brother;Sazanami Senka;1069;nome_exato_normalizado;Dattebayo
+1073;daughter;Sāra;1029;nome_exato_normalizado;Dattebayo
+1073;granddaughter;Sāra's Daughter;1030;nome_exato_normalizado;Dattebayo
+1083;daughter;Sumire Kakei;550;nome_exato_normalizado;Dattebayo
+1083;creation;Nue;908;nome_exato_normalizado;Dattebayo
+1094;adoptive brother;Sai;1008;nome_exato_normalizado;Dattebayo
+1094;adoptive nephew;Inojin Yamanaka;1368;nome_exato_normalizado;Dattebayo
+1119;lover;Sagiri;1007;nome_exato_normalizado;Dattebayo
+1154;father;Hotarubi;427;nome_exato_normalizado;Dattebayo
+1154;mother;Natsuhi;884;nome_exato_normalizado;Dattebayo
+1270;distant relative;Shikazo;1090;nome_exato_normalizado;Dattebayo
+1340;grandfather;Hiashi Hyūga;436;nome_exato_normalizado;Dattebayo
+1340;grandmother;Kushina Uzumaki;1341;nome_exato_normalizado;Dattebayo
+1340;father;Naruto Uzumaki;1344;nome_exato_normalizado;Dattebayo
+1340;great-grandfather;Hyūga Elder;434;nome_exato_normalizado;Dattebayo
+1340;granduncle;Hizashi Hyūga;439;nome_exato_normalizado;Dattebayo
+1340;grandmother ;Hinata and Hanabi's Mother;438;nome_exato_normalizado;Dattebayo
+1340;mother;Hinata Hyūga;437;nome_exato_normalizado;Dattebayo
+1340;aunt;Hanabi Hyūga;435;nome_exato_normalizado;Dattebayo
+1340;brother;Boruto Uzumaki;1339;nome_exato_normalizado;Dattebayo
+1340;first cousin once removed;Neji Hyūga;444;nome_exato_normalizado;Dattebayo
+1340;adoptive brother;Kawaki;609;nome_exato_normalizado;Dattebayo
+1340;pet ;Jaggy;503;nome_exato_normalizado;Dattebayo
+1343;husband;Hashirama Senju;1063;nome_exato_normalizado;Dattebayo
+1343;granddaughter;Tsunade;1280;nome_exato_normalizado;Dattebayo
+1343;grandson;Nawaki;886;nome_exato_normalizado;Dattebayo
+1361;adoptive son;Urushi;1332;nome_exato_normalizado;Dattebayo
+1361;adoptive grandsons;Shin Uchiha;1309;nome_exato_normalizado;Dattebayo
+1376;sister;Karura;597;nome_exato_normalizado;Dattebayo
+1376;niece;Temari;1208;nome_exato_normalizado;Dattebayo
+1376;nephew;Gaara;259;nome_exato_normalizado;Dattebayo
+1376;great nephew;Shikadai Nara;876;nome_exato_normalizado;Dattebayo
+1376;adoptive great nephew;Shinki;1100;nome_exato_normalizado;Dattebayo
+1387;brother;Yūga;1396;nome_exato_normalizado;Dattebayo
+1396;brother;Yoruga;1387;nome_exato_normalizado;Dattebayo
+1425;creator;Kaguya Ōtsutsuki;940;nome_exato_normalizado;Dattebayo
+12;son;Torune Aburame;15;nome_exato_normalizado;Dattebayo
+359;mother;Kahyō;540;nome_exato_normalizado;Dattebayo
+359;uncle;Rahyō;958;nome_exato_normalizado;Dattebayo
+362;sister;Shijima;1088;nome_exato_normalizado;Dattebayo
+362;fiancé;Shigezane;1084;nome_exato_normalizado;Dattebayo
+657;brother;Komitsu;679;nome_exato_normalizado;Dattebayo
+687;twin brother;Metoro Konjiki;688;nome_exato_normalizado;Dattebayo
+778;creator;Orochimaru;928;nome_exato_normalizado;Dattebayo
+1088;sister;Hakuto;362;nome_exato_normalizado;Dattebayo
+31;father ;Akane's Father;33;nome_exato_normalizado;Dattebayo
+458;grandfather;Tazuna;1204;nome_exato_normalizado;Dattebayo
+458;mother;Tsunami;1281;nome_exato_normalizado;Dattebayo
+458;stepfather;Kaiza;544;nome_exato_normalizado;Dattebayo
+762;genetic source;Manda;761;nome_exato_normalizado;Dattebayo
+1183;grandmother;Nekobaa;889;nome_exato_normalizado;Dattebayo
+1183;lover;Kiba Inuzuka;466;nome_exato_normalizado;Dattebayo
+17;brother;Daemon;165;nome_exato_normalizado;Dattebayo
+19;husband;Giichi;324;nome_exato_normalizado;Dattebayo
+33;son;Akane;31;nome_exato_normalizado;Dattebayo
+34;brother;Kagari;526;nome_exato_normalizado;Dattebayo
+41;son;Chōji Akimichi;40;nome_exato_normalizado;Dattebayo
+41;granddaughter;Chōchō Akimichi;39;nome_exato_normalizado;Dattebayo
+41;husband;Chōza Akimichi;42;nome_exato_normalizado;Dattebayo
+49;brother;Todoroki;1233;nome_exato_normalizado;Dattebayo
+50;fiancée;Remon Yoimura;1378;nome_exato_normalizado;Dattebayo
+51;owner;Inojin Yamanaka;1368;nome_exato_normalizado;Dattebayo
+61;son;Hikaru Tsuki;1271;nome_exato_normalizado;Dattebayo
+61;ex-husband;Michiru Tsuki;1273;nome_exato_normalizado;Dattebayo
+65;father;Iō;469;nome_exato_normalizado;Dattebayo
+69;wife;Mia;786;nome_exato_normalizado;Dattebayo
+82;mother;Tsubaki;;nao_resolvido;Dattebayo
+92;mother;Neon's Mother;93;nome_exato_normalizado;Dattebayo
+93;daughter;Neon Asakusa;92;nome_exato_normalizado;Dattebayo
+98;mother;Kaya;611;nome_exato_normalizado;Dattebayo
+98;brother;Komichi;678;nome_exato_normalizado;Dattebayo
+102;grandfather;Chen;140;nome_exato_normalizado;Dattebayo
+144;fiancée;Fuku;233;nome_exato_normalizado;Dattebayo
+175;wife;Madam Shijimi;1089;nome_exato_normalizado;Dattebayo
+175;unknown kinship ;Naho;862;nome_exato_normalizado;Dattebayo
+182;daughter;Chiyo;148;nome_exato_normalizado;Dattebayo
+202;wife;Shiseru;1114;nome_exato_normalizado;Dattebayo
+202;adoptive son;Faz;220;nome_exato_normalizado;Dattebayo
+202;adoptive daughter;Sora;1135;nome_exato_normalizado;Dattebayo
+207;father;Kūi Dōtonbori;208;nome_exato_normalizado;Dattebayo
+208;son;Daore Dōtonbori;207;nome_exato_normalizado;Dattebayo
+213;sister;Chiyo;148;nome_exato_normalizado;Dattebayo
+213;nephew;Sasori's Father;1043;nome_exato_normalizado;Dattebayo
+213;grandnephew;Sasori;1042;nome_exato_normalizado;Dattebayo
+215;grandfather;Kahiko;539;nome_exato_normalizado;Dattebayo
+220;adoptive father;Dokku;202;nome_exato_normalizado;Dattebayo
+220;adoptive mother;Shiseru;1114;nome_exato_normalizado;Dattebayo
+220;adoptive brother;Lando;737;nome_exato_normalizado;Dattebayo
+220;adoptive sister;Sora;1135;nome_exato_normalizado;Dattebayo
+228;younger brother;Raijin;959;nome_exato_normalizado;Dattebayo
+233;fiancé;Chikara;144;nome_exato_normalizado;Dattebayo
+237;brother;Shinayakana;1096;nome_exato_normalizado;Dattebayo
+243;father;Araumi Funato;242;nome_exato_normalizado;Dattebayo
+243;mother;Minamo Funato;245;nome_exato_normalizado;Dattebayo
+243;brother;Isari Funato;244;nome_exato_normalizado;Dattebayo
+243;sister;Seiren Funato;246;nome_exato_normalizado;Dattebayo
+243;adoptive brother;Tenma Funato;247;nome_exato_normalizado;Dattebayo
+245;son;Isari Funato;244;nome_exato_normalizado;Dattebayo
+245;daughter;Seiren Funato;246;nome_exato_normalizado;Dattebayo
+245;husband;Araumi Funato;242;nome_exato_normalizado;Dattebayo
+251;son;Motoi;840;nome_exato_normalizado;Dattebayo
+252;son;Nagato;861;nome_exato_normalizado;Dattebayo
+252;husband;Ise;476;nome_exato_normalizado;Dattebayo
+303;father;Gennō;302;nome_exato_normalizado;Dattebayo
+324;wife;Agari;19;nome_exato_normalizado;Dattebayo
+326;brother;Kinkaku;641;nome_exato_normalizado;Dattebayo
+357;son;Haku;356;nome_exato_normalizado;Dattebayo
+357;wife;Haku's Mother;358;nome_exato_normalizado;Dattebayo
+358;son;Haku;356;nome_exato_normalizado;Dattebayo
+358;husband;Haku's Father;357;nome_exato_normalizado;Dattebayo
+372;daughter;Sakura Haruno;374;nome_exato_normalizado;Dattebayo
+372;granddaughter;Sarada Uchiha;1306;nome_exato_normalizado;Dattebayo
+372;wife;Mebuki Haruno;373;nome_exato_normalizado;Dattebayo
+380;grandfather;Village Headman;1348;nome_exato_normalizado;Dattebayo
+387;brother;Kodama;658;nome_exato_normalizado;Dattebayo
+394;sister;Shizuku;1120;nome_exato_normalizado;Dattebayo
+400;granddaughter;Nazuna;887;nome_exato_normalizado;Dattebayo
+438;daughter;Hinata Hyūga;437;nome_exato_normalizado;Dattebayo
+438;grandson;Boruto Uzumaki;1339;nome_exato_normalizado;Dattebayo
+438;granddaughter;Himawari Uzumaki;1340;nome_exato_normalizado;Dattebayo
+438;husband;Hiashi Hyūga;436;nome_exato_normalizado;Dattebayo
+461;brother;Inori's Brother;462;nome_exato_normalizado;Dattebayo
+462;sister;Inori;461;nome_exato_normalizado;Dattebayo
+476;son;Nagato;861;nome_exato_normalizado;Dattebayo
+476;wife;Fusō;252;nome_exato_normalizado;Dattebayo
+487;creation;Sekiei;1054;nome_exato_normalizado;Dattebayo
+489;older brother;Iwakyō;490;nome_exato_normalizado;Dattebayo
+489;brother;Iwazō;493;nome_exato_normalizado;Dattebayo
+490;younger brother;Iwaji;489;nome_exato_normalizado;Dattebayo
+496;son;Daruma Izuno;497;nome_exato_normalizado;Dattebayo
+496;granddaughter;Wasabi Izuno;499;nome_exato_normalizado;Dattebayo
+497;mother;Amagi Izuno;496;nome_exato_normalizado;Dattebayo
+497;daughter;Wasabi Izuno;499;nome_exato_normalizado;Dattebayo
+497;wife;Mazuma Izuno;498;nome_exato_normalizado;Dattebayo
+498;daughter;Wasabi Izuno;499;nome_exato_normalizado;Dattebayo
+498;husband;Daruma Izuno;497;nome_exato_normalizado;Dattebayo
+500;daughter;Amino;65;nome_exato_normalizado;Dattebayo
+516;brother;Tarō;1191;nome_exato_normalizado;Dattebayo
+527;sister;Akari;34;nome_exato_normalizado;Dattebayo
+529;brother;Katazu;604;nome_exato_normalizado;Dattebayo
+532;father;Tōbei Kagetsu;535;nome_exato_normalizado;Dattebayo
+532;sister;Tsukiko Kagetsu;536;nome_exato_normalizado;Dattebayo
+534;father;Tōbei Kagetsu;535;nome_exato_normalizado;Dattebayo
+534;brother;Fūta Kagetsu;532;nome_exato_normalizado;Dattebayo
+534;sister;Tsukiko Kagetsu;536;nome_exato_normalizado;Dattebayo
+535;son;Fūta Kagetsu;532;nome_exato_normalizado;Dattebayo
+535;daughter;Tsukiko Kagetsu;536;nome_exato_normalizado;Dattebayo
+536;father;Tōbei Kagetsu;535;nome_exato_normalizado;Dattebayo
+536;brother;Fūta Kagetsu;532;nome_exato_normalizado;Dattebayo
+536;sister;Mai Kagetsu;534;nome_exato_normalizado;Dattebayo
+539;granddaughter;Emina;215;nome_exato_normalizado;Dattebayo
+541;daughter;Lyla;745;nome_exato_normalizado;Dattebayo
+544;wife;Tsunami;1281;nome_exato_normalizado;Dattebayo
+544;step-son;Inari;458;nome_exato_normalizado;Dattebayo
+560;daughter ;Osuka Kamakura;562;nome_exato_normalizado;Dattebayo
+560;wife ;Hibari Kamakura;561;nome_exato_normalizado;Dattebayo
+561;daughter;Osuka Kamakura;562;nome_exato_normalizado;Dattebayo
+561;husband;Gongorō Kamakura;560;nome_exato_normalizado;Dattebayo
+562;father;Gongorō Kamakura;560;nome_exato_normalizado;Dattebayo
+562;mother;Hibari Kamakura;561;nome_exato_normalizado;Dattebayo
+569;son;Denki Kaminarimon;568;nome_exato_normalizado;Dattebayo
+573;father;Kokushi;671;nome_exato_normalizado;Dattebayo
+588;mother;Sanshō;;ambiguo;Dattebayo
+595;daughter;Karin;593;nome_exato_normalizado;Dattebayo
+597;son;Kankurō;577;nome_exato_normalizado;Dattebayo
+597;daughter;Temari;1208;nome_exato_normalizado;Dattebayo
+597;grandson;Shikadai Nara;876;nome_exato_normalizado;Dattebayo
+597;husband;Rasa;967;nome_exato_normalizado;Dattebayo
+597;brother;Yashamaru;1376;nome_exato_normalizado;Dattebayo
+597;adoptive grandson;Shinki;1100;nome_exato_normalizado;Dattebayo
+604;brother;Kageki;529;nome_exato_normalizado;Dattebayo
+611;son;Komichi;678;nome_exato_normalizado;Dattebayo
+616;father;Sōsetsu Kazahana;617;nome_exato_normalizado;Dattebayo
+616;uncle;Dotō Kazahana;615;nome_exato_normalizado;Dattebayo
+617;daughter;Koyuki Kazahana;616;nome_exato_normalizado;Dattebayo
+617;brother;Dotō Kazahana;615;nome_exato_normalizado;Dattebayo
+631;brother;Sada;1002;nome_exato_normalizado;Dattebayo
+645;creator;Iwa Doctor;487;nome_exato_normalizado;Dattebayo
+645;genetic source;White Zetsu;1426;nome_exato_normalizado;Dattebayo
+647;father;Tofu;;ambiguo;Dattebayo
+656;father;Funamushi;240;nome_exato_normalizado;Dattebayo
+658;sister;Hibiki;387;nome_exato_normalizado;Dattebayo
+667;son;Kawaki;609;nome_exato_normalizado;Dattebayo
+671;son;Kanchi;573;nome_exato_normalizado;Dattebayo
+673;creator;Iwa Doctor;487;nome_exato_normalizado;Dattebayo
+673;genetic source;White Zetsu;1426;nome_exato_normalizado;Dattebayo
+678;mother;Kaya;611;nome_exato_normalizado;Dattebayo
+678;brother;Ashitaba;98;nome_exato_normalizado;Dattebayo
+683;brother;Katara;603;nome_exato_normalizado;Dattebayo
+700;grandfather;Ōnoki;925;nome_exato_normalizado;Dattebayo
+700;great-great grandfather;Ishikawa;479;nome_exato_normalizado;Dattebayo
+709;father;Kunijirō;710;nome_exato_normalizado;Dattebayo
+710;son;Kunihisa;709;nome_exato_normalizado;Dattebayo
+712;daughter;Yakumo Kurama;715;nome_exato_normalizado;Dattebayo
+712;wife;Uroko Kurama;714;nome_exato_normalizado;Dattebayo
+714;daughter;Yakumo Kurama;715;nome_exato_normalizado;Dattebayo
+714;husband;Murakumo Kurama;712;nome_exato_normalizado;Dattebayo
+715;father;Murakumo Kurama;712;nome_exato_normalizado;Dattebayo
+715;mother;Uroko Kurama;714;nome_exato_normalizado;Dattebayo
+715;uncle;Unkai Kurama;713;nome_exato_normalizado;Dattebayo
+737;adoptive father;Dokku;202;nome_exato_normalizado;Dattebayo
+737;adoptive mother;Shiseru;1114;nome_exato_normalizado;Dattebayo
+737;adoptive brother;Faz;220;nome_exato_normalizado;Dattebayo
+737;adoptive sister;Sora;1135;nome_exato_normalizado;Dattebayo
+745;mother;Kail;541;nome_exato_normalizado;Dattebayo
+747;wife;Kisuke's Wife;748;nome_exato_normalizado;Dattebayo
+748;husband;Kisuke Maboroshi;747;nome_exato_normalizado;Dattebayo
+750;son;Tentō Madoka;751;nome_exato_normalizado;Dattebayo
+751;father;Ikkyū Madoka‎‎;750;nome_exato_normalizado;Dattebayo
+760;brother;Nanara;869;nome_exato_normalizado;Dattebayo
+786;husband;Anato;69;nome_exato_normalizado;Dattebayo
+796;grandfather;Tonika Village Head;1246;nome_exato_normalizado;Dattebayo
+796;brother;Leo;741;nome_exato_normalizado;Dattebayo
+796;adoptive father;Dokku;202;nome_exato_normalizado;Dattebayo
+796;adoptive mother;Shiseru;1114;nome_exato_normalizado;Dattebayo
+796;adoptive brother;Lando;737;nome_exato_normalizado;Dattebayo
+796;adoptive sister;Sora;1135;nome_exato_normalizado;Dattebayo
+799;owner;Hibiki;387;nome_exato_normalizado;Dattebayo
+828;sister;Sasami;1041;nome_exato_normalizado;Dattebayo
+836;older brother;Ibiki Morino;835;nome_exato_normalizado;Dattebayo
+855;father ;Osoi;929;nome_exato_normalizado;Dattebayo
+862;unknown kinship;Fire Daimyō;;nao_resolvido;Dattebayo
+867;sister;Ran;962;nome_exato_normalizado;Dattebayo
+869;sister;Manari;760;nome_exato_normalizado;Dattebayo
+886;sister;Tsunade;1280;nome_exato_normalizado;Dattebayo
+886;grandfather;Hashirama Senju;1063;nome_exato_normalizado;Dattebayo
+886;granduncle;Kawarama Senju;1065;nome_exato_normalizado;Dattebayo
+886;great-grandfather;Butsuma Senju;1062;nome_exato_normalizado;Dattebayo
+886;grandmother;Mito Uzumaki;1343;nome_exato_normalizado;Dattebayo
+913;granddaughter;Yubeshi;1393;nome_exato_normalizado;Dattebayo
+929;son;Musai;855;nome_exato_normalizado;Dattebayo
+946;son;Sagi;1006;nome_exato_normalizado;Dattebayo
+946;daughter;Toki;1239;nome_exato_normalizado;Dattebayo
+959;older brother;Fūjin;228;nome_exato_normalizado;Dattebayo
+962;brother;Nan;867;nome_exato_normalizado;Dattebayo
+996;wife ;Tezuna;1228;nome_exato_normalizado;Dattebayo
+1001;grandfather;Taruto;1194;nome_exato_normalizado;Dattebayo
+1001;wife;Yubeshi;1393;nome_exato_normalizado;Dattebayo
+1002;brother;Kiji;631;nome_exato_normalizado;Dattebayo
+1006;father;Ōwashi;946;nome_exato_normalizado;Dattebayo
+1006;sister;Toki;1239;nome_exato_normalizado;Dattebayo
+1007;lover;Shizuka;1119;nome_exato_normalizado;Dattebayo
+1019;brother;Atsui;100;nome_exato_normalizado;Dattebayo
+1024;son;Karashi;588;nome_exato_normalizado;Dattebayo
+1026;father;Amado Sanzu;1027;nome_exato_normalizado;Dattebayo
+1026;clone;Delta;194;nome_exato_normalizado;Dattebayo
+1030;grandmother;Sēramu;1073;nome_exato_normalizado;Dattebayo
+1030;mother;Sāra;1029;nome_exato_normalizado;Dattebayo
+1035;son;Asuma Sarutobi;1034;nome_exato_normalizado;Dattebayo
+1035;granddaughter;Mirai Sarutobi;1038;nome_exato_normalizado;Dattebayo
+1035;husband;Hiruzen Sarutobi;1036;nome_exato_normalizado;Dattebayo
+1035;grandson;Konohamaru Sarutobi;1037;nome_exato_normalizado;Dattebayo
+1040;cousin;Arashi;87;nome_exato_normalizado;Dattebayo
+1041;brother;Momo;828;nome_exato_normalizado;Dattebayo
+1043;mother;Chiyo;148;nome_exato_normalizado;Dattebayo
+1043;son;Sasori;1042;nome_exato_normalizado;Dattebayo
+1043;wife;Sasori's Mother;1044;nome_exato_normalizado;Dattebayo
+1043;uncle;Ebizō;213;nome_exato_normalizado;Dattebayo
+1044;son;Sasori;1042;nome_exato_normalizado;Dattebayo
+1044;husband;Sasori's Father;1043;nome_exato_normalizado;Dattebayo
+1062;son;Tobirama Senju;1066;nome_exato_normalizado;Dattebayo
+1062;great-granddaughter;Tsunade;1280;nome_exato_normalizado;Dattebayo
+1062;great-grandson;Nawaki;886;nome_exato_normalizado;Dattebayo
+1065;father;Butsuma Senju;1062;nome_exato_normalizado;Dattebayo
+1065;brother;Tobirama Senju;1066;nome_exato_normalizado;Dattebayo
+1065;grandniece;Tsunade;1280;nome_exato_normalizado;Dattebayo
+1065;grandnephew;Nawaki;886;nome_exato_normalizado;Dattebayo
+1089;husband;Fire Daimyō;;nao_resolvido;Dattebayo
+1090;younger relative;Tsukado;1270;nome_exato_normalizado;Dattebayo
+1096;brother;Fukuyokana;237;nome_exato_normalizado;Dattebayo
+1114;husband;Dokku;202;nome_exato_normalizado;Dattebayo
+1114;adoptive son;Faz;220;nome_exato_normalizado;Dattebayo
+1114;adoptive daughter;Sora;1135;nome_exato_normalizado;Dattebayo
+1117;son;Tsuzura Shitakiri;1118;nome_exato_normalizado;Dattebayo
+1118;mother;Mozu Shitakiri;1117;nome_exato_normalizado;Dattebayo
+1118;pet;Yuki;;nao_resolvido;Dattebayo
+1121;brother;Himatsu;394;nome_exato_normalizado;Dattebayo
+1131;sister;Suzu Sōgi;1132;nome_exato_normalizado;Dattebayo
+1132;brother;Ran Sōgi;1131;nome_exato_normalizado;Dattebayo
+1153;son;Tanishi;1187;nome_exato_normalizado;Dattebayo
+1153;wife;Yone;1384;nome_exato_normalizado;Dattebayo
+1177;son;Tobimaru;1230;nome_exato_normalizado;Dattebayo
+1182;granddaughter;Tami;1185;nome_exato_normalizado;Dattebayo
+1185;grandmother;Tamae;1182;nome_exato_normalizado;Dattebayo
+1187;father;Sukune;1153;nome_exato_normalizado;Dattebayo
+1187;mother;Yone;1384;nome_exato_normalizado;Dattebayo
+1191;brother;Jirō;516;nome_exato_normalizado;Dattebayo
+1194;grandson;Sabure;1001;nome_exato_normalizado;Dattebayo
+1199;mother;Asami;95;nome_exato_normalizado;Dattebayo
+1201;brother;Kuroma Tatsushiro;1202;nome_exato_normalizado;Dattebayo
+1204;daughter;Tsunami;1281;nome_exato_normalizado;Dattebayo
+1204;grandson;Inari;458;nome_exato_normalizado;Dattebayo
+1213;son;Hamura Ōtsutsuki;936;nome_exato_normalizado;Dattebayo
+1213;grandson;Indra Ōtsutsuki;938;nome_exato_normalizado;Dattebayo
+1213;lover;Kaguya Ōtsutsuki;940;nome_exato_normalizado;Dattebayo
+1217;sister;Yukimi;1407;nome_exato_normalizado;Dattebayo
+1228;husband;Ryūsui;996;nome_exato_normalizado;Dattebayo
+1230;father;Takamaru;1177;nome_exato_normalizado;Dattebayo
+1233;brother;Akio;49;nome_exato_normalizado;Dattebayo
+1235;daughter;Kiri;;nao_resolvido;Dattebayo
+1239;father;Ōwashi;946;nome_exato_normalizado;Dattebayo
+1239;brother;Sagi;1006;nome_exato_normalizado;Dattebayo
+1246;grandson;Leo;741;nome_exato_normalizado;Dattebayo
+1246;granddaughter;Miina;796;nome_exato_normalizado;Dattebayo
+1263;daughter;Aoi;;nao_resolvido;Dattebayo
+1271;grandfather;Kakeru Tsuki;1272;nome_exato_normalizado;Dattebayo
+1271;father;Michiru Tsuki;1273;nome_exato_normalizado;Dattebayo
+1271;mother;Amayo;61;nome_exato_normalizado;Dattebayo
+1272;son;Michiru Tsuki;1273;nome_exato_normalizado;Dattebayo
+1272;grandson;Hikaru Tsuki;1271;nome_exato_normalizado;Dattebayo
+1273;father;Kakeru Tsuki;1272;nome_exato_normalizado;Dattebayo
+1273;son;Hikaru Tsuki;1271;nome_exato_normalizado;Dattebayo
+1273;ex-wife;Amayo;61;nome_exato_normalizado;Dattebayo
+1275;daughter;Tsukino;1274;nome_exato_normalizado;Dattebayo
+1281;father;Tazuna;1204;nome_exato_normalizado;Dattebayo
+1281;son;Inari;458;nome_exato_normalizado;Dattebayo
+1281;husband;Kaiza;544;nome_exato_normalizado;Dattebayo
+1295;mother ;Hazuki Uchiha;1290;nome_exato_normalizado;Dattebayo
+1297;descendant;Shisui Uchiha;1310;nome_exato_normalizado;Dattebayo
+1304;grandson;Obito Uchiha;1303;nome_exato_normalizado;Dattebayo
+1312;son;Madara Uchiha;1299;nome_exato_normalizado;Dattebayo
+1314;wife;Uruchi Uchiha;1315;nome_exato_normalizado;Dattebayo
+1315;husband;Teyaki Uchiha;1314;nome_exato_normalizado;Dattebayo
+1324;son;Iruka Umino;1325;nome_exato_normalizado;Dattebayo
+1324;wife;Kohari Umino;1326;nome_exato_normalizado;Dattebayo
+1326;son;Iruka Umino;1325;nome_exato_normalizado;Dattebayo
+1326;husband;Ikkaku Umino;1324;nome_exato_normalizado;Dattebayo
+1327;father;Sanzui Unabara;1328;nome_exato_normalizado;Dattebayo
+1328;son;Awaji Unabara;1327;nome_exato_normalizado;Dattebayo
+1332;adoptive mother;Nonō Yakushi;1361;nome_exato_normalizado;Dattebayo
+1332;adoptive brother;Kabuto Yakushi;1359;nome_exato_normalizado;Dattebayo
+1332;adoptive nephews;Shin Uchiha;1309;nome_exato_normalizado;Dattebayo
+1348;granddaughter;Headman's Granddaughter;380;nome_exato_normalizado;Dattebayo
+1366;daughter;Ino Yamanaka;1365;nome_exato_normalizado;Dattebayo
+1366;grandson;Inojin Yamanaka;1368;nome_exato_normalizado;Dattebayo
+1366;husband;Inoichi Yamanaka;1367;nome_exato_normalizado;Dattebayo
+1378;fiancé;Kankitsu Akitsuki;50;nome_exato_normalizado;Dattebayo
+1384;son;Tanishi;1187;nome_exato_normalizado;Dattebayo
+1384;husband;Sukune;1153;nome_exato_normalizado;Dattebayo
+1393;grandfather;Ohagi;913;nome_exato_normalizado;Dattebayo
+1393;husband;Sabure;1001;nome_exato_normalizado;Dattebayo
+1398;daughter;Kurenai Yūhi;1397;nome_exato_normalizado;Dattebayo
+1398;granddaughter;Mirai Sarutobi;1038;nome_exato_normalizado;Dattebayo
+1404;owner;Tsuzura Shitakiri;1118;nome_exato_normalizado;Dattebayo
+1406;son;Yūkimaru;1405;nome_exato_normalizado;Dattebayo
+1407;brother;Tenzō;;nao_resolvido;Dattebayo
+1415;father;Yūsuke's Father;1416;nome_exato_normalizado;Dattebayo
+1416;son;Yūsuke;1415;nome_exato_normalizado;Dattebayo
+1417;mother;Malice;757;nome_exato_normalizado;Dattebayo
+95;daughter;Tatsumi;1199;nome_exato_normalizado;Dattebayo
+330;daughter;Isago;473;nome_exato_normalizado;Dattebayo
+334;father;Mashō;769;nome_exato_normalizado;Dattebayo
+340;twin brother;Mezu;784;nome_exato_normalizado;Dattebayo
+474;father;Gojō;330;nome_exato_normalizado;Dattebayo
+585;husband;Kiiro;630;nome_exato_normalizado;Dattebayo
+603;sister;Kona;683;nome_exato_normalizado;Dattebayo
+659;father;Tenma Kodon;661;nome_exato_normalizado;Dattebayo
+659;brother;Reishi Kodon;660;nome_exato_normalizado;Dattebayo
+679;brother;Ōmitsu;919;nome_exato_normalizado;Dattebayo
+763;fiancé;Jiji;512;nome_exato_normalizado;Dattebayo
+769;son;Gōshō;334;nome_exato_normalizado;Dattebayo
+784;twin brother;Gozu;;ambiguo;Dattebayo
+816;brother;Zenigoke;1422;nome_exato_normalizado;Dattebayo
+919;brother;Komitsu;679;nome_exato_normalizado;Dattebayo
+1039;son;Hiruzen Sarutobi;1036;nome_exato_normalizado;Dattebayo
+1039;grandson;Asuma Sarutobi;1034;nome_exato_normalizado;Dattebayo
+1039;great-granddaughter;Mirai Sarutobi;1038;nome_exato_normalizado;Dattebayo
+1039;great-grandson;Konohamaru Sarutobi;1037;nome_exato_normalizado;Dattebayo
+1290;daughter;Izumi Uchiha;1295;nome_exato_normalizado;Dattebayo
+1422;brother;Mizugoke;816;nome_exato_normalizado;Dattebayo

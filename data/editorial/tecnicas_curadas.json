@@ -1,0 +1,173 @@
+[
+  {
+    "jutsu_id": "jutsu_625a61216a10e6c7",
+    "nome_pt": "Rasengan",
+    "categoria": "Ninjutsu",
+    "animacao": "rasengan",
+    "descricao": "Uma esfera de chakra em rotação concentrada na mão.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1643",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_2166ded5d796c181",
+    "nome_pt": "Clones das Sombras",
+    "categoria": "Ninjutsu",
+    "animacao": "clones",
+    "descricao": "O chakra é dividido para criar cópias físicas do usuário. A experiência adquirida por uma cópia retorna ao original quando ela se desfaz.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1694",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_c016f2c41155ea05",
+    "nome_pt": "Múltiplos Clones das Sombras",
+    "categoria": "Ninjutsu",
+    "animacao": "clones",
+    "descricao": "A variação amplia a quantidade de cópias físicas criadas. A demonstração usa um pequeno grupo de silhuetas para representar a multiplicação.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1610",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_666c3c2e48dc8856",
+    "nome_pt": "Chidori",
+    "categoria": "Ninjutsu",
+    "animacao": "lightning",
+    "descricao": "Chakra de relâmpago se concentra na mão para um ataque direto.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1856",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_103a1ae69100128d",
+    "nome_pt": "Corte Relâmpago",
+    "categoria": "Ninjutsu",
+    "animacao": "lightning",
+    "descricao": "Técnica associada a Kakashi, com concentração de chakra de relâmpago. Os arcos elétricos da animação são uma representação visual simplificada.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1903",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_9809618c34c57511",
+    "nome_pt": "Estilo Fogo · Grande Bola de Fogo",
+    "categoria": "Ninjutsu",
+    "animacao": "fire",
+    "descricao": "Uma emissão de fogo projetada à frente do usuário. A demonstração representa a preparação e a expansão da chama.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1856",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_915f4a517d06ef5f",
+    "nome_pt": "Amaterasu",
+    "categoria": "Dōjutsu",
+    "animacao": "amaterasu",
+    "descricao": "Chamas negras associadas ao Mangekyō Sharingan.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1814",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_3462ee2ec1e78c77",
+    "nome_pt": "Tsukuyomi",
+    "categoria": "Genjutsu",
+    "animacao": "eye",
+    "descricao": "Um genjutsu ocular de Itachi. O ambiente em vermelho e a mudança de percepção na animação são recursos ilustrativos da interface.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1814",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_88009473450e99fd",
+    "nome_pt": "Susanoo",
+    "categoria": "Dōjutsu",
+    "animacao": "susanoo",
+    "descricao": "Uma manifestação de chakra ligada ao poder ocular dos Uchiha. A demonstração representa uma proteção etérea ao redor do usuário.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1858",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_459d9115721f0c7d",
+    "nome_pt": "Kamui",
+    "categoria": "Dōjutsu",
+    "animacao": "vortex",
+    "descricao": "Um ninjutsu espaço-temporal associado ao Mangekyō Sharingan. O vórtice da demonstração representa uma distorção espacial.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1904",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_e3df4df5000c5392",
+    "nome_pt": "Deus Voador do Trovão",
+    "categoria": "Espaço-tempo",
+    "animacao": "teleport",
+    "descricao": "O usuário se desloca para coordenadas previamente marcadas.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1694",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_7a4d1b6d44187a9e",
+    "nome_pt": "Técnica de Invocação",
+    "categoria": "Ninjutsu",
+    "animacao": "summon",
+    "descricao": "Uma invocação traz um aliado vinculado ao usuário.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1643",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_2bb5b3694f0e9eed",
+    "nome_pt": "Palma Mística",
+    "categoria": "Ninjutsu médico",
+    "animacao": "healing",
+    "descricao": "Chakra concentrado nas mãos é aplicado em tratamento. O brilho verde e os pulsos na demonstração são uma interpretação visual do ninjutsu médico.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1743",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_fb0b3f8a3d4d64d9",
+    "nome_pt": "Renascimento da Criação",
+    "categoria": "Ninjutsu médico",
+    "animacao": "healing",
+    "descricao": "Uma técnica regenerativa associada ao treinamento de Tsunade. A demonstração destaca a liberação de chakra como recurso ilustrativo.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1743",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_82399ba8c676b45d",
+    "nome_pt": "Oito Portões",
+    "categoria": "Taijutsu",
+    "animacao": "gates",
+    "descricao": "A liberação dos portões internos eleva o esforço físico e os riscos para o corpo. A demonstração representa a intensificação de uma aura, sem quantificar poder.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1673",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_f1c7e41273b68210",
+    "nome_pt": "Punho Forte",
+    "categoria": "Taijutsu",
+    "animacao": "taijutsu",
+    "descricao": "Um estilo de combate corporal associado a golpes físicos. O pequeno ciclo de movimento representa uma sequência ilustrativa de ataque.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1652",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_d39260fc843e5869",
+    "nome_pt": "Punho Gentil",
+    "categoria": "Taijutsu",
+    "animacao": "taijutsu",
+    "descricao": "O estilo dos Hyūga combina percepção e controle preciso de chakra no combate próximo. A demonstração usa movimentos curtos e concentrados.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1817",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_4d1a0dd426778f75",
+    "nome_pt": "Imitação das Sombras",
+    "categoria": "Ninjutsu",
+    "animacao": "shadow",
+    "descricao": "A sombra do usuário se estende e pode conectar seus movimentos aos de um alvo. A cena estiliza a ligação entre duas silhuetas.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1910",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  },
+  {
+    "jutsu_id": "jutsu_97d47f15e7649484",
+    "nome_pt": "Kotoamatsukami",
+    "categoria": "Genjutsu",
+    "animacao": "eye",
+    "descricao": "O poder ocular de Shisui tem influência decisiva na trajetória de Itachi. A demonstração representa o olhar e uma atmosfera de ilusão.",
+    "url_fonte": "https://naruto-official.com/en/news/01_1625",
+    "tipo_midia": "Texto editorial; sequência original do jogo quando disponível para o personagem"
+  }
+]

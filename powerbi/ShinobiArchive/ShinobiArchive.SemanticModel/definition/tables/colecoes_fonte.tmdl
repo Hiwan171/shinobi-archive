@@ -1,0 +1,46 @@
+table colecoes_fonte
+	lineageTag: 4c4ee567-4800-56b3-94a2-cd76423be2e2
+
+	column colecao
+		dataType: string
+		lineageTag: d21c7ef4-403c-57a6-9fd2-ffeaaf2e53cb
+		summarizeBy: none
+		sourceColumn: colecao
+
+	column personagem_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 94e58155-ec96-5f81-8b02-d39321920d95
+		summarizeBy: none
+		sourceColumn: personagem_id
+
+	column nome_na_colecao
+		dataType: string
+		lineageTag: a2355156-67b0-5db3-9d44-3d38ff815c18
+		summarizeBy: none
+		sourceColumn: nome_na_colecao
+
+	column encontrado_na_base_principal
+		dataType: boolean
+		lineageTag: 128209cb-3665-567c-a298-5745445d9423
+		summarizeBy: none
+		sourceColumn: encontrado_na_base_principal
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 0e71ec0c-f85e-5c4f-9d18-24d8022d10a6
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition colecoes_fonte = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCr2a3WobRxTHX2XYm7TggPZ75TsnBlkRikuktjilmKPVRDte7YyZ3SHIpW8QPYmeY9+ro5RSCGdCKToHg692+Z2Z8/1f/fZHVJu9rMFE19FGPTnXR1fRs7S90bCT3aPaRtfxVaRNJx81PP778Frq12tQ+/PzUtdGDxa25vzMBnr5+GyVrtUz7KPrwTp5FX3yT0j/3i0Mg9zAwUR/Xv0neJ5i+LfNeOykIoanWY7BZ4fx1FKzs2qCsee92ThidFFMMfTCtG48ErPLGA23hbPQATW7RNlLGPzfhtrh8WSCXvsKVCs1NTxOShTeuBZaR05PM5RutJiZdjxdiA8tDL37mrrfWpAlaKq/2UPdio/Sv8ZgQ4yXOnWx2PsOvCgw+C2ojWM5/BSt87dSbcECAz7H8Z3RqhYrXwGcFOaTGBop7t0grfgJhobcrhQPy5nST/QxkVYVBr/zLtH08GmBwzt5cJb+8NlkgvO1aRnSMcHzYT5A3Sjxs//X0GdFnqAV6d142hn6K0hzfAwBX5GMePBtqW/oPZHnFW5F614cA30apr/qfRGyg5aW3g48HBfgEeTwAp9NFkrSVwE8Axaqh06KO+MjcAcM9aCoMnwk1wyluEzRJrQ4jMcDMNCLAP3kX5AcpXiKrwXnyYSrFJd5jhvRckyHZZHgdL0FMZ/T80u0CC9l3cDr92B9QyC3ocrRgWDpF6QtfRRWBVqI3sMOWM5e4PTzzYul66EHhjCsqhI348Vphh0hnaBN8H6j/CUw1YFpgmbCvTWe33l/0FtQoHnwAdTlBLnvhECK06XeSbE0nQGOoTCe4NvBCjYMq/IkS3B4bxgWI58GZQDv2zFXHngrcLWsUZrLhgyPxZVTu7NgJO7G44vjWBbjAveI3xEsw3wYJwnqi7XZKPHDV/HsRwYj8BF53bsDh3aXoB3y10YNkks/TPEu/QCNahn29QzPyIfxxCHgZQmajB/BN4ZLpWD7txT5LRpNvpstkFLxz0M3hvaoAZXcWGouOvW8cTtaLL0iHwDjss9bc7FNI8AtcBkczjo4LXma4AK8fAZicIaD9wMtOCmzgLQkrRMz0K0jjrKkQveZGdiLfebFwTzaPs7m0PUDZHx7nX8GcWvqwVhSeh6j537nZ1XazC7wC1+YJyUW522NGh9Q0D8Dsb85JLsAmUWuC8wljAt6wAJOsSpgAoNQhZOnMer68cuOmJtO8Z8reW+3Soxf/Nz+z+hOaAWDNhUYI+gVoRAY/zp203mYWIF+IeaziA+htSArAxPMucqI9XjU5IsJueoQIKcZWuZ+UeSjhEeXYfSrXqxkbeUA9vD/zfj9L0uMigubKgAA", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"colecao", type text}, {"personagem_id", Int64.Type}, {"nome_na_colecao", type text}, {"encontrado_na_base_principal", type logical}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

@@ -1,0 +1,957 @@
+[
+  {
+    "equipe_id": 0,
+    "nome": "Akagi Gang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 1,
+    "nome": "Allied Mothers Force",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 2,
+    "nome": "Allied Mothers Force  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 3,
+    "nome": "Ame Orphans",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 4,
+    "nome": "Analysis Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 5,
+    "nome": "A–B Combo",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 6,
+    "nome": "Bikōchū Search Team  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 7,
+    "nome": "Byakuya Gang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 8,
+    "nome": "Communications Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 9,
+    "nome": "Counter-Terrorism Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 10,
+    "nome": "Counter-Terrorism Division  (Novel only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 11,
+    "nome": "Cypher Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 12,
+    "nome": "Daimyō Protection Squad",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 13,
+    "nome": "Daimyō Protection Squad  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 14,
+    "nome": "Dark Thunder Group  (Novel only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 15,
+    "nome": "Demon Brothers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 16,
+    "nome": "Dotō's Three-Man-Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 17,
+    "nome": "Eight Man Squad",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 18,
+    "nome": "Eight-Tails Subduing Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 19,
+    "nome": "Enlightened Ones",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 20,
+    "nome": "Escort Unit",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 21,
+    "nome": "Exploding-Till-You-Eat",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 22,
+    "nome": "Explosion Corps",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 23,
+    "nome": "Fabrications",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 24,
+    "nome": "Fifth Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 25,
+    "nome": "Fifth Division  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 26,
+    "nome": "First Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 27,
+    "nome": "Five Great Countries' Joint Investigation Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 28,
+    "nome": "Four Celestial Symbols Men",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 29,
+    "nome": "Four Ninja Animal Warriors",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 30,
+    "nome": "Fourth Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 31,
+    "nome": "Fourth Division  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 32,
+    "nome": "Fruit Group",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 33,
+    "nome": "Furido's 4-Man Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 34,
+    "nome": "Gang of Four",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 35,
+    "nome": "Garakuta Gang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 36,
+    "nome": "Gatō Company",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 37,
+    "nome": "Genbu Shinobi Trio",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 38,
+    "nome": "Ghost Army",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 39,
+    "nome": "Gold and Silver Brothers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 40,
+    "nome": "Grass Flower Group",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 41,
+    "nome": "Haido's Knights",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 42,
+    "nome": "Hanabi Rescue Team  (Movie only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 43,
+    "nome": "Haze Quadruplets",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 44,
+    "nome": "Hiruko's Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 45,
+    "nome": "Hokage Guard Platoon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 46,
+    "nome": "Hokage Guard Platoon  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 47,
+    "nome": "Honoured Siblings",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 48,
+    "nome": "Impure World Reincarnation Allied Forces",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 49,
+    "nome": "Impure World Reincarnation Allied Forces  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 50,
+    "nome": "Infiltration and Reconnaissance Party",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 51,
+    "nome": "Ino–Saku–Sai  (Novel only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 52,
+    "nome": "Ino–Shika–Chō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 53,
+    "nome": "Intelligence Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 54,
+    "nome": "Ishi Terrorists",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 55,
+    "nome": "Jako's Gang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 56,
+    "nome": "Janin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 57,
+    "nome": "Kaima Capture Team  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 58,
+    "nome": "Kanabun Gang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 59,
+    "nome": "Kazekage Rescue Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 60,
+    "nome": "Kinkaku Force",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 61,
+    "nome": "Konoha 11  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 62,
+    "nome": "Konoha Barrier Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 63,
+    "nome": "Konoha Barrier Team  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 64,
+    "nome": "Konoha Council",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 65,
+    "nome": "Konoha Cryptanalysis Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 66,
+    "nome": "Konoha Military Police Force",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 67,
+    "nome": "Konoha Military Police Force  (Anime Only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 68,
+    "nome": "Konoha Special Mission Platoon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 69,
+    "nome": "Konoha Torture and Interrogation Force",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 70,
+    "nome": "Konoha Torture and Interrogation Force  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 71,
+    "nome": "Kumo Barrier Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 72,
+    "nome": "Kumo Council",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 73,
+    "nome": "Kumo Spectators",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 74,
+    "nome": "Kurosuki Family",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 75,
+    "nome": "Kurosuki Family  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 76,
+    "nome": "Leaf's Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 77,
+    "nome": "Legendary Stupid Brothers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 78,
+    "nome": "Lightning Group",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 79,
+    "nome": "Lightning Group  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 80,
+    "nome": "Logistical Support and Medical Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 81,
+    "nome": "Logistical Support and Medical Division  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 82,
+    "nome": "Magaki Group",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 83,
+    "nome": "Medic Corps",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 84,
+    "nome": "Mezu Gang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 85,
+    "nome": "Mokuzu Gang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 86,
+    "nome": "Moya Triad",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 87,
+    "nome": "Mujina Bandits",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 88,
+    "nome": "New Seven Ninja Swordsmen",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 89,
+    "nome": "Nokizaru Group",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 90,
+    "nome": "Orochimaru Search Team  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 91,
+    "nome": "Peddlers Escort Team  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 92,
+    "nome": "Prajñā Group",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 93,
+    "nome": "Puppet Brigade",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 94,
+    "nome": "Ryūha Armament Alliance",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 95,
+    "nome": "Sasuke Recovery Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 96,
+    "nome": "Scientific Ninja Weapons Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 97,
+    "nome": "Sea Route of Silence Gang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 98,
+    "nome": "Sealing Team",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 99,
+    "nome": "Second Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 100,
+    "nome": "Sensor Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 101,
+    "nome": "Seven Ninja Swordsmen of the Mist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 102,
+    "nome": "Shin Uchiha (Clones)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 103,
+    "nome": "Shinobazu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 104,
+    "nome": "Shirogane Three",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 105,
+    "nome": "Sound Five",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 106,
+    "nome": "Sound Four",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 107,
+    "nome": "Star Guard Team  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 108,
+    "nome": "Suicide Corps  (Movie only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 109,
+    "nome": "Sumo Wrestlers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 110,
+    "nome": "Suna Council",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 111,
+    "nome": "Suna Council  (Novel only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 112,
+    "nome": "Surprise Attack Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 113,
+    "nome": "Surprise Attack and Diversion Platoon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 114,
+    "nome": "Taka",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 115,
+    "nome": "Team 10",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 116,
+    "nome": "Team 15",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 117,
+    "nome": "Team 15  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 118,
+    "nome": "Team 2",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 119,
+    "nome": "Team 2  (Anime and Novel only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 120,
+    "nome": "Team 25",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 121,
+    "nome": "Team 25  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 122,
+    "nome": "Team 40",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 123,
+    "nome": "Team 40  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 124,
+    "nome": "Team 5",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 125,
+    "nome": "Team 5  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 126,
+    "nome": "Team 7",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 127,
+    "nome": "Team 8",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 128,
+    "nome": "Team 8  (Temporarily)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 129,
+    "nome": "Team 9",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 130,
+    "nome": "Team Ajisai",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 131,
+    "nome": "Team Ajisai  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 132,
+    "nome": "Team Ameno",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 133,
+    "nome": "Team Asuma  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 134,
+    "nome": "Team Asuma  (Temporarily)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 135,
+    "nome": "Team Bandō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 136,
+    "nome": "Team Chōza",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 137,
+    "nome": "Team Chōza  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 138,
+    "nome": "Team Dosu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 139,
+    "nome": "Team Ebisu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 140,
+    "nome": "Team Fū",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 141,
+    "nome": "Team Fū  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 142,
+    "nome": "Team Ganryū",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 143,
+    "nome": "Team Goji",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 144,
+    "nome": "Team Guren",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 145,
+    "nome": "Team Guy",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 146,
+    "nome": "Team Hiruzen",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 147,
+    "nome": "Team Jiraiya",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 148,
+    "nome": "Team Kabuto",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 149,
+    "nome": "Team Kajika",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 150,
+    "nome": "Team Kakashi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 151,
+    "nome": "Team Kazami",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 152,
+    "nome": "Team Komugi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 153,
+    "nome": "Team Matsuri",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 154,
+    "nome": "Team Matsuri  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 155,
+    "nome": "Team Minato",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 156,
+    "nome": "Team Oboro",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 157,
+    "nome": "Team One  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 158,
+    "nome": "Team Orochimaru",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 159,
+    "nome": "Team Ro",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 160,
+    "nome": "Team Ro  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 161,
+    "nome": "Team Sajin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 162,
+    "nome": "Team Samui",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 163,
+    "nome": "Team Saya",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 164,
+    "nome": "Team Shibire",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 165,
+    "nome": "Team Shigeri",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 166,
+    "nome": "Team Shigure",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 167,
+    "nome": "Team Shinki",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 168,
+    "nome": "Team Shiore",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 169,
+    "nome": "Team Shira",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 170,
+    "nome": "Team Shisui  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 171,
+    "nome": "Team Shū",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 172,
+    "nome": "Team Suien",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 173,
+    "nome": "Team Three  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 174,
+    "nome": "Team Tobirama",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 175,
+    "nome": "Team Two  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 176,
+    "nome": "Team Yurui",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 177,
+    "nome": "Third Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 178,
+    "nome": "Three Brothers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 179,
+    "nome": "Three Ryūdōin Brothers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 180,
+    "nome": "Three Sand Siblings",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 181,
+    "nome": "Three Senka Brothers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 182,
+    "nome": "Thundercloud Unit",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 183,
+    "nome": "Twelve Guardian Ninja",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 184,
+    "nome": "Twenty Platoons",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 185,
+    "nome": "Twenty Platoons  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 186,
+    "nome": "Two Great Sage Toads",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 187,
+    "nome": "Wandering Ninja Clan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 188,
+    "nome": "Watari Ninja",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 189,
+    "nome": "White Zetsu Army",
+    "fonte": "Dattebayo"
+  },
+  {
+    "equipe_id": 190,
+    "nome": "Wind Release Team",
+    "fonte": "Dattebayo"
+  }
+]

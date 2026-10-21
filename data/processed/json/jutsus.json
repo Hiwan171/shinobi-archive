@@ -1,0 +1,6967 @@
+[
+  {
+    "jutsu_id": "jutsu_aae1fae6adbeb95d",
+    "nome": "Acid Permeation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bd4bdbe846085acf",
+    "nome": "Acrobat",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9ee12846ff28b517",
+    "nome": "Adamantine Attacking Chains",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c3c20684b42f2c0a",
+    "nome": "Adamantine Seal: Monkey Yang Suppression",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7b381cef795b79f6",
+    "nome": "Afterglow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d7e2e54aad485106",
+    "nome": "Afterimage Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_97cebb557377e3a7",
+    "nome": "Air Gold Dust Protective Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d59d61e4629f1490",
+    "nome": "Air Sand Protective Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_287967a801a333ff",
+    "nome": "Akino",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7afeea5607a3e7cd",
+    "nome": "Akuta",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_91c01fcfbfb365d2",
+    "nome": "All Directions Shuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_498d35d8b46aceec",
+    "nome": "All-Killing Ash Bones",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4386ff5e06879a5e",
+    "nome": "Altering Terrain Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_915f4a517d06ef5f",
+    "nome": "Amaterasu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9a876ada5b0a6cec",
+    "nome": "Amaterasu: Flame Wrapping Fire",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f7339a3050ecf64f",
+    "nome": "Amenomihashira",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f15e01f60471a718",
+    "nome": "Amenominaka",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6ef805101f09897d",
+    "nome": "Amenosubaruboshinomikoto",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f2b2ffc23faf2239",
+    "nome": "Amenosubaruboshinomikoto: Gyokkō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4f8e65edec9b7ea6",
+    "nome": "Amenosubaruboshinomikoto: Ryūgū",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_21890aabd7a0edc8",
+    "nome": "Amenotejikara",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5ec46739c79e03e5",
+    "nome": "Animal Cursed Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_12cf991411cee9fe",
+    "nome": "Animal Path",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1b9d34927d73c93d",
+    "nome": "Ankorodō Hiden Ninjutsu: Mochi Release: Infinite Dumplings",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_48f31075d72cb789",
+    "nome": "Antlion Ninja Arts: Ephemeral",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_46190d91ec097b30",
+    "nome": "Area Scanning Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c36b1a5ac5c230e5",
+    "nome": "Arm Growth Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fbdb485ac1ec5af5",
+    "nome": "Armageddon Countdown Clock",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4faf791c8ad9ddfc",
+    "nome": "Armour of Sand",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_173765aa3b2644ff",
+    "nome": "Armour-Eater",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2699b4860dcd7efb",
+    "nome": "Assassination Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fc33f2d2a0233419",
+    "nome": "Assimilate All Creation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b66e29856fbcfcd8",
+    "nome": "Assimilation: Rock Blizzard",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dc4cd2202d67faec",
+    "nome": "Assimilation: Rock Tank",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_433d0637653ad8e6",
+    "nome": "Assimilation: Sand Binding Coffin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fe5bffc8c25f52d0",
+    "nome": "Assimilation: Sand Waterfall Funeral",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cc6f5f15dcf84d73",
+    "nome": "Asura Path",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9faa9e67d3ff8637",
+    "nome": "Attack of the Twin Demons",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5caaa92cd8736132",
+    "nome": "Ball of Light Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3a4cbe2f1ab7b663",
+    "nome": "Ballistic Waterwheel",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0a9109442f5f4b44",
+    "nome": "Banshō Ten'in",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_685695b9b9e0be57",
+    "nome": "Barrier Gate Five Seals Technique: Castle Closing Eight Gates",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8fbc6a02ce43c792",
+    "nome": "Barrier Method Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2ef420ff2c1c74a4",
+    "nome": "Barrier Releasing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f1cdacafdf3c394d",
+    "nome": "Barrier Shattering Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_162de9c99bbbf25d",
+    "nome": "Barrier Talisman: Armoured Eye",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c78b539c6208ef98",
+    "nome": "Barrier: Canopy Method Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3d67a31cbecf3d37",
+    "nome": "Barrier: Toad Gourd Prison",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_730fe92f539524c8",
+    "nome": "Baryon Mode",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6cacf0785e06803f",
+    "nome": "Bashōsen: Coil of Fire",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c900edaf0b5bcfa3",
+    "nome": "Bashōsen: Coil of Wind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_02914c81a6b4c96b",
+    "nome": "Bat Controlling",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_242cba2c42b4a7ff",
+    "nome": "Bat Controlling: Ultrasonic Mind Waves",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0c4a222e062c414f",
+    "nome": "Beast Human Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_16a6cc6c63441246",
+    "nome": "Beast Sealing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b56f1e46b8feb915",
+    "nome": "Beast Tearing Gale Palm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e8a26b257533afbc",
+    "nome": "Beast Tearing Palm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_79bf966182bdf0c0",
+    "nome": "Beast-Human Fury Kicks",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e54f9c8eb5494add",
+    "nome": "Beast-Human Needle Senbon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_91d7b55fc8294fb6",
+    "nome": "Bee Bomb Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4b154d58d0d74176",
+    "nome": "Bee Honey Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1132da9eb848ef65",
+    "nome": "Beeswax Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1c6f89db147147a7",
+    "nome": "Bell Barrier Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_210d7439b193336b",
+    "nome": "Big Ball Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_77d904d6609dda73",
+    "nome": "Big Ball Rasenshuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a323ad325281bb58",
+    "nome": "Big Ball Spiralling Serial Zone Spheres",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3b5b84851b2dd4c5",
+    "nome": "Binding Smoke Prison",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4458d0c816eb8b24",
+    "nome": "Binding Snake Glare Spell",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7b783818d65ff13b",
+    "nome": "Bisuke",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2f2f170cbe6c2c40",
+    "nome": "Black Iron Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cb7980f30f40fa37",
+    "nome": "Black Lightning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3fc65680f3e59806",
+    "nome": "Black Receiver",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c2eee07262ff7e15",
+    "nome": "Black Secret Technique Machine One Shot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_213575ff398526a7",
+    "nome": "Black Secret Technique Machine Two Shot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a0b490eb44f23b11",
+    "nome": "Black Secret Technique — Machine Triple Shot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_778d3734996763a4",
+    "nome": "Black Secret Technique: Black Iron",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ef14d10b008f2e31",
+    "nome": "Black Secret Technique: Salamander",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bd9924eaea92c79e",
+    "nome": "Blastsword Technique: Blasting Bridle Repeating Death",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_066161a78ac7576c",
+    "nome": "Blaze Release: Honoikazuchi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_56d28ba8d55d9db0",
+    "nome": "Blaze Release: Kagutsuchi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_eb355431d40a6dce",
+    "nome": "Blaze Release: Susanoo Kagutsuchi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f50f85835650f318",
+    "nome": "Blaze Release: Yasaka Magatama",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_19aa9ef7926f9261",
+    "nome": "Blinding Bubbles Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_73c7f80e6568997a",
+    "nome": "Blinding Wide Sand Formation: Noise",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_735d5766b4fdfa6d",
+    "nome": "Blocking Technique Absorption Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c5ffb6cb52ff6998",
+    "nome": "Blood Needle",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_31478477b22058b4",
+    "nome": "Bloody Mist Absorption Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ef165d22789b2ffe",
+    "nome": "Bloody Mist Sword Art: Bone Mutilation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4b9492780d3f0927",
+    "nome": "Body Alteration",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_37b7e5656533f844",
+    "nome": "Body Flicker Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a004ae92cb6feb39",
+    "nome": "Body Fluid Shedding Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3e7ccb004b18f0bc",
+    "nome": "Body Oxidation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d56fcc28f406e4f3",
+    "nome": "Body Pathway Derangement",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f8a7c598f5811009",
+    "nome": "Body Recreation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2383de7b231d9055",
+    "nome": "Boil Release: Skilled Mist Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cfc28758546c8094",
+    "nome": "Boil Release: Unrivalled Strength",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_90b31c5d04421672",
+    "nome": "Booby Trap",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_34ea143e490cee5f",
+    "nome": "Boruto Stream",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bf7f833f1a1c740f",
+    "nome": "Bouncy Bouncy Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0ad569bf182ff889",
+    "nome": "Bringer-of-Darkness Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d7a60161e2857d48",
+    "nome": "Bubble Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_60f49db21e182f05",
+    "nome": "Bubble Dome",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6f596a7821fb63fb",
+    "nome": "Bubblegum Ninjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bf11cdc449a51fa9",
+    "nome": "Bug Bite",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c67c126365145982",
+    "nome": "Bull",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cfa5819b9f6b0f21",
+    "nome": "Bunmawashi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_187625997d26aa0f",
+    "nome": "Butterfly Bullet Bombing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_948de6887040e829",
+    "nome": "Butterfly Mode",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d933fd5ce5866b18",
+    "nome": "Bō Shadow Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_122c597083bd438b",
+    "nome": "C0",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d0f631ca1ddba8db",
+    "nome": "C1",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9c0abe51c6e6655d",
+    "nome": "C2",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7c1c97df17c06692",
+    "nome": "C3",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0012a3fa000c5dc2",
+    "nome": "C4",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_42ddc64504e8027c",
+    "nome": "Cactus Genjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1157da89b7f5fd8f",
+    "nome": "Calling on Tears Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_19b2c972dbda731c",
+    "nome": "Calorie Control",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0a0a6a4431d17933",
+    "nome": "Carbon Armour",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0bc235a49617e18e",
+    "nome": "Carbon Control",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e960cb92e865f466",
+    "nome": "Carbon Ring",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_260f636519bd97e6",
+    "nome": "Carbon Whip",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5dd40ea447f7f28b",
+    "nome": "Casualty Puppet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_88031b8f7c85af91",
+    "nome": "Cat Food Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7b050a8469754c24",
+    "nome": "Cat Genjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9341addcb24ef90a",
+    "nome": "Cell Activation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6cb426b6323954f5",
+    "nome": "Cellular Regeneration Absorption",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_64accce9ff2df72b",
+    "nome": "Cellular Regeneration Ejection",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9839df253b4c1dbe",
+    "nome": "Certain-Kill Ice Spears",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f26f5db1902e15d4",
+    "nome": "Certain-Kill Treasured Tool Meteor",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9414886b1ebf025d",
+    "nome": "Chain",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c00cd647bf55640a",
+    "nome": "Chains: Twin Fangs Slash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4cd3e8dbc60cd84c",
+    "nome": "Chakra Absorbing Snakes",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_db59279a9ce3cf46",
+    "nome": "Chakra Blade: Straight Line",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_42f2c98a18a8651a",
+    "nome": "Chakra Disguise",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_87418749bcb874be",
+    "nome": "Chakra Draining Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_267dff7773722e16",
+    "nome": "Chakra Edible Creation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_30cbca0fcaa961c9",
+    "nome": "Chakra Enhanced Strength",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b3be6480e0fad5e4",
+    "nome": "Chakra Enhancing Music",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1ebe43a15d393f80",
+    "nome": "Chakra Entity",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6a898ae6f45c18ba",
+    "nome": "Chakra Ghost Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b6df479c968dbca5",
+    "nome": "Chakra Hair Trap Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_82612212ba48a0be",
+    "nome": "Chakra Levitation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f0d470bdc734c7bf",
+    "nome": "Chakra Liquid",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8f4ca3c88062fe03",
+    "nome": "Chakra Lock-On",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e6ad2e5e10420619",
+    "nome": "Chakra Needle",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_63325b3e5e381d61",
+    "nome": "Chakra Scalpel",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1e6ad2f03da6a042",
+    "nome": "Chakra Shock Slash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_de8796c80255b409",
+    "nome": "Chakra Shockwave Slash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_04fff5608a8742b9",
+    "nome": "Chakra Slicers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b6b9994d85eb0ded",
+    "nome": "Chakra Suppression Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8bea7bf6432ea676",
+    "nome": "Chakra Threads",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d0981b78f83f7ca0",
+    "nome": "Chakra Transfer Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_303ca3a015860ef9",
+    "nome": "Character Bind Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3a2f076abe5c6786",
+    "nome": "Cherry Blossom Impact",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d25378c67ab43feb",
+    "nome": "Chibaku Tensei",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_666c3c2e48dc8856",
+    "nome": "Chidori",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cb4d10b45afde4d6",
+    "nome": "Chidori Current",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_edb0da3b8c2853c5",
+    "nome": "Chidori Light Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a0dd1160b1c3cdb5",
+    "nome": "Chidori Senbon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e8e23cb665c05d69",
+    "nome": "Chidori Sharp Spear",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cfa8944531499aa0",
+    "nome": "Chimera Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a2528774c2b85718",
+    "nome": "Claw Creation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_28510ae584655d2a",
+    "nome": "Claw Grime",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_138c0c42f97ccb9e",
+    "nome": "Claw Mark",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a367971eb9f06dfd",
+    "nome": "Clay Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1767b2c9a31d2103",
+    "nome": "Cloak of Invisibility Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f32c9aff7ea196f3",
+    "nome": "Clone Body Blow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_84132677ee01232a",
+    "nome": "Clone Flying Arrow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_91b59e3c70f1a7e9",
+    "nome": "Clone Great Explosion",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8beee9992dc5d9e3",
+    "nome": "Clone Snakes",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_07ce52b5fce0a2d7",
+    "nome": "Clone Snakes: Serpent Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0b1d8383eb70df93",
+    "nome": "Clone Spinning Heel Drop",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cfa13541e9bf5c03",
+    "nome": "Clone Trap",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b652a8377625b95e",
+    "nome": "Cloth Binding Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8079d053c44bdb57",
+    "nome": "Cloud-Style Crescent Moon Beheading",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8944d772dd9abaf5",
+    "nome": "Cloud-Style Deception Beheading",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d02829d811e9dfa6",
+    "nome": "Cloud-Style Flame Beheading",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1be052501564aefd",
+    "nome": "Cloud-Style Front Beheading",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bd7ea2d16de3adf1",
+    "nome": "Cloud-Style Reverse Beheading",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_645b285cc3e164f5",
+    "nome": "Cocoon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3ec78c7840f6e0cb",
+    "nome": "Coercion Sharingan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3ad024e7419cb24f",
+    "nome": "Combination Transformation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fcdc9b3cdc53677b",
+    "nome": "Compression Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_de1ba779808607f4",
+    "nome": "Concealed Sand Picture Cat",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_33e12566192fa44c",
+    "nome": "Conch Cannon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e867d8caf8ea165d",
+    "nome": "Conch Whip",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bf437ef52e2fbb3f",
+    "nome": "Continuous Tailed Beast Balls",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f59578cdaf80d11d",
+    "nome": "Contract Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8d5eb4fa4f4fdf03",
+    "nome": "Coral Palm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3b45519d55d378f9",
+    "nome": "Corpse Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0eb1454a1e78ebae",
+    "nome": "Crane Wing Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fb0b3f8a3d4d64d9",
+    "nome": "Creation Rebirth",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_345627d1f8e1a306",
+    "nome": "Creation of All Things Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ec5eb0ad6468136e",
+    "nome": "Crescent Moon Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_52355a2883c16ad9",
+    "nome": "Crimson Earth",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f80c268e079dd5a9",
+    "nome": "Crimson Mist Barrier Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e05407ac3d09a6d3",
+    "nome": "Crow Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_77e1f38c7a490079",
+    "nome": "Crystal Barrier Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_08a4bda26b9b6fc5",
+    "nome": "Curse Mandala",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bb7aa55f8055dde9",
+    "nome": "Curse Technique: Body Controlling Manipulated Blood",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7824f46c2b2e67bb",
+    "nome": "Curse Technique: Death Controlling Possessed Blood",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4268a56c674e31d9",
+    "nome": "Cursed Doll",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1b5ac6725fd42aba",
+    "nome": "Cursed Sand Puppet Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_833cdf88f3c4b673",
+    "nome": "Cursed Seal of Heaven",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_db8c11a932872aef",
+    "nome": "Cursed Tongue Eradication Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c744b6096ec6b0da",
+    "nome": "Daikokuten",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_940fc7adc8414c17",
+    "nome": "Dance of the Crescent Moon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0fd45a9ada35d475",
+    "nome": "Dance of the Seedling Fern",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fe00049a39bd19d8",
+    "nome": "Dance of the Shikigami",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7bfd2ddee0401f88",
+    "nome": "Dance of the Sickle Blade: Falling Descent Blade",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bfeaf2b13d3aa9c1",
+    "nome": "Dancing Blade Risk",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d3a269d854f3ae85",
+    "nome": "Dark Flames Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_43abca974ba8a975",
+    "nome": "Dark Smoke Sphere",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_78fcbf54169dc1ee",
+    "nome": "Daytime Tiger",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d8965fd3321aced1",
+    "nome": "Dead Demon Consuming Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3b27a2b147557929",
+    "nome": "Dead Soul Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f6f0a19dea1707ea",
+    "nome": "Delicate Illness Extraction Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2f68dda8d0ee8be4",
+    "nome": "Demonic Flute: Illusionary Warriors Manipulating Melody",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_53098a748e768865",
+    "nome": "Demonic Flute: Phantom Sound Chains",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dcf1753436842cf9",
+    "nome": "Demonic Illusion: Cajolery of Glamour",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bf6fee6fc5cc6d91",
+    "nome": "Demonic Illusion: False Surroundings Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e7907fc2c9598260",
+    "nome": "Demonic Illusion: Hell Viewing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c554004a617634a4",
+    "nome": "Demonic Illusion: Mirage Crow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4eecb8ae2501858e",
+    "nome": "Demonic Illusion: Mirror Heaven and Earth Change",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_90329a7c1603029a",
+    "nome": "Demonic Illusion: Shackling Stakes Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_40556f7ffc85e91c",
+    "nome": "Demonic Illusion: Steaming Multistoried Building",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f9291fce408be0b0",
+    "nome": "Demonic Illusion: Toad Confrontation Chant",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b77e3e5a1c5bc62d",
+    "nome": "Demonic Illusion: Tree Binding Death",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_482220ff6540b2ec",
+    "nome": "Demonic Mirroring Ice Crystals",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8edb1d423227a930",
+    "nome": "Demonic Statue Chains",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7b921ed225b3d76a",
+    "nome": "Demonic Statue of the Outer Path",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c3c4c6e707bbeba3",
+    "nome": "Desert Layered Imperial Funeral Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2580e5fa0997acc9",
+    "nome": "Desert Suspension",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a5cbbbed6bccf272",
+    "nome": "Desert Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_29ed768d0928f4ae",
+    "nome": "Desert: Hand",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c25fa38ee59dfcee",
+    "nome": "Destroying Axe Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d4a7d13ae3a39513",
+    "nome": "Destroying Smell Smoke Prison",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f9effc6f388d760c",
+    "nome": "Destruction of Evil Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8facc8f0db8d7189",
+    "nome": "Deva Path",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2a556084615fa97c",
+    "nome": "Dharma Power Barrier: Auspicious Sign",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0ea615fa376ed3c6",
+    "nome": "Dharma Power Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b94f6dc89f25dbe0",
+    "nome": "Dharma Power Sealing Technique: Sen no Rikyū",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_43e95723c4697d92",
+    "nome": "Dharma Power: Silhouette",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3b6d541be4c11823",
+    "nome": "Disruption Cube",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d4b5b40009d21337",
+    "nome": "Disturbance Taijutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c7b3b562eb87b722",
+    "nome": "Double Black Panther",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d4f494bbda7e1531",
+    "nome": "Double Dynamic Entry",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7e20b64b1da32f38",
+    "nome": "Double Human Bullet Tank",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e932ed037ddc1e08",
+    "nome": "Dragon Life Reincarnation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ca907ca18f321828",
+    "nome": "Dragon Spying Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_820a6a404b4a8065",
+    "nome": "Drilling Crimson Blade",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0f6699863a3f6237",
+    "nome": "Drilling Hand of Sage Lightning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_92bfcfc45ed830a0",
+    "nome": "Drilling Needles",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8a3690b6a0906647",
+    "nome": "Drop Kick",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2905a78786d29268",
+    "nome": "Drowning Bubble Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3e515556453ddae9",
+    "nome": "Drowning Water Blob Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ecac7ac64b6ec9f3",
+    "nome": "Drunken Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c6b2b8b41862ac16",
+    "nome": "Dust Release: Detachment of the Primitive World Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_350fbd15b343ca7e",
+    "nome": "Dust Wind Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6224fea41ec4f7ec",
+    "nome": "Dustless Bewildering Cover",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fc5a8c385d9555c4",
+    "nome": "Dynamic Action",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7b805cbe7fb58a7b",
+    "nome": "Dynamic Entry",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ce07fcb41f26fd79",
+    "nome": "Dynamic Marking",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_73c4164268897568",
+    "nome": "Early Sacrifice",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c138ab436d833959",
+    "nome": "Earth Release Barrier: Earth Prison Dome of Magnificent Nothingness",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2a3ebf470fc8c87e",
+    "nome": "Earth Release Resurrection Technique: Corpse Soil",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_754593b2e54b28ee",
+    "nome": "Earth Release: Added-Weight Rock Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_da77876d9a5c5bb2",
+    "nome": "Earth Release: Antlion Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9e637a53dfa861ee",
+    "nome": "Earth Release: Bedrock Coffin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_469c125461dd134c",
+    "nome": "Earth Release: Bottomless Swamp",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ab98bf8d235bcebe",
+    "nome": "Earth Release: Bullet Rock Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a694c9ecfbc9a837",
+    "nome": "Earth Release: Demonic Rock Spider Armour",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a1cb5d1bf974bb1e",
+    "nome": "Earth Release: Double Suicide Decapitation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5c39e886e2b2dcf5",
+    "nome": "Earth Release: Drone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e746d51c5f65d0ac",
+    "nome": "Earth Release: Dropping Lid",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bfd350d482a1fed5",
+    "nome": "Earth Release: Dust Storm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8bdedc794f5b7021",
+    "nome": "Earth Release: Earth Corridor",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_20f6ae4673e07154",
+    "nome": "Earth Release: Earth Dragon Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_064b9c208ea8d807",
+    "nome": "Earth Release: Earth Flow Divide",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bedd50beb1dc974b",
+    "nome": "Earth Release: Earth Flow River",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b08b5a72ce5dc913",
+    "nome": "Earth Release: Earth Flow Spears",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_41dd41a4fca18f88",
+    "nome": "Earth Release: Earth Flow Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a49e7b047edc027a",
+    "nome": "Earth Release: Earth Mausoleum Dumpling",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0590646d5d92e20d",
+    "nome": "Earth Release: Earth Shore Return",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e8c94b78427963a2",
+    "nome": "Earth Release: Earth Wave Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ef7ef7b649cf5e78",
+    "nome": "Earth Release: Earth and Stone Bamboo Shoot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fd35a8353a9e71f1",
+    "nome": "Earth Release: Earth and Stone Dragon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1f3a84168b4ecd80",
+    "nome": "Earth Release: Earth-Style Rampart",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b1886eafd8b2969c",
+    "nome": "Earth Release: Earth-Style Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5f6d1614edc8c383",
+    "nome": "Earth Release: Fighting Blade Rod",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dde35853b8350b93",
+    "nome": "Earth Release: Fissure",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bdd9c5046fc7db50",
+    "nome": "Earth Release: Fist Rock Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_692c1a04716b5894",
+    "nome": "Earth Release: Flying Thrown Stones",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dd5a2340886637fc",
+    "nome": "Earth Release: Golem Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6cb2097df8473ddb",
+    "nome": "Earth Release: Gravel",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3e504e514dbe0251",
+    "nome": "Earth Release: Ground Bedrock",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_12c8a0defbd650e5",
+    "nome": "Earth Release: Hardening Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_25b82018aad6798b",
+    "nome": "Earth Release: Hiding Like a Mole Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cbd5f7d5ce3216e8",
+    "nome": "Earth Release: Hiding in Rock Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0cedadd1ec381afd",
+    "nome": "Earth Release: Iron Fist Prison",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1f64fa2f2043a541",
+    "nome": "Earth Release: Light-Weight Rock Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0445f9c2515b79ce",
+    "nome": "Earth Release: Lithic Press",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c12355713b79feed",
+    "nome": "Earth Release: Moving Earth Core",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5e5faefe4ad64708",
+    "nome": "Earth Release: Mud Body Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_56aad2b79f1606c1",
+    "nome": "Earth Release: Mud Wolves",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_140a1f0c8be4d961",
+    "nome": "Earth Release: Mudslide",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_244003191b8daee8",
+    "nome": "Earth Release: Multiple Earth-Style Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ee051f3b70e8a859",
+    "nome": "Earth Release: Mutability",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d26d795293eb2c90",
+    "nome": "Earth Release: Opening Earth Rising Excavation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_079279a3c75c01fd",
+    "nome": "Earth Release: Practice Brick Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dfb248e78140a4cf",
+    "nome": "Earth Release: Rending Drill Fang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dbc51353798e451a",
+    "nome": "Earth Release: Reverse Antlion",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4792942b646242cb",
+    "nome": "Earth Release: Rock Brick Cane",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ecdee388c9aa0ea2",
+    "nome": "Earth Release: Rock Gun Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_74241563ed752ab4",
+    "nome": "Earth Release: Rock Lodging Destruction",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_588bcc09509ebba3",
+    "nome": "Earth Release: Rock Pillar Prison Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e57ced8140ea192a",
+    "nome": "Earth Release: Rock Section Cane",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6c922c4c741e8894",
+    "nome": "Earth Release: Rock Shelter",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_886753cf64c1ba0b",
+    "nome": "Earth Release: Rock Trail",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_675cbf2f0d70e521",
+    "nome": "Earth Release: Sand Dance",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dc706f6c114dd63f",
+    "nome": "Earth Release: Sandwich Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8894a530e4deb78b",
+    "nome": "Earth Release: Shadow Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a3f6b4971df39e13",
+    "nome": "Earth Release: Stamping Rock Explosion Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7eed3c72becf6b6a",
+    "nome": "Earth Release: Sticky Earth Drop",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_967f5d56866d8125",
+    "nome": "Earth Release: Stone Luster",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_826a7e5e016c5ba4",
+    "nome": "Earth Release: Subterranean Voyage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_05f17d735ada104c",
+    "nome": "Earth Release: Super Fist Rock Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_371d7d431eb120e6",
+    "nome": "Earth Release: Swamp of the Underworld",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5b847b636b8657d8",
+    "nome": "Earth Release: Tearing Earth Turning Palm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2e16b6eb19056ea6",
+    "nome": "Earth Release: Tracking Projectiles Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a3eb64f7fedb1bfd",
+    "nome": "Earth Release: Tunnelling Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cc21e29f9ea6cd0b",
+    "nome": "Earth Release: Ultralight-Weight Rock Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4c104e6ca20d4987",
+    "nome": "Earth Release: Underground Projection Fish Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0bb7a7817ed05bc4",
+    "nome": "Earth Release: Underground Split",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_11630622abea5cd5",
+    "nome": "Echo Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a4bfa0d8d7c2a4e1",
+    "nome": "Echolocation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4910efe7634a607e",
+    "nome": "Eight Branches Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_82399ba8c676b45d",
+    "nome": "Eight Gates",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_583a5e58d2b2c6b5",
+    "nome": "Eight Gates Released Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3bb8c293f62dabc6",
+    "nome": "Eight Trigrams Sealing Style",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d52453363ce69513",
+    "nome": "Eight Trigrams Sixteen Palms",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_872fa420edf20a80",
+    "nome": "Eight Trigrams Sixty-Four Palms",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3f94c283ef3ee1b8",
+    "nome": "Eight Trigrams Thirty-Two Palms",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b9f8f84bbaffdfad",
+    "nome": "Eight Trigrams Twin Lions Crumbling Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a6ce3696cc428687",
+    "nome": "Eight Trigrams Vacuum Palm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_305d9b8c4c871e37",
+    "nome": "Eight Trigrams Vacuum Wall Palm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a78c6adc33e3c0a7",
+    "nome": "Eight-Tails",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7b6a6f65b9326abf",
+    "nome": "Eighty Gods Vacuum Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6e85ebe7458309e1",
+    "nome": "Elbow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ffed77c729f02fde",
+    "nome": "Empty Cicada Shell Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_761c824df78a5846",
+    "nome": "Enclosing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8341425cafede9d2",
+    "nome": "Ephemeral",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e790dd4bb3e195e8",
+    "nome": "Erupting Propulsion Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2abdb3f68098e0cf",
+    "nome": "Erupting Strong Foot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4b0641ad99431208",
+    "nome": "Evasion Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ca8f4767cd8a64ad",
+    "nome": "Evening Elephant",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f79bcc86fd7b80d4",
+    "nome": "Evil Disturbance Waltz",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7547a69e2f65c33c",
+    "nome": "Evil Releasing Method",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c61c13bcea4cb797",
+    "nome": "Evil Sealing Method",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a10882e485d9a114",
+    "nome": "Expansive Truth-Seeking Ball",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_29c853690144169f",
+    "nome": "Exploding Dragon Strike",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_78cb3fc33cb077c3",
+    "nome": "Exploding Flame Shot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5cddec65aba4fa37",
+    "nome": "Exploding Sand Boulder",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8529c178516cbb77",
+    "nome": "Exploding Sasumata Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_004224f8deca49e7",
+    "nome": "Explosion: Ice Mountain Destruction",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6dcac0ab30673315",
+    "nome": "Explosive Bubble",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6f2ad35304d090c4",
+    "nome": "Explosive Clay",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_38482a3642617032",
+    "nome": "Explosive Clay Dolls",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f792ac95f3c49bc9",
+    "nome": "Explosive Landmines",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3108d66216ac84fa",
+    "nome": "Eye Mind Reading",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_609f68fc3ba7743f",
+    "nome": "Face Copying Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_672aa5c3b2a0de82",
+    "nome": "Fang Passing Fang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9d35c76c7b4778d4",
+    "nome": "Fang Rotating Fang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_053e7ef87241c786",
+    "nome": "Fang Wolf Fang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d05696e8d770bc6b",
+    "nome": "Fangs of Lightning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e10846bc6fcca2c2",
+    "nome": "Feather Launching",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_294dcff2864ee3e2",
+    "nome": "Feigning Sleep Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4565d522453111a4",
+    "nome": "Fighting Tongue Bind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_405d5dfa9e8a3cb2",
+    "nome": "Fighting Tongue Slash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0b316e90981220d9",
+    "nome": "Finger Carving Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_090e4e1032806132",
+    "nome": "Fire Release Chakra Mode",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fb995a51b484c96f",
+    "nome": "Fire Release: Ash Pile Burning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bb5aa59f84e1e61b",
+    "nome": "Fire Release: Big Flame Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4635e5a4f00d71e9",
+    "nome": "Fire Release: Blast Wave Wild Dance",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_55bb687d4edce7b5",
+    "nome": "Fire Release: Blazing Meteors",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_165a77ee4c8c06c0",
+    "nome": "Fire Release: Chaotic Petals",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a8fed39856a9e6a5",
+    "nome": "Fire Release: Crimson Earth Spider",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_06009e3161ae9c70",
+    "nome": "Fire Release: Deep Flame Explosion",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c80eed2f8417ff71",
+    "nome": "Fire Release: Demon Lantern",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ac2144df9f6e4bdf",
+    "nome": "Fire Release: Dragon Fire Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0c93c2b61b212481",
+    "nome": "Fire Release: Dragon Flame Release Song Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d1564ca4bece05e6",
+    "nome": "Fire Release: Exploding Flame Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d9a3834f79fa04e6",
+    "nome": "Fire Release: Fire Dragon Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4b9e76b6de27fb12",
+    "nome": "Fire Release: Fire Dragon Flame Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_425d40ba9a2b46d9",
+    "nome": "Fire Release: Fire Dragon Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_606121b4480b8414",
+    "nome": "Fire Release: Fired Pottery Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d4c77df3e87beb98",
+    "nome": "Fire Release: Flame Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_913485121c2a4672",
+    "nome": "Fire Release: Flame Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c1b94025fbfdb4fb",
+    "nome": "Fire Release: Flame Capture",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_013a2aa879b06d61",
+    "nome": "Fire Release: Flame Whirlwind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_71d09c502e571694",
+    "nome": "Fire Release: Flaming Hail",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7e24133e978c58b1",
+    "nome": "Fire Release: Flint Yagura Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7a4ffd2ea2b7bc76",
+    "nome": "Fire Release: Fox Fire",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c2cdbb3b2d5eff80",
+    "nome": "Fire Release: Great Dragon Fire Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_647ed59ac4bf2057",
+    "nome": "Fire Release: Great Fire Annihilation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6912d66711bffedf",
+    "nome": "Fire Release: Great Fire Destruction",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0ed03db105fda36a",
+    "nome": "Fire Release: Great Fire Heavenly Prison",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9809618c34c57511",
+    "nome": "Fire Release: Great Fireball Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d38264fc73ba7dce",
+    "nome": "Fire Release: Great Flame Flower",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_27377ee23b9779d0",
+    "nome": "Fire Release: Great Flame Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e20c5fd18205d583",
+    "nome": "Fire Release: Heavenly Prison",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_88319c0bfe3f7c4d",
+    "nome": "Fire Release: Hiding in Ash and Dust Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_32f4ea3646ef40cc",
+    "nome": "Fire Release: Mist Blaze Dance Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_effaccb89a9b2c93",
+    "nome": "Fire Release: Phoenix Sage Fire Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_253cb384aea78675",
+    "nome": "Fire Release: Phoenix Sage Flower Nail Crimson",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_651edd693cdc0d99",
+    "nome": "Fire Release: Running Fire",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_11a2b71a95cb13eb",
+    "nome": "Fire Release: Toad Oil Flame Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2189a380e1a417bb",
+    "nome": "Fire Release: Water Mist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_32e485e6e1ff30d0",
+    "nome": "Fire Sealing Method",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2e0dd933efa5b594",
+    "nome": "Fission Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8c6de7e98fa56254",
+    "nome": "Five Elements Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_93c12f27bb68f2b4",
+    "nome": "Five Elements Unseal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_059b3d803601feb1",
+    "nome": "Five Release Great Combo Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9bbc92f98d8987e8",
+    "nome": "Five-Seal Barrier Pass Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_851e43bd44a2c3d3",
+    "nome": "Flash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f8b1cd0d9beec6ba",
+    "nome": "Flashing Bell Beams",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_72fbeb203157b138",
+    "nome": "Flea Shuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d421c4de635dacf0",
+    "nome": "Flower Ninja Art",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bed564d4cbd7f28a",
+    "nome": "Flower Ninja Art: Many Blooming Flowers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8e4aab250ba6f582",
+    "nome": "Flower Ninja Art: Many Releasing Flowers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b019673fa01cc031",
+    "nome": "Flower Ninja Art: Mirror Flower Water",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5b5e1e1155915b96",
+    "nome": "Flower Shuriken: Falling Blossoms and Scattering Leaves",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8ad23422e30472f3",
+    "nome": "Flower–Fruit Mountain",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_56209146d63fb84a",
+    "nome": "Flying Nail Mist Soaring",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_10396a93cc190a25",
+    "nome": "Flying Revolving Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_63e47feead64e972",
+    "nome": "Flying Swallow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d4117ce118b68e77",
+    "nome": "Flying Thunder Formation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_582acad00930a06c",
+    "nome": "Flying Thunder God Mutually Instantaneous Revolving Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_12992b6a87a83221",
+    "nome": "Flying Thunder God Slash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e3df4df5000c5392",
+    "nome": "Flying Thunder God Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_62dbe3c77fc5902f",
+    "nome": "Flying Thunder God — Second Step",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e757ec22ad1ea635",
+    "nome": "Flying Thunder God: Guiding Thunder",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_30c2d24fb278a307",
+    "nome": "Forbidden Individual Curse Tag",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b8344758216df24b",
+    "nome": "Forbidden Summoning Technique: Fire Rats Cometh",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9cbb8bc87f2d9118",
+    "nome": "Forbidden Technique: Mud Golem",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_80f8bd56710b5a47",
+    "nome": "Formation Ino–Shika–Chō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2b1b97b3d523b232",
+    "nome": "Formation of Ten Thousand Snakes",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fb0a923792a5a773",
+    "nome": "Four Black Fogs Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f1e2f91332a9084a",
+    "nome": "Four Black Snakes Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_62e830b4ef905a32",
+    "nome": "Four Legs Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f9daa4ee800e8d4b",
+    "nome": "Four Red Yang Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f25eca2de6953d8d",
+    "nome": "Four Symbols Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_149a647f2eb5adf3",
+    "nome": "Four Violet Flames Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b2f71be052a1ce43",
+    "nome": "Four-Corner Sealing Barrier",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_93d1885a5e7f89c5",
+    "nome": "Frog Kata",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_638cea22e257aa9f",
+    "nome": "Frog Strike",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f4fb3b6569202a33",
+    "nome": "Front Lotus",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d3ec4fd089007061",
+    "nome": "Front Lotus: Eight Trigrams Palms Revolving Heaven",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9820cb5801297984",
+    "nome": "Frying Pan Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_625528b949ef110f",
+    "nome": "Fugai's Howl",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6723697e794819d6",
+    "nome": "Fugaku Uchiha",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f44a052a0ececd80",
+    "nome": "Fury",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_aff0b65366cd8ca3",
+    "nome": "Future Telling",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_507c9b6c53d732be",
+    "nome": "Fūinjutsu Trap",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_08181d9d4e67ca3d",
+    "nome": "Gathering of the Snakes",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5a09e7c36e52aaf5",
+    "nome": "Gelel Blast",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2fad7e795cf8494b",
+    "nome": "Gelel Laser",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f4e765866e3464fb",
+    "nome": "Gelel Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_af27f2c1daba0a7d",
+    "nome": "Genjutsu Ball Trap",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_baddc5944ebcd70d",
+    "nome": "Genjutsu Binding",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e18a2503277c5d09",
+    "nome": "Genjutsu Communication",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a8247726292dc1b1",
+    "nome": "Genjutsu Cursed Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_64704e9b6f9313d4",
+    "nome": "Genjutsu Kiss",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5c5a3ad73e3b7129",
+    "nome": "Genjutsu: Bell Sound Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_547dd125b1f434ca",
+    "nome": "Genjutsu: Ghost Fire",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_70f05e96734bf99d",
+    "nome": "Genjutsu: Sharingan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d39260fc843e5869",
+    "nome": "Gentle Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_16072df296d300d9",
+    "nome": "Gentle Step Spiralling Twin Lion Fists",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a4e9fe4750ea7ea4",
+    "nome": "Gentle Step Twin Lion Fists",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_93c057c3a768d53f",
+    "nome": "Giant Sphere",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_be6a7cf053ab6c43",
+    "nome": "God: Nativity of a World of Trees",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8e192108ef5f649c",
+    "nome": "Golden Wheel Reincarnation Explosion",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c9279dbcacaf18df",
+    "nome": "Gozu Tennō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8347571f0acde86e",
+    "nome": "Grass Shadow-Style Emit Destroy Palm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_85ec26e349adcc7d",
+    "nome": "Great Sickle Weasel Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_52fb0d0990c8a1c6",
+    "nome": "Great Spiralling Ring",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4b0aa13c273e0103",
+    "nome": "Great Vacuum Cannon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_df2afe5bc9bed1d4",
+    "nome": "Green Egg Bombs",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7a84d986ca5627aa",
+    "nome": "Ground Splitting Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0c2005e1aa4f2c86",
+    "nome": "Grudge Rain",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b617f51cf006616b",
+    "nome": "Guillotine Drop",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c18c621dd52e3164",
+    "nome": "Gunbai Fanned Wind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c87a7abb3eace0fd",
+    "nome": "Guruko",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7eccc9f51c061fec",
+    "nome": "Guts Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_069569126049d166",
+    "nome": "Hair Binding Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d4f210de804f348b",
+    "nome": "Hair Needle Senbon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7bbedad9cbfef224",
+    "nome": "Hanabi Hyūga",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ff0114ade7389cd3",
+    "nome": "Hands of Bonds",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6cbd5d6a897bc171",
+    "nome": "Hands of Flame",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c5799a7014ab4b10",
+    "nome": "Harem Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ce9f5ec1b9dca56b",
+    "nome": "Haze Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_179948d55c896dbf",
+    "nome": "Haze Ninja Art: Forbidden Technique: Afterlife Opening Gate",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_eb6b1008d41b722d",
+    "nome": "Haze Ninja Art: Forbidden Technique: Ephemeral Life",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a6ef4612ae8c846b",
+    "nome": "Haze Ninja Art: Forbidden Technique: Hellish Obliteration",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2de6dbddfd1e2952",
+    "nome": "Haze Ninja Art: Forbidden Technique: Red Spider Lily",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d3fd973efe21d00d",
+    "nome": "Hazy Genjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6a07e5462341939e",
+    "nome": "Hazy Moon Night",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_eee8515ce50821b9",
+    "nome": "Headbutt",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_836defd0951787e6",
+    "nome": "Heal Bite",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_131f3f281bb67752",
+    "nome": "Healing Resuscitation Regeneration Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c7236ae1bcaab7b1",
+    "nome": "Healing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f9d3df2a8721c690",
+    "nome": "Heart Acceleration Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_382e25ddace7172e",
+    "nome": "Heaven's Needle Barrage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_90b95a5a2e8cae40",
+    "nome": "Heavenly Foot of Pain",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dde84844d2343a8a",
+    "nome": "Heavenly Prison Fire Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_91474db5c03b1f00",
+    "nome": "Heavenly Punishment",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a532f039778ccc63",
+    "nome": "Heavenly Spear Foot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_50275db3d6201d49",
+    "nome": "Heavenly Weeping",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8b67ed3da99cad56",
+    "nome": "Hell Stab",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3b448586eefdaad9",
+    "nome": "Hiashi Hyūga",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4a7ad30a3db657f8",
+    "nome": "Hidden Doorway Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_217cd2207382364e",
+    "nome": "Hidden Rock Trap",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1b866f600998c6b1",
+    "nome": "Hidden Shadow Snake Burial",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ffb4a3599c94e314",
+    "nome": "Hidden Shadow Snake Hands",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_55bff684df672f48",
+    "nome": "Hidden Shadow Wild Snake Hands",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d181739a9f6dd529",
+    "nome": "Hideout Destruction Trap",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bd1d7b27958106c2",
+    "nome": "Hiding in Black Fog Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_47818227b5d82d89",
+    "nome": "Hiding in Cloth Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_781615d2bd08c0ee",
+    "nome": "Hiding in Frost Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0b77bbc7f03bc154",
+    "nome": "Hiding in Mist Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d64cbbd9650e47fb",
+    "nome": "Hiding in Surface Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_68af01a5888f5668",
+    "nome": "Hiding in a Toad Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e12dfddfb091aace",
+    "nome": "Hiding with Camouflage Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b1c02c04fbd1b33b",
+    "nome": "Hinokagutsuchi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e445dd6a13eebd0f",
+    "nome": "Hizashi Hyūga",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cbbf19a3a6bf7a17",
+    "nome": "Hokage-Style Sixty-Year-Old Technique — Kakuan Entering Society with Bliss-Bringing Hands",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_91275f12f5d4a291",
+    "nome": "Honey Spit Trap",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_50151662e10f236a",
+    "nome": "Horn Breaking",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ff437cd2db28ce9a",
+    "nome": "Howling Hair Sound Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5e106475ae6916f5",
+    "nome": "Human Beast Combination Transformation: Double-Headed Wolf",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bce882e23f0af1dc",
+    "nome": "Human Beast Mixture Transformation — Three-Headed Wolf",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ac2aaff1e5059139",
+    "nome": "Human Bullet Tank",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_10f5626583203629",
+    "nome": "Human Bullet Yo-Yo",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5923269c3d555bca",
+    "nome": "Human Cocoon Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5eb8cea78f9eb0fe",
+    "nome": "Human Path",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a70815e8f6369eaa",
+    "nome": "Hundred Blooming Flowers Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e486ff5099e5edd5",
+    "nome": "Hundred Puppet Soul Binding",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6767861c775ca843",
+    "nome": "Hurricane Thunderclap",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c8a0745025d5cc5d",
+    "nome": "Hurricane Thunderclap — Majestic Attire Sword Stroke",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fb89187a004c0eec",
+    "nome": "Hydrification Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_490065f5df30da1a",
+    "nome": "Hypnotic Genjutsu: Wild Beast Communication",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c7ee3980b0c93ece",
+    "nome": "Iai Beheading",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f20a419b023774b8",
+    "nome": "Iaidō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_53c4a1f037a6ab9d",
+    "nome": "Ice Disk Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_16d3037c3ef001b8",
+    "nome": "Ice Prison Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_463713c975601b2b",
+    "nome": "Ice Release: Black Dragon Blizzard",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d3052680c7fe44a0",
+    "nome": "Ice Release: Crystal Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1f1475f01cb66044",
+    "nome": "Ice Release: Earthen Consecutive Chains of Ice",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8f33d37b3063cece",
+    "nome": "Ice Release: Frozen Capturing Field",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6065e4b6161c1e33",
+    "nome": "Ice Release: Ice Rock Dome of Magnificent Nothingness",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_def9e4fa80c49773",
+    "nome": "Ice Release: Ice-Breaking Sledgehammer",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_68f9dc338657cd16",
+    "nome": "Ice Release: One Horned White Whale",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a1042c24b0a918b8",
+    "nome": "Ice Release: Swallow Snow Storm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_848682b9151ce017",
+    "nome": "Ice Release: Tearing Dragon Fierce Tiger",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0415e3f619bfd900",
+    "nome": "Ice Release: Ten Thousand Ice Petals",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_72674b4d07d6cdea",
+    "nome": "Ice Release: Twin Dragon Blizzard",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7358969a7857e0b0",
+    "nome": "Ice Release: Whirlwind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0bcf385922b37f9a",
+    "nome": "Ice Release: Wolf Fang Avalanche Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9bdbb8af4b915a76",
+    "nome": "Ice Sword Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_322ab9b02d50e3da",
+    "nome": "Ice-Breaking Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c2ccbf72380d509d",
+    "nome": "Illusionary Mist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_614c6eadc9740887",
+    "nome": "Impermanence of Worldly Things",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_40325d9e7dd6a502",
+    "nome": "Improvised Secret Technique: Lightning Ball Shuriken Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5d94bb4e786ac1e8",
+    "nome": "Indra's Arrow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_659be5937d2b3434",
+    "nome": "Infinite Embrace",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a31f941b542abfe1",
+    "nome": "Infinite Tsukuyomi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2f0d68b9b546b47d",
+    "nome": "Ink Bubble Explosion",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0efa61bd31676125",
+    "nome": "Ink Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_70a0b61ee3917d53",
+    "nome": "Ink Creation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7dbdc4fd906d491e",
+    "nome": "Ink Flush",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c03fcd779cc726fc",
+    "nome": "Ink Mist Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6c1c4295fb72a40b",
+    "nome": "Insect Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c8e725e2f04a4718",
+    "nome": "Insect Jamming Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_894bc2ed8324fdb6",
+    "nome": "Insect Jar Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0946d365c3f92baa",
+    "nome": "Insect Rope Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_13a2bac2c0448264",
+    "nome": "Insect Spying Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_49dd30936c008647",
+    "nome": "Insect Webbing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c196922d49ba0e45",
+    "nome": "Interrogation Genjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_872c44b41700f064",
+    "nome": "Intersection Method",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f5a6a996bd3f4264",
+    "nome": "Iron Claw",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d43d91b344b2fe8a",
+    "nome": "Iron Mountain Leaning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_df2d97e7d2d806a5",
+    "nome": "Iron Pan Furious Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_854a3d7453ea2e79",
+    "nome": "Iron Sand Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_49661f82df7ba080",
+    "nome": "Iron Sand Drizzle",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5d4cd0b39693e49e",
+    "nome": "Iron Sand Gathering Assault",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fc175b29a7642e79",
+    "nome": "Iron Sand Marking",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d01a28e2fd104c29",
+    "nome": "Iron Sand Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7d7d0fde02803e6b",
+    "nome": "Iron Sand Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_58a6337be99105c5",
+    "nome": "Iron Sand Weaponry",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d4f6eb7adb08fd67",
+    "nome": "Iron Sand World Method",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_defd1cfbf7a08deb",
+    "nome": "Iron Sand: Black Iron Wings",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_70d89280d5deeea3",
+    "nome": "Iwagakure Kinjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0a13fe27742142ab",
+    "nome": "Izanagi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7bee01fcd9055f25",
+    "nome": "Izanami",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_61af5bd79f9a207c",
+    "nome": "Jar of Poison Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8f28e5801826fe82",
+    "nome": "Jet Booster Jump",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_aa09ec64acdec33e",
+    "nome": "Jibakugan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b8351869582ed17c",
+    "nome": "Jirōbō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6ee16c0260849f42",
+    "nome": "Kaima Form",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a293bb95ff0c9735",
+    "nome": "Kakuzu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f121d95482dbb948",
+    "nome": "Kamira's Illusion",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_459d9115721f0c7d",
+    "nome": "Kamui",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_12ade240320cd28c",
+    "nome": "Kamui Lightning Cutter",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bd36d4e56c490188",
+    "nome": "Kamui Shuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_24a56fc5e5462959",
+    "nome": "Katsuyu: Immense Network Healing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e70e1baab0456879",
+    "nome": "Kido's Juinjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_060b1770b54ff83d",
+    "nome": "Kidōmaru",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f5eb8a5d8f6edd43",
+    "nome": "Kimimaro",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_91c16b8f0432317c",
+    "nome": "Kirin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4161230f79c322d9",
+    "nome": "Koharu Utatane",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_97d47f15e7649484",
+    "nome": "Kotoamatsukami",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_be880cefbfab787f",
+    "nome": "Kurama Arm Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f60777a7178a6114",
+    "nome": "Kurenai Yūhi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4e17a03d6838473b",
+    "nome": "Kushina Uzumaki",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_29d06a216a618ec4",
+    "nome": "Kāma",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5f03fcdc8de73563",
+    "nome": "Kāma Rift",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e77e47add34e82ea",
+    "nome": "Labyrinth Barrier",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_77de9c2129cb9649",
+    "nome": "Lava Release: Ash Stone Seal Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b86bc4ede0bccc05",
+    "nome": "Lava Release: Expanding Flame Rings",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_479ed01d5aaf4c61",
+    "nome": "Lava Release: Planet-Branding Blast",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f69773cce9bdffed",
+    "nome": "Lava Release: Quicklime Congealing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5563afc2cd066eb5",
+    "nome": "Lava Release: Rubber Ball",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_26df045ab4d11e8b",
+    "nome": "Lava Release: Rubber Defence",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_85433f205fa92d81",
+    "nome": "Lava Release: Rubber Rope",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c286ca287bc128c4",
+    "nome": "Lava Release: Rubber Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4b8104588cea672f",
+    "nome": "Leaf Coiling Whirlwind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d676bd63e503d6aa",
+    "nome": "Leaf Coiling Wind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b35be7da79b4926f",
+    "nome": "Leaf Drop",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_91c3ecbc4357ea34",
+    "nome": "Leaf Flash Kick",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_99bb82cde817422b",
+    "nome": "Leaf Gale",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c947e03db24cf920",
+    "nome": "Leaf Great Flash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5a46c887ef44bcd5",
+    "nome": "Leaf Great Whirlwind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2fa282e148d1df89",
+    "nome": "Leaf Gust",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e807cec9518543c1",
+    "nome": "Leaf Rising Wind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1263ff93e0fe29b5",
+    "nome": "Leaf Rock-Destroying Rise",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_03d56e004e9231fa",
+    "nome": "Leaf Strong Whirlwind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8e1061db10f5bdc8",
+    "nome": "Leaf Whirlwind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ee7e197770296b63",
+    "nome": "Leaf-Style Willow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ad47e60e8042449a",
+    "nome": "Leaping Bullet Shell Tower",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_da5e02381b2db2c2",
+    "nome": "Leech Gap",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a336b7464c1ff1fc",
+    "nome": "Liger Bomb",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4087cc830354259f",
+    "nome": "Lightning Ball",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ace575704c2f54f9",
+    "nome": "Lightning Burial: Banquet of Lightning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_103a1ae69100128d",
+    "nome": "Lightning Cutter",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_22c8b6b3ecd15643",
+    "nome": "Lightning Dragon Tornado",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_102176e9a45aa010",
+    "nome": "Lightning Fish",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8359bdf4d73d0832",
+    "nome": "Lightning Flash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_27c14ae11cb57ed7",
+    "nome": "Lightning Oppression Horizontal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e16642c9e0355e0d",
+    "nome": "Lightning Oppression Horizontal Chop",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fbf91f958f0e832c",
+    "nome": "Lightning Rat Violent Quake",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_801ff92dcb13ccf5",
+    "nome": "Lightning Release Bullet: Powerful Breath",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_44a03d90d8c9d290",
+    "nome": "Lightning Release Chakra Mode",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5a52e4ab8e8f9227",
+    "nome": "Lightning Release Co-Operation: Thunder Bomb",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_43fbff72f80b0d00",
+    "nome": "Lightning Release: Black Panther",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0185509ab6bcfe36",
+    "nome": "Lightning Release: Depth Charge",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3f0887b4e401fcbe",
+    "nome": "Lightning Release: Double Lariat",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_17104cfc8adee6e6",
+    "nome": "Lightning Release: Electric Shock Needles",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a3342b72b4b1c8fe",
+    "nome": "Lightning Release: Elekiter",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8b23d26dad21ca27",
+    "nome": "Lightning Release: Four Pillar Bind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9df9eb996d7db562",
+    "nome": "Lightning Release: Heavenly Formation Lightning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_383c2f3a5e00c260",
+    "nome": "Lightning Release: Lariat",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_671998aff3148cd5",
+    "nome": "Lightning Release: Lightning Beast Tracking Fang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c8c054531c37825e",
+    "nome": "Lightning Release: Lightning Eel",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5a8da19863655646",
+    "nome": "Lightning Release: Lightning Fang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e9392a7c2621f7ba",
+    "nome": "Lightning Release: Lightning Signal Fire",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e18f90416c96955c",
+    "nome": "Lightning Release: Lightning Slash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b717960bcf7b3712",
+    "nome": "Lightning Release: Overdrive",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a9a942a3eb3d5905",
+    "nome": "Lightning Release: Pulverising Lightning Rod",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2ffd06feb6db385d",
+    "nome": "Lightning Release: Purple Electricity",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8d518e8627ef7283",
+    "nome": "Lightning Release: Shadow Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_612dddbae8db36a2",
+    "nome": "Lightning Release: Sixteen Pillar Bind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bf7c04accc291660",
+    "nome": "Lightning Release: Snake Lightning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4248aecace20b1cf",
+    "nome": "Lightning Release: Thunder",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3761a55b6f93df99",
+    "nome": "Lightning Release: Thunder Binding",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3f9c37c2cec2af8c",
+    "nome": "Lightning Release: Thunder Gate",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0923be350ac7e2c0",
+    "nome": "Lightning Release: Thunder Wedge",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bee3bb246d3b1b2b",
+    "nome": "Lightning Release: Thunderbolt",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_386a9feb55a40fec",
+    "nome": "Lightning Release: Thunderclap Arrow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c5eeb1fedb797c85",
+    "nome": "Lightning Release: Tiger Scissors",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f80289ac240a0a56",
+    "nome": "Lightning Release: Wave of Inspiration",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a9e333754cb641f0",
+    "nome": "Lightning Straight",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6e6ddb8e9f5499a9",
+    "nome": "Lightning Strike",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_830294bf3e820acd",
+    "nome": "Lightning Strike Armour",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5b566eef19e932ca",
+    "nome": "Lightning Tackle",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_38268df3ba318ee8",
+    "nome": "Lightning Transmission",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_991034e0be98379d",
+    "nome": "Lightning Water Dragon Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6877c63b4bebeb5c",
+    "nome": "Limbo: Border Jail",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_732dfa98275bb3b0",
+    "nome": "Limelight",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_265ceeb1e57ee25b",
+    "nome": "Lion Combo",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f9c9b1a6d1378bf3",
+    "nome": "Little Toe Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5f573b297f363dd0",
+    "nome": "Living Corpse Reincarnation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9c3a032143d3685b",
+    "nome": "Localised Reincarnation Explosion",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e3dd67ffcdfc7dad",
+    "nome": "Longsword Ninja Art — Earth Spider Sewing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e76949df9da2a6ad",
+    "nome": "Longsword Ninja Art: Massacre Method Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_255b013c2c9f54c4",
+    "nome": "Lorentz Gun",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5d89e43f42309a12",
+    "nome": "Magnet Ninja Art",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4fd65387272112c3",
+    "nome": "Magnet Ninja Art: Electromagnetic Vision",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_588717223a06f60f",
+    "nome": "Magnet Ninja Art: Infinite Meteors",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_72ca88c172b50ca1",
+    "nome": "Magnet Release: Conserving Bee Twin Blades",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8ff216ec6890340d",
+    "nome": "Magnet Release: Gold Dust Imperial Funeral",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_defeb9523dd60404",
+    "nome": "Magnet Release: Lightning God Self",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d4efea5eb7df01cc",
+    "nome": "Majestic Attire: Susanoo",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_47229efc8721837e",
+    "nome": "Manda",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4c8d5d518e18b975",
+    "nome": "Manipulated Shuriken Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_67da3952079b0485",
+    "nome": "Manipulated Tools: Binding Meteor",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e472ba30b8179b2b",
+    "nome": "Manipulated Tools: Heavenly Chain Disaster",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ba05f074df30bc33",
+    "nome": "Manipulating Attack Blades",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_60f772174712a2d0",
+    "nome": "Manipulating Windmill Triple Blades",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_214a5fd6a035492f",
+    "nome": "Many Hidden Shadow Snake Hands",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a209fafeceed2785",
+    "nome": "May Rain Blood River",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ba78b155af9c778d",
+    "nome": "Mayfly",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d78edf6316f4e260",
+    "nome": "Mechanical Eight Trigrams Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6cd4b775d49a2366",
+    "nome": "Mechanical Light Shield Block",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_22549d16fa99509f",
+    "nome": "Medical Water Release: Jellyfish",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f3f5c77643110f95",
+    "nome": "Medical Water Release: Water Mosquito",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_126b52cb49fd1e24",
+    "nome": "Medical Water Release: Water Scorpion",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_30da9a2c08a4ffdc",
+    "nome": "Mei Terumī",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5dbfb84002139a3d",
+    "nome": "Memory Blocking Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_040022e39296b363",
+    "nome": "Memory Erasing Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d5ef24928a52eaca",
+    "nome": "Memory-Concealing Manipulative Sand Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d5870a192f06ff85",
+    "nome": "Mental Resistance Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2c699ec8f1f6ee9b",
+    "nome": "Mifune-Style First Tachi: Blaze",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e3fb0e92157f9f79",
+    "nome": "Mind Body Disturbance Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_350b6d0f2e1050e8",
+    "nome": "Mind Body Switch Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c86662eac9711aa2",
+    "nome": "Mind Body Transmission Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_71648171b41c27cd",
+    "nome": "Mind Clone Switch Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dc59c2e46ef9f22f",
+    "nome": "Mind Disturbance Dance Performance Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9b58ae9153f1d06d",
+    "nome": "Mind Puppet Switch Cursed Seal Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cab7cc3d262e0826",
+    "nome": "Mind's Eye of the Kagura",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d208ac15e941fd2e",
+    "nome": "Mini-Rasenshuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2df99c7e57f2ad3d",
+    "nome": "Mist Servant Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1957cd36d85a9cde",
+    "nome": "Monkey Flame Arson",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ec1f6cb819e28928",
+    "nome": "Monstrous Sand Arm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1afea4467ce6fe78",
+    "nome": "Moon Shadow Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a22925b9c393ad6c",
+    "nome": "Moonlight",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_be9fb7ba25d390cc",
+    "nome": "Morning Peacock",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_31c4738e6d9be5e9",
+    "nome": "Mud Release: Bottomless Mud Hole",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b57b88777852050a",
+    "nome": "Mud Release: Landslide",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d93995256528ed33",
+    "nome": "Mud Release: Mud Doll",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0f3f63ca783883aa",
+    "nome": "Mud Release: Muddy Water Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_845b1a9a099d5db5",
+    "nome": "Mudshot Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9f888c403df44497",
+    "nome": "Multi-Size Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_36f5aa01e04b87ec",
+    "nome": "Multiple Infinite Embraces",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cc75b661ba6ba08d",
+    "nome": "Multiple Lotus Nonself Connected Cannons",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c016f2c41155ea05",
+    "nome": "Multiple Shadow Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_78bd5ca6933939df",
+    "nome": "Multiple Smoke Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b94fd3d1ba83a035",
+    "nome": "Multiple String Light Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fa17eeb1a9ffcc1c",
+    "nome": "Multiple Wood Release Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0afdb419c2e1285a",
+    "nome": "Murderous Grasp",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_541c726238ec2f07",
+    "nome": "Mutually Multiplying Explosive Tags",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_46ce9c94bacfaed0",
+    "nome": "Mysterious Peacock Method",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_eee39db6b12c9abe",
+    "nome": "Mysterious Storm Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2e7f1e8de5cbbaaa",
+    "nome": "Mystic Safety Bell Seal: Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2bb5b3694f0e9eed",
+    "nome": "Mystical Palm Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5bb837f59a38a178",
+    "nome": "Nagato, Pain",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a2464a99e50e48c9",
+    "nome": "Naka Shrine Pass Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_25b106c3ae180024",
+    "nome": "Naraka Path",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3c0b833496456eec",
+    "nome": "Naruto Beam",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_45b0ba284aef097c",
+    "nome": "Naruto Region Combo",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cb27182adeaa010e",
+    "nome": "Naruto Uzumaki Combo",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1bf2eb310ada374f",
+    "nome": "Naruto Uzumaki Two Thousand Combo",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ed116627be480150",
+    "nome": "Naruto and Shion's Super Chakra Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4efc50158442b1a0",
+    "nome": "Needle Hell",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_56bb8cc0cccce64d",
+    "nome": "Needle Jizō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2afd29918e7b2184",
+    "nome": "Negative Emotions Sensing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_74e0cb42c9d6c789",
+    "nome": "Neji Hyūga",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_24a05185fb81b0d7",
+    "nome": "Net-Shaped Prison",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9c9c7f91db5dcd1c",
+    "nome": "New Sexy Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cead02dbe4f22896",
+    "nome": "Night Guy",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cc30a7f849ee2adc",
+    "nome": "Nine Masked Beasts",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_02167946484c4a1b",
+    "nome": "Nine-Tails",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_081c132213ceb478",
+    "nome": "Nine-Tails Chakra Mode",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dbe4f04fab2149c9",
+    "nome": "Ninja Art Creation Rebirth — Strength of a Hundred Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a02d3afd82cee44c",
+    "nome": "Ninja Art: Bare-Handed Blade Block",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4968c7c647059534",
+    "nome": "Ninja Art: Infinite Sea Watchtower",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fe8edf026ad2e62d",
+    "nome": "Ninja Tools Barrier: Reverse Fish Scales Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_235da535b0916898",
+    "nome": "Object Manipulation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5abbd69a873fc184",
+    "nome": "Octopus Leg Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1e107475bd8c2e4b",
+    "nome": "Odour-Concealing Bubbles",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0527acca82410e2e",
+    "nome": "Offsetting Sound",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_198621cc1d3049b0",
+    "nome": "One Thousand Years of Death",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d90c9231ecd52892",
+    "nome": "One's Own Life Reincarnation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_befb80c56811db6e",
+    "nome": "One-Man Front Lotus",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e60c53c561b28d8f",
+    "nome": "Onikuma Clan's Hijutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7812095103814c78",
+    "nome": "Orbs of Light",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a69318be4e5b365a",
+    "nome": "Origami Replacement Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a33901f1cd291e18",
+    "nome": "Orochimaru's Juinjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d93bf411dafbae9e",
+    "nome": "Orochimaru-Style Body Replacement Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_95302c8de831f9ee",
+    "nome": "Ostrich Aerial",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_31098bd7ff9c6156",
+    "nome": "Ostrich Meteor Blast",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6c7e14cea8f4d0e0",
+    "nome": "Ostrich Rising Dragon Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dd19af2013e72d81",
+    "nome": "Ostrich Whirlwind Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_503ca15500d4aa1c",
+    "nome": "Outer Path",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_98a784d695781aff",
+    "nome": "Outer Path — Samsara of Heavenly Life Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1480c8215ff1cd43",
+    "nome": "Pachinko Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_eea2ce103e7189e7",
+    "nome": "Pakkun",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e674e0174e6f9fd6",
+    "nome": "Palm Bottom",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_70dbbe1a8ab24a97",
+    "nome": "Paper Chakram",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ede0d6642191efa2",
+    "nome": "Paper Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_77f103d52ae1f3fa",
+    "nome": "Paper Drizzle",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b28e69cf1f17845d",
+    "nome": "Paper Person of God Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c3c97e887e72abb0",
+    "nome": "Paper Shuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a438450d6ba8f12d",
+    "nome": "Parachute",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6bf1e178b5e863ef",
+    "nome": "Paralysing Flute Genjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_689f930d2330dc42",
+    "nome": "Parasite Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fbe7a4b8accee55f",
+    "nome": "Parasite Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fa3b5216d8e00f7b",
+    "nome": "Parasitic Destruction Insect Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_428063efe66d81d2",
+    "nome": "Parasitic Giant Insect — Bug Bite",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5a7ec2872916c5d5",
+    "nome": "Parent and Child Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a300d44fe7a5dada",
+    "nome": "Partial Multi-Size Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b7ecd86a39675300",
+    "nome": "Passing Fang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1c06ea3a30bd5f17",
+    "nome": "Past Vision Sharing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_861c88a043dea51d",
+    "nome": "Peacock Whirlwind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a7e1722173e7b7e0",
+    "nome": "Peacock Whirlwind Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_08573e435822d895",
+    "nome": "Peacock Wisdom Queen",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b4765772d9be97d8",
+    "nome": "Peregrine Falcon Drop",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2ab0a1dbcc63a4a4",
+    "nome": "Piercing Showers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_63f13774c70793d4",
+    "nome": "Pink Lightning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_feb543e1d9519817",
+    "nome": "Piston Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f9b93cdac975c591",
+    "nome": "Piston Fist: Style One",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ee3ee04ce1ccb164",
+    "nome": "Planetary Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4a468d8fef9c6e7f",
+    "nome": "Plasma Ball",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a8a7f1cdff1e3e7c",
+    "nome": "Poison Cloud Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1730eb16aa8b4ac8",
+    "nome": "Poison Mist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f1537c25cd0490a2",
+    "nome": "Poison Mist Hell: Hundred Continuous Firing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6ccbb0890b84357f",
+    "nome": "Poison Moth Genjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5eb52f8f1e221403",
+    "nome": "Polar Particle Unsealing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f04077f42fc6af53",
+    "nome": "Polarised Sand Formation: Hot Sand Camouflage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_049aa1de1db7ed9f",
+    "nome": "Prepared Needle Shot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6d6039c4e4b931e7",
+    "nome": "Prepared Puppet: Eight Waves of Needles",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e1ba9bfca317f627",
+    "nome": "Preta Path",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ed0a170831deea04",
+    "nome": "Prison Sand Burial",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e455d7794eae486c",
+    "nome": "Prisoner Cursed Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a6f041f33fab7a46",
+    "nome": "Projection Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_617c1e7093c8204e",
+    "nome": "Protecting Eight Trigrams Sixty-Four Palms",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d4cfe1a842014aa8",
+    "nome": "Protective Cloth Dome",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8b4a23b61eb2c467",
+    "nome": "Protective Sphere of Light",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7ff3c820376fd365",
+    "nome": "Psycho Mind Transmission",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c92b8426af8aa2d9",
+    "nome": "Puppet Imitation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d6cd03be6c39f0e0",
+    "nome": "Puppet Performance: Skilful Achievement with a Human Body",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e12bd4aa0a2f2b5a",
+    "nome": "Puppet Reincarnation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a935394ffa8aba16",
+    "nome": "Puppet Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d5f9f77bb2a74026",
+    "nome": "Puppet Technique: Prosthetic Arm Senbon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5fe39e397f894763",
+    "nome": "Puppet Water Release: Dance of Mystic Rain",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7ec7ac94f300f1ef",
+    "nome": "Puppet-Cursing Sphere",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_51cc8171e9690d7c",
+    "nome": "Puppet: Father and Mother",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0a12ef6443c10c33",
+    "nome": "Puppet: Rotation Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ee673fb363e19a5f",
+    "nome": "Puppet: Spring Punishing Strike",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5a9cdecb3cbf2efc",
+    "nome": "Quarantine Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f77cbbcb5e05a65a",
+    "nome": "Quicksand Waterfall Flow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_96dfff2ed2e37c2d",
+    "nome": "Rabbit Hair Needle",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_03625c40186676a6",
+    "nome": "Raging Thunder",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6eb6beef2e450ce2",
+    "nome": "Rain of Spiders",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7bbb32fa70357c29",
+    "nome": "Rapid Fire",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_625a61216a10e6c7",
+    "nome": "Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_eb079f71eb5989f0",
+    "nome": "Rasengan: \"Unison\"",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_29e7ec8bd8d91894",
+    "nome": "Rasengan: Flash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_04c5ee1766da9b02",
+    "nome": "Ravaging Chakra Knives",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e0b824b28618f288",
+    "nome": "Red Secret Technique: Machinery Triangles",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fda21bae2717609c",
+    "nome": "Red Secret Technique: Performance of a Hundred Puppets",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_70a31da087b42c44",
+    "nome": "Redaku Reincarnation Ninjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_230a03dbc092748e",
+    "nome": "Reflection Shinjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_efada712143a62b3",
+    "nome": "Regeneration Ability",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e23141bf5535bb5a",
+    "nome": "Repulsion Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_37e10ce25d083161",
+    "nome": "Resonating Echo Drill",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_39b9240710d7f4e1",
+    "nome": "Reverse Four Symbols Sealing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_52a874c31e3de48c",
+    "nome": "Reverse Lotus",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d35d814cea22ff32",
+    "nome": "Reverse Mist Beheading",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_badcaca9d20f0a01",
+    "nome": "Reverse Summoning Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c8aebc8bcd7ce047",
+    "nome": "Reverse White Secret Technique: The Uematsu Collection of Ten Puppets",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c7773379a6801695",
+    "nome": "Reversible Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_42abb63feb4fd0b1",
+    "nome": "Revolt of the Demon World",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b9174f6ae84a5892",
+    "nome": "Rin Nohara",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c70035b84befabc3",
+    "nome": "Roaring Run: Great Strength Ice Strike",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3a928f45b22df58c",
+    "nome": "Rock Armour",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2eb96ad12234549e",
+    "nome": "Rock Avalanche",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d8393cf343f05534",
+    "nome": "Rock Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f5f26c43d2e9b526",
+    "nome": "Rock Hive",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_13028219082d56ae",
+    "nome": "Rockslide Genjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8ccb005c3a51d1a2",
+    "nome": "Roof Tile Shuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_be84bf5c78c43a86",
+    "nome": "Rotating Ferocious Wind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4bf0e54d0f28aebf",
+    "nome": "Runt Ball Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f87a3981a9df5e5c",
+    "nome": "Rupture",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ab63deba452f0fa4",
+    "nome": "Ryūmyaku Chakra Control",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_40bd79f7cb7b6bb6",
+    "nome": "Ryūmyaku: Great Dragon Fire",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f991d18116870309",
+    "nome": "Ryūmyaku: Super Great Dragon Fire Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_71a13831286ab3b9",
+    "nome": "Sage Art Wood Release: True Several Thousand Hands",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fcf62c07d51633ae",
+    "nome": "Sage Art: Amphibian Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_604cc13e1e540bb1",
+    "nome": "Sage Art: Five Fire Gods' Fan of Flames",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9df93df85d416326",
+    "nome": "Sage Art: Frog Call",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dbb18d9972029a67",
+    "nome": "Sage Art: Gate of the Great God",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8406e70808b5c1af",
+    "nome": "Sage Art: Goemon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_46bf5fd5f32d6a7b",
+    "nome": "Sage Art: Great Snake Lightning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cd6594404ad83503",
+    "nome": "Sage Art: Inorganic Reincarnation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8dc18cf89b1fb2a4",
+    "nome": "Sage Art: Lava Release Rasenshuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_90cfb6ea922654bc",
+    "nome": "Sage Art: Magnet Release Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5319c24586a20c54",
+    "nome": "Sage Art: Many Ultra-Big Ball Spiralling Serial Spheres",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_befa10c207989275",
+    "nome": "Sage Art: Storm Release Light Fang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_256a05bab61f5446",
+    "nome": "Sage Art: Super Tailed Beast Rasenshuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f93b640e8d86b41d",
+    "nome": "Sage Art: White Rage Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_be2c53ea4bed4ffb",
+    "nome": "Sage Art: Wind Release Dust Cloud",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cee7854d5bd020ce",
+    "nome": "Sage Art: Yin Release Lightning Dispatch",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5169d6199ee84947",
+    "nome": "Sage Mode",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1ee66d79a7dbedd8",
+    "nome": "Sage Transformation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4b3f0e13c914c6bf",
+    "nome": "Sakon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fa524297c93eac1b",
+    "nome": "Sakura Blizzard Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5e0270141174f780",
+    "nome": "Samurai Sabre Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ef9cc9dbf0a5ec25",
+    "nome": "Sand Binding Coffin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0573c937d6f95a5a",
+    "nome": "Sand Binding Prison",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3a96ce96617011d2",
+    "nome": "Sand Body",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d520e28f21bb8bb6",
+    "nome": "Sand Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9da38df87becdc93",
+    "nome": "Sand Castle Wolf Horn",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_822b922201bcb353",
+    "nome": "Sand Characters",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_229083e2d44663b7",
+    "nome": "Sand Cloak Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a0956f2b119077db",
+    "nome": "Sand Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4a7a05ec98630c85",
+    "nome": "Sand Drizzle",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bde0c931969736a0",
+    "nome": "Sand Formation: Shisa",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6a3d36d6d6cda97a",
+    "nome": "Sand Hail",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a6a43a3096697b37",
+    "nome": "Sand Lightning Needles",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e7fc719787e0c1b8",
+    "nome": "Sand Mesh",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dd07dfc035ed5e15",
+    "nome": "Sand Pillar",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ea16261927cc847c",
+    "nome": "Sand Restraining Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_005537cc9096329c",
+    "nome": "Sand Shuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_08135008994a2cc2",
+    "nome": "Sand Spear",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a6e88ff33339eb17",
+    "nome": "Sand Stream",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ea527596829ee63d",
+    "nome": "Sand Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a0ac317b1c297bb3",
+    "nome": "Sand Waterfall Funeral",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_066b989087a8d077",
+    "nome": "Sand Waterfall Imperial Funeral",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bbb1b5ec4bedaae1",
+    "nome": "Sandstone Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f1dfbe1b83b62367",
+    "nome": "Sandstorm Barrier",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6ad23ba20e1989db",
+    "nome": "Sandstorm Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_34fc735c87fbb3da",
+    "nome": "Sasuke Uchiha's Space–Time Dōjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3c5350b7bbce3aca",
+    "nome": "Scale Senbon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6885ab14b724a8f7",
+    "nome": "Scorch Release: Halo Hurricane Jet Black Arrow Style Zero",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6a10676ce6d3ef3b",
+    "nome": "Scroll Communication Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3e478baf07f693a2",
+    "nome": "Sealed Binding Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6ff696dcf9d358ac",
+    "nome": "Sealed Iron Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_70d12eea223974de",
+    "nome": "Sealing Release Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e902b21320e3a8b8",
+    "nome": "Sealing Technique: Black Aura",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_46c1dafb3d36b4f9",
+    "nome": "Sealing Technique: Crimson Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c610e208b825a8e5",
+    "nome": "Sealing Technique: Five Elements",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_815f2cc5114768fe",
+    "nome": "Sealing Technique: Frog Suppression",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ba6cf7ade13b30ac",
+    "nome": "Sealing Technique: Lion Closing Roar",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e2b990b2b9721114",
+    "nome": "Sealing Technique: Octopus Hold",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bc5d0c52fff4627b",
+    "nome": "Sealing Technique: Phantom Dragons Nine Consuming Seals",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_db259e79028f552d",
+    "nome": "Sealing Technique: Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e8251eace9e958a6",
+    "nome": "Sealing Technique: Rōen Kodon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a17a601456349982",
+    "nome": "Sealing Technique: Three Directions Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4299963e58e59f4b",
+    "nome": "Sealing Technique: Tiger Vision Staring Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a0441fc7860ec6e2",
+    "nome": "Sealing Technique: Vitality Seal Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c75f34a4cff8c2cc",
+    "nome": "Sealing Trap Explosion",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4920d2ade824aed3",
+    "nome": "Seasickness Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_69defddeb2faeb52",
+    "nome": "Secret Sword: Moonlight",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7f3d4052728cfec2",
+    "nome": "Secret Sword: Snowstorm Beheading",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bfe7944117848e23",
+    "nome": "Secret Technique: Insect Cocoon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ae4e694f5e5d15e6",
+    "nome": "Secret Technique: Insect Gathering",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7bff1921dcf5b628",
+    "nome": "Secret Technique: Insect Sphere",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ebbfc4df78eaeb6c",
+    "nome": "Secret Technique: Insect Tornado",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5f6d02fcc21809d4",
+    "nome": "Secret Technique: Insect Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c07c268ae74fdad3",
+    "nome": "Secret Technique: Mouth Seal Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0df98d0c99e801fd",
+    "nome": "Secret Technique: Sealing Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ddbdda514f2c7eee",
+    "nome": "Secret Technique: Tree Blood Barrier",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_38a5a3490b11b0d9",
+    "nome": "Self-Cursing Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_080ebca1a15fc3bf",
+    "nome": "Self-Healing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_613ceeb80f989d6e",
+    "nome": "Self-Seal Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_be525afcf996ac3f",
+    "nome": "Senbon Shower",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6e0f7180f67a7f91",
+    "nome": "Sensing Barrier Pass Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cc547303da1fd10b",
+    "nome": "Sensing Hexagram Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_439d38d0f453d9a7",
+    "nome": "Sensing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_764d56762e93c490",
+    "nome": "Sensing Transmission",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_322f2c5316820c88",
+    "nome": "Sensing Water Sphere",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_092e13552c4d172c",
+    "nome": "Seven-Coloured Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0f262ed9f84330dc",
+    "nome": "Sexy Reverse Harem Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e50524623e80e3fa",
+    "nome": "Sexy Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e27d180f54e02816",
+    "nome": "Sexy Technique: Pole Dance and Nice Body",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a6363ffb1f6a5f2a",
+    "nome": "Sexy: Boy on Boy Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3b3b78b954b625d1",
+    "nome": "Sexy: Girl on Girl Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_497e260fe4ec1455",
+    "nome": "Shadow Arms",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2166ded5d796c181",
+    "nome": "Shadow Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0c59833873cb68ee",
+    "nome": "Shadow Clutch Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_21a20d09c94ba00b",
+    "nome": "Shadow Gathering Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0d555e1bdb33b372",
+    "nome": "Shadow Imitation Field Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3cf76e704a539714",
+    "nome": "Shadow Imitation Shadow Bind Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0226b9e44fc278ac",
+    "nome": "Shadow Imitation Shuriken Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4d1a0dd426778f75",
+    "nome": "Shadow Imitation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6bc76ba387e1f8d5",
+    "nome": "Shadow Mirror Body Changing Method",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7514b0492c516979",
+    "nome": "Shadow Rope Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_07ea5854206866ba",
+    "nome": "Shadow Senbon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_859a28663d69d082",
+    "nome": "Shadow Sewing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_959d28e330f556eb",
+    "nome": "Shadow Shuriken Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_42cb09a53bae22f4",
+    "nome": "Shadow Stroke",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_de108063c81cb969",
+    "nome": "Shadow Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_706f8388b41a88b1",
+    "nome": "Shadow of the Dancing Leaf",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4dad8cc208accab9",
+    "nome": "Shadow–Neck Binding Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8b7702c5d5842eb9",
+    "nome": "Sharp Hair Spear: Might",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_39106116d8a26590",
+    "nome": "Shiba",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2263e36c920c43ff",
+    "nome": "Shield of Sand",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ac1b3b5e47b46903",
+    "nome": "Shifting Body Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f77de22528b181c2",
+    "nome": "Shin Uchiha's Space–Time Dōjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_183bd1add70c1792",
+    "nome": "Shining Ostrich Kick",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_55716fd4d8186cfb",
+    "nome": "Shrine Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f8b240c71462cedd",
+    "nome": "Shrine Seal: Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9b8ed0d543e23baa",
+    "nome": "Shuriken Shadow Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bc32d27674708807",
+    "nome": "Sickle Weasel Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8a878eed02160b96",
+    "nome": "Silent Killing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e27b20437e3f7dd7",
+    "nome": "Silver Wheel Reincarnation Explosion",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_749a52f07345f69e",
+    "nome": "Single Claw Bisection",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0cde76714e2d3f44",
+    "nome": "Six Paths Sage Mode",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_690e6b6257fa2f11",
+    "nome": "Six Paths Senjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e855067fad4a299a",
+    "nome": "Six Paths Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a6345ada626596a6",
+    "nome": "Six Paths Ten-Tails Coffin Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a40372c594d66ce5",
+    "nome": "Six Paths Yang Power",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_efd3929049fd195a",
+    "nome": "Six Paths Yin Power",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_64954c3146a7f9ef",
+    "nome": "Six Paths of Pain",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c57c6dc7d9d307cf",
+    "nome": "Six Paths — Chibaku Tensei",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b450909b6136e215",
+    "nome": "Six Paths: Kunitsukami",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ef959c68f82797b5",
+    "nome": "Six Paths: Ultra-Big Ball Rasenshuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ab997a2024a1caec",
+    "nome": "Six Red Yang Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1663b9a2aa0a3fd6",
+    "nome": "Slicing Crimson Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4c2c454737348094",
+    "nome": "Slithering Snake Mode",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_34f6888c7695fd49",
+    "nome": "Slug Great Division",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bc45c4ea9099cb54",
+    "nome": "Sly Mind Affect Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1951cf5f439d3d31",
+    "nome": "Smell Sphere",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e2032a66ba3cf9f1",
+    "nome": "Smoke Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5f7bf86a0338b58c",
+    "nome": "Smoke Dragon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_18bd85c7e772d218",
+    "nome": "Smokescreen",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_eb364d6a6fca0055",
+    "nome": "Snake Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7be4005952af097b",
+    "nome": "Snake Mouth Bind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9f05c59d9a3e4373",
+    "nome": "Snake Spying Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_58edb7fd5f9aa413",
+    "nome": "Snake Steel Net",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f917023fab2d1a25",
+    "nome": "Soap Bubble Ninjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7ff680d951d0341d",
+    "nome": "Soap Bubble Slime",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a94912d1c6e5865a",
+    "nome": "Soaring Strings",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0193aebd5d8f14df",
+    "nome": "Soft Physique Modification",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c0ea88537501b504",
+    "nome": "Soulbane",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_746954adc839ec91",
+    "nome": "Soul–Body Separation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_36d6f51bad9240e0",
+    "nome": "Sound Four's Cursed Seals",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_81c71d0ee4bb101d",
+    "nome": "Sound Four: Summoning: Four Beasts Encirclement Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_34b1e229aafcbbc5",
+    "nome": "Sound Wave Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_344c912a8c80d0fa",
+    "nome": "Space–Time Technique Formula: Underworld Turnover",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dcbf7ca66083416d",
+    "nome": "Spear Attack Shining Horn",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3c9121b955fab477",
+    "nome": "Spear of Heaven Nine-Tails Beam",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8a8a8bfa11730570",
+    "nome": "Spider Web Unrolling",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5d7edf8a28820e51",
+    "nome": "Spiked Human Bullet Tank",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1063b4d6afbff585",
+    "nome": "Spindle Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_20d76bf008f16d35",
+    "nome": "Spinning Snake Thorn",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c3c336523e6d91ba",
+    "nome": "Spiralling Absorption Sphere",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a2003105cdb0017e",
+    "nome": "Spiralling Flash Super Round Dance Howl Style Three",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9a692e99b3bdfc5e",
+    "nome": "Spiralling Ring",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_aa7d576718fc9010",
+    "nome": "Spiralling Serial Spheres",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_552f85a16d6c7b5c",
+    "nome": "Spiralling Strife Spheres",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f1080f5c2ffa8939",
+    "nome": "Spirit Reflection Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_96e05caa3c26920c",
+    "nome": "Spontaneous Tree Summoning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a7a8aabd88051a24",
+    "nome": "Spore Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fb9269e928246814",
+    "nome": "Starch Syrup Gun",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9b645ceb5cd1b2b1",
+    "nome": "Steel Release: Steel Projectile",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e4bfbea99c991013",
+    "nome": "Steel Release: Steel Shield Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0099bba852c25159",
+    "nome": "Storm Release: Laser Circus",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ffc90150a1d1320e",
+    "nome": "Strange Transmission Distant Shadow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_589ebe15dda318a4",
+    "nome": "Strength of a Hundred Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c9a224d24482119d",
+    "nome": "Strengthening Prescription: Chakra Injection",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d4c410219ff26c01",
+    "nome": "String Bean Binding Illusion",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7c93f4d533c38bb4",
+    "nome": "String Light Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f1c7e41273b68210",
+    "nome": "Strong Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f727d6597a28c071",
+    "nome": "Student and Teacher: Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a57863c5f1a0528a",
+    "nome": "Substitute Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3c6941e6639f371b",
+    "nome": "Successive Shots Iron Sand Drizzle",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6f489e6750c61c17",
+    "nome": "Successive Shots Sand Drizzle",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7f4c521b22a6c2c2",
+    "nome": "Suicide Bombing Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c848597f711014d4",
+    "nome": "Sukunahikona",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e72bed4f5ac837aa",
+    "nome": "Summoning Rinnegan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7a4d1b6d44187a9e",
+    "nome": "Summoning Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_181422b21243de54",
+    "nome": "Summoning: Crushing Toad Stomach",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1c1ddc1fe89f2615",
+    "nome": "Summoning: Demonic Statue of the Outer Path",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_02da89542163e37c",
+    "nome": "Summoning: Dual-Headed Snakes",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_039a7409d55c9af5",
+    "nome": "Summoning: Earth Release: Tracking Fang Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0b01600324b4e7c0",
+    "nome": "Summoning: Fiddler Crab",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6806ebcf83ebbc37",
+    "nome": "Summoning: Food Cart Destroyer Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9719cf122e4b7136",
+    "nome": "Summoning: Ibuse Poisoning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a966faa7a2e7081d",
+    "nome": "Summoning: Impure World Reincarnation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8f708633e7078453",
+    "nome": "Summoning: Iron Maiden",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2c7f8e0c682d0b87",
+    "nome": "Summoning: Lightning Flash Blade Creation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_512712eb92ce26be",
+    "nome": "Summoning: Quick Beheading Dance",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fabacf5170f8784b",
+    "nome": "Summoning: Quintuple Rashōmon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_554dd9819cf03979",
+    "nome": "Summoning: Rashōmon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c555978aa76e4a2d",
+    "nome": "Summoning: Toad Mouth Bind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ef1965c0be06a4af",
+    "nome": "Summoning: Toad Shop Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_aee48ca56fce7cd4",
+    "nome": "Summoning: Torture Chamber",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_24a34cb301ba95da",
+    "nome": "Summoning: Triple Rashōmon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_943a1af13d5ae299",
+    "nome": "Super Beast Imitating Drawing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b9321920ece80076",
+    "nome": "Super Compression Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ce211cef44fbe79c",
+    "nome": "Super Excellent Hyper Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4867f57526ecd643",
+    "nome": "Super Fang Wolf Fang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_87789e9cfa2f577d",
+    "nome": "Super God Imitating Drawing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3d232b5b897d44cb",
+    "nome": "Super Mini-Tailed Beast Ball",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_797c5f82f4ab3bb2",
+    "nome": "Super Multi-Size Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c9e1486652e7f802",
+    "nome": "Super Open Hand Slap",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a28dcdaccbed5ffa",
+    "nome": "Super-Ultra-Big Ball Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ab1b046db28e6320",
+    "nome": "Supercooled Water Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_199e62db75dd724a",
+    "nome": "Supreme Ultimate Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cfc502341fa6f7f6",
+    "nome": "Surging Fire Wild Dance",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_88009473450e99fd",
+    "nome": "Susanoo",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_26bfae74b23c9ef6",
+    "nome": "Susanoo: Captive Slash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_664d58b370f20445",
+    "nome": "Susanoo: Chidori",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7b364e022dce4c92",
+    "nome": "Susanoo: Crush",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e7db9d5bd01b5160",
+    "nome": "Susanoo: Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e32413ae435e99b5",
+    "nome": "Susanoo: Great Fireball Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c10227f2c7ffed4c",
+    "nome": "Swift Wind Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fd3e9c35aa144f72",
+    "nome": "Sword of Kagutsuchi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6d18d481cd3cffb6",
+    "nome": "Sword of Kusanagi: Chidori Katana",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_54d8670b19b55e5d",
+    "nome": "Sword of Kusanagi: Longsword of the Sky",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9f6879c24c2765ad",
+    "nome": "Tail Chasing Fang Fang Rotating Fang",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1806757f26b87a3d",
+    "nome": "Tail Releasing Method",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bc3c7e7758216fa2",
+    "nome": "Tailed Beast Ball",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1198ba423f19c441",
+    "nome": "Tailed Beast Ball Rasenshuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9cf0ad2fee90f9ec",
+    "nome": "Tailed Beast Chakra Arms",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_443e5077d1ce1e57",
+    "nome": "Tailed Beast Eight Twists",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2078ddf89c25abec",
+    "nome": "Tailed Beast Full Charge",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7c11d0762c471429",
+    "nome": "Tailed Beast Lariat",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c66b06282556e55b",
+    "nome": "Tailed Beast Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f19bb44fa34ac895",
+    "nome": "Tailed Beast Removal Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b0288b34cc7f9bfa",
+    "nome": "Tailed Beast Replication",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_26f03517a6bd4c76",
+    "nome": "Tailed Beast Sealing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5f1603089fc2fbf1",
+    "nome": "Tailed Beast Shockwave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_10cbb5216debde35",
+    "nome": "Tailed Beast Telepathy",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_09593f03f1bc3360",
+    "nome": "Tailed Beast Transfer Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ec563894f8b67b47",
+    "nome": "Taisa's Transformation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7b205c9f4c5092db",
+    "nome": "Takigakure Style: Watercutting Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_78bd921099c9637b",
+    "nome": "Telegram Flash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3504fa8cf03b3dbb",
+    "nome": "Teleportation Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4a9e7dd2ee740e7e",
+    "nome": "Telescope Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9a4c945fe0838ec8",
+    "nome": "Temple of Nirvana Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4e80a8488fe03b55",
+    "nome": "Temporal Rewind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1621217c5bffcc24",
+    "nome": "Temporary Paralysis Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_71059cc47fd04a29",
+    "nome": "Ten-Tails Fission",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_213bfc97558a13be",
+    "nome": "Tengai Shinsei",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4e7704f80891f9d7",
+    "nome": "Tenpenchii",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8e3c1de2e05db1fe",
+    "nome": "Tenrō-Style Ninjutsu: Beast-Human Transformation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8f24055b22de9406",
+    "nome": "Tenseigan Chakra Mode",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ea44279192e68eac",
+    "nome": "The Springtime of Youth wiki has an article about this topic:",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_569b76940f274b0b",
+    "nome": "Third Eye",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f1cb396f447a2520",
+    "nome": "This article is about the serial killer. For the genin, see Samidare.",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4108518ad34d5faf",
+    "nome": "Thousand Bee Stings Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e10f6511b1996f27",
+    "nome": "Thousand Flying Water Needles of Death",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ce9f6a3e91b45869",
+    "nome": "Thousand Hands Manipulation Force",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0ed13fca9357ce69",
+    "nome": "Three Jewels Suction Crushing",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4153005a729a10d5",
+    "nome": "Three-Tails Chakra: Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6125401a4f458f95",
+    "nome": "Three-Tails Mini Clone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f0d05a983f9a3547",
+    "nome": "Thunder Sabre",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bd0db027bc5610e1",
+    "nome": "Thunderswords Technique: Remote Control",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0fac5b5dfd0a466a",
+    "nome": "Thunderswords Technique: Thunderbolt",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a5eb140227ec0f2d",
+    "nome": "Time Reversal Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_049f7a91fb9945cc",
+    "nome": "Time-Release Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dbc9a8c98e2bfb15",
+    "nome": "Toad Flatness — Shadow Manipulation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c12eb02538a60a7d",
+    "nome": "Toad Oil Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a644265e63c253af",
+    "nome": "Toad Smoke Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2495dc3ebdf9f4ea",
+    "nome": "Toad Spying Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4398896b9053dd8c",
+    "nome": "Toad Sword Beheading",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3645c3ea0b3e3cfc",
+    "nome": "Tongue Tooth Sticky Acid",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ec0ff42e7df7fe0e",
+    "nome": "Tool Creation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8f4279a5d959c07a",
+    "nome": "Top Transformed Buddha",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8b42510a90ba4cef",
+    "nome": "Torii Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1113a9ce7f6506d1",
+    "nome": "Tornado Lightning",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4e6688992ce743a1",
+    "nome": "Tornado Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4785e31954c7f441",
+    "nome": "Tornado of Water",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fab0d710faa55da0",
+    "nome": "Torpedo Nails",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7ec5f43e139aa9b3",
+    "nome": "Tracking Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_dac239c23ffcfdf2",
+    "nome": "Transcription Seal: Amaterasu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e1e48aad626a2f1e",
+    "nome": "Transcription Seal: Izanagi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1249e5dfd3736250",
+    "nome": "Transformation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ad39630d86956375",
+    "nome": "Transformation: Adamantine Staff",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_34f395c2a0fabfce",
+    "nome": "Transmission Wood",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cbd2a0cfc957fcf5",
+    "nome": "Transparent Escape Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0eb322ff70599121",
+    "nome": "True Fire of Samadhi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9ea1e0e6bda586d5",
+    "nome": "Truth-Seeking Ball",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_abd14c7985bfd9e1",
+    "nome": "Tsuchigumo Style: Forbidden Life Technique Release: Creation of Heaven and Earth",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3462ee2ec1e78c77",
+    "nome": "Tsukuyomi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1c21cba8a54d4a02",
+    "nome": "Turning into a Frog Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_866bf6123a75c02c",
+    "nome": "Twin Fangs Slash",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2c5afd491cb7e36a",
+    "nome": "Twin Rising Dragons",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0241c91fda098570",
+    "nome": "Twin Snakes Mutual Death Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c588dea10ac219c5",
+    "nome": "Typhoon Release: Consecutive Bursting Strong Winds",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_225869765007ecb3",
+    "nome": "Typhoon Release: Great Consecutive Bursting Extreme Winds",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_790a996f13905739",
+    "nome": "Typhoon Water Vortex Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_da23ee0db4f62bc0",
+    "nome": "Uchiha Flame Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_717fcec7092c1003",
+    "nome": "Uchiha Return",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_69da4b86f37b0753",
+    "nome": "Uchiha Style Shurikenjutsu: \"Lightning\": Triple",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d35d14a24b2d21dc",
+    "nome": "Ultimate Summoning Beast's Genjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_003fb4574181719d",
+    "nome": "Ultimately Hard Absolute Attack: Spear of Shukaku",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d7ae259a3f17d498",
+    "nome": "Ultimately Hard Absolute Defence: Shield of Shukaku",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e6d876a2ba2cfbb7",
+    "nome": "Ultra-Big Ball Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_737a0803c04044d0",
+    "nome": "Ultra-Fast Regeneration Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ea3265d28030553b",
+    "nome": "Ultra-Many Spiralling Serial Spheres",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ca0337fc9c3883be",
+    "nome": "Umbrella Shock Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6f00a9c0aa4788ff",
+    "nome": "Unsealing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_af653800b959fd01",
+    "nome": "Unsealing Technique: Segmented Iron Dome",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9f477908e739a97b",
+    "nome": "Unsealing Technique: Shuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_29779b78bf7c7e64",
+    "nome": "Urushi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1ab9c37522258424",
+    "nome": "Uzumaki Formation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7623ac87225520f6",
+    "nome": "Uzumaki Sealing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4df0bf9e2841e066",
+    "nome": "Vacuum Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5e2f5ca32c1b78cd",
+    "nome": "Vanishing Facial Copy Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3ac5f0737632a574",
+    "nome": "Vanishing Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2f087bdddb2d57d3",
+    "nome": "Violent Heavenly Earth Needle",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_42c12e85d8f6e2b1",
+    "nome": "Violent — Leaf Adamantine-Strength Whirlwind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_37c4da18f13a0f7f",
+    "nome": "Viscous Water Mass",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c12631c8f8bd3132",
+    "nome": "Water Attacking Gorgon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3544348525c55f44",
+    "nome": "Water Characters",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7ac80d64c69a696b",
+    "nome": "Water Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b69f8c32d0a771e6",
+    "nome": "Water Droplet Reflection Sight",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_842203ddc4352f62",
+    "nome": "Water Flow Sensing Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a4ee93b087ebc6b6",
+    "nome": "Water Gun Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b677a433fbfbb0b2",
+    "nome": "Water Gun: Two Guns",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_febbfb630a4050c0",
+    "nome": "Water Needle",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_705b7334de6dcb0c",
+    "nome": "Water Prison Shark Dance Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c93155cb9bc988be",
+    "nome": "Water Prison Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e6a8ce71ca50bfa1",
+    "nome": "Water Release Genjutsu: Demonic Phantom Fog Prison",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_52ee64d1cf8b9671",
+    "nome": "Water Release: A Thousand Feeding Sharks",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_eb1c74328539d856",
+    "nome": "Water Release: Angry Bitter Rain",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1693cac1cdab0b5d",
+    "nome": "Water Release: Archerfish",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8bd1d0b4fddfbae7",
+    "nome": "Water Release: Blood Conversion Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f92ef55d1646e896",
+    "nome": "Water Release: Bubbles Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_101412e3e8a2ab96",
+    "nome": "Water Release: Bubbles Technique — Drift",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0114baf410c365db",
+    "nome": "Water Release: Clear Mirror Still Water",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_76965761077722b2",
+    "nome": "Water Release: Cold Sky Water Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c91a6d5ca14eb0a6",
+    "nome": "Water Release: Exploding Water Colliding Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_71b8d4871e05c19a",
+    "nome": "Water Release: Five Feeding Sharks",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_5a159ca7dad9fd54",
+    "nome": "Water Release: Four Sharks Rain",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8ddc7c7365b112c8",
+    "nome": "Water Release: Furious Roaring Tornado",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_915fc9515a6892b7",
+    "nome": "Water Release: Great Exploding Water Colliding Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f39acb48cbbf0d03",
+    "nome": "Water Release: Great Shark Bullet Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d76d08fff138e2c5",
+    "nome": "Water Release: Great Water Arm Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d55ab358fa8f56cd",
+    "nome": "Water Release: Great Water Mass Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c8c7f74d241688db",
+    "nome": "Water Release: Great Waterfall Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4d6af3e1b9607a94",
+    "nome": "Water Release: Gunshot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d38e60465a670dbe",
+    "nome": "Water Release: Hail Barrage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a52754e309514404",
+    "nome": "Water Release: Hiding in Drizzle Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2526047f8880b6c8",
+    "nome": "Water Release: Hiding in Rain Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_952e9c6a28d2b9a0",
+    "nome": "Water Release: Hiding in Water Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a29d79035d792b17",
+    "nome": "Water Release: Imminent Danger",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_31e4744a7a325f97",
+    "nome": "Water Release: Jadeite",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_032de61a80da42b3",
+    "nome": "Water Release: Large Projectile",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_95ec5d4e75319086",
+    "nome": "Water Release: Lotus Light Rupture",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b30a6b95993a2f53",
+    "nome": "Water Release: Mouth Shot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_72c320a91710a9de",
+    "nome": "Water Release: Pillar Encirclement",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_da17f56b6ab9dfd2",
+    "nome": "Water Release: Raging Jellyfish",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1cfa8fd0b94c0823",
+    "nome": "Water Release: Rapid Thunder Whip Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_57086c47b5fe3240",
+    "nome": "Water Release: Rising Water Slicer",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c6d702e92d4eebd6",
+    "nome": "Water Release: Running Water Whip",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2cd17884385b21a8",
+    "nome": "Water Release: Starch Syrup Capturing Field",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7799e1eaee30daf8",
+    "nome": "Water Release: Surging Sea",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2dcfdbbf6bc2c75e",
+    "nome": "Water Release: Tate Eboshi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b822708be518093c",
+    "nome": "Water Release: Tearing Torrent",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a683ffa8a78f79c6",
+    "nome": "Water Release: Transform-at-Will",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7e8d43aeb1b984de",
+    "nome": "Water Release: Water Armour",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f5c53fadd84ae45b",
+    "nome": "Water Release: Water Army Water Demon Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7cfdceee80a8672c",
+    "nome": "Water Release: Water Beast",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6de03a06ee886982",
+    "nome": "Water Release: Water Blade Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6c06e4e94ab6d9b1",
+    "nome": "Water Release: Water Body",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9a358718376d58a8",
+    "nome": "Water Release: Water Bowl",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_af90329b18a39562",
+    "nome": "Water Release: Water Bullet Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e2e508b294d816d5",
+    "nome": "Water Release: Water Colliding Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_976c01348f214557",
+    "nome": "Water Release: Water Dragon Bullet Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1017f3b9c2db8408",
+    "nome": "Water Release: Water Dragon Whip",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2d02326ebbe3dcef",
+    "nome": "Water Release: Water Fang Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_744556b5b12898a4",
+    "nome": "Water Release: Water Forge Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_637aedf8d044ec6d",
+    "nome": "Water Release: Water Formation Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f56ae3121842a612",
+    "nome": "Water Release: Water Gun",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b6b9755811a6ff3c",
+    "nome": "Water Release: Water Hail",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3b470c215b209fb2",
+    "nome": "Water Release: Water Mirror Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_44a65a1035d26d3a",
+    "nome": "Water Release: Water Pillar",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_045ca306517e7b7a",
+    "nome": "Water Release: Water Scales",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f08776153dafb6e5",
+    "nome": "Water Release: Water Severing Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2ec41f25cfd306fc",
+    "nome": "Water Release: Water Shark Bullet Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8100c4e74754ab59",
+    "nome": "Water Release: Water Shuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_57645e3ec083cb66",
+    "nome": "Water Release: Water Snake Threads",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ac232e2554679b6f",
+    "nome": "Water Release: Water Spikes",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_217497af0df1d7ce",
+    "nome": "Water Release: Water Trumpet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c7587f988af71be5",
+    "nome": "Water Release: Water Weapons",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e6d016b652ee3907",
+    "nome": "Water Release: Water Whip",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a2fbb624987eb826",
+    "nome": "Water Release: Waterfall Basin Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_90714bafdd5dd641",
+    "nome": "Water Release: Water–Heavens Convergence",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b907b354638071fd",
+    "nome": "Water Release: Wild Bubble Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_94a3891141260cde",
+    "nome": "Water Release: Wild Water Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ec6edcd9f3e665ed",
+    "nome": "Water Replacement",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c1c9dbb7ed29389b",
+    "nome": "Welcoming Approach: Thousand-Armed Murder",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b2461e50bcc9678b",
+    "nome": "Whac-A-Mole Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_614af159857e7f18",
+    "nome": "Whip of Love",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_30618e7ca3c97416",
+    "nome": "Whirlwind of Feet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c67881ee569ced1d",
+    "nome": "White Light Blade",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bb2f52e94e632f61",
+    "nome": "White Secret Technique Secret Art: Collection of Illusions",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0291931ec2a9c0a7",
+    "nome": "White Secret Technique: The Chikamatsu Collection of Ten Puppets",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c77ebdab79230555",
+    "nome": "White Secret Technique: The Chikamatsu Collection of Ten Puppets: Heaven Attack",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c063d5d9172323c5",
+    "nome": "White Snake Possession",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d14278f22256d15d",
+    "nome": "Wild Lion's Mane Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6ca1622c9b17d15f",
+    "nome": "Will Materialisation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f6c8deaf71e7e5e6",
+    "nome": "Wind Cutter Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d9af494738546eb8",
+    "nome": "Wind Release: Air Current Wild Dance",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7ac9c5600e79f419",
+    "nome": "Wind Release: Breakthrough",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_44d99caed81934fb",
+    "nome": "Wind Release: Bursting Compressed Air",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b27c2cef0105bd1a",
+    "nome": "Wind Release: Cast Net",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_68a9a19af57ea6bc",
+    "nome": "Wind Release: Divine Mountain Wind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8f454523f0004823",
+    "nome": "Wind Release: Divine Wind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_273b27c818ea4177",
+    "nome": "Wind Release: Drilling Air Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_38ae07ab365c84f9",
+    "nome": "Wind Release: Dust Cloud Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c2cf55959ed716d4",
+    "nome": "Wind Release: Flag Current",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3f6ff12780520a54",
+    "nome": "Wind Release: Flashing Fireworks",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3427bda63798561d",
+    "nome": "Wind Release: Flower Storm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_32cb9fb6fbeceee0",
+    "nome": "Wind Release: Flying Locust Wind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_acbb1dc95f882108",
+    "nome": "Wind Release: Gale Palm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7b477d985d25c062",
+    "nome": "Wind Release: Great Balloon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_cc0e12cb47c5114b",
+    "nome": "Wind Release: Great Breakthrough",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_131aee7bc7cdfe16",
+    "nome": "Wind Release: Great Cast Net",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a72172eaff7940a4",
+    "nome": "Wind Release: Great Sickle Weasel Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_99e3f23b96b2ec1f",
+    "nome": "Wind Release: Great Task of the Dragon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3a7ef5f23dc466ca",
+    "nome": "Wind Release: Great Wind Protective Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1c822369bca206b7",
+    "nome": "Wind Release: Infinite Sand Cloud — Great Breakthrough",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3be99beda2cb6864",
+    "nome": "Wind Release: Multi-Layered Gale",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_18a411055d936d05",
+    "nome": "Wind Release: Obscuring Paper",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1d3ab00b50041622",
+    "nome": "Wind Release: Passing Typhoon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ae0d8cb50041ddff",
+    "nome": "Wind Release: Rasengan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_173b7e1c63d4a827",
+    "nome": "Wind Release: Rasenshuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_16088954cc35cd63",
+    "nome": "Wind Release: Repeated Rasenshuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_423ee5fc07492bbd",
+    "nome": "Wind Release: Rotating Shuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_517956c86afc6536",
+    "nome": "Wind Release: Sand Buckshot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8928a35a0269b1e8",
+    "nome": "Wind Release: Sand Cloud Whirlwind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e38fa63d95f84c1a",
+    "nome": "Wind Release: Scattering Blossoms",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_55e0b8345f28fe23",
+    "nome": "Wind Release: Shakujō Twister",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3ea55cdc15e9e286",
+    "nome": "Wind Release: Shield of the Wind Count",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a42ee7e1fce3c89f",
+    "nome": "Wind Release: Sword of the Wind Count",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_840c9c0f8a37505a",
+    "nome": "Wind Release: Toad Gun",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7dab3616373aacfb",
+    "nome": "Wind Release: Toad Oil Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8f8c215674c0a5b9",
+    "nome": "Wind Release: Toad Oil Flame Bullet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ec463877c05183c5",
+    "nome": "Wind Release: Ultra-Big Ball Rasenshuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0f763735760b5d38",
+    "nome": "Wind Release: Vacuum Blade",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_893ea2ef86d5aedf",
+    "nome": "Wind Release: Vacuum Great Sphere",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c71df8fc55134c85",
+    "nome": "Wind Release: Vacuum Serial Waves",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_1353b22265dd8016",
+    "nome": "Wind Release: Vacuum Sphere",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_8b88cc96a3494270",
+    "nome": "Wind Release: Vacuum Wave",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_330669556ba2d9fd",
+    "nome": "Wind Release: Verdant Mountain Gale",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_2fe90153b8eaa65b",
+    "nome": "Wind Release: Whirlwind Fist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4127df3398776aa7",
+    "nome": "Wind Release: Wind Cutter Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0350255672f1fcbf",
+    "nome": "Wind Return",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_78ebeaddaa7fdc68",
+    "nome": "Wind Spider Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_188f2cbcecf84b1d",
+    "nome": "Wind Waves",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ccc7d8f2fd14d531",
+    "nome": "Winding Smoke Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4ee4d8dd55c235b3",
+    "nome": "Wire Bind",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_a0ab0aee8daf973f",
+    "nome": "Wire Cage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_0bc7b6ba90e514d7",
+    "nome": "Wisdom Wolf Decay",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_4ee1d4d8bba61ab6",
+    "nome": "Wood Clone Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_635340e5a182bfd5",
+    "nome": "Wood Release Secret Technique: Nativity of a World of Trees",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_93adff0da4bbdf1c",
+    "nome": "Wood Release: Advent of a World of Flowering Trees",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_40e79b74c929410d",
+    "nome": "Wood Release: Cutting Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c6cea8a3e094ab3c",
+    "nome": "Wood Release: Foo Dog Heads",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_698aaf07adb48d00",
+    "nome": "Wood Release: Four-Pillar House Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_c513e481bd7a57a1",
+    "nome": "Wood Release: Four-Pillar Prison Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_160c8068f6a7365b",
+    "nome": "Wood Release: Great Forest Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bf813486d1c9843c",
+    "nome": "Wood Release: Great Spear Tree",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_26a5648d15f3c598",
+    "nome": "Wood Release: Hand Tool Manipulation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_6d0ae1851b6cbfb1",
+    "nome": "Wood Release: Hotei Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3f15185a674eb0f8",
+    "nome": "Wood Release: Hōbi Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9952c045ad5d9cbb",
+    "nome": "Wood Release: Nativity of a Sea of Trees",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ae3fdc0138132116",
+    "nome": "Wood Release: Serial Pillar Houses Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_f1b9c91c51f6f6d7",
+    "nome": "Wood Release: Smothering Binding Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e6ab89ab1fd4df35",
+    "nome": "Wood Release: Stocks",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_bb43e202c620c653",
+    "nome": "Wood Release: Transformation",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_96a169810d13ed2d",
+    "nome": "Wood Release: Tree Bind Flourishing Burial",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_25e01b25eb0520dc",
+    "nome": "Wood Release: Underground Roots Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b17f6579868924d7",
+    "nome": "Wood Release: Wood Dragon Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_fb4530d8a224d594",
+    "nome": "Wood Release: Wood Human Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ff04b4a14f1bd649",
+    "nome": "Wood Release: Wood Locking Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_d87e629c7a6ecc35",
+    "nome": "Wood Release: Wood Spikes Ring",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ba162775f5a99ccb",
+    "nome": "Wood Release: World of Trees Wall",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_ae403fb082acee0f",
+    "nome": "Wooden Men Possession Turnover Manipulation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_7c4dd005fd6e98fb",
+    "nome": "Wooden Puppet Manipulation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_e6a74f1010b08f84",
+    "nome": "Yasaka Magatama",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_9baa2551fa55aa6f",
+    "nome": "Yin Healing Wound Destruction",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_845f5a57830fdc5f",
+    "nome": "Yin Seal: Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_252ffd485a359858",
+    "nome": "Yomito's Transformation Technique",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_3498c305abdeb2ba",
+    "nome": "Yomotsu Hirasaka",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_be7f012f3c7471d5",
+    "nome": "Yosaku Cut",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_06c8dcf84f804a55",
+    "nome": "Youth Full Power",
+    "fonte": "Dattebayo"
+  },
+  {
+    "jutsu_id": "jutsu_b1be2611b4d31cb7",
+    "nome": "Ūhei",
+    "fonte": "Dattebayo"
+  }
+]

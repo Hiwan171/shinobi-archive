@@ -1,0 +1,794 @@
+[
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 255,
+    "nome": "Ninja",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 97,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 56,
+    "nome": "Shounen",
+    "categoria": "Demographic",
+    "relevancia_0_100": 95,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 102,
+    "nome": "Coming of Age",
+    "categoria": "Theme-Drama",
+    "relevancia_0_100": 90,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 1589,
+    "nome": "Criminal Organization",
+    "categoria": "Theme-Other-Organisations",
+    "relevancia_0_100": 88,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 82,
+    "nome": "Male Protagonist",
+    "categoria": "Cast-Main Cast",
+    "relevancia_0_100": 88,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 1382,
+    "nome": "Orphan",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 86,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 66,
+    "nome": "Super Power",
+    "categoria": "Theme-Fantasy",
+    "relevancia_0_100": 85,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 252,
+    "nome": "Revenge",
+    "categoria": "Theme-Drama",
+    "relevancia_0_100": 81,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 30,
+    "nome": "Martial Arts",
+    "categoria": "Theme-Action",
+    "relevancia_0_100": 81,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 1277,
+    "nome": "Found Family",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 80,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 446,
+    "nome": "Primarily Child Cast",
+    "categoria": "Cast-Main Cast",
+    "relevancia_0_100": 77,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 105,
+    "nome": "Ensemble Cast",
+    "categoria": "Cast-Main Cast",
+    "relevancia_0_100": 71,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 772,
+    "nome": "Shapeshifting",
+    "categoria": "Theme-Fantasy",
+    "relevancia_0_100": 68,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 1045,
+    "nome": "Heterosexual",
+    "categoria": "Theme-Romance",
+    "relevancia_0_100": 66,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 276,
+    "nome": "Kaiju",
+    "categoria": "Theme-Fantasy",
+    "relevancia_0_100": 65,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 171,
+    "nome": "Bullying",
+    "categoria": "Theme-Drama",
+    "relevancia_0_100": 63,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 83,
+    "nome": "Slapstick",
+    "categoria": "Theme-Comedy",
+    "relevancia_0_100": 63,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 490,
+    "nome": "Anachronism",
+    "categoria": "Setting-Time",
+    "relevancia_0_100": 60,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 1243,
+    "nome": "Necromancy",
+    "categoria": "Theme-Fantasy",
+    "relevancia_0_100": 60,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 1539,
+    "nome": "Unrequited Love",
+    "categoria": "Theme-Romance",
+    "relevancia_0_100": 60,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 1310,
+    "nome": "Travel",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 57,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 101,
+    "nome": "Battle Royale",
+    "categoria": "Theme-Action",
+    "relevancia_0_100": 55,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 1228,
+    "nome": "Primarily Teen Cast",
+    "categoria": "Cast-Main Cast",
+    "relevancia_0_100": 50,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 46,
+    "nome": "School",
+    "categoria": "Setting-Scene",
+    "relevancia_0_100": 50,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 322,
+    "nome": "Assassins",
+    "categoria": "Theme-Other-Organisations",
+    "relevancia_0_100": 49,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 483,
+    "nome": "LGBTQ+ Themes",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 49,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 1564,
+    "nome": "Estranged Family",
+    "categoria": "Cast-Main Cast",
+    "relevancia_0_100": 47,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 391,
+    "nome": "Philosophy",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 46,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 615,
+    "nome": "Death Game",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 45,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 139,
+    "nome": "Love Triangle",
+    "categoria": "Theme-Romance",
+    "relevancia_0_100": 40,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 77,
+    "nome": "Gender Bending",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 40,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 156,
+    "nome": "Achronological Order",
+    "categoria": "Setting-Time",
+    "relevancia_0_100": 40,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 1304,
+    "nome": "Anthropomorphism",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 35,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "tag_id": 91,
+    "nome": "Gambling",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 13,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 255,
+    "nome": "Ninja",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 96,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 56,
+    "nome": "Shounen",
+    "categoria": "Demographic",
+    "relevancia_0_100": 92,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 1589,
+    "nome": "Criminal Organization",
+    "categoria": "Theme-Other-Organisations",
+    "relevancia_0_100": 90,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 82,
+    "nome": "Male Protagonist",
+    "categoria": "Cast-Main Cast",
+    "relevancia_0_100": 89,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 66,
+    "nome": "Super Power",
+    "categoria": "Theme-Fantasy",
+    "relevancia_0_100": 88,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 1382,
+    "nome": "Orphan",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 83,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 252,
+    "nome": "Revenge",
+    "categoria": "Theme-Drama",
+    "relevancia_0_100": 83,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 85,
+    "nome": "Tragedy",
+    "categoria": "Theme-Drama",
+    "relevancia_0_100": 83,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 30,
+    "nome": "Martial Arts",
+    "categoria": "Theme-Action",
+    "relevancia_0_100": 82,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 102,
+    "nome": "Coming of Age",
+    "categoria": "Theme-Drama",
+    "relevancia_0_100": 82,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 111,
+    "nome": "War",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 81,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 456,
+    "nome": "Conspiracy",
+    "categoria": "Theme-Drama",
+    "relevancia_0_100": 78,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 326,
+    "nome": "Cultivation",
+    "categoria": "Theme-Fantasy",
+    "relevancia_0_100": 70,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 226,
+    "nome": "Fugitive",
+    "categoria": "Theme-Action",
+    "relevancia_0_100": 68,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 105,
+    "nome": "Ensemble Cast",
+    "categoria": "Cast-Main Cast",
+    "relevancia_0_100": 67,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 103,
+    "nome": "Politics",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 65,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 153,
+    "nome": "Time Skip",
+    "categoria": "Setting-Time",
+    "relevancia_0_100": 65,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 1243,
+    "nome": "Necromancy",
+    "categoria": "Theme-Fantasy",
+    "relevancia_0_100": 64,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 253,
+    "nome": "Gods",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 61,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 156,
+    "nome": "Achronological Order",
+    "categoria": "Setting-Time",
+    "relevancia_0_100": 60,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 34,
+    "nome": "Military",
+    "categoria": "Theme-Other-Organisations",
+    "relevancia_0_100": 60,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 285,
+    "nome": "Terrorism",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 60,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 43,
+    "nome": "Swordplay",
+    "categoria": "Theme-Action",
+    "relevancia_0_100": 58,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 104,
+    "nome": "Anti-Hero",
+    "categoria": "Cast-Main Cast",
+    "relevancia_0_100": 58,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 490,
+    "nome": "Anachronism",
+    "categoria": "Setting-Time",
+    "relevancia_0_100": 57,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 391,
+    "nome": "Philosophy",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 56,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 276,
+    "nome": "Kaiju",
+    "categoria": "Theme-Fantasy",
+    "relevancia_0_100": 54,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 1310,
+    "nome": "Travel",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 53,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 483,
+    "nome": "LGBTQ+ Themes",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 53,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 1539,
+    "nome": "Unrequited Love",
+    "categoria": "Theme-Romance",
+    "relevancia_0_100": 51,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 191,
+    "nome": "Aliens",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 49,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 772,
+    "nome": "Shapeshifting",
+    "categoria": "Theme-Fantasy",
+    "relevancia_0_100": 40,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 83,
+    "nome": "Slapstick",
+    "categoria": "Theme-Comedy",
+    "relevancia_0_100": 37,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 77,
+    "nome": "Gender Bending",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 30,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "tag_id": 1564,
+    "nome": "Estranged Family",
+    "categoria": "Cast-Main Cast",
+    "relevancia_0_100": 28,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 56,
+    "nome": "Shounen",
+    "categoria": "Demographic",
+    "relevancia_0_100": 99,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 255,
+    "nome": "Ninja",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 96,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 66,
+    "nome": "Super Power",
+    "categoria": "Theme-Fantasy",
+    "relevancia_0_100": 87,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 82,
+    "nome": "Male Protagonist",
+    "categoria": "Cast-Main Cast",
+    "relevancia_0_100": 84,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 446,
+    "nome": "Primarily Child Cast",
+    "categoria": "Cast-Main Cast",
+    "relevancia_0_100": 81,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 101,
+    "nome": "Battle Royale",
+    "categoria": "Theme-Action",
+    "relevancia_0_100": 79,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 43,
+    "nome": "Swordplay",
+    "categoria": "Theme-Action",
+    "relevancia_0_100": 79,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 253,
+    "nome": "Gods",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 77,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 30,
+    "nome": "Martial Arts",
+    "categoria": "Theme-Action",
+    "relevancia_0_100": 72,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 1052,
+    "nome": "Adoption",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 60,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 490,
+    "nome": "Anachronism",
+    "categoria": "Setting-Time",
+    "relevancia_0_100": 60,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 96,
+    "nome": "Time Manipulation",
+    "categoria": "Theme-Sci-Fi",
+    "relevancia_0_100": 44,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 193,
+    "nome": "Episodic",
+    "categoria": "Technical",
+    "relevancia_0_100": 25,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 704,
+    "nome": "Dinosaurs",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 25,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 536,
+    "nome": "Dissociative Identities",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 20,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 801,
+    "nome": "Cyborg",
+    "categoria": "Cast-Traits",
+    "relevancia_0_100": 20,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 615,
+    "nome": "Death Game",
+    "categoria": "Theme-Other",
+    "relevancia_0_100": 20,
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 46,
+    "nome": "School",
+    "categoria": "Setting-Scene",
+    "relevancia_0_100": 20,
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "tag_id": 120,
+    "nome": "Table Tennis",
+    "categoria": "Theme-Game-Sport",
+    "relevancia_0_100": 20,
+    "spoiler": false,
+    "fonte": "AniList"
+  }
+]

@@ -1,0 +1,76 @@
+table papeis_comunitarios
+	isHidden
+	lineageTag: 2fc49ea5-91dc-51d7-8a4e-3a90ea9b2b56
+
+	column serie_anilist_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 7d51bea0-0408-5995-ac96-2eeb890b5615
+		summarizeBy: none
+		sourceColumn: serie_anilist_id
+
+	column personagem_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: e3a9a41b-dc21-5f31-b55e-95ae99777159
+		summarizeBy: none
+		sourceColumn: personagem_id
+
+	column nome_original
+		dataType: string
+		lineageTag: d15f5308-0e40-5ef8-94ce-1a83ca53bb71
+		summarizeBy: none
+		sourceColumn: nome_original
+
+	column papel_original
+		dataType: string
+		lineageTag: fe1119af-fe8c-5138-9f94-3a2490f1808a
+		summarizeBy: none
+		sourceColumn: papel_original
+
+	column primeiro_episodio_informado
+		dataType: int64
+		formatString: #,0
+		lineageTag: 86cfee23-e860-5f9d-98a3-d70f371cec8b
+		summarizeBy: none
+		sourceColumn: primeiro_episodio_informado
+
+	column metodo_correspondencia
+		dataType: string
+		isHidden
+		lineageTag: 3e6a4ad7-76d1-50c5-ba27-d32870367238
+		summarizeBy: none
+		sourceColumn: metodo_correspondencia
+
+	column url_fonte
+		dataType: string
+		isHidden
+		lineageTag: 42f4732b-2af3-540e-800a-a2819d7da72a
+		summarizeBy: none
+		sourceColumn: url_fonte
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: dc24a6af-4348-5e66-b2ca-a8f54172f8da
+		summarizeBy: none
+		sourceColumn: fonte
+
+	column licenca
+		dataType: string
+		lineageTag: 77893477-9185-5815-8b86-adff424d0de4
+		summarizeBy: none
+		sourceColumn: licenca
+
+	partition papeis_comunitarios = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"serie_anilist_id", Int64.Type}, {"personagem_id", Int64.Type}, {"nome_original", type text}, {"papel_original", type text}, {"primeiro_episodio_informado", Int64.Type}, {"metodo_correspondencia", type text}, {"url_fonte", type text}, {"fonte", type text}, {"licenca", type text}}, "en-US")
+				in
+				    Tipos
+

@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "checks": [
+    "48 tabelas JSON/CSV com contagens e cabeçalhos consistentes",
+    "SQLite íntegro, com as mesmas contagens de linhas",
+    "38 relações propostas com chaves únicas e sem referências órfãs não nulas",
+    "Personagens e parentesco consistentes; resíduos HTML/catálogos separados dos jutsus",
+    "1.013 episódios, sem números faltantes ou duplicados nas três séries",
+    "4.598.612 votos oficiais: a soma das oito regiões confere com o global para cada um dos 488 participantes",
+    "1537 imagens locais com dimensões, existência e SHA-256 conferidos",
+    "Excel reaberto: todas as abas, cabeçalhos e contagens de linhas conferidos"
+  ],
+  "limitations": [
+    "Sem execução de DAX ou Power Query no Power BI nesta etapa.",
+    "Datas de episódios e atributos de combate não foram validados como fatos oficiais."
+  ]
+}

@@ -1,0 +1,1409 @@
+[
+  {
+    "anilist_id": 13,
+    "personagem_id": 1307,
+    "alias": "The Uchiha Survivor",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 13,
+    "personagem_id": 1307,
+    "alias": "The Last Uchiha",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 13,
+    "personagem_id": 1307,
+    "alias": "Sasuke of the Sharingan",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 13,
+    "personagem_id": 1307,
+    "alias": "Shadow Hokage",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 13,
+    "personagem_id": 1307,
+    "alias": "Child of the Prophecy",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 13,
+    "personagem_id": 1307,
+    "alias": "Supporting Kage",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 14,
+    "personagem_id": 1293,
+    "alias": "Sharingan no Itachi (写輪眼のイタチ)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 14,
+    "personagem_id": 1293,
+    "alias": "Itachi of the Sharingan",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Nine-Tails Jinchuuriki",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "The Show-Off",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Number One Unpredictable",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Noisy Ninja",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Number One Hyperactive",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Knucklehead Ninja",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Fox",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Seventh Hokage",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Nanadaime",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Child of Prophecy",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Hero of the Hidden Leaf",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Saviour of this World",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Boy of Miracles",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "alias": "Konoha's Orange Hokage",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 85,
+    "personagem_id": 376,
+    "alias": "The Copy Ninja",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 85,
+    "personagem_id": 376,
+    "alias": "Kakashi of the Sharingan",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 85,
+    "personagem_id": 376,
+    "alias": "Sukea",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 85,
+    "personagem_id": 376,
+    "alias": "Sixth Hokage",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 145,
+    "personagem_id": 374,
+    "alias": "Sakura Uchiha",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 306,
+    "personagem_id": 739,
+    "alias": "Bushy Brows",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 306,
+    "personagem_id": 739,
+    "alias": "The Green Beast of Konoha",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 307,
+    "personagem_id": 344,
+    "alias": "Leaf's Noble Green Beast",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 307,
+    "personagem_id": 344,
+    "alias": "Konoha no Kedakaki Aoi Moujuu (木ノ葉の気高き碧い猛獣)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 307,
+    "personagem_id": 344,
+    "alias": "Bushier Brows Sensei",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 307,
+    "personagem_id": 344,
+    "alias": "Gekimayu-sensei (ゲキマユ先生)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 728,
+    "personagem_id": 831,
+    "alias": "Kirigakure no Kijin (霧隠れの鬼人)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 728,
+    "personagem_id": 831,
+    "alias": "Demon of the Hidden Mist",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 1555,
+    "personagem_id": 437,
+    "alias": "Byakugan Princess (白眼の姫)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 1555,
+    "personagem_id": 437,
+    "alias": "Byakugan no Hime",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 1555,
+    "personagem_id": 437,
+    "alias": "Hinata Uzumaki",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 1662,
+    "personagem_id": 259,
+    "alias": "Gaara of the Desert",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 1662,
+    "personagem_id": 259,
+    "alias": "Sabaku no Gaara",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 1662,
+    "personagem_id": 259,
+    "alias": "Godaime Kazekage (五代目風影)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 1662,
+    "personagem_id": 259,
+    "alias": "Fifth Kazekage",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 1900,
+    "personagem_id": 1042,
+    "alias": "Akasuna no Sasori (赤砂のサソリ)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 1900,
+    "personagem_id": 1042,
+    "alias": "Sasori of the Red Sand",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 1901,
+    "personagem_id": 1008,
+    "alias": "Sai Yamanaka (山中サイ)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2006,
+    "personagem_id": 1373,
+    "alias": "Tenzou (テンゾウ)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2007,
+    "personagem_id": 878,
+    "alias": "Hachidaime Hokage (八代目火影)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2007,
+    "personagem_id": 878,
+    "alias": "Eighth Hokage",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2174,
+    "personagem_id": 1208,
+    "alias": "Temari Nara (奈良テマリ)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2423,
+    "personagem_id": 515,
+    "alias": "Ero-Sennin (エロ仙人)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2423,
+    "personagem_id": 515,
+    "alias": "Toad Sage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2423,
+    "personagem_id": 515,
+    "alias": "Pervy Sage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2535,
+    "personagem_id": 865,
+    "alias": "Yondaime Hokage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2535,
+    "personagem_id": 865,
+    "alias": "Fourth Hokage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2535,
+    "personagem_id": 865,
+    "alias": "Konoha's Yellow Flash",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2672,
+    "personagem_id": 421,
+    "alias": "Tailless Tailed Beast",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2767,
+    "personagem_id": null,
+    "alias": "Princess Tsunade",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2767,
+    "personagem_id": null,
+    "alias": "The Legendary Sannin",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2767,
+    "personagem_id": null,
+    "alias": "Slug Princess",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 2767,
+    "personagem_id": null,
+    "alias": "Godaime Hokage (Fifth Hokage)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3149,
+    "personagem_id": null,
+    "alias": "Kamen no Otoko (仮面の男)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3149,
+    "personagem_id": null,
+    "alias": "Masked Man",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3149,
+    "personagem_id": null,
+    "alias": "No One",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3149,
+    "personagem_id": null,
+    "alias": "Kyuuseishu (救世主)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3149,
+    "personagem_id": null,
+    "alias": "Saviour",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3149,
+    "personagem_id": null,
+    "alias": "Uchiha Madara (うちはマダラ)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3149,
+    "personagem_id": null,
+    "alias": "Kamen no Madara (仮面のマダラ)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3149,
+    "personagem_id": null,
+    "alias": "Masked Madara",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3149,
+    "personagem_id": null,
+    "alias": "Uchiha Obito (うちはオビト)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3151,
+    "personagem_id": 593,
+    "alias": "Karin Uzumaki (うずまき香燐)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3152,
+    "personagem_id": 521,
+    "alias": "Juugo of the Scales",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3179,
+    "personagem_id": 684,
+    "alias": "Tenshi (天使)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3179,
+    "personagem_id": 684,
+    "alias": "Angel",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3180,
+    "personagem_id": null,
+    "alias": "Kono Yo no Kyuuseishu (この世の救世主)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3180,
+    "personagem_id": null,
+    "alias": "Saviour of this World",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3180,
+    "personagem_id": null,
+    "alias": "Yogen no Ko (予言の子)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3180,
+    "personagem_id": null,
+    "alias": "Child of the Prophecy",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3180,
+    "personagem_id": null,
+    "alias": "Sanninme no Rikudou (三人目の六道)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3180,
+    "personagem_id": null,
+    "alias": "Third Six Paths",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3180,
+    "personagem_id": null,
+    "alias": "Kami (神)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3180,
+    "personagem_id": null,
+    "alias": "God",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 3180,
+    "personagem_id": null,
+    "alias": "Nagato (長門)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 7302,
+    "personagem_id": 1341,
+    "alias": "Red Hot-Blooded Habanero",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 7302,
+    "personagem_id": 1341,
+    "alias": "Tomato",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 7407,
+    "personagem_id": 711,
+    "alias": "Kyuubi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 7407,
+    "personagem_id": 711,
+    "alias": "Nine-Tailed Demon Fox",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 7407,
+    "personagem_id": 711,
+    "alias": "Monster Fox",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 7407,
+    "personagem_id": 711,
+    "alias": "Kyuubi no Youko (九尾の妖狐)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 7571,
+    "personagem_id": 1036,
+    "alias": "Third",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 7571,
+    "personagem_id": 1036,
+    "alias": "Sandaime",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 7571,
+    "personagem_id": 1036,
+    "alias": "Hokage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 7571,
+    "personagem_id": 1036,
+    "alias": "The Professor",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 7571,
+    "personagem_id": 1036,
+    "alias": "Saru",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 8497,
+    "personagem_id": 626,
+    "alias": "Kidomaru",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 10791,
+    "personagem_id": 212,
+    "alias": "Closet Pervert",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 11813,
+    "personagem_id": 1127,
+    "alias": "The Demon of the Sand",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 11813,
+    "personagem_id": 1127,
+    "alias": "Ichibi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 12464,
+    "personagem_id": 1063,
+    "alias": "First Hokage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 12464,
+    "personagem_id": 1063,
+    "alias": "Shodaime Hokage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 12464,
+    "personagem_id": 1063,
+    "alias": "God of Shinobi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 12465,
+    "personagem_id": 1066,
+    "alias": "Second Hokage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 12465,
+    "personagem_id": 1066,
+    "alias": "Nidaime Hokage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 12676,
+    "personagem_id": 148,
+    "alias": "Baa-sama",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 13929,
+    "personagem_id": 622,
+    "alias": "Kazuma",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 15178,
+    "personagem_id": 371,
+    "alias": "Shun (シュン)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 17199,
+    "personagem_id": 302,
+    "alias": "Gennou",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 18473,
+    "personagem_id": 636,
+    "alias": "Eight-Tails Jinchuuriki",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 18473,
+    "personagem_id": 636,
+    "alias": "B",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 18473,
+    "personagem_id": 636,
+    "alias": "Killer B",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 18473,
+    "personagem_id": 636,
+    "alias": "Kira Bi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 20013,
+    "personagem_id": 341,
+    "alias": "The Crystal Style User ",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 20894,
+    "personagem_id": 377,
+    "alias": "Konoha's White Fang",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 22893,
+    "personagem_id": 1310,
+    "alias": "Shunshin no Shisui (瞬身のシスイ)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 22894,
+    "personagem_id": null,
+    "alias": "Yondaime Raikage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 22894,
+    "personagem_id": null,
+    "alias": "Fourth Raikage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 22894,
+    "personagem_id": null,
+    "alias": "Ē",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 22920,
+    "personagem_id": 967,
+    "alias": "Yondaime Kazekage (四代目風影)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 22920,
+    "personagem_id": 967,
+    "alias": "Fourth Kazekage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23055,
+    "personagem_id": 368,
+    "alias": "Sanshouuo no Hanzou",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23055,
+    "personagem_id": 368,
+    "alias": "Hanzou of the Salamander",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23080,
+    "personagem_id": null,
+    "alias": "Jay",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23219,
+    "personagem_id": 1335,
+    "alias": "Six-Tails Jinchuuriki ",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23220,
+    "personagem_id": 221,
+    "alias": "Seven-Tails Jinchuuriki",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23221,
+    "personagem_id": 983,
+    "alias": "Four-Tails Jinchuuriki",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23222,
+    "personagem_id": null,
+    "alias": "Three-Tails Jinchuuriki",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23222,
+    "personagem_id": null,
+    "alias": "Sanbi Jinchuuriki",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23222,
+    "personagem_id": null,
+    "alias": "Fourth Mizukage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23223,
+    "personagem_id": 363,
+    "alias": "Five-Tails Jinchuuriki ",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23424,
+    "personagem_id": 1093,
+    "alias": "The Darkness of the Shinobi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23475,
+    "personagem_id": 925,
+    "alias": " Third Tsuchikage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23475,
+    "personagem_id": 925,
+    "alias": " Oonoki of Both Scales",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23477,
+    "personagem_id": 135,
+    "alias": "C",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23478,
+    "personagem_id": 1223,
+    "alias": "Fifth Mizukage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 23478,
+    "personagem_id": 1223,
+    "alias": "Godaime Mizukage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 24486,
+    "personagem_id": 230,
+    "alias": "Pa",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 24486,
+    "personagem_id": 230,
+    "alias": "Kashira",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 24487,
+    "personagem_id": 1091,
+    "alias": "Ma",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 30924,
+    "personagem_id": null,
+    "alias": "The Great Toad Sage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 31825,
+    "personagem_id": 213,
+    "alias": "Honoured Grandfather",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 34075,
+    "personagem_id": 121,
+    "alias": "Biscuit",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 39604,
+    "personagem_id": 765,
+    "alias": "Ten-Thousand-Year Genin",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 40403,
+    "personagem_id": 1364,
+    "alias": "Foo",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 43923,
+    "personagem_id": 709,
+    "alias": "Kuni",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 55293,
+    "personagem_id": 345,
+    "alias": "Hachibi (八尾)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 55293,
+    "personagem_id": 345,
+    "alias": "Eight-Tails",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 55293,
+    "personagem_id": 345,
+    "alias": "Giant Ox",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 56695,
+    "personagem_id": null,
+    "alias": "Kurenai's Father",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 56697,
+    "personagem_id": null,
+    "alias": "Iruka's Father",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 56699,
+    "personagem_id": null,
+    "alias": "Iruka's Mother",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57871,
+    "personagem_id": 771,
+    "alias": "Nibi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57871,
+    "personagem_id": 771,
+    "alias": "Two-Tails",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57871,
+    "personagem_id": 771,
+    "alias": "Monster Cat",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57873,
+    "personagem_id": 480,
+    "alias": "Sanbi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57873,
+    "personagem_id": 480,
+    "alias": "Three-Tails",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57873,
+    "personagem_id": 480,
+    "alias": "Giant Turtle",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57875,
+    "personagem_id": 1009,
+    "alias": "Rokubi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57875,
+    "personagem_id": 1009,
+    "alias": "Six-Tails",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57877,
+    "personagem_id": 1134,
+    "alias": "Yonbi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57877,
+    "personagem_id": 1134,
+    "alias": "Four-Tails",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57877,
+    "personagem_id": 1134,
+    "alias": "King of the Sage Monkeys",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57879,
+    "personagem_id": 669,
+    "alias": "Gobi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57879,
+    "personagem_id": 669,
+    "alias": "Five-Tails",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57881,
+    "personagem_id": 153,
+    "alias": "Nanabi (七尾)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57881,
+    "personagem_id": 153,
+    "alias": "Seven-Tails",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57881,
+    "personagem_id": 153,
+    "alias": "Lucky Seven Choumei",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57883,
+    "personagem_id": 935,
+    "alias": "Rikudou Sennin",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57883,
+    "personagem_id": 935,
+    "alias": "God of Shinobi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57883,
+    "personagem_id": 935,
+    "alias": "Saviour of this World",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57883,
+    "personagem_id": 935,
+    "alias": "Sage of the Six Paths",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 57883,
+    "personagem_id": 935,
+    "alias": "六道仙人",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 63209,
+    "personagem_id": null,
+    "alias": "Nagato's Mother",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 63211,
+    "personagem_id": null,
+    "alias": "Nagato's Father",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 63973,
+    "personagem_id": 488,
+    "alias": "Iwa Kunoichi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 64453,
+    "personagem_id": 844,
+    "alias": "Nidaime Tsuchikage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 64453,
+    "personagem_id": 844,
+    "alias": "Second Tsuchikage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 65133,
+    "personagem_id": null,
+    "alias": "Sandaime",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 65135,
+    "personagem_id": 428,
+    "alias": "Second Mizukage",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 65135,
+    "personagem_id": 428,
+    "alias": "二代目水影",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 65135,
+    "personagem_id": 428,
+    "alias": "Nidaime",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 70989,
+    "personagem_id": 161,
+    "alias": "Dachō-sama or Lord Ostrich",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 77435,
+    "personagem_id": 41,
+    "alias": "Chouji's Mother",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 77439,
+    "personagem_id": 1366,
+    "alias": "Ino's Mother",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 78095,
+    "personagem_id": 264,
+    "alias": "Hiro",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 121439,
+    "personagem_id": 1339,
+    "alias": "Uzumaki Bolt",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 121439,
+    "personagem_id": 1339,
+    "alias": "Boruto Ootsutsuki (大筒木ボルト)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 122209,
+    "personagem_id": 550,
+    "alias": "Sumire Shigaraki (信楽スミレ)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 130418,
+    "personagem_id": 510,
+    "alias": "Isshiki Outsutsuki",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 130426,
+    "personagem_id": 609,
+    "alias": "Vessel",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 130426,
+    "personagem_id": 609,
+    "alias": "Kawaki Uzumaki (うずまきカワキ)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 149716,
+    "personagem_id": 210,
+    "alias": "Eternal Genin",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 149716,
+    "personagem_id": 210,
+    "alias": "Mannen Genin (万年下忍)",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 183289,
+    "personagem_id": 1123,
+    "alias": "屍分身のショジョジ",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 183289,
+    "personagem_id": 1123,
+    "alias": "Shikabane Bunshin no Shojoji",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 269534,
+    "personagem_id": 1361,
+    "alias": "Mother",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 269534,
+    "personagem_id": 1361,
+    "alias": "The Wandering Nun",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 269534,
+    "personagem_id": 1361,
+    "alias": "Nanigashi",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 280254,
+    "personagem_id": 145,
+    "alias": "Chino Chinoike",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 280255,
+    "personagem_id": 907,
+    "alias": "Fuushin (風心)",
+    "spoiler": true,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 280256,
+    "personagem_id": 947,
+    "alias": "Merchant of Death",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 280256,
+    "personagem_id": 947,
+    "alias": "死の商人",
+    "spoiler": false,
+    "fonte": "AniList"
+  },
+  {
+    "anilist_id": 295482,
+    "personagem_id": 912,
+    "alias": "Yatsume (ヤツメ)",
+    "spoiler": true,
+    "fonte": "AniList"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "region": "all",
+    "url": "https://narutop99.naruto-official.com/_ranking.all.gen.js",
+    "records": 488,
+    "file": "data/raw/narutop99/ranking_all.js",
+    "sha256": "76e4c205c662717a474368873b3a51d4c75efe7ec1ab2f305829cfef63611f59",
+    "retrieved_at_utc": "2026-10-21T11:41:48.516066+00:00"
+  },
+  {
+    "region": "japan",
+    "url": "https://narutop99.naruto-official.com/_ranking.japan.gen.js",
+    "records": 488,
+    "file": "data/raw/narutop99/ranking_japan.js",
+    "sha256": "ba8f2c03d6fc691f8a08833d1578e5482f7f62e098a3aded45b3ae41d5cf797d",
+    "retrieved_at_utc": "2026-10-21T11:41:48.531412+00:00"
+  },
+  {
+    "region": "asia",
+    "url": "https://narutop99.naruto-official.com/_ranking.asia.gen.js",
+    "records": 488,
+    "file": "data/raw/narutop99/ranking_asia.js",
+    "sha256": "36f2fad5304679ad0fb3e49be5b9ad91bf447d73cc009353d757d6d5b9825be0",
+    "retrieved_at_utc": "2026-10-21T11:41:48.540929+00:00"
+  },
+  {
+    "region": "oceania",
+    "url": "https://narutop99.naruto-official.com/_ranking.oceania.gen.js",
+    "records": 488,
+    "file": "data/raw/narutop99/ranking_oceania.js",
+    "sha256": "4aaab4d6bdf608a24d60c8c3da108d29436d85a53fc99108940d09898e06f856",
+    "retrieved_at_utc": "2026-10-21T11:41:49.472180+00:00"
+  },
+  {
+    "region": "north-america",
+    "url": "https://narutop99.naruto-official.com/_ranking.north-america.gen.js",
+    "records": 488,
+    "file": "data/raw/narutop99/ranking_north-america.js",
+    "sha256": "9466d9e884280a7380e973ea452d823911b60ab6fe6c489fe8106b4708972ca6",
+    "retrieved_at_utc": "2026-10-21T11:41:49.454150+00:00"
+  },
+  {
+    "region": "latin-america",
+    "url": "https://narutop99.naruto-official.com/_ranking.latin-america.gen.js",
+    "records": 488,
+    "file": "data/raw/narutop99/ranking_latin-america.js",
+    "sha256": "1e14548fb528e111981b192b97788145eab5cc11755166bb86167882946ba6fb",
+    "retrieved_at_utc": "2026-10-21T11:41:49.472180+00:00"
+  },
+  {
+    "region": "europe",
+    "url": "https://narutop99.naruto-official.com/_ranking.europe.gen.js",
+    "records": 488,
+    "file": "data/raw/narutop99/ranking_europe.js",
+    "sha256": "62faf86a7a50cc3f725ae0bbb9e6f900bd3db81a669250c1b808c1face9091a8",
+    "retrieved_at_utc": "2026-10-21T11:41:50.376488+00:00"
+  },
+  {
+    "region": "middle-east",
+    "url": "https://narutop99.naruto-official.com/_ranking.middle-east.gen.js",
+    "records": 488,
+    "file": "data/raw/narutop99/ranking_middle-east.js",
+    "sha256": "ee05f3812d5e805f1c0446f9fcf9f037a3266399f969ba2cd0c426ceb9bb3556",
+    "retrieved_at_utc": "2026-10-21T11:41:50.405058+00:00"
+  },
+  {
+    "region": "africa",
+    "url": "https://narutop99.naruto-official.com/_ranking.africa.gen.js",
+    "records": 488,
+    "file": "data/raw/narutop99/ranking_africa.js",
+    "sha256": "6bb04d3a7a48590fc01677ad359de2d30c9dbef56fc74f8fdede7327a1a679b5",
+    "retrieved_at_utc": "2026-10-21T11:41:50.396473+00:00"
+  },
+  {
+    "url": "https://narutop99.naruto-official.com/_chars.gen.js",
+    "records": 488,
+    "file": "data/raw/narutop99/chars_gen.js",
+    "sha256": "08a859e858c8eafb34a67f3b5c19447fc76434191222df4f83cf7a4d8dbfbf00",
+    "retrieved_at_utc": "2026-10-21T11:41:50.406185+00:00"
+  },
+  {
+    "url": "https://narutop99.naruto-official.com/en/",
+    "file": "data/raw/narutop99/index.html",
+    "sha256": "11123bb0cf3e9b8b385daf7991db9634de480427b4661ba7e3f56627d6e6302b",
+    "retrieved_at_utc": "2026-10-21T11:41:51.365380+00:00"
+  }
+]

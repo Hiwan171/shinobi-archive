@@ -1,0 +1,292 @@
+[
+  {
+    "cla_id": 0,
+    "nome": "Aburame",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 1,
+    "nome": "Akimichi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 2,
+    "nome": "Amagiri",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 3,
+    "nome": "Chinoike",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 4,
+    "nome": "Funato",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 5,
+    "nome": "Fūma",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 6,
+    "nome": "Fūma   (Presumed)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 7,
+    "nome": "Fūma  (Land of Sound)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 8,
+    "nome": "Hatake",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 9,
+    "nome": "Hirasaka",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 10,
+    "nome": "Hoshigaki",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 11,
+    "nome": "Hoshigaki   (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 12,
+    "nome": "Hyūga",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 13,
+    "nome": "Hyūga",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 14,
+    "nome": "Hōki Family",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 15,
+    "nome": "Hōzuki",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 16,
+    "nome": "Iburi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 17,
+    "nome": "Inuzuka",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 18,
+    "nome": "Izuno",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 19,
+    "nome": "Jūgo's",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 20,
+    "nome": "Kagetsu Family",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 21,
+    "nome": "Kaguya",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 22,
+    "nome": "Kamizuru",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 23,
+    "nome": "Kamizuru   (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 24,
+    "nome": "Karatachi Family",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 25,
+    "nome": "Karatachi Family  (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 26,
+    "nome": "Kazekage   (Novel only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 27,
+    "nome": "Kazekage   (Novel only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 28,
+    "nome": "Kedōin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 29,
+    "nome": "Kodon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 30,
+    "nome": "Kurama",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 31,
+    "nome": "Lee   (Novel only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 32,
+    "nome": "Nara",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 33,
+    "nome": "Onikuma",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 34,
+    "nome": "Rinha",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 35,
+    "nome": "Ryū",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 36,
+    "nome": "Sarutobi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 37,
+    "nome": "Sendō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 38,
+    "nome": "Senju",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 39,
+    "nome": "Senju",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 40,
+    "nome": "Shiin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 41,
+    "nome": "Shimura",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 42,
+    "nome": "Shirogane",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 43,
+    "nome": "Tenrō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 44,
+    "nome": "Tsuchigumo",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 45,
+    "nome": "Uchiha",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 46,
+    "nome": "Uzumaki",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 47,
+    "nome": "Uzumaki",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 48,
+    "nome": "Wagarashi Family",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 49,
+    "nome": "Wagarashi family",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 50,
+    "nome": "Wasabi Family",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 51,
+    "nome": "Wasabi Family  (Adopted)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 52,
+    "nome": "Yamanaka",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 53,
+    "nome": "Yoimura",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 54,
+    "nome": "Yota's",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 55,
+    "nome": "Yotsuki",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 56,
+    "nome": "Yuki",
+    "fonte": "Dattebayo"
+  },
+  {
+    "cla_id": 57,
+    "nome": "Ōtsutsuki",
+    "fonte": "Dattebayo"
+  }
+]

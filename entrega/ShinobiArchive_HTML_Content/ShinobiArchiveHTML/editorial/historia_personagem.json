@@ -1,0 +1,713 @@
+[
+  {
+    "personagem_id": 1344,
+    "ordem": 0,
+    "fase": "Origens",
+    "titulo": "A criança e a Vila da Folha",
+    "texto": "Filho de Minato Namikaze e Kushina Uzumaki, Naruto cresce carregando a Nove-Caudas. O medo dos moradores o isola. O acolhimento de Iruka abre espaço para que ele se reconheça como alguém capaz de construir o próprio futuro.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1610"
+  },
+  {
+    "personagem_id": 1344,
+    "ordem": 1,
+    "fase": "Naruto clássico",
+    "titulo": "Os primeiros laços",
+    "texto": "Ao integrar o Time 7 com Sasuke, Sakura e Kakashi, ele descobre o peso das promessas e do trabalho em equipe. As missões e o Exame Chūnin transformam a rivalidade em aprendizado, e o encontro com Jiraiya amplia sua formação.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1610"
+  },
+  {
+    "personagem_id": 1344,
+    "ordem": 2,
+    "fase": "Shippuden",
+    "titulo": "Reconhecimento e responsabilidade",
+    "texto": "O treinamento com Jiraiya fortalece sua determinação. Depois do confronto com Pain, Naruto passa a ser reconhecido como protetor da vila. Sua resposta à dor procura romper a repetição da violência, sem abandonar os vínculos que construiu.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1610"
+  },
+  {
+    "personagem_id": 1344,
+    "ordem": 3,
+    "fase": "A Grande Guerra",
+    "titulo": "De adversário a parceiro",
+    "texto": "Com ajuda de Killer B e do encontro com a memória de Kushina, Naruto enfrenta o próprio conflito com a Nove-Caudas. Sua relação com Kurama evolui, e ele atua ao lado da Aliança Shinobi durante a guerra.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1611"
+  },
+  {
+    "personagem_id": 1344,
+    "ordem": 4,
+    "fase": "Legado",
+    "titulo": "A promessa encontra o futuro",
+    "texto": "O confronto final com Sasuke encerra uma longa disputa e permite a reconciliação. Anos depois, Naruto assume como Sétimo Hokage. O desejo de reconhecimento se transforma na responsabilidade de cuidar de toda a vila.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1611"
+  },
+  {
+    "personagem_id": 1293,
+    "ordem": 0,
+    "fase": "Infância",
+    "titulo": "Talento em um mundo de guerra",
+    "texto": "A violência presenciada na infância faz Itachi desejar a paz. Sua formação avança rapidamente: ele se destaca na Academia e ingressa nas estruturas de defesa de Konoha ainda jovem.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1814"
+  },
+  {
+    "personagem_id": 1293,
+    "ordem": 1,
+    "fase": "O clã Uchiha",
+    "titulo": "Entre duas lealdades",
+    "texto": "A preparação de um golpe do clã o coloca entre a família e a liderança da vila. A missão que recebe e suas escolhas desencadeiam a tragédia dos Uchiha, enquanto Sasuke permanece no centro de sua preocupação.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1814"
+  },
+  {
+    "personagem_id": 1293,
+    "ordem": 2,
+    "fase": "Akatsuki",
+    "titulo": "Um irmão visto à distância",
+    "texto": "Como membro da Akatsuki, Itachi apresenta uma imagem ameaçadora. Seu encontro definitivo com Sasuke muda o entendimento que o irmão tinha do passado e expõe um conflito muito mais amplo que a vingança pessoal.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1814"
+  },
+  {
+    "personagem_id": 1293,
+    "ordem": 3,
+    "fase": "A Grande Guerra",
+    "titulo": "O último gesto",
+    "texto": "Reanimado durante a guerra, recupera sua autonomia graças ao poder deixado por Shisui. Ele se une a Sasuke para interromper a Reanimação e, ao se despedir, abandona as manipulações para reconhecer abertamente o amor pelo irmão.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1814"
+  },
+  {
+    "personagem_id": 1307,
+    "ordem": 0,
+    "fase": "Origens",
+    "titulo": "A sombra do irmão",
+    "texto": "Sasuke cresce admirando Itachi e procurando o reconhecimento do pai, Fugaku. A destruição do clã muda sua infância e transforma o desejo de alcançar o irmão em uma busca por vingança.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1856"
+  },
+  {
+    "personagem_id": 1307,
+    "ordem": 1,
+    "fase": "Naruto clássico",
+    "titulo": "O Time 7 e a partida",
+    "texto": "A convivência com Naruto, Sakura e Kakashi cria vínculos reais. Ainda assim, a sensação de estar distante de seu objetivo o aproxima da promessa de poder de Orochimaru e o leva a deixar Konoha.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1856"
+  },
+  {
+    "personagem_id": 1307,
+    "ordem": 2,
+    "fase": "Shippuden",
+    "titulo": "A verdade muda o alvo",
+    "texto": "Depois de enfrentar Itachi, Sasuke recebe revelações sobre o massacre e a atuação da vila. A descoberta redireciona sua revolta e aprofunda o conflito entre o afeto que preserva e os caminhos que decide seguir.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1858"
+  },
+  {
+    "personagem_id": 1307,
+    "ordem": 3,
+    "fase": "Legado",
+    "titulo": "Reconstruir o próprio caminho",
+    "texto": "Na fase final da guerra, volta a lutar com o Time 7. A disputa decisiva com Naruto termina em reconhecimento mútuo. Em seguida, parte em uma jornada de reparação, iniciando uma relação diferente com a vila e com os antigos companheiros.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1858"
+  },
+  {
+    "personagem_id": 374,
+    "ordem": 0,
+    "fase": "Infância",
+    "titulo": "Confiança que se constrói",
+    "texto": "As inseguranças da infância dão lugar a uma postura mais firme com o apoio de Ino. Na Academia e no Time 7, Sakura começa a descobrir como participar das missões e sustentar suas próprias escolhas.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1743"
+  },
+  {
+    "personagem_id": 374,
+    "ordem": 1,
+    "fase": "Formação",
+    "titulo": "A discípula da Quinta Hokage",
+    "texto": "Ao reconhecer os próprios limites, pede para ser treinada por Tsunade. Seu controle de chakra favorece o aprendizado de ninjutsu médico e o desenvolvimento de uma força concentrada em golpes precisos.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1743"
+  },
+  {
+    "personagem_id": 374,
+    "ordem": 2,
+    "fase": "Shippuden",
+    "titulo": "A linha de frente",
+    "texto": "A experiência com Chiyo contra Sasori demonstra a evolução de sua formação. Durante a guerra, Sakura atua no apoio médico e volta a combater ao lado de Naruto e Sasuke como integrante de um Time 7 reunido.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1743"
+  },
+  {
+    "personagem_id": 374,
+    "ordem": 3,
+    "fase": "Legado",
+    "titulo": "Cuidar da próxima geração",
+    "texto": "Depois do conflito, segue ligada à medicina e à reconstrução. Sua relação com Sasuke e a maternidade de Sarada ampliam os vínculos entre sua história pessoal e a nova geração de Konoha.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1743"
+  },
+  {
+    "personagem_id": 376,
+    "ordem": 0,
+    "fase": "Origens",
+    "titulo": "Um talento cercado por perdas",
+    "texto": "Filho de Sakumo Hatake, Kakashi se destaca cedo na formação ninja. A morte do pai e os acontecimentos vividos com Obito e Rin marcam sua maneira de lidar com regras, responsabilidade e amizade.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1903"
+  },
+  {
+    "personagem_id": 376,
+    "ordem": 1,
+    "fase": "Time 7",
+    "titulo": "Ensinar além das técnicas",
+    "texto": "Ao receber Naruto, Sasuke e Sakura, estabelece o trabalho em equipe como fundamento. Suas experiências e o Sharingan o tornam uma referência para os alunos, embora ensinar também o obrigue a enfrentar os próprios limites.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1903"
+  },
+  {
+    "personagem_id": 376,
+    "ordem": 2,
+    "fase": "A Grande Guerra",
+    "titulo": "Reencontrar o passado",
+    "texto": "O confronto com Obito faz Kakashi revisitar perdas e promessas. Ele mantém sua confiança em Naruto, participa da luta final e presencia o reencontro de seus três alunos depois da disputa no Vale do Fim.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1904"
+  },
+  {
+    "personagem_id": 376,
+    "ordem": 3,
+    "fase": "Legado",
+    "titulo": "O Sexto Hokage",
+    "texto": "Nomeado Sexto Hokage, assume a tarefa de conduzir Konoha em um período de reconstrução e cooperação entre vilas. Mais tarde, entrega essa responsabilidade a Naruto.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1904"
+  },
+  {
+    "personagem_id": 865,
+    "ordem": 0,
+    "fase": "Formação",
+    "titulo": "Professor e Hokage",
+    "texto": "Minato conduz o time de Kakashi, Obito e Rin antes de assumir a liderança de Konoha. Sua trajetória associa a precisão em combate à responsabilidade por aqueles que estão sob seus cuidados.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1681"
+  },
+  {
+    "personagem_id": 865,
+    "ordem": 1,
+    "fase": "Nascimento de Naruto",
+    "titulo": "Uma decisão extrema",
+    "texto": "Durante o ataque da Nove-Caudas, ele e Kushina procuram proteger Naruto e a vila. Minato sela parte do poder da besta no filho e confia a ele a possibilidade de um futuro diferente.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1610"
+  },
+  {
+    "personagem_id": 865,
+    "ordem": 2,
+    "fase": "A Grande Guerra",
+    "titulo": "O reencontro possível",
+    "texto": "Reanimado com os antigos Hokage, volta a lutar pela vila e encontra Naruto já crescido. A participação na guerra permite que acompanhe o filho e se despeça dele no aniversário, retomando seu papel de pai.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1681"
+  },
+  {
+    "personagem_id": 437,
+    "ordem": 0,
+    "fase": "Origens",
+    "titulo": "As expectativas do clã",
+    "texto": "Nascida na família principal dos Hyūga, enfrenta cobranças para desenvolver suas habilidades. A timidez dificulta esse processo, mas não apaga sua vontade de melhorar e encontrar um caminho pessoal.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1668"
+  },
+  {
+    "personagem_id": 437,
+    "ordem": 1,
+    "fase": "Naruto clássico",
+    "titulo": "Aprender a se afirmar",
+    "texto": "A convivência com sua equipe e o confronto com Neji colocam à prova sua confiança. Inspirada por Naruto, passa a enfrentar situações das quais antes recuaria.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1668"
+  },
+  {
+    "personagem_id": 437,
+    "ordem": 2,
+    "fase": "Shippuden",
+    "titulo": "Escolher permanecer ao lado",
+    "texto": "Sua disposição para proteger Naruto se torna explícita durante o ataque de Pain. Na guerra, ela compartilha perdas e reafirma a decisão de seguir em frente com aqueles que ama.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1668"
+  },
+  {
+    "personagem_id": 437,
+    "ordem": 3,
+    "fase": "Legado",
+    "titulo": "Família e continuidade",
+    "texto": "Sua relação com Naruto se transforma em uma família. Como mãe de Boruto e Himawari, mantém a ligação entre a história dos Hyūga e a geração que cresce depois da guerra.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1668"
+  },
+  {
+    "personagem_id": 259,
+    "ordem": 0,
+    "fase": "Infância",
+    "titulo": "A criança temida",
+    "texto": "Com Shukaku selado em seu corpo, Gaara vive cercado pelo medo dos moradores de Suna. A dificuldade em controlar seu poder e os conflitos familiares aprofundam sua solidão.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1688"
+  },
+  {
+    "personagem_id": 259,
+    "ordem": 1,
+    "fase": "Encontro com Naruto",
+    "titulo": "Outra forma de existir",
+    "texto": "O confronto com Naruto permite que reconheça uma experiência semelhante à sua. Aos poucos, substitui a busca por confirmação através da violência pelo desejo de proteger outras pessoas.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1688"
+  },
+  {
+    "personagem_id": 259,
+    "ordem": 2,
+    "fase": "Shippuden",
+    "titulo": "O Kazekage e a Aliança",
+    "texto": "Como Kazekage, passa a ocupar uma posição de responsabilidade. Durante a guerra, lidera e inspira shinobi de vilas diferentes, defendendo vínculos que ultrapassam antigas rivalidades.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1688"
+  },
+  {
+    "personagem_id": 259,
+    "ordem": 3,
+    "fase": "Revelações",
+    "titulo": "A proteção que permaneceu",
+    "texto": "O reencontro com o pai revela que a areia que o protege expressa o amor de sua mãe, Karura. A descoberta oferece uma nova compreensão de sua infância e do afeto que julgava nunca ter recebido.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1688"
+  },
+  {
+    "personagem_id": 515,
+    "ordem": 0,
+    "fase": "O mestre",
+    "titulo": "Uma geração após a outra",
+    "texto": "Sua história de professor inclui Minato e, anos depois, Naruto. O vínculo com os sapos e a experiência como shinobi acompanham uma procura por alguém capaz de transformar o mundo.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1643"
+  },
+  {
+    "personagem_id": 515,
+    "ordem": 1,
+    "fase": "Treinamento",
+    "titulo": "A herança do Rasengan",
+    "texto": "Ao conhecer Naruto, orienta seu uso de chakra e o treinamento de invocação. Mais tarde ensina o Rasengan, técnica criada por Minato, ligando a formação do filho à história do pai.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1643"
+  },
+  {
+    "personagem_id": 515,
+    "ordem": 2,
+    "fase": "Shippuden",
+    "titulo": "O risco de buscar respostas",
+    "texto": "A investigação da Akatsuki leva Jiraiya ao confronto com Pain. As informações que consegue transmitir e a confiança depositada em Naruto permanecem como parte de sua contribuição para os acontecimentos seguintes.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1643"
+  },
+  {
+    "personagem_id": 1303,
+    "ordem": 0,
+    "fase": "Time Minato",
+    "titulo": "Um companheiro antes de tudo",
+    "texto": "Obito integra a equipe de Minato com Kakashi e Rin. Apesar da rivalidade com Kakashi, demonstra a disposição de colocar os companheiros acima das regras da missão.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1706"
+  },
+  {
+    "personagem_id": 1303,
+    "ordem": 1,
+    "fase": "A ponte",
+    "titulo": "O presente e a sobrevivência",
+    "texto": "Gravemente ferido ao proteger Kakashi, entrega a ele seu Sharingan. Sua sobrevivência e a influência de Madara o aproximam de um projeto de mundo ilusório construído para escapar da dor.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1706"
+  },
+  {
+    "personagem_id": 1303,
+    "ordem": 2,
+    "fase": "A Grande Guerra",
+    "titulo": "Escolher de novo",
+    "texto": "Como figura central do conflito, enfrenta Kakashi e Naruto. O choque com seus antigos ideais abre caminho para uma mudança: em seus últimos atos, volta a priorizar os companheiros e ajuda a protegê-los.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1706"
+  },
+  {
+    "personagem_id": 1299,
+    "ordem": 0,
+    "fase": "Origens",
+    "titulo": "Um encontro em tempos de guerra",
+    "texto": "Como herdeiro Uchiha, cresce em um mundo de confrontos e perdas. Sua amizade com Hashirama nasce antes que os dois possam superar as obrigações impostas pelos clãs.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1663"
+  },
+  {
+    "personagem_id": 1299,
+    "ordem": 1,
+    "fase": "Konoha",
+    "titulo": "Fundação e ruptura",
+    "texto": "A aproximação entre Uchiha e Senju permite o surgimento de Konoha. As diferenças sobre o futuro da vila, porém, afastam Madara de Hashirama e conduzem os antigos amigos a um confronto.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1663"
+  },
+  {
+    "personagem_id": 1299,
+    "ordem": 2,
+    "fase": "O plano",
+    "titulo": "Uma paz imposta",
+    "texto": "Madara transmite a Obito sua ambição de criar um mundo de sonhos. De volta durante a guerra, procura realizar o Tsukuyomi Infinito, colocando a própria ideia de paz acima da liberdade dos demais.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1663"
+  },
+  {
+    "personagem_id": 1299,
+    "ordem": 3,
+    "fase": "Desfecho",
+    "titulo": "O antigo companheiro",
+    "texto": "A traição de Zetsu interrompe seu projeto. Ao fim, conversa com Hashirama sobre o que ambos não conseguiram realizar, reencontrando por um instante a ligação anterior à rivalidade.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1663"
+  },
+  {
+    "personagem_id": 1063,
+    "ordem": 0,
+    "fase": "Origens",
+    "titulo": "Crianças em um mundo de guerra",
+    "texto": "Nascido entre os Senju, Hashirama presencia cedo o custo dos confrontos. O encontro com Madara aproxima dois jovens que imaginam um futuro no qual as crianças não precisem se enfrentar.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1627"
+  },
+  {
+    "personagem_id": 1063,
+    "ordem": 1,
+    "fase": "A fundação",
+    "titulo": "Um lugar para construir laços",
+    "texto": "A aliança entre os clãs permite a criação da Vila da Folha. Como Primeiro Hokage, Hashirama passa a defender uma organização que preserve a população e ofereça continuidade às novas gerações.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1627"
+  },
+  {
+    "personagem_id": 1063,
+    "ordem": 2,
+    "fase": "Conflito e legado",
+    "titulo": "O sonho confiado ao futuro",
+    "texto": "A ruptura com Madara culmina em uma batalha que transforma a paisagem. Mesmo depois disso, Hashirama mantém a busca por cooperação entre vilas e procura aproximar seus líderes em uma reunião dos Kage.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1627"
+  },
+  {
+    "personagem_id": 1066,
+    "ordem": 0,
+    "fase": "Os Senju",
+    "titulo": "Pragmatismo em meio ao conflito",
+    "texto": "Ao lado de Hashirama, Tobirama desenvolve uma visão estratégica para enfrentar as guerras dos clãs. Procura transformar a intenção de paz em regras e acordos duradouros.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1694"
+  },
+  {
+    "personagem_id": 1066,
+    "ordem": 1,
+    "fase": "Segundo Hokage",
+    "titulo": "Instituições e técnicas",
+    "texto": "Ao assumir a liderança, participa da estruturação de Konoha e da formação de sua próxima geração. Sua contribuição técnica inclui Clones das Sombras, Deus Voador do Trovão e Reanimação.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1694"
+  },
+  {
+    "personagem_id": 1066,
+    "ordem": 2,
+    "fase": "Legado",
+    "titulo": "Confiar a vila aos que ficam",
+    "texto": "Em uma situação sem saída, escolhe servir de distração para que os subordinados escapem. Antes de partir, indica Hiruzen como sucessor e coloca a continuidade da vila nas mãos dos mais jovens.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1694"
+  },
+  {
+    "personagem_id": 1310,
+    "ordem": 0,
+    "fase": "Amizade",
+    "titulo": "O irmão escolhido",
+    "texto": "A convivência com Itachi reúne treinamento, confiança e preocupação com o destino dos Uchiha. A amizade ajuda a formar os ideais que Itachi carregaria consigo.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1625"
+  },
+  {
+    "personagem_id": 1310,
+    "ordem": 1,
+    "fase": "O clã",
+    "titulo": "Proteger sem buscar reconhecimento",
+    "texto": "Diante da crise entre o clã e a vila, Shisui procura uma saída que preserve a paz. Sua decisão de confiar o futuro a Itachi se torna uma das marcas mais profundas na vida do amigo.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1625"
+  },
+  {
+    "personagem_id": 1310,
+    "ordem": 2,
+    "fase": "Legado",
+    "titulo": "Um poder que alcança a guerra",
+    "texto": "O olho que deixa a Itachi acaba ligado a Naruto. O Kotoamatsukami permite que Itachi rompa o controle da Reanimação, dando a Shisui uma influência que permanece mesmo depois de sua morte.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1625"
+  },
+  {
+    "personagem_id": 444,
+    "ordem": 0,
+    "fase": "O clã",
+    "titulo": "Uma marca desde a infância",
+    "texto": "Filho de Hizashi, Neji pertence à família secundária dos Hyūga. A marca que recebe e a perda do pai alimentam sua revolta contra as hierarquias que parecem determinar sua vida.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1817"
+  },
+  {
+    "personagem_id": 444,
+    "ordem": 1,
+    "fase": "Exame Chūnin",
+    "titulo": "A convicção colocada à prova",
+    "texto": "O duelo com Hinata expõe sua amargura. Depois, Naruto enfrenta não apenas sua técnica, mas a crença de que ninguém consegue mudar o próprio destino.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1817"
+  },
+  {
+    "personagem_id": 444,
+    "ordem": 2,
+    "fase": "Mudança",
+    "titulo": "Escolher quem proteger",
+    "texto": "Ao conhecer melhor a história do pai e reconstruir seus vínculos, Neji passa a agir segundo suas próprias decisões. Sua atuação na guerra expressa essa mudança na forma de compreender liberdade e proteção.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1817"
+  },
+  {
+    "personagem_id": 344,
+    "ordem": 0,
+    "fase": "O professor",
+    "titulo": "Ensinar pelo exemplo",
+    "texto": "Guy incentiva Lee a acreditar no valor do próprio esforço. O treinamento intenso vem acompanhado de promessas, metas pessoais e disposição para apoiar o aluno em seus momentos mais difíceis.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1673"
+  },
+  {
+    "personagem_id": 344,
+    "ordem": 1,
+    "fase": "Rivalidade",
+    "titulo": "Kakashi como referência",
+    "texto": "Sua rivalidade com Kakashi atravessa a vida cotidiana e as missões. As disputas constantes funcionam como uma forma de motivação e como expressão de um vínculo duradouro.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1673"
+  },
+  {
+    "personagem_id": 344,
+    "ordem": 2,
+    "fase": "A Grande Guerra",
+    "titulo": "Levar o esforço ao limite",
+    "texto": "Diante de Madara, Guy recorre aos Oito Portões para proteger seus aliados. A decisão concentra o risco físico de seu estilo de combate e a determinação que orienta sua trajetória.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1673"
+  },
+  {
+    "personagem_id": 878,
+    "ordem": 0,
+    "fase": "Formação",
+    "titulo": "O olhar do estrategista",
+    "texto": "Integrante do time de Asuma com Ino e Chōji, Shikamaru se destaca pela leitura do campo de batalha. Seu uso das sombras acompanha a capacidade de antecipar movimentos e preparar alternativas.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1910"
+  },
+  {
+    "personagem_id": 878,
+    "ordem": 1,
+    "fase": "Responsabilidade",
+    "titulo": "Aprender com as perdas",
+    "texto": "As missões de liderança mostram que uma estratégia envolve vidas, e não apenas um problema a resolver. A perda de Asuma aprofunda seu compromisso com o time e com aqueles que precisam de proteção.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1910"
+  },
+  {
+    "personagem_id": 878,
+    "ordem": 2,
+    "fase": "Legado",
+    "titulo": "Apoiar a próxima geração",
+    "texto": "Durante a guerra, contribui para a coordenação dos aliados. Mais tarde, continua ligado à liderança da vila e ao apoio a Naruto, levando adiante os ensinamentos de seus mestres.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1910"
+  },
+  {
+    "personagem_id": 1339,
+    "ordem": 0,
+    "fase": "Konoha",
+    "titulo": "O filho e a ausência",
+    "texto": "A rotina de Naruto como Hokage afeta a convivência em família. A rebeldia de Boruto também expressa o desejo de atenção e de compreender melhor o pai.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1745"
+  },
+  {
+    "personagem_id": 1339,
+    "ordem": 1,
+    "fase": "O novo Time 7",
+    "titulo": "Aprender com outras gerações",
+    "texto": "Ao lado de Sarada e Mitsuki, participa da formação de um novo Time 7. O contato com Konohamaru e Sasuke amplia seu aprendizado e muda sua relação com as responsabilidades de um shinobi.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1745"
+  },
+  {
+    "personagem_id": 1339,
+    "ordem": 2,
+    "fase": "Desafios",
+    "titulo": "Escolher diante das consequências",
+    "texto": "Os acontecimentos do Exame Chūnin e o confronto com os Ōtsutsuki o obrigam a rever atalhos e reconhecer seus limites. A compreensão do passado de Naruto passa a integrar seu crescimento.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1745"
+  },
+  {
+    "personagem_id": 1339,
+    "ordem": 3,
+    "fase": "Nova fase",
+    "titulo": "Enfrentar o destino",
+    "texto": "O conflito envolvendo Kawaki e as Árvores Divinas transforma radicalmente sua posição no mundo. Boruto procura proteger seus vínculos enquanto enfrenta as consequências dessa nova realidade.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1745"
+  },
+  {
+    "personagem_id": 1306,
+    "ordem": 0,
+    "fase": "Origens",
+    "titulo": "Entre duas histórias",
+    "texto": "Filha de Sasuke e Sakura, Sarada cresce ligada ao passado do Time 7. As perguntas sobre sua família fazem parte de uma procura por compreender quem é e o que deseja realizar.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1750"
+  },
+  {
+    "personagem_id": 1306,
+    "ordem": 1,
+    "fase": "Time 7",
+    "titulo": "Um objetivo próprio",
+    "texto": "Na equipe com Boruto e Mitsuki, desenvolve suas habilidades e a cooperação em missão. A admiração por Naruto oferece uma direção que vai além das expectativas colocadas sobre seu sobrenome.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1750"
+  },
+  {
+    "personagem_id": 1306,
+    "ordem": 2,
+    "fase": "Continuidade",
+    "titulo": "Proteger os vínculos",
+    "texto": "Os conflitos que atingem a nova geração exigem que tome decisões difíceis. Sua disposição para defender os companheiros mantém o sonho de liderança associado ao cuidado com outras pessoas.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1750"
+  },
+  {
+    "personagem_id": 193,
+    "ordem": 0,
+    "fase": "Akatsuki",
+    "titulo": "O artista e a organização",
+    "texto": "Recrutado para a Akatsuki após enfrentar Itachi, Deidara passa a atuar com suas criações explosivas. A derrota para o Sharingan permanece como um ponto sensível em sua maneira de encarar os Uchiha.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1781"
+  },
+  {
+    "personagem_id": 193,
+    "ordem": 1,
+    "fase": "Confrontos",
+    "titulo": "A obra em movimento",
+    "texto": "Seu combate combina preparação, mobilidade e criaturas de argila. A confiança em sua visão de arte também produz conflitos de temperamento com seus parceiros.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1781"
+  },
+  {
+    "personagem_id": 193,
+    "ordem": 2,
+    "fase": "Desfecho",
+    "titulo": "O limite do próprio orgulho",
+    "texto": "No confronto com Sasuke, leva a rivalidade com os Uchiha às últimas consequências. Sua decisão final reúne a busca de reconhecimento e o desejo de transformar a própria existência em uma explosão.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1781"
+  },
+  {
+    "personagem_id": 1042,
+    "ordem": 0,
+    "fase": "Infância",
+    "titulo": "A ausência e as primeiras marionetes",
+    "texto": "Depois de perder os pais, Sasori aprende com a avó a construir marionetes. Suas primeiras tentativas de recriar um abraço familiar revelam a ligação entre a técnica e a dor da ausência.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1641"
+  },
+  {
+    "personagem_id": 1042,
+    "ordem": 1,
+    "fase": "Akatsuki",
+    "titulo": "A procura pela arte eterna",
+    "texto": "Sua investigação o leva das marionetes comuns às marionetes humanas. O desejo de permanência passa a transformar tanto seu arsenal quanto a relação com o próprio corpo.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1641"
+  },
+  {
+    "personagem_id": 1042,
+    "ordem": 2,
+    "fase": "O reencontro",
+    "titulo": "Chiyo e Sakura",
+    "texto": "O confronto com a avó e Sakura reúne a habilidade técnica acumulada e os vínculos que ele tentou abandonar. As figuras de seus pais retornam ao centro de seu desfecho.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1641"
+  },
+  {
+    "personagem_id": 377,
+    "ordem": 0,
+    "fase": "Konoha",
+    "titulo": "A Presa Branca",
+    "texto": "Sakumo se torna conhecido por sua atuação em combate e pela lâmina de chakra branco. Sua reputação faz parte das expectativas que cercam a infância de Kakashi.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1875"
+  },
+  {
+    "personagem_id": 377,
+    "ordem": 1,
+    "fase": "Escolha",
+    "titulo": "O preço de proteger companheiros",
+    "texto": "Ao colocar os companheiros acima de uma missão, sofre rejeição e perde o apoio que sustentava sua posição. A tragédia resultante marca profundamente a maneira como Kakashi entende o dever.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1875"
+  },
+  {
+    "personagem_id": 377,
+    "ordem": 2,
+    "fase": "Reencontro",
+    "titulo": "O entendimento que faltava",
+    "texto": "No encontro com o filho após a batalha contra Pain, os dois conseguem conversar sobre culpa e compreensão. O reconhecimento de Kakashi permite que Sakumo encontre paz em relação à própria decisão.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1875"
+  },
+  {
+    "personagem_id": 739,
+    "ordem": 0,
+    "fase": "Formação",
+    "titulo": "Um caminho pelo taijutsu",
+    "texto": "Ao lado de Neji e Tenten, dedica-se aos ensinamentos de Guy. Sua dificuldade com ninjutsu e genjutsu o leva a construir uma especialidade baseada em treinamento físico e combate corporal.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1652"
+  },
+  {
+    "personagem_id": 739,
+    "ordem": 1,
+    "fase": "Exame Chūnin",
+    "titulo": "O teste contra Gaara",
+    "texto": "O confronto mostra a velocidade conquistada com disciplina e a aplicação dos Portões Internos. Mesmo ferido, Lee insiste em se levantar e continuar perseguindo o objetivo de ser um grande shinobi.",
+    "revelacao": false,
+    "url_fonte": "https://naruto-official.com/en/news/01_1652"
+  },
+  {
+    "personagem_id": 739,
+    "ordem": 2,
+    "fase": "Retorno",
+    "titulo": "A decisão de continuar",
+    "texto": "As lesões o colocam diante de uma cirurgia arriscada. Com o apoio de Guy, escolhe tentar voltar e mais tarde auxilia os companheiros, mantendo a própria determinação como parte central de sua história.",
+    "revelacao": true,
+    "url_fonte": "https://naruto-official.com/en/news/01_1652"
+  }
+]

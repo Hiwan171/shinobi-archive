@@ -1,0 +1,218 @@
+[
+  {
+    "serie_anilist_id": 20,
+    "site": "Crunchyroll",
+    "url": "http://www.crunchyroll.com/naruto",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "site": "Hulu",
+    "url": "http://www.hulu.com/naruto",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "site": "Netflix",
+    "url": "https://www.netflix.com/title/70205012",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "site": "Tubi TV",
+    "url": "https://tubitv.com/series/1622/naruto",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "site": "Bilibili",
+    "url": "https://www.bilibili.tv/en/play/1005144",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "site": "iQ",
+    "url": "https://www.iq.com/album/naruto-1evx2uy83ah",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "site": "Official Site",
+    "url": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+    "tipo": "INFO",
+    "idioma": "Japanese",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "site": "YouTube",
+    "url": "https://youtube.com/playlist?list=PLDDFkfLheQ9hNru7WoTa26dpn6o9-AEJK",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "site": "Hoopla",
+    "url": "https://www.hoopladigital.com/series/naruto-dubbed/11802118009",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "site": "Hoopla",
+    "url": "https://www.hoopladigital.com/television/naruto-subbed-season-1/14608874",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "site": "Crunchyroll",
+    "url": "http://www.crunchyroll.com/naruto-shippuden",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "site": "Hulu",
+    "url": "http://www.hulu.com/naruto-shippuden",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "site": "Adult Swim",
+    "url": "https://www.adultswim.com/videos/naruto-shippuden",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "site": "Netflix",
+    "url": "https://www.netflix.com/title/80000603",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "site": "Bilibili",
+    "url": "https://www.bilibili.com/bangumi/media/md3287/",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/play/1005195",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "site": "Twitter",
+    "url": "https://twitter.com/NARUTOtoBORUTO",
+    "tipo": "SOCIAL",
+    "idioma": "Japanese",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "site": "Official Site",
+    "url": "https://www.tv-tokyo.co.jp/anime/naruto/index2.html",
+    "tipo": "INFO",
+    "idioma": "Japanese",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "site": "YouTube",
+    "url": "https://www.youtube.com/@NARUTO_BORUTO_officialchannel",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "site": "Official Site",
+    "url": "https://naruto-official.com/",
+    "tipo": "INFO",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "site": "Official Site",
+    "url": "http://www.tv-tokyo.co.jp/anime/boruto/",
+    "tipo": "INFO",
+    "idioma": "Japanese",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "site": "Crunchyroll",
+    "url": "http://www.crunchyroll.com/boruto-naruto-next-generations",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "site": "Hulu",
+    "url": "https://www.hulu.com/boruto-naruto-next-generations",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "site": "Netflix",
+    "url": "https://www.netflix.com/title/81080523",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "site": "Bilibili",
+    "url": "https://www.bilibili.com/bangumi/media/md5978",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "site": "Bilibili TV",
+    "url": "https://www.bilibili.tv/play/1005426",
+    "tipo": "STREAMING",
+    "idioma": null,
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "site": "Twitter",
+    "url": "https://twitter.com/NARUTOtoBORUTO",
+    "tipo": "SOCIAL",
+    "idioma": "Japanese",
+    "fonte": "AniList"
+  }
+]

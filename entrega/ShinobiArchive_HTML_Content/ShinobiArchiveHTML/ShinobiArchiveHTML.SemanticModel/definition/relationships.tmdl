@@ -1,0 +1,160 @@
+relationship 228f8729-2975-5119-9f95-0f71b74c0d1f
+	fromColumn: personagem_clas.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship a2be5ac2-d1e7-5145-9c22-d1fc0edb0894
+	fromColumn: personagem_vilas.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 039bb980-e931-5a43-bebc-117e309fb448
+	fromColumn: personagem_equipes.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 4b84973c-4de6-5cf7-aa79-0835f98cded8
+	fromColumn: personagem_kekkei_genkai.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship d6901444-0567-50d5-9cbf-3f53b9e7521e
+	fromColumn: personagem_jutsu.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 38f43f08-e0bb-5700-9d54-ed007ef905a2
+	fromColumn: personagem_natureza.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 87e34c28-e524-59f2-8f5b-aafdfc82397d
+	fromColumn: personagem_ferramenta.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 0587d7e3-8dec-5ea9-8772-786229271498
+	fromColumn: familia.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 696b9e64-b212-53c4-9043-a77eade0bae2
+	fromColumn: medidas_por_fase.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship e8a41e1c-f35b-5ae2-ad0c-72b7359d34d5
+	fromColumn: patentes_por_fase.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 8d9481a9-87be-5e05-8898-0af733c8407c
+	fromColumn: caracteristicas.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship ca382828-604d-591e-8d56-b36b621d3764
+	fromColumn: estreias.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 8536db5d-343d-531b-886c-0abfe2ce5954
+	fromColumn: aparicoes_por_midia.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 0201220c-35c6-5c03-8fa1-d32755f4b74c
+	fromColumn: dublagem_original.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship b46cf143-1e2c-5039-8926-12ffc7723b4a
+	fromColumn: tracos_especiais.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 6af84e46-66c1-53c1-9882-c93b6f7c9e91
+	fromColumn: imagens_referenciadas.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 4dd2e733-e002-5cb7-a530-d080d09ccc20
+	fromColumn: personagens_anilist.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 57711d0f-c8bf-5761-8eea-5efa3e6399d6
+	fromColumn: personagens_narutop99.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 24865099-5f33-5f8e-8921-40e81ddeaa65
+	fromColumn: papeis_comunitarios.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship 21d4caf9-0343-52df-8395-814765a247fc
+	fromColumn: arquivos_imagem.personagem_id
+	toColumn: personagens.personagem_id
+
+relationship ec3dd904-81ec-537f-bed9-04a46b4b630b
+	fromColumn: personagem_clas.cla_id
+	toColumn: clas.cla_id
+
+relationship 1073a92f-02f7-5e73-8b0d-fc07c8aa48e5
+	fromColumn: personagem_vilas.vila_id
+	toColumn: vilas.vila_id
+
+relationship cd80853e-490e-57ca-9da2-f736ea7c42de
+	fromColumn: personagem_equipes.equipe_id
+	toColumn: equipes.equipe_id
+
+relationship e9369eae-208c-52e0-bd5d-df66cc8b23cd
+	fromColumn: personagem_kekkei_genkai.kekkei_genkai_id
+	toColumn: kekkei_genkai.kekkei_genkai_id
+
+relationship 6e665384-a536-5c64-aacf-a1aafd2349b2
+	fromColumn: personagem_jutsu.jutsu_id
+	toColumn: jutsus.jutsu_id
+
+relationship 225f362c-0c09-5155-b18e-a8b40341ade6
+	fromColumn: personagem_natureza.natureza_id
+	toColumn: naturezas.natureza_id
+
+relationship bcfaf5b9-a9eb-50a2-a3a4-47b385f51deb
+	fromColumn: personagem_ferramenta.ferramenta_id
+	toColumn: ferramentas.ferramenta_id
+
+relationship 5e997b08-27d4-5960-8f56-f57e47b7165c
+	fromColumn: simbolos_vilas.vila_id
+	toColumn: vilas.vila_id
+
+relationship 679580c8-36b4-5ec9-a018-25b7a540a244
+	fromColumn: aliases.anilist_id
+	toColumn: personagens_anilist.anilist_id
+
+relationship 5d5cc46c-bf55-554b-88eb-17c0c4dab0c6
+	fromColumn: elenco_por_serie.anilist_id
+	toColumn: personagens_anilist.anilist_id
+
+relationship c72ebb76-938b-559f-889e-fe279b8e6f04
+	fromColumn: creditos_dublagem.anilist_id
+	toColumn: personagens_anilist.anilist_id
+
+relationship 1ba6d3ef-cd10-5646-9832-793be9d868e5
+	fromColumn: creditos_dublagem.dublador_anilist_id
+	toColumn: dubladores.dublador_anilist_id
+
+relationship b022f0dd-f3b7-571d-8c94-84e39c9d3160
+	fromColumn: elenco_por_serie.serie_anilist_id
+	toColumn: series_filmes.serie_anilist_id
+
+relationship ee2dac9f-0bdf-5551-a98a-3dc2d5483ced
+	fromColumn: creditos_dublagem.serie_anilist_id
+	toColumn: series_filmes.serie_anilist_id
+
+relationship ab3adcb0-386c-521c-b9b6-4c83d0ff3cf5
+	fromColumn: arcos.serie_anilist_id
+	toColumn: series_filmes.serie_anilist_id
+
+relationship 4f0a75ed-ccbe-5368-a03a-f20473a77c3b
+	fromColumn: episodios.arco_id
+	toColumn: arcos.arco_id
+
+relationship 5f8674d2-691d-5c29-b054-8192b6d13927
+	fromColumn: votacao_narutop99.narutop99_id
+	toColumn: personagens_narutop99.narutop99_id
+
+relationship 4f3b256c-b3cb-54d2-9c5d-a1ceedf04fe4
+	fromColumn: ranking_demografico.narutop99_id
+	toColumn: personagens_narutop99.narutop99_id
+
+relationship f24a9ac7-da1c-5984-83f9-b25527c1e60c
+	fromColumn: votacao_narutop99.regiao
+	toColumn: Regioes.regiao
+
+relationship 20d49fce-878b-51a6-b96f-20644880059f
+	fromColumn: arcos.serie_anilist_id
+	toColumn: Series.serie_anilist_id
+

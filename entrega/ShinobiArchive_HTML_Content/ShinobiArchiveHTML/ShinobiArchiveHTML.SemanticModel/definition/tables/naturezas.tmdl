@@ -1,0 +1,38 @@
+table naturezas
+	lineageTag: b9dd6a4b-ae2d-57b3-9b01-0b6b1740efec
+
+	column natureza_id
+		dataType: string
+		lineageTag: 217b1a19-fc4a-5904-a1ff-e296031088f3
+		summarizeBy: none
+		sourceColumn: natureza_id
+
+	column nome
+		dataType: string
+		lineageTag: a3a4e4d7-be96-56d4-90fe-f332fb33b189
+		summarizeBy: none
+		sourceColumn: nome
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 80eae462-120e-5418-918e-66780922b967
+		summarizeBy: none
+		sourceColumn: fonte
+
+	column nome_pt
+		dataType: string
+		lineageTag: 966e5aa3-88a1-50ba-8308-91221ddfa26d
+		summarizeBy: none
+		sourceColumn: nome_pt
+
+	partition naturezas = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCs2W34obNxTGX2Xw9bLoz2gk9TLZJgSSUpqQZQkhHElHtog9GmY0bdwSaJ8hb5A8yr5JniRyUjqzC1Xku4BtxuLT/Kzj73xnXv216SHNI/4Jb4Lb/LR8o1IrlKA67Yx2rdlcbPp4wCx5EMO++Q33CBPmVR/7dFq+gpTQwDH+q3wzpLz6EoY4bt5f/C8HCVCjPQIFxyVvF87D8TglqEfd1xegkmjPQBOvmaCcyAV6BePbauIdcQHnuXXIHXrCOqDMr3DzlKpxv0YMI5RATOfjnDBAtKSULKCfYUy7atILHMsgb5yzzFKhQEmHsAK9G/ZxCrGvhn3bcfsploCuI0zwVnqVjyd5twAfhRGrWY/itoghlAhUjhCqW2mNWzBPbD3lMe6LFC0Z9ZxS0K4TzK0oT+F3qMacxCWMyQzwSI1DpEhXLn8atrvUh35bzcq624+HAcrls61T0FJqFOuYNmwhPoNtj/VW/yYP06GIQwCTadJ3vrOwzo5ns6tnrbTFairGrAHZ0Q6FWcGe2zja+ua6Jy/FVPagdcYxxRU1ctVlzxNifTLeVZf+vxxQHjzLpwThgK2BcTyckR+HAXMYuyKNA9XOWqMsE6o1dEX7I/h6s9xVF4DZlaCcd0ikRSZXDfFiF6YmR2Swe2xOl82UZnPZ3MS5sdA3O9wPTdph8wuMc4oDugCNOTb4boDenRoppIsmjs2A4w6GqTmeNsZ57/Jnn8Zg5oRNil/v4cJk5+lrRubXaSXfMdjL75f1h/iVhQILBCMYJW0eDkYpXBX4OOziGUPhvr4EzS7i2uS3FJpysUCvIeFYjbz9ZzsX85Sj5kYAIhruqFrZ5zr09XnzEvtUjLWuY5w755mX2oj108l1jGfkWm6/7zwvgEBtCNHInARO1EK6gTOGw0lcwrSeEa18ngstaLEe3jeh3hJZW2xuqgwaK4mgshVr7+WNn//+cN6J/tuyef/6CyvVBjklCwAA", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"natureza_id", type text}, {"nome", type text}, {"fonte", type text}, {"nome_pt", type text}}, "en-US")
+				in
+				    Tipos
+

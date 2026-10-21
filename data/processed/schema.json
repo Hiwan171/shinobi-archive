@@ -1,0 +1,555 @@
+{
+  "aliases": {
+    "rows": 201,
+    "columns": {
+      "anilist_id": "integer",
+      "personagem_id": "integer",
+      "alias": "text",
+      "spoiler": "boolean",
+      "fonte": "text"
+    }
+  },
+  "aparicoes_por_midia": {
+    "rows": 2773,
+    "columns": {
+      "personagem_id": "integer",
+      "midia": "text",
+      "fonte": "text"
+    }
+  },
+  "arcos": {
+    "rows": 80,
+    "columns": {
+      "arco_id": "text",
+      "serie_anilist_id": "integer",
+      "nome": "text",
+      "primeiro_episodio": "integer",
+      "ultimo_episodio": "integer",
+      "quantidade_episodios": "integer",
+      "fonte": "text",
+      "licenca": "text"
+    }
+  },
+  "arquivos_imagem": {
+    "rows": 1537,
+    "columns": {
+      "tipo": "text",
+      "fonte_id": "integer",
+      "personagem_id": "integer",
+      "nome": "text",
+      "url": "text",
+      "arquivo_local": "text",
+      "status": "text",
+      "largura": "integer",
+      "altura": "integer",
+      "formato": "text",
+      "canal_alpha": "boolean",
+      "bytes": "integer",
+      "sha256": "text",
+      "fonte": "text",
+      "verificado_em_utc": "text"
+    }
+  },
+  "atributos_originais": {
+    "rows": 24481,
+    "columns": {
+      "personagem_id": "integer",
+      "caminho": "text",
+      "valor": "text",
+      "tipo_original": "text",
+      "fonte": "text"
+    }
+  },
+  "caracteristicas": {
+    "rows": 6444,
+    "columns": {
+      "personagem_id": "integer",
+      "caracteristica": "text",
+      "ordem": "integer",
+      "valor_original": "text",
+      "fonte": "text"
+    }
+  },
+  "clas": {
+    "rows": 58,
+    "columns": {
+      "cla_id": "integer",
+      "nome": "text",
+      "fonte": "text"
+    }
+  },
+  "colecoes_fonte": {
+    "rows": 86,
+    "columns": {
+      "colecao": "text",
+      "personagem_id": "integer",
+      "nome_na_colecao": "text",
+      "encontrado_na_base_principal": "boolean",
+      "fonte": "text"
+    }
+  },
+  "creditos_dublagem": {
+    "rows": 3058,
+    "columns": {
+      "serie_anilist_id": "integer",
+      "anilist_id": "integer",
+      "personagem_id": "integer",
+      "dublador_anilist_id": "integer",
+      "idioma": "text",
+      "fonte": "text"
+    }
+  },
+  "distribuicao_notas": {
+    "rows": 30,
+    "columns": {
+      "serie_anilist_id": "integer",
+      "nota": "integer",
+      "usuarios": "integer",
+      "fonte": "text"
+    }
+  },
+  "distribuicao_status": {
+    "rows": 15,
+    "columns": {
+      "serie_anilist_id": "integer",
+      "status_lista": "text",
+      "usuarios": "integer",
+      "fonte": "text"
+    }
+  },
+  "dubladores": {
+    "rows": 1490,
+    "columns": {
+      "dublador_anilist_id": "integer",
+      "nome": "text",
+      "nome_nativo": "text",
+      "idioma": "text",
+      "imagem_url": "text",
+      "fonte": "text"
+    }
+  },
+  "dublagem_original": {
+    "rows": 2409,
+    "columns": {
+      "personagem_id": "integer",
+      "idioma_original": "text",
+      "nome_credito_original": "text",
+      "fonte": "text"
+    }
+  },
+  "elenco_por_serie": {
+    "rows": 684,
+    "columns": {
+      "serie_anilist_id": "integer",
+      "anilist_id": "integer",
+      "personagem_id": "integer",
+      "papel_original": "text",
+      "fonte": "text"
+    }
+  },
+  "episodios": {
+    "rows": 1013,
+    "columns": {
+      "episodio_id": "text",
+      "serie_anilist_id": "integer",
+      "serie": "text",
+      "numero": "integer",
+      "titulo_original": "text",
+      "classificacao_comunitaria": "text",
+      "arco_id": "text",
+      "data_exibicao_original": "text",
+      "data_exibicao_validada": "text",
+      "qualidade_data": "text",
+      "fonte": "text",
+      "url_fonte": "text",
+      "licenca": "text"
+    }
+  },
+  "equipes": {
+    "rows": 191,
+    "columns": {
+      "equipe_id": "integer",
+      "nome": "text",
+      "fonte": "text"
+    }
+  },
+  "estreias": {
+    "rows": 2924,
+    "columns": {
+      "personagem_id": "integer",
+      "midia": "text",
+      "referencia_original": "text",
+      "fonte": "text"
+    }
+  },
+  "familia": {
+    "rows": 875,
+    "columns": {
+      "personagem_id": "integer",
+      "parentesco_original": "text",
+      "nome_relacionado_original": "text",
+      "personagem_relacionado_id": "integer",
+      "metodo_correspondencia": "text",
+      "fonte": "text"
+    }
+  },
+  "ferramentas": {
+    "rows": 194,
+    "columns": {
+      "ferramenta_id": "text",
+      "nome": "text",
+      "fonte": "text"
+    }
+  },
+  "generos_por_serie": {
+    "rows": 82,
+    "columns": {
+      "serie_anilist_id": "integer",
+      "genero": "text",
+      "fonte": "text"
+    }
+  },
+  "imagens_referenciadas": {
+    "rows": 1412,
+    "columns": {
+      "personagem_id": "integer",
+      "ordem": "integer",
+      "url": "text",
+      "fonte": "text",
+      "arquivo_local": "text",
+      "status": "text"
+    }
+  },
+  "itens_quarentena": {
+    "rows": 66,
+    "columns": {
+      "personagem_id": "integer",
+      "campo": "text",
+      "valor_original": "text",
+      "motivo": "text",
+      "fonte": "text"
+    }
+  },
+  "jutsus": {
+    "rows": 1393,
+    "columns": {
+      "jutsu_id": "text",
+      "nome": "text",
+      "fonte": "text"
+    }
+  },
+  "kekkei_genkai": {
+    "rows": 39,
+    "columns": {
+      "kekkei_genkai_id": "integer",
+      "nome": "text",
+      "fonte": "text"
+    }
+  },
+  "links_por_serie": {
+    "rows": 27,
+    "columns": {
+      "serie_anilist_id": "integer",
+      "site": "text",
+      "url": "text",
+      "tipo": "text",
+      "idioma": "text",
+      "fonte": "text"
+    }
+  },
+  "medidas_por_fase": {
+    "rows": 1233,
+    "columns": {
+      "personagem_id": "integer",
+      "atributo": "text",
+      "contexto_original": "text",
+      "valor_original": "text",
+      "valor_minimo": "number",
+      "valor_maximo": "number",
+      "unidade": "text",
+      "limite_aberto": "boolean",
+      "derivado_por_regex": "boolean",
+      "fonte": "text"
+    }
+  },
+  "naturezas": {
+    "rows": 24,
+    "columns": {
+      "natureza_id": "text",
+      "nome": "text",
+      "fonte": "text"
+    }
+  },
+  "papeis_comunitarios": {
+    "rows": 64,
+    "columns": {
+      "serie_anilist_id": "integer",
+      "personagem_id": "integer",
+      "nome_original": "text",
+      "papel_original": "text",
+      "primeiro_episodio_informado": "integer",
+      "metodo_correspondencia": "text",
+      "url_fonte": "text",
+      "fonte": "text",
+      "licenca": "text"
+    }
+  },
+  "patentes_por_fase": {
+    "rows": 534,
+    "columns": {
+      "personagem_id": "integer",
+      "contexto_original": "text",
+      "patente_original": "text",
+      "fonte": "text"
+    }
+  },
+  "personagem_clas": {
+    "rows": 261,
+    "columns": {
+      "personagem_id": "integer",
+      "cla_id": "integer",
+      "fonte": "text"
+    }
+  },
+  "personagem_equipes": {
+    "rows": 633,
+    "columns": {
+      "personagem_id": "integer",
+      "equipe_id": "integer",
+      "fonte": "text"
+    }
+  },
+  "personagem_ferramenta": {
+    "rows": 782,
+    "columns": {
+      "personagem_id": "integer",
+      "ferramenta_id": "text",
+      "nome_original": "text",
+      "observacoes": "text",
+      "fonte": "text"
+    }
+  },
+  "personagem_jutsu": {
+    "rows": 2661,
+    "columns": {
+      "personagem_id": "integer",
+      "jutsu_id": "text",
+      "nome_original": "text",
+      "observacoes": "text",
+      "fonte": "text"
+    }
+  },
+  "personagem_kekkei_genkai": {
+    "rows": 163,
+    "columns": {
+      "personagem_id": "integer",
+      "kekkei_genkai_id": "integer",
+      "fonte": "text"
+    }
+  },
+  "personagem_natureza": {
+    "rows": 847,
+    "columns": {
+      "personagem_id": "integer",
+      "natureza_id": "text",
+      "nome_original": "text",
+      "observacoes": "text",
+      "fonte": "text"
+    }
+  },
+  "personagem_vilas": {
+    "rows": 976,
+    "columns": {
+      "personagem_id": "integer",
+      "vila_id": "integer",
+      "fonte": "text"
+    }
+  },
+  "personagens": {
+    "rows": 1431,
+    "columns": {
+      "personagem_id": "integer",
+      "nome": "text",
+      "sexo_original": "text",
+      "sexo_pt": "text",
+      "especie_original": "text",
+      "status_original": "text",
+      "status_informado": "boolean",
+      "aniversario_original": "text",
+      "aniversario_mes": "integer",
+      "aniversario_dia": "integer",
+      "tipo_sanguineo": "text",
+      "registro_ninja": "text",
+      "cla_resumo": "text",
+      "afiliacoes_resumo": "text",
+      "equipes_resumo": "text",
+      "classificacao_resumo": "text",
+      "quantidade_jutsus_listados_fonte": "integer",
+      "quantidade_naturezas_listadas": "integer",
+      "quantidade_imagens_referenciadas": "integer",
+      "anilist_id_principal": "integer",
+      "favoritos_anilist": "integer",
+      "narutop99_id_principal": "integer",
+      "posicao_narutop99": "integer",
+      "votos_narutop99": "integer",
+      "imagem_url": "text",
+      "imagem_local": "text",
+      "fonte": "text",
+      "url_fonte": "text",
+      "quantidade_jutsus_utilizaveis": "integer"
+    }
+  },
+  "personagens_anilist": {
+    "rows": 517,
+    "columns": {
+      "anilist_id": "integer",
+      "personagem_id": "integer",
+      "metodo_correspondencia": "text",
+      "nome": "text",
+      "nome_nativo": "text",
+      "genero": "text",
+      "idade_original": "text",
+      "tipo_sanguineo": "text",
+      "nascimento_mes": "integer",
+      "nascimento_dia": "integer",
+      "favoritos_anilist": "integer",
+      "url_fonte": "text",
+      "imagem_url": "text",
+      "imagem_local": "text",
+      "fonte": "text"
+    }
+  },
+  "personagens_narutop99": {
+    "rows": 488,
+    "columns": {
+      "narutop99_id": "integer",
+      "personagem_id": "integer",
+      "metodo_correspondencia": "text",
+      "nome": "text",
+      "nome_japones": "text",
+      "vila_japones": "text",
+      "vila": "text",
+      "retrato_local": "text",
+      "card_local": "text",
+      "url_fonte": "text",
+      "fonte": "text"
+    }
+  },
+  "problemas_qualidade": {
+    "rows": 140,
+    "columns": {
+      "personagem_id": "integer",
+      "campo": "text",
+      "motivo": "text",
+      "valor_original": "text"
+    }
+  },
+  "ranking_demografico": {
+    "rows": 120,
+    "columns": {
+      "narutop99_id": "integer",
+      "genero_votante": "text",
+      "faixa_etaria_votante": "text",
+      "posicao": "integer",
+      "personagem_id": "integer",
+      "fonte": "text",
+      "resultado_ano": "integer"
+    }
+  },
+  "relacoes_entre_obras": {
+    "rows": 48,
+    "columns": {
+      "serie_anilist_id": "integer",
+      "obra_relacionada_id": "integer",
+      "tipo_relacao": "text",
+      "tipo_obra": "text",
+      "titulo": "text",
+      "url_fonte": "text",
+      "fonte": "text"
+    }
+  },
+  "series_filmes": {
+    "rows": 27,
+    "columns": {
+      "serie_anilist_id": "integer",
+      "mal_id": "integer",
+      "titulo_romaji": "text",
+      "titulo_ingles": "text",
+      "titulo_japones": "text",
+      "formato": "text",
+      "status": "text",
+      "episodios": "integer",
+      "duracao_episodio_minutos": "integer",
+      "ano_temporada": "integer",
+      "nota_media_0_100": "integer",
+      "usuarios_anilist": "integer",
+      "favoritos_anilist": "integer",
+      "inicio_ano": "integer",
+      "inicio_mes": "integer",
+      "inicio_dia": "integer",
+      "fim_ano": "integer",
+      "fim_mes": "integer",
+      "fim_dia": "integer",
+      "capa_local": "text",
+      "banner_local": "text",
+      "capa_url": "text",
+      "banner_url": "text",
+      "url_fonte": "text",
+      "fonte": "text"
+    }
+  },
+  "simbolos_vilas": {
+    "rows": 5,
+    "columns": {
+      "vila_id": "integer",
+      "nome_vila": "text",
+      "arquivo_local": "text",
+      "url_fonte": "text",
+      "sha256": "text",
+      "fonte": "text"
+    }
+  },
+  "tags_por_serie": {
+    "rows": 88,
+    "columns": {
+      "serie_anilist_id": "integer",
+      "tag_id": "integer",
+      "nome": "text",
+      "categoria": "text",
+      "relevancia_0_100": "integer",
+      "spoiler": "boolean",
+      "fonte": "text"
+    }
+  },
+  "tracos_especiais": {
+    "rows": 35,
+    "columns": {
+      "personagem_id": "integer",
+      "traco_original": "text",
+      "fonte": "text"
+    }
+  },
+  "vilas": {
+    "rows": 39,
+    "columns": {
+      "vila_id": "integer",
+      "nome": "text",
+      "fonte": "text"
+    }
+  },
+  "votacao_narutop99": {
+    "rows": 4392,
+    "columns": {
+      "narutop99_id": "integer",
+      "personagem_id": "integer",
+      "regiao": "text",
+      "posicao": "integer",
+      "votos": "integer",
+      "periodo_inicio": "text",
+      "periodo_fim": "text",
+      "resultado_ano": "integer",
+      "fonte": "text",
+      "url_fonte": "text"
+    }
+  }
+}

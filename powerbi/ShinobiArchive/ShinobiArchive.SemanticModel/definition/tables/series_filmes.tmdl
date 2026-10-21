@@ -1,0 +1,180 @@
+table series_filmes
+	lineageTag: 5fcda9dd-ca82-58b8-ab21-11722e34ff3e
+
+	column serie_anilist_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 7836c485-fa1d-5c97-aa7a-3c8a3e766d1d
+		summarizeBy: none
+		sourceColumn: serie_anilist_id
+
+	column mal_id
+		dataType: int64
+		formatString: #,0
+		lineageTag: ebc50855-545a-5d5a-853e-313faabb3a20
+		summarizeBy: none
+		sourceColumn: mal_id
+
+	column titulo_romaji
+		dataType: string
+		lineageTag: 506ebb34-e4af-57da-afa3-eeedd1ba98e8
+		summarizeBy: none
+		sourceColumn: titulo_romaji
+
+	column titulo_ingles
+		dataType: string
+		lineageTag: 57ec5d0e-2433-5904-934f-0f88c8d54ff5
+		summarizeBy: none
+		sourceColumn: titulo_ingles
+
+	column titulo_japones
+		dataType: string
+		lineageTag: ee49b432-0f88-514a-9419-f016eb36ec1b
+		summarizeBy: none
+		sourceColumn: titulo_japones
+
+	column formato
+		dataType: string
+		lineageTag: f5dc2fc5-4f50-5f87-a8e5-517d157cb6eb
+		summarizeBy: none
+		sourceColumn: formato
+
+	column status
+		dataType: string
+		lineageTag: 0ace969a-5af4-5758-97b5-5d10b688346d
+		summarizeBy: none
+		sourceColumn: status
+
+	column episodios
+		dataType: int64
+		formatString: #,0
+		lineageTag: 00891cf4-0a09-5536-ae85-36fde6bd99a1
+		summarizeBy: none
+		sourceColumn: episodios
+
+	column duracao_episodio_minutos
+		dataType: int64
+		formatString: #,0
+		lineageTag: 97311991-b7a8-532a-8088-f5c247a20527
+		summarizeBy: none
+		sourceColumn: duracao_episodio_minutos
+
+	column ano_temporada
+		dataType: int64
+		formatString: #,0
+		lineageTag: 02b92996-76eb-51eb-bf56-2ab418d5e1c0
+		summarizeBy: none
+		sourceColumn: ano_temporada
+
+	column nota_media_0_100
+		dataType: int64
+		formatString: #,0
+		lineageTag: de420d7e-0b16-5d31-9d96-70a2105f56a0
+		summarizeBy: none
+		sourceColumn: nota_media_0_100
+
+	column usuarios_anilist
+		dataType: int64
+		formatString: #,0
+		lineageTag: fa3882e6-ec87-5206-a2bf-429b550bc20f
+		summarizeBy: none
+		sourceColumn: usuarios_anilist
+
+	column favoritos_anilist
+		dataType: int64
+		formatString: #,0
+		lineageTag: 6f80a7ff-8f3d-5774-814f-5790f14abe5c
+		summarizeBy: none
+		sourceColumn: favoritos_anilist
+
+	column inicio_ano
+		dataType: int64
+		formatString: #,0
+		lineageTag: 5b847acc-9044-52c4-9511-a7d19115c389
+		summarizeBy: none
+		sourceColumn: inicio_ano
+
+	column inicio_mes
+		dataType: int64
+		formatString: #,0
+		lineageTag: 7a002f7e-d1f5-5d40-851e-43b4357f6560
+		summarizeBy: none
+		sourceColumn: inicio_mes
+
+	column inicio_dia
+		dataType: int64
+		formatString: #,0
+		lineageTag: 530b3594-48b8-524f-ae2f-a4ce9cbf71bd
+		summarizeBy: none
+		sourceColumn: inicio_dia
+
+	column fim_ano
+		dataType: int64
+		formatString: #,0
+		lineageTag: 8bab7f2c-034b-59d6-9af4-dd936d4ffbb0
+		summarizeBy: none
+		sourceColumn: fim_ano
+
+	column fim_mes
+		dataType: int64
+		formatString: #,0
+		lineageTag: 048d2f5e-22b4-5447-be9e-ab1ca83ef029
+		summarizeBy: none
+		sourceColumn: fim_mes
+
+	column fim_dia
+		dataType: int64
+		formatString: #,0
+		lineageTag: 97f7c760-b681-5c4b-90da-4c2b74e40543
+		summarizeBy: none
+		sourceColumn: fim_dia
+
+	column capa_local
+		dataType: string
+		lineageTag: ff58d712-92a3-553e-b0d9-3c014c1a3e20
+		summarizeBy: none
+		sourceColumn: capa_local
+
+	column banner_local
+		dataType: string
+		lineageTag: 2c7f4cdd-823a-5049-bdec-c75b7134a476
+		summarizeBy: none
+		sourceColumn: banner_local
+
+	column capa_url
+		dataType: string
+		lineageTag: a3291123-e39a-58bd-bc8b-c45d2f7e5797
+		summarizeBy: none
+		sourceColumn: capa_url
+
+	column banner_url
+		dataType: string
+		lineageTag: 66e21ec5-2b8c-55d6-8ba2-b30ff81b02a7
+		summarizeBy: none
+		sourceColumn: banner_url
+
+	column url_fonte
+		dataType: string
+		isHidden
+		lineageTag: e6be3210-49ed-5b63-b7d9-f70f012ee097
+		summarizeBy: none
+		sourceColumn: url_fonte
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 82e201ab-0e11-5552-bfd2-ce8ac2edffc4
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition series_filmes = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"serie_anilist_id", Int64.Type}, {"mal_id", Int64.Type}, {"titulo_romaji", type text}, {"titulo_ingles", type text}, {"titulo_japones", type text}, {"formato", type text}, {"status", type text}, {"episodios", Int64.Type}, {"duracao_episodio_minutos", Int64.Type}, {"ano_temporada", Int64.Type}, {"nota_media_0_100", Int64.Type}, {"usuarios_anilist", Int64.Type}, {"favoritos_anilist", Int64.Type}, {"inicio_ano", Int64.Type}, {"inicio_mes", Int64.Type}, {"inicio_dia", Int64.Type}, {"fim_ano", Int64.Type}, {"fim_mes", Int64.Type}, {"fim_dia", Int64.Type}, {"capa_local", type text}, {"banner_local", type text}, {"capa_url", type text}, {"banner_url", type text}, {"url_fonte", type text}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

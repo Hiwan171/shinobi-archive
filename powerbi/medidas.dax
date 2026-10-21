@@ -1,0 +1,35 @@
+-- Medidas iniciais. Criar separadamente no modelo após importar as tabelas.
+-- Não executadas no Power BI nesta etapa; ainda não existe um relatório conectado.
+
+Total Personagens = DISTINCTCOUNT('personagens'[personagem_id])
+
+Jutsus Documentados = DISTINCTCOUNT('personagem_jutsu'[jutsu_id])
+
+Personagens com Jutsus = DISTINCTCOUNT('personagem_jutsu'[personagem_id])
+
+Personagens por Clã = DISTINCTCOUNT('personagem_clas'[personagem_id])
+
+Personagens por Vila = DISTINCTCOUNT('personagem_vilas'[personagem_id])
+
+Total Episódios = COUNTROWS('episodios')
+
+Episódios Filler =
+CALCULATE([Total Episódios], 'episodios'[classificacao_comunitaria] = "Filler")
+
+Percentual Filler = DIVIDE([Episódios Filler], [Total Episódios])
+
+-- all é a soma das oito regiões. Nunca somar all junto das regiões.
+Votos Globais NARUTOP99 =
+CALCULATE(SUM('votacao_narutop99'[votos]), 'votacao_narutop99'[regiao] = "all")
+
+Votos Regionais NARUTOP99 =
+CALCULATE(SUM('votacao_narutop99'[votos]), KEEPFILTERS('votacao_narutop99'[regiao] <> "all"))
+
+Participação Global NARUTOP99 =
+DIVIDE(
+    [Votos Globais NARUTOP99],
+    CALCULATE([Votos Globais NARUTOP99], REMOVEFILTERS('personagens'), REMOVEFILTERS('personagens_narutop99'))
+)
+
+-- Para um cartão de ficha individual; favoritos de perfis diferentes não são somados.
+Favoritos AniList = SELECTEDVALUE('personagens'[favoritos_anilist])

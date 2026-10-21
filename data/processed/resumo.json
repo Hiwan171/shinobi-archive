@@ -1,0 +1,119 @@
+{
+  "prepared_at_utc": "2026-10-21T11:38:22.875830+00:00",
+  "personagens": 1431,
+  "tabelas": 48,
+  "linhas_total": 67070,
+  "anilist_personagens": 517,
+  "anilist_associados": 464,
+  "arquivos_imagem_baixados": {
+    "characters": 517,
+    "covers": 27,
+    "banners": 16,
+    "official_portraits": 488,
+    "official_cards": 488,
+    "official_art": 1
+  },
+  "imagens_referenciadas": 1412,
+  "episodios": 1013,
+  "jutsus_distintos": 1393,
+  "personagens_narutop99": 488,
+  "votos_oficiais_globais": 4598612,
+  "problemas_qualidade": 140,
+  "cobertura": [
+    {
+      "campo": "Imagem referenciada",
+      "personagens": 1345,
+      "percentual": 93.99
+    },
+    {
+      "campo": "Retrato local associado",
+      "personagens": 658,
+      "percentual": 45.98
+    },
+    {
+      "campo": "Jutsus listados",
+      "personagens": 634,
+      "percentual": 44.3
+    },
+    {
+      "campo": "Naturezas de chakra",
+      "personagens": 401,
+      "percentual": 28.02
+    },
+    {
+      "campo": "Clã",
+      "personagens": 237,
+      "percentual": 16.56
+    },
+    {
+      "campo": "Altura por fase",
+      "personagens": 366,
+      "percentual": 25.58
+    },
+    {
+      "campo": "Família",
+      "personagens": 426,
+      "percentual": 29.77
+    },
+    {
+      "campo": "Patente",
+      "personagens": 497,
+      "percentual": 34.73
+    },
+    {
+      "campo": "Estreia",
+      "personagens": 1279,
+      "percentual": 89.38
+    }
+  ],
+  "tabelas_linhas": {
+    "aliases": 201,
+    "aparicoes_por_midia": 2773,
+    "arcos": 80,
+    "arquivos_imagem": 1537,
+    "atributos_originais": 24481,
+    "caracteristicas": 6444,
+    "clas": 58,
+    "colecoes_fonte": 86,
+    "creditos_dublagem": 3058,
+    "distribuicao_notas": 30,
+    "distribuicao_status": 15,
+    "dubladores": 1490,
+    "dublagem_original": 2409,
+    "elenco_por_serie": 684,
+    "episodios": 1013,
+    "equipes": 191,
+    "estreias": 2924,
+    "familia": 875,
+    "ferramentas": 194,
+    "generos_por_serie": 82,
+    "imagens_referenciadas": 1412,
+    "itens_quarentena": 66,
+    "jutsus": 1393,
+    "kekkei_genkai": 39,
+    "links_por_serie": 27,
+    "medidas_por_fase": 1233,
+    "naturezas": 24,
+    "papeis_comunitarios": 64,
+    "patentes_por_fase": 534,
+    "personagem_clas": 261,
+    "personagem_equipes": 633,
+    "personagem_ferramenta": 782,
+    "personagem_jutsu": 2661,
+    "personagem_kekkei_genkai": 163,
+    "personagem_natureza": 847,
+    "personagem_vilas": 976,
+    "personagens": 1431,
+    "personagens_anilist": 517,
+    "personagens_narutop99": 488,
+    "problemas_qualidade": 140,
+    "ranking_demografico": 120,
+    "relacoes_entre_obras": 48,
+    "series_filmes": 27,
+    "simbolos_vilas": 5,
+    "tags_por_serie": 88,
+    "tracos_especiais": 35,
+    "vilas": 39,
+    "votacao_narutop99": 4392
+  }
+}

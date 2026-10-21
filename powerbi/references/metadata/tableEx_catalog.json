@@ -1,0 +1,32 @@
+{
+  "data": {
+    "visualType": "tableEx",
+    "capabilityKey": "tableEx",
+    "roles": {
+      "Values": {
+        "name": "Values",
+        "kind": "GroupingOrMeasure",
+        "displayName": "Columns"
+      }
+    },
+    "requiredRoles": [
+      "Values"
+    ],
+    "optionalRoles": [],
+    "maxPerRole": {},
+    "formattingObjects": [
+      "accessibility",
+      "clustering",
+      "columnFormatting",
+      "columnHeaders",
+      "columnWidth",
+      "general",
+      "grid",
+      "sparklines",
+      "total",
+      "values"
+    ],
+    "sharedCapabilitiesWith": [],
+    "deprecated": false
+  }
+}

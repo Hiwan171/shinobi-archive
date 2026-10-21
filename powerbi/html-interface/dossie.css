@@ -1,0 +1,153 @@
+/* Edição 06. A lateral direita ganha identidade, imagem e navegação editorial. */
+#shinobi-app .dossier-rich{gap:16px}
+#shinobi-app .dossier-rich .stage-dossier{position:relative;isolation:isolate;padding:18px 19px 0;border:1px solid #ffffff0e;border-radius:13px;background:linear-gradient(130deg,#1c222bd9,#10151ee8);overflow:hidden;box-shadow:0 12px 35px #0000000c}
+.dossier-rich .stage-dossier:before{content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(ellipse at 100% 0,color-mix(in srgb,var(--stage-accent) 9%,transparent),transparent 70%)}
+.rich-dossier-heading{display:flex;gap:11px;align-items:center;min-height:49px}
+.rich-dossier-seal{display:grid;place-items:center;width:41px;height:45px;flex-shrink:0;color:var(--stage-accent);background:color-mix(in srgb,var(--stage-accent) 7%,transparent);border:1px solid color-mix(in srgb,var(--stage-accent) 20%,transparent);border-radius:10px 3px 10px 3px;box-shadow:inset 0 0 15px color-mix(in srgb,var(--stage-accent) 3%,transparent)}
+.rich-dossier-seal img{width:25px;height:25px;opacity:.85}
+#shinobi-app .rich-dossier-heading .stage-kicker{font:7px Consolas,monospace;letter-spacing:1.7px;color:#8192a9}
+#shinobi-app .rich-dossier-heading h3{font:24px 'Barlow Condensed','Impact','Arial Narrow',sans-serif;letter-spacing:.4px;line-height:1.15;color:#e4e6e9;margin-top:4px!important}
+.rich-dossier-heading h3>span{color:var(--stage-accent)}
+#shinobi-app .rich-dossier-heading .stage-poll{margin-left:auto;display:flex;flex-direction:column;align-items:flex-end;gap:2px;background:none;padding:0;color:var(--stage-accent);transition:filter .2s}
+#shinobi-app .rich-dossier-heading .stage-poll:hover{filter:brightness(1.25)}
+.rich-dossier-heading .stage-poll>span{display:flex;gap:4px;align-items:center;font:6px Consolas,monospace!important;letter-spacing:.7px;color:#94a0b0!important}
+#shinobi-app .rich-dossier-heading .stage-poll b{font:25px 'Barlow Condensed','Impact','Arial Narrow',sans-serif;line-height:1}
+.rich-dossier-heading .stage-poll small{font:8px 'Segoe UI',sans-serif;color:#97a2b4}
+.dossier-rich .stage-tabs{gap:7px;border:0;margin:15px 0 0;padding:4px;background:#080e1690;border-radius:8px}
+#shinobi-app .dossier-rich .stage-tabs button{display:flex;gap:7px;align-items:center;justify-content:center;flex:1;padding:9px 8px;border:1px solid transparent;border-radius:5px;font-size:11px;line-height:1.2;color:#8391a7;transition:color .2s,background .2s,box-shadow .2s}
+#shinobi-app .dossier-rich .stage-tabs button[aria-selected="true"]{background:linear-gradient(120deg,color-mix(in srgb,var(--stage-accent) 12%,#1c222d),#1a2029);border-color:color-mix(in srgb,var(--stage-accent) 19%,transparent);color:#f1e6dc;box-shadow:0 3px 9px #0003}
+.dossier-rich .stage-tabs button[aria-selected="true"]:after{display:none}
+.dossier-rich .stage-tabs button svg{opacity:.6}.dossier-rich .stage-tabs button[aria-selected="true"] svg{opacity:1;color:var(--stage-accent)}
+.dossier-rich .stage-tabs small{font-size:8px;margin-left:0;padding:1px 4px;border-radius:3px;background:#ffffff08}
+#shinobi-app .dossier-rich .stage-tab-panel{height:185px;padding:0;overflow-y:auto;scrollbar-gutter:stable;mask-image:linear-gradient(#000 98%,transparent);animation:rich-panel-in .35s ease-out}
+.rich-profile{position:relative;isolation:isolate;min-height:0;padding:12px 0 8px;overflow:hidden}
+.rich-profile-art{position:absolute;top:0;right:-24px;width:45%;height:180px;z-index:-1;opacity:.3;overflow:hidden;pointer-events:none;mask-image:linear-gradient(90deg,transparent,#000 38%),linear-gradient(#000 35%,transparent 100%);mask-composite:intersect}
+.rich-profile-art img{width:100%;height:190%;object-fit:cover;object-position:50% 0;filter:saturate(.45);transform:translateY(-3%)}
+.rich-profile-copy{position:relative}
+.rich-clan-tag{display:inline-flex;align-items:center;gap:6px;font-size:9px;color:var(--stage-accent);letter-spacing:.2px}
+#shinobi-app .rich-profile-copy h3{font:400 19px Georgia,'Times New Roman',serif;color:#e0cebb;line-height:1.25;margin:8px 0 8px!important;max-width:82%}
+#shinobi-app .dossier-rich .stage-intro{font:11px/1.75 'Segoe UI',sans-serif;color:#afbacb;-webkit-line-clamp:2;max-width:89%;margin:0}
+.dossier-rich .stage-profile-facts{display:flex;align-items:center;gap:18px;margin-top:10px}
+.dossier-rich .stage-profile-facts>span{display:flex;gap:8px;align-items:center;min-width:0}
+.dossier-rich .stage-profile-facts>span>i{display:grid;place-items:center;width:29px;height:32px;flex-shrink:0;color:#92a7bc;border:1px solid #ffffff0e;border-radius:6px;background:#ffffff03;font-style:normal}
+.dossier-rich .stage-profile-facts>span>i.rich-blood-icon{color:#d28791;background:#c0697510;border-color:#c069751d}
+#shinobi-app .dossier-rich .stage-profile-facts small{font:6px Consolas,monospace;letter-spacing:1px;margin-bottom:5px;color:#8593a8}
+.dossier-rich .stage-profile-facts b{font-weight:500;color:#dbc2c5}
+#shinobi-app .dossier-rich .stage-profile-facts>button{font-size:9px;white-space:nowrap;margin-left:auto}
+.rich-inherited{display:flex;align-items:center;gap:5px;margin-top:10px;min-width:0}
+.rich-inherited>span{display:flex;gap:4px;align-items:center;min-width:0;max-width:46%;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;font-size:8px;color:#ab9ecb;background:#a18bca09;border:1px solid #ad93df17;border-radius:4px;padding:3px 6px}
+#shinobi-app .rich-inherited button{padding:2px 4px;background:none;color:#b0a2cf;font-size:9px}
+.rich-history{padding:15px 0 12px}
+#shinobi-app .rich-history .stage-overline{font:6px Consolas,monospace;letter-spacing:1px;color:#a99883}
+#shinobi-app .rich-history h3{font-size:17px;margin:5px 0 10px!important;color:#e1cebb}
+.rich-story-rail{position:relative}
+.rich-story-rail:before{content:'';position:absolute;top:10px;bottom:15px;left:12px;width:1px;background:linear-gradient(var(--stage-accent),#ffffff0d)}
+#shinobi-app .rich-story-rail button{display:flex;align-items:center;gap:10px;position:relative;width:100%;padding:6px 0;margin:0;background:none;text-align:left;color:#bdc6d4;transition:transform .2s}
+#shinobi-app .rich-story-rail button:hover{transform:translateX(3px)}
+.rich-story-node{display:grid;place-items:center;width:26px;height:26px;flex-shrink:0;border-radius:50%;border:1px solid color-mix(in srgb,var(--stage-accent) 30%,transparent);background:#18202b;color:var(--stage-accent);font:8px Consolas,monospace;box-shadow:0 0 0 4px #151c26}
+.rich-story-rail button>span+span{min-width:0;flex:1;display:block}
+.rich-story-rail small{display:block;font:6px Consolas,monospace;letter-spacing:1px;text-transform:uppercase;color:#8292a9;margin-bottom:4px}
+.rich-story-rail strong{display:block;font-size:10px;font-weight:500;color:#b8c4d6;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rich-story-rail b{font-size:10px;font-weight:400;color:#9d8d79}
+.rich-story-foot{display:flex;align-items:center;justify-content:space-between;gap:7px;margin-top:9px;border-top:1px solid #ffffff08;padding-top:10px}
+.rich-story-foot>span{display:flex;align-items:center;gap:5px;color:#74849c;font-size:8px}
+#shinobi-app .rich-story-foot>button{margin:0;padding:0;width:auto;font-size:9px;white-space:nowrap;color:var(--stage-accent)}
+.rich-family{padding:14px 0 13px}
+.rich-family-origin{display:flex;align-items:center;gap:10px}
+#shinobi-app .rich-family-origin>button{width:37px;height:39px;padding:0;background:#253045;border-radius:7px;border:1px solid color-mix(in srgb,var(--stage-accent) 35%,transparent);overflow:hidden;flex-shrink:0}
+.rich-family-origin>button img{width:100%;height:100%;object-fit:cover;object-position:top}
+.rich-family-origin>span{font:6px Consolas,monospace;letter-spacing:1px;color:#718299}
+.rich-family-origin strong{display:block;font:11px 'Segoe UI',sans-serif;color:#d2d9e3;margin-top:4px;letter-spacing:0}
+.rich-family-origin>i{height:1px;background:linear-gradient(#ffffff0b,#ffffff17);flex:1}
+.rich-family-origin>.rich-link-count{font:22px 'Barlow Condensed','Impact','Arial Narrow',sans-serif;color:var(--stage-accent);text-align:right}
+.rich-link-count small{display:block;font:6px Consolas,monospace;letter-spacing:1px;margin-top:1px;color:#7f8da4}
+.rich-family-branches{position:relative;margin:9px 0 0 18px;padding-left:20px;border-left:1px solid color-mix(in srgb,var(--stage-accent) 24%,transparent)}
+.rich-family-branches .file-family-item{position:relative;gap:9px;min-height:42px;padding:5px 0;border:0}
+.rich-family-branches .file-family-item:before{content:'';position:absolute;width:18px;height:1px;left:-20px;top:50%;background:color-mix(in srgb,var(--stage-accent) 24%,transparent)}
+.rich-family-branches .file-family-avatar{width:31px;height:32px;border:1px solid #ffffff12;border-radius:6px;overflow:hidden}
+#shinobi-app .rich-family-branches .file-family-avatar img{width:100%;height:100%;object-fit:cover;object-position:top}
+#shinobi-app .rich-family-branches .file-family-item button{font-size:10px!important}
+#shinobi-app .rich-family .stage-detail-link{margin-top:12px;font-size:9px}
+#shinobi-app .dossier-rich .stage-arsenal{border:1px solid #ffffff0e;background:linear-gradient(145deg,#17202bd9,#101720c9);border-radius:13px;padding:15px 17px 0;min-height:430px;overflow:hidden;box-shadow:0 12px 35px #0000000b}
+#shinobi-app .dossier-rich .stage-arsenal>.stage-section-head{padding-bottom:12px;border-bottom:1px solid #ffffff07}
+#shinobi-app .dossier-rich .stage-arsenal .stage-kicker{font-size:8px;letter-spacing:1.4px;color:#9eacbe;display:flex;align-items:center;gap:7px}
+.dossier-rich .stage-arsenal .stage-kicker:before{content:'';width:5px;height:5px;background:var(--stage-accent);border-radius:1px;transform:rotate(45deg);box-shadow:0 0 9px color-mix(in srgb,var(--stage-accent) 40%,transparent)}
+#shinobi-app .dossier-rich .stage-library-button{padding:6px 8px;color:var(--stage-accent);font-size:9px;transition:border-color .2s,background .2s}
+#shinobi-app .dossier-rich .stage-library-button:hover{background:color-mix(in srgb,var(--stage-accent) 9%,transparent);border-color:color-mix(in srgb,var(--stage-accent) 35%,transparent)}
+.dossier-rich .stage-quick-techs{gap:5px;margin:10px 0 2px;min-height:32px;padding-bottom:5px;scrollbar-width:thin}
+#shinobi-app .dossier-rich .stage-quick-techs button{position:relative;padding:7px 9px;font-size:9px;border-radius:5px;background:#0c131d99;transition:color .25s,border-color .25s,box-shadow .25s}
+#shinobi-app .dossier-rich .stage-quick-techs button.active{background:color-mix(in srgb,var(--stage-accent) 10%,#151b24);box-shadow:inset 0 -2px 0 color-mix(in srgb,var(--stage-accent) 50%,transparent)}
+#shinobi-app .dossier-rich .stage-arsenal>.file-demo{padding-top:7px;overflow-y:auto;min-height:0;scrollbar-gutter:stable}
+#shinobi-app .dossier-rich .file-demo-heading{position:relative;min-height:76px;padding-right:48px;flex-shrink:0}
+#shinobi-app .dossier-rich .file-demo-heading{min-height:61px}
+#shinobi-app .dossier-rich .file-original-name{display:none}
+#shinobi-app .dossier-rich .file-demo-heading h3{font-size:25px!important;line-height:1.05!important;margin:5px 0 3px!important;overflow-wrap:anywhere}
+#shinobi-app .dossier-rich .file-demo-heading .eyebrow{font-size:6px;color:#9aacc6;letter-spacing:1.7px}
+#shinobi-app .dossier-rich .file-original-name{font-size:8px;color:#7d8fa9;margin-bottom:7px;max-width:100%}
+.rich-tech-mark{position:absolute;right:4px;top:6px;display:grid;place-items:center;width:37px;height:42px;border:1px solid color-mix(in srgb,var(--stage-accent) 24%,transparent);border-radius:7px 2px 7px 2px;color:var(--stage-accent);background:color-mix(in srgb,var(--stage-accent) 5%,transparent)}
+.rich-tech-mark>i{position:absolute;inset:-5px;border:1px solid color-mix(in srgb,var(--stage-accent) 7%,transparent);border-radius:10px 4px 10px 4px;animation:rich-mark-breathe 5s ease-in-out infinite}
+.rich-tech-tags{display:flex;flex-wrap:wrap;align-items:center;gap:4px 9px;margin-bottom:8px}
+.rich-tech-tags>span{display:flex;align-items:center;gap:4px;font-size:8px;color:#93a7bf}
+.rich-tech-tags>span:first-child{color:var(--stage-accent)}
+.rich-tech-tags>span+span:before{content:'';width:3px;height:3px;border-radius:50%;background:#65748a;margin-right:3px}
+#shinobi-app .dossier-rich .stage-arsenal .game-demo{min-height:164px;max-height:235px;position:relative;border-color:color-mix(in srgb,var(--stage-accent) 13%,#253047);border-radius:8px;background:radial-gradient(ellipse at 50% 100%,color-mix(in srgb,var(--stage-accent) 7%,transparent),transparent 60%),linear-gradient(120deg,#0a1320,#111b29)}
+#shinobi-app .dossier-rich .rich-long-tech .game-demo{min-height:144px}
+.rich-stage-mode{position:absolute;left:10px;bottom:9px;display:flex;align-items:center;gap:5px;font:5px Consolas,monospace;letter-spacing:1.2px;color:#7d91af;z-index:3}
+.rich-stage-mode>i{width:3px;height:3px;border-radius:50%;background:var(--stage-accent);box-shadow:0 0 5px var(--stage-accent)}
+.dossier-rich .demo-stage-label{display:none}
+.rich-stage-corners{position:absolute;inset:6px;pointer-events:none;z-index:3;opacity:.6}
+.rich-stage-corners>i{position:absolute;width:10px;height:10px;border-color:var(--stage-accent);border-style:solid;border-width:1px 0 0 1px;top:0;left:0}
+.rich-stage-corners>i:nth-child(2){left:auto;right:0;transform:rotate(90deg)}
+.rich-stage-corners>i:nth-child(3){top:auto;bottom:0;transform:rotate(-90deg)}
+.rich-stage-corners>i:nth-child(4){top:auto;bottom:0;left:auto;right:0;transform:rotate(180deg)}
+.rich-stage-aura{position:absolute;left:20%;right:20%;height:6px;bottom:12%;border-radius:50%;box-shadow:0 0 20px color-mix(in srgb,var(--stage-accent) 8%,transparent);pointer-events:none;z-index:-1}
+#shinobi-app .dossier-rich .stage-arsenal .demo-controls{gap:7px;margin:10px 0 8px}
+#shinobi-app .dossier-rich .stage-arsenal .demo-play-button{font-size:10px!important;border-radius:5px;min-height:31px;padding:8px 10px;box-shadow:0 2px 12px color-mix(in srgb,var(--stage-accent) 8%,transparent);transition:filter .2s,box-shadow .2s}
+#shinobi-app .dossier-rich .stage-arsenal .demo-play-button:hover:not(:disabled){filter:brightness(1.12);box-shadow:0 2px 16px color-mix(in srgb,var(--stage-accent) 19%,transparent)}
+#shinobi-app .dossier-rich .stage-arsenal .demo-status{font-size:6px;max-width:100px}
+#shinobi-app .dossier-rich .stage-arsenal .game-source-caption{font-size:8px;margin-bottom:0;padding-bottom:7px;border:0}
+#shinobi-app .dossier-rich .stage-arsenal .game-source-caption{display:none}
+.rich-inline-credit{font-size:7px;line-height:1.5;color:#8093ae;margin:0 0 2px;flex-shrink:0}
+#shinobi-app .dossier-rich .stage-tech-notes{padding-top:9px;padding-bottom:9px}
+.rich-native-technique{font-size:11px!important;color:#8198b8!important}
+#shinobi-app .dossier-rich .stage-arsenal>.stage-section-head{padding-bottom:9px}
+.dossier-rich .stage-quick-techs{margin-top:8px}
+#shinobi-app .dossier-rich .stage-arsenal .game-demo{min-height:156px}
+#shinobi-app .dossier-rich .rich-long-tech .game-demo{min-height:136px}
+#shinobi-app .dossier-rich .stage-arsenal .demo-controls{margin-top:7px;margin-bottom:5px}
+#shinobi-app .dossier-rich .stage-arsenal .demo-progress{margin-bottom:5px}
+#shinobi-app .dossier-rich .stage-tech-notes{padding:6px 0;min-height:44px;max-height:44px;margin-top:2px}
+.dossier-rich .rich-tech-note-icon{height:28px}
+#shinobi-app .dossier-rich .stage-arsenal .game-source-caption>span,#shinobi-app .dossier-rich .stage-arsenal .game-source-caption a{font-size:7px;line-height:1.6;color:#8496ae}
+#shinobi-app .dossier-rich .stage-tech-notes{display:flex;gap:9px;align-items:center;padding:11px 0 13px;margin-top:4px;border-top:1px solid #ffffff0b;text-align:left;transition:color .2s}
+.rich-tech-note-icon{display:grid;place-items:center;width:29px;height:32px;color:#9bacc3;border:1px solid #ffffff0c;border-radius:5px;background:#ffffff03;flex-shrink:0}
+.stage-tech-notes>span:nth-child(2){flex:1;min-width:0}
+.stage-tech-notes>span>strong{font-size:11px;font-weight:500;color:#b8c7d8;display:block}
+.stage-tech-notes>span>small{font-size:7px;color:#7588a2;display:block;margin-top:3px}
+.stage-tech-notes>b{font:21px 'Barlow Condensed','Arial Narrow',sans-serif;color:var(--stage-accent);text-align:center;min-width:25px}
+.stage-tech-notes>b>small{font:6px Consolas,monospace;display:block;letter-spacing:.5px;color:#7f8fa6;margin-top:2px}
+.stage-tech-notes>i{font-size:14px;font-style:normal;color:var(--stage-accent);margin-left:3px}
+#shinobi-app .dossier-rich .stage-sidebar-foot{min-height:40px;max-height:45px;padding:0 4px;border:0;gap:10px}
+.dossier-rich .stage-sidebar-foot>span{font-size:9px}.dossier-rich .stage-sidebar-foot small{font-size:5px}
+#shinobi-app .dossier-rich .stage-sidebar-foot .file-avatar{height:37px;width:37px}
+.dossier-rich .stage-sidebar-foot .file-village-seal{width:29px;height:29px}
+.rich-poll-summary{display:flex;gap:25px;align-items:center;padding:8px 0 25px;border-bottom:1px solid #ffffff0f;margin-bottom:25px}
+.rich-poll-summary>span{display:grid;place-items:center;width:75px;height:85px;color:#e3b682;border:1px solid #d5a46625;border-radius:18px 5px 18px 5px;background:#d5a46607}
+.rich-poll-summary small{font:8px Consolas,monospace;letter-spacing:1px;color:#8195af}
+.rich-poll-summary strong{display:block;font:60px 'Barlow Condensed','Impact','Arial Narrow',sans-serif;color:#e5c8a3;line-height:1.15}
+.rich-poll-summary p{font-size:13px!important}
+.rich-poll-regions>div{display:grid;grid-template-columns:120px 1fr 65px;gap:15px;align-items:center;margin:18px 0;font-size:12px;color:#b5c4d8}
+.rich-poll-regions small{display:block;color:#7288a5;font-size:9px;margin-top:4px}
+.rich-poll-regions>div>div{height:5px;background:#ffffff06;border-radius:5px;overflow:hidden}
+.rich-poll-regions i{display:block;height:100%;background:linear-gradient(90deg,#927256,#e4bd8d);border-radius:5px}
+.rich-poll-regions strong{font-size:12px;font-weight:500;text-align:right}
+.rich-modal-label{font:10px Consolas,monospace;letter-spacing:2px;color:#bca38a}
+.rich-media-credit{margin-top:25px;padding-top:20px;border-top:1px solid #ffffff0e}
+.rich-media-credit>span{display:block;font:9px Consolas,monospace;letter-spacing:1px;color:#8293ab;margin-bottom:8px}
+.rich-media-credit strong{font-size:14px;font-weight:500;color:#bdcce0}.rich-media-credit p{font-size:11px!important;color:#8195b1!important}
+@keyframes rich-mark-breathe{0%,100%{opacity:.4;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}
+@keyframes rich-panel-in{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:1350px){#shinobi-app .dossier-rich .stage-dossier{padding:14px 14px 0}#shinobi-app .dossier-rich .stage-arsenal{padding:13px 13px 0}#shinobi-app .rich-dossier-heading h3{font-size:22px}.rich-dossier-heading{gap:8px}.rich-dossier-seal{width:34px;height:39px}.rich-dossier-seal img{width:22px;height:22px}#shinobi-app .rich-dossier-heading .stage-kicker{font-size:6px;letter-spacing:1px}.rich-dossier-heading .stage-poll small{font-size:7px}#shinobi-app .dossier-rich .stage-tabs button{font-size:10px;gap:5px;padding:8px 5px}.dossier-rich .stage-profile-facts{gap:12px}.dossier-rich .stage-profile-facts>span{gap:6px}#shinobi-app .dossier-rich .stage-profile-facts>button{font-size:8px}.rich-profile-copy h3{max-width:87%}#shinobi-app .dossier-rich .file-demo-heading h3{font-size:23px!important}.rich-profile-art{right:-30px;width:48%}.rich-inherited>span{font-size:7px}#shinobi-app .dossier-rich .stage-quick-techs button{font-size:8px}}
+@media(max-width:1100px){#shinobi-app .dossier-rich .stage-tab-panel{height:222px}.rich-dossier-heading .stage-poll>span{font-size:5px!important}.rich-dossier-heading .stage-poll small{font-size:6px}#shinobi-app .rich-dossier-heading h3{font-size:21px}.rich-profile-art{opacity:.21}#shinobi-app .rich-profile-copy h3{font-size:18px;max-width:100%}#shinobi-app .dossier-rich .stage-intro{font-size:10px;max-width:100%}.dossier-rich .stage-profile-facts{gap:10px;flex-wrap:wrap}.dossier-rich .stage-profile-facts>span>i{width:25px;height:28px}.dossier-rich .stage-profile-facts small{font-size:5px!important}.dossier-rich .stage-profile-facts>span{font-size:10px}#shinobi-app .dossier-rich .stage-profile-facts>button{margin-left:0;font-size:8px}.rich-inherited{gap:4px}.rich-story-foot>span{font-size:7px}#shinobi-app .rich-story-foot>button{font-size:8px}.rich-family-origin strong{font-size:10px}#shinobi-app .rich-family-branches .file-family-item button{font-size:9px!important}.rich-tech-mark{width:30px;height:35px;right:1px}.rich-tech-mark>svg{width:21px}#shinobi-app .dossier-rich .file-demo-heading{padding-right:36px}.rich-tech-tags{gap:4px 6px}.rich-tech-tags>span{font-size:7px}.stage-tech-notes>span>strong{font-size:10px}.stage-tech-notes>span>small{font-size:6px}.rich-tech-note-icon{width:24px;height:29px}}
+@media(max-width:970px){#shinobi-app .dossier-rich .stage-tab-panel{height:205px}#shinobi-app .dossier-rich .stage-arsenal{min-height:465px}.dossier-rich .stage-profile-facts{flex-wrap:nowrap}#shinobi-app .dossier-rich .stage-profile-facts>button{margin-left:auto}.rich-profile-art{width:35%;right:0}#shinobi-app .dossier-rich .stage-intro{font-size:12px;max-width:87%}.rich-profile-copy h3{max-width:85%}}
+@media(prefers-reduced-motion:reduce){.rich-tech-mark>i{animation:none!important}.dossier-rich .stage-tab-panel{animation:none!important}.rich-story-rail button{transition:none!important}}

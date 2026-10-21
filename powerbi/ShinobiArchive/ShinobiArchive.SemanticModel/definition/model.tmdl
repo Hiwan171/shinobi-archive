@@ -1,0 +1,66 @@
+model Model
+	culture: pt-BR
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+
+annotation PBI_ProTooling = ["DevMode","MCP-PBIModeling"]
+
+annotation ShinobiArchiveDataSnapshot = 2026-10-21
+
+ref table aliases
+ref table aparicoes_por_midia
+ref table arcos
+ref table arquivos_imagem
+ref table atributos_originais
+ref table caracteristicas
+ref table clas
+ref table colecoes_fonte
+ref table creditos_dublagem
+ref table distribuicao_notas
+ref table distribuicao_status
+ref table dubladores
+ref table dublagem_original
+ref table elenco_por_serie
+ref table episodios
+ref table equipes
+ref table estreias
+ref table familia
+ref table ferramentas
+ref table generos_por_serie
+ref table imagens_referenciadas
+ref table itens_quarentena
+ref table jutsus
+ref table kekkei_genkai
+ref table links_por_serie
+ref table medidas_por_fase
+ref table naturezas
+ref table papeis_comunitarios
+ref table patentes_por_fase
+ref table personagem_clas
+ref table personagem_equipes
+ref table personagem_ferramenta
+ref table personagem_jutsu
+ref table personagem_kekkei_genkai
+ref table personagem_natureza
+ref table personagem_vilas
+ref table personagens
+ref table personagens_anilist
+ref table personagens_narutop99
+ref table problemas_qualidade
+ref table ranking_demografico
+ref table relacoes_entre_obras
+ref table series_filmes
+ref table simbolos_vilas
+ref table tags_por_serie
+ref table tracos_especiais
+ref table vilas
+ref table votacao_narutop99
+ref table ComparadorA
+ref table ComparadorB
+ref table Fases
+ref table Regioes
+ref table Series
+ref table Indicadores
+
+ref cultureInfo pt-BR
+

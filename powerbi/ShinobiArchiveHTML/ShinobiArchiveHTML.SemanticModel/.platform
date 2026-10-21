@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "ShinobiArchiveHTML"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "17103f22-e4b0-51df-9331-adfa9bd5f8ac"
+  }
+}

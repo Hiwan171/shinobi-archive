@@ -1,0 +1,35 @@
+table personagem_clas
+	lineageTag: c51b1854-3369-5c6e-8bc8-572584a30393
+
+	column personagem_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 6521d3bf-61ea-518b-b845-269d03d22370
+		summarizeBy: none
+		sourceColumn: personagem_id
+
+	column cla_id
+		dataType: int64
+		formatString: #,0
+		lineageTag: f5505037-27e5-582a-9972-fd7828582073
+		summarizeBy: none
+		sourceColumn: cla_id
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: b4565706-06b8-56b4-8e41-eadb8c1ed266
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition personagem_clas = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCp3avY4VMQyG4Xs59RZJHMcxNXeBEFpgQUjAItgGIe4dRINHFHx5u9M8mpE/n/zOix+3Lw9fvz1+vn//8OnVh7e3Z3l3e/Px/s/Pdnd79/j56eH27Pb8/unp4fX998fbz7t/SG/AdGAGMAbMBMaBWefG9l/TVZPnZjZgOjADGANmAuPALGDi3HiCB3l50FDNPje9Vs5ElLUMKhq1T6eMBkFG0CTICVoExTky6+fI2z5Hy50gUIgob+dq8QyhMhYvEe2SUqgpLYC8zsoyMoLWOkcr8xz1VocIuXxR3m/LKM7RbGWISHnWrNNmk1WdoPXZtk6dQ1aO1EJqI5VEXRZGuupIDaQMKZTyZCnXZxnqKEMdZaijDHWUoY4y1FGGOspQRxnqKEMdZfIgv2tgUx4Qq3JZJVHWgLJL+y55o9yDsNkIu5RDn2AB6pe/pfwoN6DmYmoi5UgtpAIpUvllpBpxWabIb3jZEMurrwykNlIJlF+qkfKivAz0o8nKkJpIOVILqXqI0eXuDaB6HXqHfMrSiIrWiEJv2HsdpGQ2ozT9MHkIcKASKc9aRPlAI8vfcsjbf6/VWPKxXRCVROUiqvdLJy5UjkDlCFSOQOUIVg75FevqfGz5wKsWUZ0g1mpIdaCiXtxYk5UhNZFyouq0Yl1WCdSOUnkbshpIGVITKUcqkNpIJVG7AZWjVl6eLeu9jk15t9cRG612outsENbq4tKWzpyxxVgwthlLwizZS9aJwkJu/1rIrT9sMGaMTcacMViSIGxcxp+NYksWW7LYksWWLLZksSWLLVls8gKrqql/tlMvFg9Y1ptwdQEz6qJi6hcMCVREI2p3oPqoK85pOnPALge7U76yrwufqZ+OL6B+732SsOtXDzpbCxWkZqavYeotwwlLxOrBxAnrjA3GjDFnbDEWjLG4E8VtrTHWGRuMGWOTMWdsMRaMoS6xzuLuLO7O4u4s7s7i7izuzuLuJO7htZD6Wawh5UDtekY39e1h3YwesMmeNgdjE7BrZoEyC5RZoMyCZRYss2CZBctMvrS/VH/rD6tzr7ztMi8VcXUntOtpkcsXhK1OGC7vM6xue0+YM7YYC8ZgSRKxuj2UWV1Wu+nP2ojVtb9PnZW/qMsfGdVPpn3JagPll3rI13D1w4QDNZFypBZSrBpJVP3O8EB1pAZSKOWJUp7/T/nlLwgbdCgeNwAA", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"personagem_id", Int64.Type}, {"cla_id", Int64.Type}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

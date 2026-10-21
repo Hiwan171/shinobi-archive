@@ -1,0 +1,802 @@
+[
+  {
+    "arco_id": "arco_8ff84bf3be64a443",
+    "serie_anilist_id": 97938,
+    "nome": "Academy Entrance Arc",
+    "primeiro_episodio": 1,
+    "ultimo_episodio": 15,
+    "quantidade_episodios": 15,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_9ac5a9f83c9be647",
+    "serie_anilist_id": 97938,
+    "nome": "Sarada Uchiha Arc",
+    "primeiro_episodio": 16,
+    "ultimo_episodio": 24,
+    "quantidade_episodios": 9,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_0f0e064d08db139f",
+    "serie_anilist_id": 97938,
+    "nome": "Naruto Shinden Arc",
+    "primeiro_episodio": 25,
+    "ultimo_episodio": 32,
+    "quantidade_episodios": 8,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_4e2539ff7338f9e7",
+    "serie_anilist_id": 97938,
+    "nome": "Uchiha Senki Arc",
+    "primeiro_episodio": 33,
+    "ultimo_episodio": 52,
+    "quantidade_episodios": 20,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_980d0db87e4c3df8",
+    "serie_anilist_id": 97938,
+    "nome": "Chūnin Exams Arc",
+    "primeiro_episodio": 53,
+    "ultimo_episodio": 66,
+    "quantidade_episodios": 14,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_de9857e19260cadc",
+    "serie_anilist_id": 97938,
+    "nome": "Konohamaru's Love Arc",
+    "primeiro_episodio": 67,
+    "ultimo_episodio": 70,
+    "quantidade_episodios": 4,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_7f3fa9da847538c3",
+    "serie_anilist_id": 97938,
+    "nome": "Parent and Child Day Arc",
+    "primeiro_episodio": 71,
+    "ultimo_episodio": 92,
+    "quantidade_episodios": 22,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_6406c9e834cc0399",
+    "serie_anilist_id": 97938,
+    "nome": "Jūgo Arc",
+    "primeiro_episodio": 93,
+    "ultimo_episodio": 97,
+    "quantidade_episodios": 5,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_3aeb074c3b8536db",
+    "serie_anilist_id": 97938,
+    "nome": "Steam Ninja Scrolls Arc",
+    "primeiro_episodio": 98,
+    "ultimo_episodio": 103,
+    "quantidade_episodios": 6,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_f3abdbee16187af9",
+    "serie_anilist_id": 97938,
+    "nome": "Mujina Bandits Arc",
+    "primeiro_episodio": 104,
+    "ultimo_episodio": 111,
+    "quantidade_episodios": 8,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_c73be24cdbc603cf",
+    "serie_anilist_id": 97938,
+    "nome": "Kara Actuation Arc",
+    "primeiro_episodio": 112,
+    "ultimo_episodio": 127,
+    "quantidade_episodios": 16,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_526b97dfe322dff6",
+    "serie_anilist_id": 97938,
+    "nome": "Ao Arc",
+    "primeiro_episodio": 128,
+    "ultimo_episodio": 136,
+    "quantidade_episodios": 9,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_15982a16dd0322df",
+    "serie_anilist_id": 97938,
+    "nome": "Vessel Arc",
+    "primeiro_episodio": 137,
+    "ultimo_episodio": 148,
+    "quantidade_episodios": 12,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_f4bdad9d8d0c013d",
+    "serie_anilist_id": 97938,
+    "nome": "Kawaki Arc",
+    "primeiro_episodio": 149,
+    "ultimo_episodio": 220,
+    "quantidade_episodios": 72,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_1b4048c72143a72c",
+    "serie_anilist_id": 97938,
+    "nome": "Amado Arc",
+    "primeiro_episodio": 221,
+    "ultimo_episodio": 243,
+    "quantidade_episodios": 23,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_5f058a9e1931a497",
+    "serie_anilist_id": 97938,
+    "nome": "Code Arc",
+    "primeiro_episodio": 244,
+    "ultimo_episodio": 293,
+    "quantidade_episodios": 50,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_d8dd7f31bf3b9527",
+    "serie_anilist_id": 20,
+    "nome": "Land of Waves",
+    "primeiro_episodio": 1,
+    "ultimo_episodio": 19,
+    "quantidade_episodios": 19,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_2dbb08825ba03c4b",
+    "serie_anilist_id": 20,
+    "nome": "Chunin Exams — Round 1",
+    "primeiro_episodio": 20,
+    "ultimo_episodio": 25,
+    "quantidade_episodios": 6,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_e54d6679cf78f0db",
+    "serie_anilist_id": 20,
+    "nome": "Chunin Exams",
+    "primeiro_episodio": 26,
+    "ultimo_episodio": 67,
+    "quantidade_episodios": 42,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_ff490658527b40d4",
+    "serie_anilist_id": 20,
+    "nome": "Konoha Crush",
+    "primeiro_episodio": 68,
+    "ultimo_episodio": 81,
+    "quantidade_episodios": 14,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_740cd0f3d4e28a6f",
+    "serie_anilist_id": 20,
+    "nome": "Search for Tsunade",
+    "primeiro_episodio": 82,
+    "ultimo_episodio": 100,
+    "quantidade_episodios": 18,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_5604fe0f6e9f1068",
+    "serie_anilist_id": 20,
+    "nome": "Filler",
+    "primeiro_episodio": 97,
+    "ultimo_episodio": 177,
+    "quantidade_episodios": 3,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_18ce6c853d00013d",
+    "serie_anilist_id": 20,
+    "nome": "Land of Tea Escort",
+    "primeiro_episodio": 102,
+    "ultimo_episodio": 106,
+    "quantidade_episodios": 5,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_32c142e91c269362",
+    "serie_anilist_id": 20,
+    "nome": "Sasuke Retrieval",
+    "primeiro_episodio": 107,
+    "ultimo_episodio": 135,
+    "quantidade_episodios": 29,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_e0f9ed1b5d8ff860",
+    "serie_anilist_id": 20,
+    "nome": "Land of Rice Fields",
+    "primeiro_episodio": 136,
+    "ultimo_episodio": 141,
+    "quantidade_episodios": 6,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_954ab31f7fe40954",
+    "serie_anilist_id": 20,
+    "nome": "Mizuki Strikes Back",
+    "primeiro_episodio": 142,
+    "ultimo_episodio": 147,
+    "quantidade_episodios": 6,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_001bdfc427d64ac5",
+    "serie_anilist_id": 20,
+    "nome": "Bikôchû Search",
+    "primeiro_episodio": 148,
+    "ultimo_episodio": 151,
+    "quantidade_episodios": 4,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_67a3111ccab97f06",
+    "serie_anilist_id": 20,
+    "nome": "Kurosuki Family Removal",
+    "primeiro_episodio": 152,
+    "ultimo_episodio": 157,
+    "quantidade_episodios": 6,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_23a8d9fba7375de5",
+    "serie_anilist_id": 20,
+    "nome": "Gosunkugi Capture",
+    "primeiro_episodio": 158,
+    "ultimo_episodio": 160,
+    "quantidade_episodios": 3,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_9f6852c3f8a0ccd7",
+    "serie_anilist_id": 20,
+    "nome": "Cursed Warrior",
+    "primeiro_episodio": 161,
+    "ultimo_episodio": 167,
+    "quantidade_episodios": 7,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_9b088cb8dff4c898",
+    "serie_anilist_id": 20,
+    "nome": "Onbaa",
+    "primeiro_episodio": 168,
+    "ultimo_episodio": 169,
+    "quantidade_episodios": 2,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_64e8b13cf5d2d29c",
+    "serie_anilist_id": 20,
+    "nome": "Laughing Shino",
+    "primeiro_episodio": 170,
+    "ultimo_episodio": 171,
+    "quantidade_episodios": 2,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_a45828d6be35fef8",
+    "serie_anilist_id": 20,
+    "nome": "Third Great Beast Arc",
+    "primeiro_episodio": 172,
+    "ultimo_episodio": 176,
+    "quantidade_episodios": 5,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_e59a782fc1dda84a",
+    "serie_anilist_id": 20,
+    "nome": "Konoha Plans Recapture",
+    "primeiro_episodio": 178,
+    "ultimo_episodio": 183,
+    "quantidade_episodios": 6,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_d85e306c4bd828f1",
+    "serie_anilist_id": 20,
+    "nome": "Green Beast Arc",
+    "primeiro_episodio": 184,
+    "ultimo_episodio": 186,
+    "quantidade_episodios": 3,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_bf04bd33d2a91455",
+    "serie_anilist_id": 20,
+    "nome": "Buried Gold",
+    "primeiro_episodio": 187,
+    "ultimo_episodio": 191,
+    "quantidade_episodios": 5,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_6dc197ca23d9b0e2",
+    "serie_anilist_id": 20,
+    "nome": "Star Guard",
+    "primeiro_episodio": 192,
+    "ultimo_episodio": 196,
+    "quantidade_episodios": 5,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_2aa9cf892a716aa6",
+    "serie_anilist_id": 20,
+    "nome": "Peddlers Escort",
+    "primeiro_episodio": 197,
+    "ultimo_episodio": 201,
+    "quantidade_episodios": 5,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_b743398a5f4902a7",
+    "serie_anilist_id": 20,
+    "nome": "Ino-Shika-Cho Formation",
+    "primeiro_episodio": 202,
+    "ultimo_episodio": 206,
+    "quantidade_episodios": 5,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_eefd5ccd01c0895d",
+    "serie_anilist_id": 20,
+    "nome": "Yakumo Kurama Rescue",
+    "primeiro_episodio": 207,
+    "ultimo_episodio": 212,
+    "quantidade_episodios": 6,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_e6d9e892d5bd4816",
+    "serie_anilist_id": 20,
+    "nome": "Prized Artifact",
+    "primeiro_episodio": 213,
+    "ultimo_episodio": 215,
+    "quantidade_episodios": 3,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_2475abb63adaa397",
+    "serie_anilist_id": 20,
+    "nome": "Departure",
+    "primeiro_episodio": 216,
+    "ultimo_episodio": 220,
+    "quantidade_episodios": 5,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_f914cbd25fc65878",
+    "serie_anilist_id": 1735,
+    "nome": "Kazekage Rescue",
+    "primeiro_episodio": 1,
+    "ultimo_episodio": 32,
+    "quantidade_episodios": 32,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_3cbec9fe57194b6d",
+    "serie_anilist_id": 1735,
+    "nome": "Tenchi Bridge Reconnaisance",
+    "primeiro_episodio": 33,
+    "ultimo_episodio": 53,
+    "quantidade_episodios": 21,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_b13db8e380e7760d",
+    "serie_anilist_id": 1735,
+    "nome": "Immortal Trio",
+    "primeiro_episodio": 54,
+    "ultimo_episodio": 56,
+    "quantidade_episodios": 3,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_f61efc5ffb63e9d9",
+    "serie_anilist_id": 1735,
+    "nome": "Twelve Guardian Ninja",
+    "primeiro_episodio": 57,
+    "ultimo_episodio": 71,
+    "quantidade_episodios": 15,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_f845d22f845d9408",
+    "serie_anilist_id": 1735,
+    "nome": "Hidan & Kakuzu",
+    "primeiro_episodio": 72,
+    "ultimo_episodio": 88,
+    "quantidade_episodios": 17,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_c0a5d08f603e64f9",
+    "serie_anilist_id": 1735,
+    "nome": "Three-Tails Appearance",
+    "primeiro_episodio": 89,
+    "ultimo_episodio": 112,
+    "quantidade_episodios": 24,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_3c016db1a405bd04",
+    "serie_anilist_id": 1735,
+    "nome": "Itachi Pursuit",
+    "primeiro_episodio": 113,
+    "ultimo_episodio": 126,
+    "quantidade_episodios": 14,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_2680a0aab5fa2166",
+    "serie_anilist_id": 1735,
+    "nome": "Fated Battle — Sasuke vs Itachi",
+    "primeiro_episodio": 127,
+    "ultimo_episodio": 133,
+    "quantidade_episodios": 7,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_2d9ba1a801866087",
+    "serie_anilist_id": 1735,
+    "nome": "Six-Tails Unleashed",
+    "primeiro_episodio": 134,
+    "ultimo_episodio": 143,
+    "quantidade_episodios": 10,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_0e645b2874df88c9",
+    "serie_anilist_id": 1735,
+    "nome": "Konoha History (Filler)",
+    "primeiro_episodio": 144,
+    "ultimo_episodio": 151,
+    "quantidade_episodios": 8,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_bc9affab7646594e",
+    "serie_anilist_id": 1735,
+    "nome": "Five Kage Summit",
+    "primeiro_episodio": 152,
+    "ultimo_episodio": 169,
+    "quantidade_episodios": 18,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_f5b0f94b459bba30",
+    "serie_anilist_id": 1735,
+    "nome": "Five Kage Summit (Filler)",
+    "primeiro_episodio": 170,
+    "ultimo_episodio": 171,
+    "quantidade_episodios": 2,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_24cc836f35977c40",
+    "serie_anilist_id": 1735,
+    "nome": "Confining the Jinchuriki",
+    "primeiro_episodio": 172,
+    "ultimo_episodio": 207,
+    "quantidade_episodios": 15,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_f5073b06e3ef7a37",
+    "serie_anilist_id": 1735,
+    "nome": "Power (Filler Arc)",
+    "primeiro_episodio": 176,
+    "ultimo_episodio": 196,
+    "quantidade_episodios": 21,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_54583f4bbbba478b",
+    "serie_anilist_id": 1735,
+    "nome": "Paradise Life on a Boat",
+    "primeiro_episodio": 208,
+    "ultimo_episodio": 212,
+    "quantidade_episodios": 5,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_7d9f28b840e6d2bc",
+    "serie_anilist_id": 1735,
+    "nome": "Fourth Shinobi War — Prologue",
+    "primeiro_episodio": 213,
+    "ultimo_episodio": 222,
+    "quantidade_episodios": 10,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_a3fd65546a83ef48",
+    "serie_anilist_id": 1735,
+    "nome": "Shinobi World War (Filler)",
+    "primeiro_episodio": 223,
+    "ultimo_episodio": 242,
+    "quantidade_episodios": 20,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_e27d319455c1f795",
+    "serie_anilist_id": 1735,
+    "nome": "Fourth Shinobi War — Confrontation",
+    "primeiro_episodio": 243,
+    "ultimo_episodio": 283,
+    "quantidade_episodios": 33,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_3a864352440cd281",
+    "serie_anilist_id": 1735,
+    "nome": "Kakashi Chronicle (Filler)",
+    "primeiro_episodio": 257,
+    "ultimo_episodio": 260,
+    "quantidade_episodios": 4,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_21aa351ea659554c",
+    "serie_anilist_id": 1735,
+    "nome": "Road to Sakura (Filler)",
+    "primeiro_episodio": 271,
+    "ultimo_episodio": 271,
+    "quantidade_episodios": 1,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_394bed27fdd12ec4",
+    "serie_anilist_id": 1735,
+    "nome": "Shinobi Alliance (Filler)",
+    "primeiro_episodio": 279,
+    "ultimo_episodio": 281,
+    "quantidade_episodios": 3,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_567fbd32da6ad484",
+    "serie_anilist_id": 1735,
+    "nome": "An Edo Tensei Returns (Filler)",
+    "primeiro_episodio": 284,
+    "ultimo_episodio": 289,
+    "quantidade_episodios": 6,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_2d8c1c64e9b041b1",
+    "serie_anilist_id": 1735,
+    "nome": "Kakashi Anbu Arc (Filler)",
+    "primeiro_episodio": 290,
+    "ultimo_episodio": 295,
+    "quantidade_episodios": 6,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_9f40fad37d3d9b14",
+    "serie_anilist_id": 1735,
+    "nome": "Fourth Shinobi War — Climax",
+    "primeiro_episodio": 296,
+    "ultimo_episodio": 320,
+    "quantidade_episodios": 21,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_d6582bfc2f899338",
+    "serie_anilist_id": 1735,
+    "nome": "Filler",
+    "primeiro_episodio": 303,
+    "ultimo_episodio": 423,
+    "quantidade_episodios": 11,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_d683eb635e0a1e99",
+    "serie_anilist_id": 1735,
+    "nome": "Ten-Tails Revival",
+    "primeiro_episodio": 322,
+    "ultimo_episodio": 348,
+    "quantidade_episodios": 27,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_0ec95f70ea61a656",
+    "serie_anilist_id": 1735,
+    "nome": "Jiraiya Shinobi Handbook (Filler)",
+    "primeiro_episodio": 349,
+    "ultimo_episodio": 361,
+    "quantidade_episodios": 13,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_8df10f769c960cd2",
+    "serie_anilist_id": 1735,
+    "nome": "Birth of Ten-Tails Jinchuuriki",
+    "primeiro_episodio": 362,
+    "ultimo_episodio": 393,
+    "quantidade_episodios": 27,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_86af11371875e94e",
+    "serie_anilist_id": 1735,
+    "nome": "Sasuke Shinden (Filler)",
+    "primeiro_episodio": 388,
+    "ultimo_episodio": 390,
+    "quantidade_episodios": 3,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_db60267f472c3789",
+    "serie_anilist_id": 1735,
+    "nome": "In Naruto's Footsteps (Filler)",
+    "primeiro_episodio": 394,
+    "ultimo_episodio": 413,
+    "quantidade_episodios": 20,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_ed55acd7c5e0757d",
+    "serie_anilist_id": 1735,
+    "nome": "Kaguya Otsutsuki Strikes",
+    "primeiro_episodio": 414,
+    "ultimo_episodio": 469,
+    "quantidade_episodios": 17,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_9e6d73144c9b2ce9",
+    "serie_anilist_id": 1735,
+    "nome": "Naruto vs. Sasuke (Final)",
+    "primeiro_episodio": 424,
+    "ultimo_episodio": 426,
+    "quantidade_episodios": 3,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_89220bd4bbbede0d",
+    "serie_anilist_id": 1735,
+    "nome": "Childhood (Filler)",
+    "primeiro_episodio": 427,
+    "ultimo_episodio": 488,
+    "quantidade_episodios": 29,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_956d9de344bad466",
+    "serie_anilist_id": 1735,
+    "nome": "Itachi Shinden (Mixed)",
+    "primeiro_episodio": 451,
+    "ultimo_episodio": 458,
+    "quantidade_episodios": 8,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_d6b0186dcd8208e5",
+    "serie_anilist_id": 1735,
+    "nome": "Sasuke Shinden (Mixed)",
+    "primeiro_episodio": 470,
+    "ultimo_episodio": 479,
+    "quantidade_episodios": 10,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_8977a295a394e778",
+    "serie_anilist_id": 1735,
+    "nome": "Naruto Gaiden (Mixed)",
+    "primeiro_episodio": 480,
+    "ultimo_episodio": 483,
+    "quantidade_episodios": 4,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_74ec53ded2ac276a",
+    "serie_anilist_id": 1735,
+    "nome": "Konoha Shinden (Mixed)",
+    "primeiro_episodio": 489,
+    "ultimo_episodio": 493,
+    "quantidade_episodios": 5,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  },
+  {
+    "arco_id": "arco_cde5f889c34ce889",
+    "serie_anilist_id": 1735,
+    "nome": "Epilogue — Final Chapters",
+    "primeiro_episodio": 494,
+    "ultimo_episodio": 500,
+    "quantidade_episodios": 7,
+    "fonte": "SkipTheFiller",
+    "licenca": "CC BY 4.0"
+  }
+]

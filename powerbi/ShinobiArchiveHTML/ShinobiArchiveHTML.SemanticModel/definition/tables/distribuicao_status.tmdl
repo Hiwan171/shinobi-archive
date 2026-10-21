@@ -1,0 +1,42 @@
+table distribuicao_status
+	isHidden
+	lineageTag: deb6be0c-6e89-5101-b72a-cda2870b077b
+
+	column serie_anilist_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 2c33f96a-4a90-5766-91f3-19b0d70ae761
+		summarizeBy: none
+		sourceColumn: serie_anilist_id
+
+	column status_lista
+		dataType: string
+		lineageTag: 219a11a2-2030-51d4-a3e5-eb30e0d14a19
+		summarizeBy: none
+		sourceColumn: status_lista
+
+	column usuarios
+		dataType: int64
+		formatString: #,0
+		lineageTag: 0a88466c-c988-585b-82da-3aa077610bbf
+		summarizeBy: none
+		sourceColumn: usuarios
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: eb897b22-28ef-53cc-828c-119f2a165bc6
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition distribuicao_status = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCqWTwQrCMAyG3yXnHdZ2SdfdhhsizDmmnkTGwAkFmWC3k/juzqPaQyHXED6S/0tOT3DDww5dP9qbdVNnL5DJOAI39dPsuk+thwxWx7Yt6wNEMLu5f9i7g4ySVFIE1/s4DUtLPtpq6YZXFMhsqryuN/X6C5poHnS12zZVeSiLLyqSIYkMbNHumuYHKomM5OyfH/d/yNgEjym0wiBRmlAaFtWrCgUKHtYvK1GomCn4dUlipuARliYi+FyNNioNey1NXKxXmYqVEcxx/c5i1JoH9jnD5XGRmcO/NLXEkHqo5zdcS1idDgUAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"serie_anilist_id", Int64.Type}, {"status_lista", type text}, {"usuarios", Int64.Type}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

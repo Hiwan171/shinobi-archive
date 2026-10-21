@@ -1,0 +1,40 @@
+table patentes_por_fase
+	lineageTag: 01a548c1-6a93-5a19-ba4d-5201b71fac77
+
+	column personagem_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 9d52fa31-66f2-590c-a007-dde5a25a61b2
+		summarizeBy: none
+		sourceColumn: personagem_id
+
+	column contexto_original
+		dataType: string
+		lineageTag: 9e732476-2976-50a4-9199-2a729529c689
+		summarizeBy: none
+		sourceColumn: contexto_original
+
+	column patente_original
+		dataType: string
+		lineageTag: 6c029459-0cb7-519d-8ac8-b7b9ef941c74
+		summarizeBy: none
+		sourceColumn: patente_original
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 44ba86ad-0382-523d-a7fb-65bc5d605b97
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition patentes_por_fase = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCr1dTY6ktRK8SqvXs3D+2Wl2wJN4gEBIsEMI1dDFvH5AFWqqJRDiCJyEc3Avih0LvqlxzhexHJV6Uv7stDMjIyO//PX+x+PTT+fT4dXxh68fH+7fEXN/cf/N+XQ5/nw5f31+enz1eDp8f//O/WeHp8vdh/cv7n88XI7Xn//52wfH0+Pp+tO3f//d9d//OVwux5eHX873v71YMPHB4fHhePp3Ex9f//7NLbQBXoSNvm7hoz9/38PEe98fTt/dfXZ8ejw/vP3HmprrK3n39PJ5YTds3cL7//vzj4WPpTHBO37Dwod7HFv4IkICfWzFhhU+1NqJ2jLxuhtk0fsq9+Dil2pWuKbe/ebwcPzhl7vPL8/XpV72MrbLzb5pY799SSls/dIqshd8ZM3PbYLXIDoNfKu3buDPpNmwFoah79sbFvZ5+0blOK1e6q2v21hchw2HR22O345NI7fjtuX3o4NdsHW0BWkNfrDE4CkN/liJSkcv44aJfRbiDbyM1xvYaRGGzjC9FK8te0Yl2Fn0jdeb2GchHZybeUc73w0Le10iLeGXyOtN7JM6eeXZWEsDRsJRi00b+4cKlcCnnGqGEK1ZT/BRiIG+7G9Y2AluKDnmWlLYygf6b9dZsNSVd8Ry4JOfMYk+MzTgx23Txl4of7ZC9v7F+bvnl8fLT893a6uZSggqN43sl8j3rY/23vnp+XK+++RwenXY4/U0AeNP4oaHsvuA25gNf/PPBi64iSr6QzncgujgXcG6iRLddMQVNxnqWD+8YWCfp6SUQa6WLvD1nlC8q2/Z2MvVYxp6L6Lydqx9pihFW0u1hcpbvuJ4Kfj89OoVSUBnpeFfcmno3EfHrOY+K3YCzUII8Icain2RouPP7JAEe7c7eJ/T0chvOh7UmCMIwEkq/qoVxwdSYiXGycq5xWczXdEI9pzwRZT4GVXwwhSNkPYOvg9nJRNfK3U7vDIiAi+2Se9oapGMid1rMVdK6dPRIaEr+rq14F0jYhrwd9A7Hk4AU+O2ajk7Q6zXxxx9mwQ+gNPWwV5ojk+UXfEhg/fk+bonmmYb6FA0hsD3vSsaR+oDDeAK4cYNfG6TWy/H7Wt30VCg2QBZ6qBYLWiiHVyawjM1cUL6Lz7w62CQ/bTDQVBL9J73Di/U+FZUfRvJXaR44q9eh/dzOgO4UjV4993EF/sr/ldO18QY+4LPEODvrQbh9jUf4AfXJeGc9Am/ezsBY0gCI90TT4MOVSwUFxFoRlqE4qv9+B6jEXA62gi0f48KeryaPRFyG4LgwNxE+Xat9s+Ec2HmHHBqRBDSNM2Jp5EYo1txECihlFbY3gV8tHqSOmjG1jO1r79LS1L3sOFd0gdP38IHXN5i08SOwdAkNAH2Sp5Q3JYbtnYBhCpcrEXnL4Hwxd6c0sW89MWmokmE5SaTahMgPEoSNFlA0TidEh58hUM1iaUBERBZuPiPGwFVJgAoQQRLCVTVAe6ISwJVvxG6IKXhcXhC8CvOaOwT9H1bKlksmlAer0UV/sUUrgyqia+6mKK10czwvCwj6CrYxPOMvAkDfXBNtI6OKTiO9jGxIaLPCX9oS8Th1doRWtEoAq3RE1GoV1SRDIXzTnqDq/P2rfd8Z3JyF/Tz0Z0BlRGqVR0uwTYM3f8zHM9/HpWLfVWQi6EdmI4PGLIT+8uyE+CAHILnEA/KQpjARg54JJED7/xZ0YJe3ZiEv/A5k8B+EA4Rfgo6l57RCB3keB2pJnAmfBM4Sb0pA2GMhPclwMdsSOv4VXT4EIE2Gt7EQPO6W6WVbZGzAe/rbhPerNwmXB5UGlzCXBpDRlkYGsdS0UWqdws4/FaUcLwJZkO8EGIHmR0vPqMNfoOpEUR0NODyF7XiyxpdNvEDK7yxKToGJ4OKDWXKYVRmAC6uZxDoxtnx5Cn41C7xEtNw9WOBd9y6UjpPw0m06ehvowe/JtLGmqWgNjiWMtENP+imWrSIIXF+IuF2gVdkDQ+idh5TundyCDMaWIoFLfUS2P9/KjumbATsloDtwHEXglS0OVyggaSrVkEpluNI3suljUDhNE5EpKWxIsXvtsWagF1nWmkNKDNhfRKmsgtBHsR4RyLgvVk68B0oWleoLE87IRy2icaXrAmcE01gdhuBEw1XGiuq99aO7w1ccZ/R1HgPscQrdVmlFlrdlgpyWbU1CZrUNtGpgDc4/x4+ptoVPkFaDdxDUCGTLxkgdJ+5C8GGEmxQO00DPszMg42MOVyjz+GkLe/wPNm7E2TC2cG946MjJygiezr7w2WHf7iJhi+j4V+BaErr8wpBky9C4NsepflkxQ+mDd+rSOjLCEXzH8PYpJvoSrdohK3qnFJAEKbLRaJhq4Az1mJOXtW3CdEWsb/YBK6U5uiD0DsPkekDDTT0ROO9fTqnHXuip7r2yRMVHK3R3HK0wrr+ezw83H36ePr/4c3FoeAq2EMcb4IH/g5FyxaPksJAdTkOX84gbs6Ag1wjB7xgMuqc0uqHm2hse0x8H8aYBt/+OeAfCi5dmw2929ngyqhZKynV/CPxjL9sztDaSjixMIWhZiHoBt4UdFE0tcEtoDOJVLh2VBo64UobDPkddFdFEmQrMgl8hEz4jk+OHlluRSQwIHQ2pYXbs7ELvlPwY7qmsiuZszTGeU3SxvADfRhyXLMTlIz6JMj/oCc4z0moiMyJr1TMCa9bSmuKt4HXtL7awGv8XY0QJnw2SYaRSTCiQUZzpBnhOJsRjhpDMb954Nv56mPiV5WtEr/1BFXEqxGBd0AmR7TJOFtP6BkVE/qIJaO390oIXjBqMo5eJ/SUSk/6Bm1F6DtPRZQR8B7pQbmDBo+YJ5KdoFIHFym5muDPk5uNbxJOALragOswCV5GUuF4vWzOCcLtvzJIrlLqoF9V+uvEfhpRwwfaWmp1Wt4b57WyX42Vo4X6VgVeOzGIgw+kJgjwFuaSV2oX7ZQLiSiFcjWGf5w6XM5nW78BBmTpxAvEzkEYe98afrik4kE/Uyd8LO0MI7zeAanpayxLYRlcrN2CcMYC7vMWg6BMFvgA0ZJHSb8aS6LLTIrLzMDvEWH4jniDj3rxZsQo0BsdVfRGqAYmmm9vDpYLNee9nB5OEozOMvC2qlTbeIlHDzTRuwdYPLZ3Xg/+SPBi0ggMzcBHzznhr410+DAKFXzKvLv02Vd/AfdQJyw90wAA", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"personagem_id", Int64.Type}, {"contexto_original", type text}, {"patente_original", type text}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

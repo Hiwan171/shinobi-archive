@@ -1,0 +1,35 @@
+{
+  "data": {
+    "objects": [
+      "annotationTemplate",
+      "centerBackground",
+      "centerValue",
+      "dataPoint",
+      "general",
+      "image",
+      "label",
+      "labels",
+      "legend",
+      "slices",
+      "value"
+    ],
+    "visualContainerObjects": [
+      "actionButtonSection",
+      "background",
+      "border",
+      "divider",
+      "dropShadow",
+      "general",
+      "lockAspect",
+      "padding",
+      "spacing",
+      "stylePreset",
+      "subTitle",
+      "title",
+      "visualHeader",
+      "visualHeaderTooltip",
+      "visualLink",
+      "visualTooltip"
+    ]
+  }
+}

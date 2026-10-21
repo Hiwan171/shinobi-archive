@@ -1,0 +1,412 @@
+[
+  {
+    "serie_anilist_id": 20,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "genero": "Drama",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "genero": "Fantasy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "genero": "Supernatural",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 594,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 594,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 594,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 761,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 761,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 936,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 936,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 936,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 936,
+    "genero": "Drama",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 936,
+    "genero": "Fantasy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 936,
+    "genero": "Supernatural",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1074,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1074,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "genero": "Drama",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "genero": "Fantasy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "genero": "Supernatural",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 2144,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 2144,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 2472,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 2472,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 2472,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 2472,
+    "genero": "Fantasy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 4134,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 4437,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 4437,
+    "genero": "Supernatural",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 6325,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 6325,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 7367,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 7367,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 7367,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 8246,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 8246,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 10075,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 10075,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 10589,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 10589,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 10589,
+    "genero": "Mystery",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 10659,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 10659,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 10686,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 10686,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 13667,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 13667,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 16870,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 16870,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 16870,
+    "genero": "Drama",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 16870,
+    "genero": "Fantasy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 16870,
+    "genero": "Romance",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 16870,
+    "genero": "Supernatural",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 19511,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 19511,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 21220,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 21220,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 21220,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 21579,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 21579,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "genero": "Fantasy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 100721,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 100721,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 100721,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 155348,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 155348,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 155348,
+    "genero": "Drama",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 155348,
+    "genero": "Fantasy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 155348,
+    "genero": "Supernatural",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 162561,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 162561,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 162561,
+    "genero": "Comedy",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 165523,
+    "genero": "Action",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 165523,
+    "genero": "Adventure",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 165523,
+    "genero": "Fantasy",
+    "fonte": "AniList"
+  }
+]

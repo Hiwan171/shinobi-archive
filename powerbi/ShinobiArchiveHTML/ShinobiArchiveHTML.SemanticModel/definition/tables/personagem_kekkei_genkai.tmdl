@@ -1,0 +1,35 @@
+table personagem_kekkei_genkai
+	lineageTag: 857036eb-2b5f-564e-9b65-a81847554395
+
+	column personagem_id
+		dataType: int64
+		isHidden
+		formatString: #,0
+		lineageTag: 843eb11e-421b-5779-994b-f784970c37b2
+		summarizeBy: none
+		sourceColumn: personagem_id
+
+	column kekkei_genkai_id
+		dataType: int64
+		formatString: #,0
+		lineageTag: 5f5ffee7-50c3-56fe-acd0-3a4d1d0f7825
+		summarizeBy: none
+		sourceColumn: kekkei_genkai_id
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 68da5ac1-c7b7-5bf0-8851-f7d7bc2f34a3
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition personagem_kekkei_genkai = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCrWZzaoUQQxG36XXs6gk9Ze79i1ELiO2l2FwRnQ2F/HdHdyagjQHtw3n6+pKKvlS/fHX9n3/8fN+O7/t314vX7YXbf20Xffrdb+8vu236/ny93E5bV/vt8e+vWwfzo/H/vn8ft9+n/7BrRvBe3eCiyp6vVithJ8loiVJV6sMbwzvDB8Md4RXtvNVGK4MN4aztKkobXpHb3czhqO0cRZ3Z3F3FndncXcW92epREfO4q3XbNaWsFpZulF4mDg1/fVlIN7D0LckrlMJLqVVwlvcKnp682UgvhbEW2xxRhqfDHeCt/jYZXFni/eJtq6X8Nsnq/aTvd3TZ37RbLLusGncbbIlc4oh3nUiXhapmxdYtBxNt6yB+CHx+/NdI+bzVd8R33wivs+B+AG/fyxGjJpOYPZ+n8biJ4sJrcL5NC+wGFBxCBoMQbb36qKE5NvfRHxf1OB0A+wD8SKlQAGFK9DWmMAqBwfMgWwftxHnsKdtxES8lNi95wV0whUoXoFXKsCC8JyghAooFTAq0KiAQwEpTKBqo6kcfoKmb3zDGGja0/YwDTVtCVtYTTVrCWePrzEqu0I6wBvkG+Kfs7xAgdgUa4XHWOldTl5gcYjyQfB4AY0Ndpq+UCnxYJQXWEyGaQFvYR3TtCeJN3DCUwQdiUJHonlHMqlAbCiUWhrFjeSAIxEqoFSAbmLsyo4INCrQqcCgAjAPFsZSqbFUaiyVGssjAp0KDCowqQDNg9gbHxGgeSA0DwRGYeVMPO3OwwVYYc7ECjQWaYHVf8L07+24raV58TAJjf7nVFhO8QKM/aW2tDeOC5Gl/3WGdNrYdkV8l4l4L5BXyMcX3vn9K/F8f0DAoYCqQwGHAgs7cEBgQIFFGzgi0P9LHg12TWLxgPbpD3m0zoTXKAAA", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"personagem_id", Int64.Type}, {"kekkei_genkai_id", Int64.Type}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

@@ -1,0 +1,604 @@
+[
+  {
+    "colecao": "bijuus",
+    "personagem_id": 1,
+    "nome_na_colecao": "Ten-Tails",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "bijuus",
+    "personagem_id": 153,
+    "nome_na_colecao": "Chōmei",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "bijuus",
+    "personagem_id": 345,
+    "nome_na_colecao": "Gyūki",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "bijuus",
+    "personagem_id": 480,
+    "nome_na_colecao": "Isobu",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "bijuus",
+    "personagem_id": 669,
+    "nome_na_colecao": "Kokuō",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "bijuus",
+    "personagem_id": 711,
+    "nome_na_colecao": "Kurama",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "bijuus",
+    "personagem_id": 771,
+    "nome_na_colecao": "Matatabi",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "bijuus",
+    "personagem_id": 1009,
+    "nome_na_colecao": "Saiken",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "bijuus",
+    "personagem_id": 1127,
+    "nome_na_colecao": "Shukaku",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "bijuus",
+    "personagem_id": 1134,
+    "nome_na_colecao": "Son Gokū",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1425,
+    "nome_na_colecao": "Black Zetsu",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 141,
+    "nome_na_colecao": "Chibi",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 166,
+    "nome_na_colecao": "Daibutsu",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 193,
+    "nome_na_colecao": "Deidara",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 195,
+    "nome_na_colecao": "Demonic Statue of the Outer Path",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 325,
+    "nome_na_colecao": "Ginji",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 388,
+    "nome_na_colecao": "Hidan",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 396,
+    "nome_na_colecao": "Himeyuri",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 400,
+    "nome_na_colecao": "Hinoki",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1293,
+    "nome_na_colecao": "Itachi Uchiha",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 521,
+    "nome_na_colecao": "Jūgo",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1359,
+    "nome_na_colecao": "Kabuto Yakushi",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 558,
+    "nome_na_colecao": "Kakuzu",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 559,
+    "nome_na_colecao": "Kakuzu's Partner",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 593,
+    "nome_na_colecao": "Karin",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 627,
+    "nome_na_colecao": "Kie",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 421,
+    "nome_na_colecao": "Kisame Hoshigaki",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 684,
+    "nome_na_colecao": "Konan",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 735,
+    "nome_na_colecao": "Kyōya",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 736,
+    "nome_na_colecao": "Kyūsuke",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1299,
+    "nome_na_colecao": "Madara Uchiha",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 755,
+    "nome_na_colecao": "Makibi",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 762,
+    "nome_na_colecao": "Manda II",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 778,
+    "nome_na_colecao": "Mecha-Naruto",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 850,
+    "nome_na_colecao": "Mukade",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 861,
+    "nome_na_colecao": "Nagato",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 856,
+    "nome_na_colecao": "Naruto Musasabi",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 887,
+    "nome_na_colecao": "Nazuna",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1303,
+    "nome_na_colecao": "Obito Uchiha",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 928,
+    "nome_na_colecao": "Orochimaru",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 960,
+    "nome_na_colecao": "Raimei",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 830,
+    "nome_na_colecao": "Renge Momoashi",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1000,
+    "nome_na_colecao": "Sabu",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1042,
+    "nome_na_colecao": "Sasori",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1307,
+    "nome_na_colecao": "Sasuke Uchiha",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1309,
+    "nome_na_colecao": "Shin Uchiha",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 430,
+    "nome_na_colecao": "Suigetsu Hōzuki",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1167,
+    "nome_na_colecao": "Suzuran",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1229,
+    "nome_na_colecao": "Tobi (Zetsu)",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1284,
+    "nome_na_colecao": "Tsuyu",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1426,
+    "nome_na_colecao": "White Zetsu",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1356,
+    "nome_na_colecao": "Yahiko",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1409,
+    "nome_na_colecao": "Yūra",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "akatsuki",
+    "personagem_id": 1420,
+    "nome_na_colecao": "Zangei",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 17,
+    "nome_na_colecao": "Ada",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 80,
+    "nome_na_colecao": "Ao",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 125,
+    "nome_na_colecao": "Boro",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 128,
+    "nome_na_colecao": "Bug",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 141,
+    "nome_na_colecao": "Chibi",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 159,
+    "nome_na_colecao": "Code",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 165,
+    "nome_na_colecao": "Daemon",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 192,
+    "nome_na_colecao": "Deepa",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 194,
+    "nome_na_colecao": "Delta",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 274,
+    "nome_na_colecao": "Kiseru Gankubi",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 283,
+    "nome_na_colecao": "Garō",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 396,
+    "nome_na_colecao": "Himeyuri",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 400,
+    "nome_na_colecao": "Hinoki",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 487,
+    "nome_na_colecao": "Iwa Doctor",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 510,
+    "nome_na_colecao": "Jigen",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 600,
+    "nome_na_colecao": "Koji Kashin",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 609,
+    "nome_na_colecao": "Kawaki",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 755,
+    "nome_na_colecao": "Makibi",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 762,
+    "nome_na_colecao": "Manda II",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 830,
+    "nome_na_colecao": "Renge Momoashi",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 856,
+    "nome_na_colecao": "Naruto Musasabi",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 887,
+    "nome_na_colecao": "Nazuna",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 912,
+    "nome_na_colecao": "Ōga",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 939,
+    "nome_na_colecao": "Isshiki Ōtsutsuki",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 960,
+    "nome_na_colecao": "Raimei",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 1000,
+    "nome_na_colecao": "Sabu",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 1027,
+    "nome_na_colecao": "Amado Sanzu",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 1167,
+    "nome_na_colecao": "Suzuran",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 1247,
+    "nome_na_colecao": "Garashi Tōno",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 1284,
+    "nome_na_colecao": "Tsuyu",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 1346,
+    "nome_na_colecao": "Victor",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  },
+  {
+    "colecao": "kara",
+    "personagem_id": 1347,
+    "nome_na_colecao": "Victor's Secretary",
+    "encontrado_na_base_principal": true,
+    "fonte": "Dattebayo"
+  }
+]

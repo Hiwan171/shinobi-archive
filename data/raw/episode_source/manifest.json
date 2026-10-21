@@ -1,0 +1,47 @@
+[
+  {
+    "file": "data/raw/episode_source/anime.json",
+    "url": "https://raw.githubusercontent.com/animecannonhunter-hash/anime-filler-list-data/a7b28ff590b70652843125b77b9a80f334d2c3ca/anime.json",
+    "repository": "https://github.com/animecannonhunter-hash/anime-filler-list-data",
+    "commit": "a7b28ff590b70652843125b77b9a80f334d2c3ca",
+    "retrieved_at_utc": "2026-10-21T11:24:04.362988+00:00",
+    "sha256": "6504e78bb7372dd397e68d12c6381fe470aba45cae857fb863a663287d8ec828",
+    "bytes": 1836235
+  },
+  {
+    "file": "data/raw/episode_source/characters.json",
+    "url": "https://raw.githubusercontent.com/animecannonhunter-hash/anime-filler-list-data/a7b28ff590b70652843125b77b9a80f334d2c3ca/characters.json",
+    "repository": "https://github.com/animecannonhunter-hash/anime-filler-list-data",
+    "commit": "a7b28ff590b70652843125b77b9a80f334d2c3ca",
+    "retrieved_at_utc": "2026-10-21T11:24:04.136211+00:00",
+    "sha256": "303c212ced55d455a12ec320f254603c87783eb2e93c6a496f5aa9e87e260fb4",
+    "bytes": 182072
+  },
+  {
+    "file": "data/raw/episode_source/voice-actors.json",
+    "url": "https://raw.githubusercontent.com/animecannonhunter-hash/anime-filler-list-data/a7b28ff590b70652843125b77b9a80f334d2c3ca/voice-actors.json",
+    "repository": "https://github.com/animecannonhunter-hash/anime-filler-list-data",
+    "commit": "a7b28ff590b70652843125b77b9a80f334d2c3ca",
+    "retrieved_at_utc": "2026-10-21T11:24:04.109269+00:00",
+    "sha256": "7e0799160c46da98fc8a1218cb3cb5f5f86de71fc552f70802bfb95fcedb3919",
+    "bytes": 44836
+  },
+  {
+    "file": "data/raw/episode_source/LICENSE",
+    "url": "https://raw.githubusercontent.com/animecannonhunter-hash/anime-filler-list-data/a7b28ff590b70652843125b77b9a80f334d2c3ca/LICENSE",
+    "repository": "https://github.com/animecannonhunter-hash/anime-filler-list-data",
+    "commit": "a7b28ff590b70652843125b77b9a80f334d2c3ca",
+    "retrieved_at_utc": "2026-10-21T11:24:04.404673+00:00",
+    "sha256": "5b3da4a0ded115b3cae82cf4360d8590d2faa6f8906b27452c790634876b8c91",
+    "bytes": 802
+  },
+  {
+    "file": "data/raw/episode_source/README.md",
+    "url": "https://raw.githubusercontent.com/animecannonhunter-hash/anime-filler-list-data/a7b28ff590b70652843125b77b9a80f334d2c3ca/README.md",
+    "repository": "https://github.com/animecannonhunter-hash/anime-filler-list-data",
+    "commit": "a7b28ff590b70652843125b77b9a80f334d2c3ca",
+    "retrieved_at_utc": "2026-10-21T11:24:04.477491+00:00",
+    "sha256": "0f0b537f4245cd67e503c390594ccfeafe38ce78e4ef52c61e957d2901fe599b",
+    "bytes": 7719
+  }
+]

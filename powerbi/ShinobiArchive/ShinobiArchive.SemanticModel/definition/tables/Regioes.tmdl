@@ -1,0 +1,25 @@
+table Regioes
+	lineageTag: 2bdce45c-09a7-5353-8e1b-f90f2adfce0f
+
+	column regiao
+		dataType: string
+		lineageTag: f2568c5d-5bb0-5519-a00f-a1710a1828d4
+		summarizeBy: none
+		sourceColumn: regiao
+
+	column nome
+		dataType: string
+		lineageTag: 1ebbe0bb-0503-5450-a29a-f5d69fad1cda
+		summarizeBy: none
+		sourceColumn: nome
+
+	partition Regioes = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCn3QOw7CMAwG4KtUmdsLsDEgJMTjAIjBNAaMkrhK0wl16FmYeo5cjEYg5TEw/n8+K5bPL2HxTsBiJUApUQvDGpewVXwFJcY6AU/owESyg86/OSfQE0ThpxAzwC2CSc3pV2TKsHWPBjRaahO71n4OTSW5Oi4E8ykFjsyfqX14L37CwXKHEW9CLowmKRU2CL1L9raExmF18LOk8gq3fAM/fYvx8gHa66ejcAEAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"regiao", type text}, {"nome", type text}}, "en-US")
+				in
+				    Tipos
+

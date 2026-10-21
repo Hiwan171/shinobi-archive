@@ -1,0 +1,842 @@
+[
+  {
+    "personagem_id": 521,
+    "campo": "tools",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Mobile20162016\""
+  },
+  {
+    "personagem_id": 593,
+    "campo": "香燐Karin",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 593,
+    "campo": "tools",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Mobile20162016\""
+  },
+  {
+    "personagem_id": 339,
+    "campo": "牛頭Gozu",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1342,
+    "campo": "tools",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Mobile20162016\""
+  },
+  {
+    "personagem_id": 1325,
+    "campo": "tools",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 621,
+    "campo": "三代目風影SandaimeKazekage",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 246,
+    "campo": "舟戸青煉FunatoSeiren",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 415,
+    "campo": "宝亀Hōki",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1309,
+    "campo": "tools",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 35,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 99,
+    "campo": "修羅道Shuradō",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 99,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Shinobi Collection2014\""
+  },
+  {
+    "personagem_id": 477,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 618,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 925,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 8,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 11,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Shinobi Collection Shippū Ranbu27 July 2015\""
+  },
+  {
+    "personagem_id": 24,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 27,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Shippūden: Ultimate Ninja Blazing14 July 201624 August 2016\""
+  },
+  {
+    "personagem_id": 39,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 52,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Shippūden: Ultimate Ninja Storm 221 October 201019 October 2010\""
+  },
+  {
+    "personagem_id": 107,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 112,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Clash of Ninja Revolution 221 October 2008\""
+  },
+  {
+    "personagem_id": 135,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 140,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"<a href=\\\"/wiki/File:Chen_and_Rock_Lee.png\\\" title=\\\"File:Chen and Rock Lee.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/f/f2/Chen_and_Rock_Lee.png/revision/latest/scale-to-width-down/180?cb=20150731141447\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"102\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Chen and Rock Lee.png\\\" data-image-key=\\\"Chen_and_Rock_Lee.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/f/f2/Chen_and_Rock_Lee.png/revision/latest/scale-to-width-down/180?cb=20150731141447\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tLee visiting Chen's graveyard.\""
+  },
+  {
+    "personagem_id": 145,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Shippūden: Ultimate Ninja Blazing14 July 201624 August 2016\""
+  },
+  {
+    "personagem_id": 210,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 212,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Shinobi Collection Shippū Ranbu27 July 2015\""
+  },
+  {
+    "personagem_id": 221,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 260,
+    "campo": "蝦蟇Gama",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 282,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Mobile20162016\""
+  },
+  {
+    "personagem_id": 229,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Mobile20162016\""
+  },
+  {
+    "personagem_id": 338,
+    "campo": "業頭Gōzu",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 341,
+    "campo": "紅蓮Guren",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 341,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 406,
+    "campo": "卑留呼Hiruko",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 406,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"<a href=\\\"/wiki/File:Hiruko-2.png\\\" title=\\\"File:Hiruko-2.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/d/d6/Hiruko-2.png/revision/latest/scale-to-width-down/180?cb=20100529160609\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"101\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Hiruko-2.png\\\" data-image-key=\\\"Hiruko-2.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/d/d6/Hiruko-2.png/revision/latest/scale-to-width-down/180?cb=20100529160609\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tHiruko's appearance during the Third Shinobi World War.\""
+  },
+  {
+    "personagem_id": 428,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 479,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"<a href=\\\"/wiki/File:Stone_Monument1.png\\\" title=\\\"File:Stone Monument1.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/7/79/Stone_Monument1.png/revision/latest/scale-to-width-down/180?cb=20130926130413\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"102\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Stone Monument1.png\\\" data-image-key=\\\"Stone_Monument1.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/7/79/Stone_Monument1.png/revision/latest/scale-to-width-down/180?cb=20130926130413\\\" /></a> \\t \\t\\t \\t\\t\\t \\t\\t \\t\\t \\t\\t \\t\\t\\tIshikawa speaking with Ōnoki.\""
+  },
+  {
+    "personagem_id": 499,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Mobile20162016\""
+  },
+  {
+    "personagem_id": 426,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Shinobi Collection2014\""
+  },
+  {
+    "personagem_id": 526,
+    "campo": "篝Kagari",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 526,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Shinobi Collection Shippū Ranbu27 July 2015\""
+  },
+  {
+    "personagem_id": 550,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 605,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 653,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 682,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"<a href=\\\"/wiki/File:Sasori_and_Komushi.png\\\" title=\\\"File:Sasori and Komushi.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/1/17/Sasori_and_Komushi.png/revision/latest/scale-to-width-down/180?cb=20210924232346\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"101\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Sasori and Komushi.png\\\" data-image-key=\\\"Sasori_and_Komushi.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/1/17/Sasori_and_Komushi.png/revision/latest/scale-to-width-down/180?cb=20210924232346\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tKomushi observing Sasori working on his puppets.\""
+  },
+  {
+    "personagem_id": 738,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 749,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 771,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"<a href=\\\"/wiki/File:Nibi_mural.png\\\" title=\\\"File:Nibi mural.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/0/0a/Nibi_mural.png/revision/latest/scale-to-width-down/180?cb=20210805003640\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"101\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Nibi mural.png\\\" data-image-key=\\\"Nibi_mural.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/0/0a/Nibi_mural.png/revision/latest/scale-to-width-down/180?cb=20210805003640\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tMatatabi's wall mural inside the Falls of Truth.\""
+  },
+  {
+    "personagem_id": 779,
+    "campo": "冥頭Meizu",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 840,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Mobile20162016\""
+  },
+  {
+    "personagem_id": 864,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Shippūden: Ultimate Ninja Blazing14 July 201624 August 2016\""
+  },
+  {
+    "personagem_id": 877,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 898,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 911,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Shinobi Collection Shippū Ranbu27 July 2015\""
+  },
+  {
+    "personagem_id": 941,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Shippūden: Ultimate Ninja Storm 44 February 20169 February 2016\""
+  },
+  {
+    "personagem_id": 942,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto x Boruto: Ninja Voltage22 November 201722 November 2017\""
+  },
+  {
+    "personagem_id": 950,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 973,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Shippūden: Ultimate Ninja Blazing14 July 201624 August 2016\""
+  },
+  {
+    "personagem_id": 983,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 990,
+    "campo": "龍堂院邪光RyūdōinJakō",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1069,
+    "campo": "撰歌細波SenkaSazanami",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1087,
+    "campo": "死韻Shiin",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1106,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 1119,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 1173,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Shippūden: Ultimate Ninja Blazing14 July 201624 August 2016\""
+  },
+  {
+    "personagem_id": 1174,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"<a href=\\\"/wiki/File:Taiz%C5%8D_and_Asura_travel.png\\\" title=\\\"File:Taizō and Asura travel.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/2/29/Taiz%C5%8D_and_Asura_travel.png/revision/latest/scale-to-width-down/180?cb=20160702065837\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"101\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Taizō and Asura travel.png\\\" data-image-key=\\\"Taiz%C5%8D_and_Asura_travel.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/2/29/Taiz%C5%8D_and_Asura_travel.png/revision/latest/scale-to-width-down/180?cb=20160702065837\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tTaizō and Asura travelling to the village in need of help.\""
+  },
+  {
+    "personagem_id": 1211,
+    "campo": "十尾Jūbi",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1229,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Shippūden: Ultimate Ninja Blazing14 July 201624 August 2016\""
+  },
+  {
+    "personagem_id": 1240,
+    "campo": "土岐Toki",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1283,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Shippūden: Ultimate Ninja Blazing14 July 201624 August 2016\""
+  },
+  {
+    "personagem_id": 1343,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"<a href=\\\"/wiki/File:Mito_and_Kushina.png\\\" title=\\\"File:Mito and Kushina.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/3/37/Mito_and_Kushina.png/revision/latest/scale-to-width-down/180?cb=20160127042938\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"101\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Mito and Kushina.png\\\" data-image-key=\\\"Mito_and_Kushina.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/3/37/Mito_and_Kushina.png/revision/latest/scale-to-width-down/180?cb=20160127042938\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tAn elderly Mito comforting her successor, Kushina.\""
+  },
+  {
+    "personagem_id": 1361,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"<a href=\\\"/wiki/File:Non%C5%8D_being_seriously_wounded.png\\\" title=\\\"File:Nonō being seriously wounded.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/0/08/Non%C5%8D_being_seriously_wounded.png/revision/latest/scale-to-width-down/180?cb=20131031122627\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"101\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Nonō being seriously wounded.png\\\" data-image-key=\\\"Non%C5%8D_being_seriously_wounded.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/0/08/Non%C5%8D_being_seriously_wounded.png/revision/latest/scale-to-width-down/180?cb=20131031122627\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tNonō critically wounded by Kabuto.\""
+  },
+  {
+    "personagem_id": 1372,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Shinobi Collection Shippū Ranbu27 July 2015\""
+  },
+  {
+    "personagem_id": 1376,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Shippūden: Ultimate Ninja Blazing14 July 201624 August 2016\""
+  },
+  {
+    "personagem_id": 1390,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 1425,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto: Ultimate Ninja Online14 April 201320 July 2016\""
+  },
+  {
+    "personagem_id": 778,
+    "campo": "jutsu",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"Naruto Shippūden: Ultimate Ninja Storm Revolution11 September 201416 September 2014\""
+  },
+  {
+    "personagem_id": 78,
+    "campo": "畜生道Chikushōdō",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 431,
+    "campo": "personal",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"Naruto: Shinobi Collection2014\"]"
+  },
+  {
+    "personagem_id": 431,
+    "campo": "人間道Ningendō",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 811,
+    "campo": "rank",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"The Springtime of Youth wiki has an article about this topic:\", \"Homura Mitokado\"]"
+  },
+  {
+    "personagem_id": 881,
+    "campo": "personal",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"Naruto: Shinobi Collection2014\"]"
+  },
+  {
+    "personagem_id": 881,
+    "campo": "地獄道Jigokudō",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 956,
+    "campo": "餓鬼道Gakidō",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 22,
+    "campo": "personal",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"The Springtime of Youth wiki has an article about this topic:\", \"Aho Bird\"]"
+  },
+  {
+    "personagem_id": 76,
+    "campo": "兄貴Aniki",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 149,
+    "campo": "千代Chiyo",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 168,
+    "campo": "大黒天善DaikokuTenzen",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 211,
+    "campo": "土牢剛霊無DorōGōremu",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 228,
+    "campo": "風神Fūjin",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 278,
+    "campo": "丸鉄Gantetsu",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 342,
+    "campo": "personal",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"Naruto Mobile20162016\"]"
+  },
+  {
+    "personagem_id": 357,
+    "campo": "tools",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"<a href=\\\"/wiki/File:Haku%27s_dad_cries.png\\\" title=\\\"File:Haku&#39;s dad cries.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/c/c5/Haku%27s_dad_cries.png/revision/latest/scale-to-width-down/180?cb=20150116185714\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"136\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Haku&#39;s dad cries.png\\\" data-image-key=\\\"Haku%27s_dad_cries.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/c/c5/Haku%27s_dad_cries.png/revision/latest/scale-to-width-down/180?cb=20150116185714\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tHaku's father crying when about to kill his son.\""
+  },
+  {
+    "personagem_id": 360,
+    "campo": "白医Hakui",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 528,
+    "campo": "影Kage",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 597,
+    "campo": "加流羅Karura",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 647,
+    "campo": "伎璃Kiri",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 695,
+    "campo": "小助Kosuke",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 715,
+    "campo": "natureType",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"<a href=\\\"/wiki/File:Ido%27s_physical_form.png\\\" title=\\\"File:Ido&#39;s physical form.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/6/65/Ido%27s_physical_form.png/revision/latest/scale-to-width-down/180?cb=20150121123210\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"136\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Ido&#39;s physical form.png\\\" data-image-key=\\\"Ido%27s_physical_form.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/6/65/Ido%27s_physical_form.png/revision/latest/scale-to-width-down/180?cb=20150121123210\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tIdo's physical form.\""
+  },
+  {
+    "personagem_id": 773,
+    "campo": "personal",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"This article is a stub. You can help the Narutopedia by expanding it, or perhaps you could contribute to the discussion on the topic.\"]"
+  },
+  {
+    "personagem_id": 886,
+    "campo": "縄樹Nawaki",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 959,
+    "campo": "雷神Raijin",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 962,
+    "campo": "乱Ran",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1011,
+    "campo": "砂仁Sajin",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1024,
+    "campo": "山椒Sanshō",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1126,
+    "campo": "personal",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"<a href=\\\"/wiki/File:Sh%C5%AB,_Chiyo_and_Team_10.PNG\\\" title=\\\"File:Shū, Chiyo and Team 10.PNG\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/9/94/Sh%C5%AB%2C_Chiyo_and_Team_10.PNG/revision/latest/scale-to-width-down/180?cb=20161029005103\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"101\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Shū, Chiyo and Team 10.PNG\\\" data-image-key=\\\"Sh%C5%AB%2C_Chiyo_and_Team_10.PNG\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/9/94/Sh%C5%AB%2C_Chiyo_and_Team_10.PNG/revision/latest/scale-to-width-down/180?cb=20161029005103\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tNaruto and Team 10 escorting Shū and Chiyo.\"]"
+  },
+  {
+    "personagem_id": 1207,
+    "campo": "personal",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"This article is about the New Era daimyō. For the Part II daimyō, see Lightning Daimyō.\"]"
+  },
+  {
+    "personagem_id": 1235,
+    "campo": "斗風Tofu",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1250,
+    "campo": "personal",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"The Springtime of Youth wiki has an article about this topic:\", \"Tonton\"]"
+  },
+  {
+    "personagem_id": 1262,
+    "campo": "椿Tsubaki",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1263,
+    "campo": "椿Tsubaki",
+    "motivo": "campo_inesperado_preservado_no_bruto",
+    "valor_original": "{}"
+  },
+  {
+    "personagem_id": 1360,
+    "campo": "rank",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"<a href=\\\"/wiki/File:Kabuto%27s_sensei.png\\\" title=\\\"File:Kabuto&#39;s sensei.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/6/6e/Kabuto%27s_sensei.png/revision/latest/scale-to-width-down/180?cb=20151220141157\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"101\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Kabuto&#39;s sensei.png\\\" data-image-key=\\\"Kabuto%27s_sensei.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/6/6e/Kabuto%27s_sensei.png/revision/latest/scale-to-width-down/180?cb=20151220141157\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tThe shinobi as a genin.\"]"
+  },
+  {
+    "personagem_id": 1402,
+    "campo": "natureType",
+    "motivo": "conteudo_contaminado_separado_da_base_limpa",
+    "valor_original": "\"<a href=\\\"/wiki/File:Team_Matsuri_Attacked.png\\\" title=\\\"File:Team Matsuri Attacked.png\\\"><img alt=\\\"\\\" src=\\\"https://static.wikia.nocookie.net/naruto/images/6/6c/Team_Matsuri_Attacked.png/revision/latest/scale-to-width-down/180?cb=20150514121823\\\" decoding=\\\"async\\\" loading=\\\"lazy\\\" width=\\\"180\\\" height=\\\"101\\\" class=\\\"thumbimage\\\" data-image-name=\\\"Team Matsuri Attacked.png\\\" data-image-key=\\\"Team_Matsuri_Attacked.png\\\" data-src=\\\"https://static.wikia.nocookie.net/naruto/images/6/6c/Team_Matsuri_Attacked.png/revision/latest/scale-to-width-down/180?cb=20150514121823\\\" /></a> \\t \\t\\t \\t\\t \\t\\t \\t\\t\\tYukata and her team are attacked.\""
+  },
+  {
+    "personagem_id": 32,
+    "campo": "personal",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"This article is a stub. You can help the Narutopedia by expanding it, or perhaps you could contribute to the discussion on the topic.\"]"
+  },
+  {
+    "personagem_id": 395,
+    "campo": "personal",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"This article is a stub. You can help the Narutopedia by expanding it, or perhaps you could contribute to the discussion on the topic.\"]"
+  },
+  {
+    "personagem_id": 525,
+    "campo": "personal",
+    "motivo": "estrutura_invalida",
+    "valor_original": "[\"This article is a stub. You can help the Narutopedia by expanding it, or perhaps you could contribute to the discussion on the topic.\"]"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto\", \"episodio\": 27, \"data\": \"2003-04-03T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto\", \"episodio\": 65, \"data\": \"2003-10-08T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto\", \"episodio\": 80, \"data\": \"2003-12-10T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto\", \"episodio\": 133, \"data\": \"2004-12-08T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto\", \"episodio\": 220, \"data\": \"2005-02-08T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 33, \"data\": \"2007-09-27T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 55, \"data\": \"2008-02-14T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 86, \"data\": \"2008-10-02T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 135, \"data\": \"2009-07-09T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 138, \"data\": \"2009-07-30T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 197, \"data\": \"2010-10-21T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 216, \"data\": \"2011-03-03T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 244, \"data\": \"2011-10-13T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 262, \"data\": \"2012-02-16T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 322, \"data\": \"2013-04-11T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 345, \"data\": \"2013-09-19T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 363, \"data\": \"2014-01-23T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 379, \"data\": \"2014-05-15T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 425, \"data\": \"2015-04-02T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 477, \"data\": \"2016-03-31T00:00:00.000Z\"}"
+  },
+  {
+    "personagem_id": null,
+    "campo": "episodio.data_exibicao",
+    "motivo": "data_anterior_ao_episodio_precedente",
+    "valor_original": "{\"serie\": \"naruto-shippuden\", \"episodio\": 479, \"data\": \"2016-04-14T00:00:00.000Z\"}"
+  }
+]

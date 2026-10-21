@@ -1,0 +1,31 @@
+# Dependências e arquivos locais
+**/node_modules/
+**/__pycache__/
+*.py[cod]
+**/.pbi/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+Thumbs.db
+.DS_Store
+
+# Pacotes completos e backups são publicados nos assets da Release.
+/entrega/*.zip
+/entrega/versoes/*.zip
+
+# Intermediários de construção e sessões MCP ficam locais.
+# Preservar os resultados de validação e a saída real usada nos testes.
+/powerbi/build/*
+!/powerbi/build/html/
+/powerbi/build/html/*
+!/powerbi/build/html/testes_*.json
+!/powerbi/build/html/verificacao_*.json
+!/powerbi/build/html/validacao_visual.json
+!/powerbi/build/html/comparacao_copia_desktop.json
+!/powerbi/build/html/Interface_Naruto_HTML.dax
+!/powerbi/build/html/saida_real_dax.html

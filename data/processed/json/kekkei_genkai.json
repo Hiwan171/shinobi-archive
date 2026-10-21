@@ -1,0 +1,197 @@
+[
+  {
+    "kekkei_genkai_id": 0,
+    "nome": "Boil Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 1,
+    "nome": "Byakugan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 2,
+    "nome": "Crystal Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 3,
+    "nome": "Dark Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 4,
+    "nome": "Eternal Mangekyō Sharingan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 5,
+    "nome": "Explosion Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 6,
+    "nome": "Iburi Clan's Kekkei Genkai",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 7,
+    "nome": "Ice Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 8,
+    "nome": "Isshiki's Dōjutsu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 9,
+    "nome": "Isshiki's Dōjutsu   (Manga only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 10,
+    "nome": "Jōgan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 11,
+    "nome": "Jūgo's Clan's Kekkei Genkai",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 12,
+    "nome": "Ketsuryūgan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 13,
+    "nome": "Kurama Clan's Kekkei Genkai",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 14,
+    "nome": "Lava Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 15,
+    "nome": "Lava Release   (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 16,
+    "nome": "Lava Release   (Novel only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 17,
+    "nome": "Magnet Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 18,
+    "nome": "Magnet Release   (Novel only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 19,
+    "nome": "Mangekyō Sharingan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 20,
+    "nome": "Mangekyō Sharingan   (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 21,
+    "nome": "Mud Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 22,
+    "nome": "Ranmaru's Kekkei Genkai",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 23,
+    "nome": "Rinha Clan's Kekkei Genkai",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 24,
+    "nome": "Rinnegan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 25,
+    "nome": "Ryūzetsu's Kekkei Genkai",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 26,
+    "nome": "Sakon and Ukon's Kekkei Genkai",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 27,
+    "nome": "Scorch Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 28,
+    "nome": "Senrigan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 29,
+    "nome": "Sharingan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 30,
+    "nome": "Shikotsumyaku",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 31,
+    "nome": "Steel Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 32,
+    "nome": "Storm Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 33,
+    "nome": "Swift Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 34,
+    "nome": "Tenseigan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 35,
+    "nome": "Typhoon Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 36,
+    "nome": "Wood Release",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 37,
+    "nome": "Wood Release   (Anime only)",
+    "fonte": "Dattebayo"
+  },
+  {
+    "kekkei_genkai_id": 38,
+    "nome": "Wood Release   (Novel only)",
+    "fonte": "Dattebayo"
+  }
+]

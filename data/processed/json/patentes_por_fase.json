@@ -1,0 +1,3206 @@
+[
+  {
+    "personagem_id": 1344,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "contexto_original": "Gaiden",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "contexto_original": "Blank Period",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 515,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "contexto_original": "Gaiden",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 344,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1037,
+    "contexto_original": "Gaiden",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 813,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 865,
+    "contexto_original": "Part I",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "contexto_original": "Part I",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1280,
+    "contexto_original": "Part I",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 739,
+    "contexto_original": "Gaiden",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "contexto_original": "Gaiden",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 374,
+    "contexto_original": "Blank Period",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1036,
+    "contexto_original": "Part I",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1066,
+    "contexto_original": "Part I",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1100,
+    "contexto_original": "Gaiden",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 13,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1216,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 40,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1365,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 6,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 466,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1208,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1208,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1400,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 878,
+    "contexto_original": "Blank Period",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 104,
+    "contexto_original": "Part II",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1051,
+    "contexto_original": "Part II",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1368,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 577,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1008,
+    "contexto_original": "Blank Period",
+    "patente_original": "Chūbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 162,
+    "contexto_original": "Part II",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 876,
+    "contexto_original": "Gaiden",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 791,
+    "contexto_original": "Part II",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 725,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 725,
+    "contexto_original": "Gaiden",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 809,
+    "contexto_original": "Part I",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 920,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 920,
+    "contexto_original": "Gaiden",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 609,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 831,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1143,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1367,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "contexto_original": "Gaiden",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1122,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 42,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 127,
+    "contexto_original": "Part II",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 274,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 724,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 724,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 765,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1034,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 152,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 152,
+    "contexto_original": "Gaiden",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 593,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 531,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 591,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 720,
+    "contexto_original": "Gaiden",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 818,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1038,
+    "contexto_original": "Gaiden",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1310,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1310,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1279,
+    "contexto_original": "Blank Period",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 5,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 15,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 72,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 568,
+    "contexto_original": "Gaiden",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 718,
+    "contexto_original": "Gaiden",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 844,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 845,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 847,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 975,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1082,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1144,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1337,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 80,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 62,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 199,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 293,
+    "contexto_original": "Part I",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 328,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 668,
+    "contexto_original": "Gaiden",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 967,
+    "contexto_original": "Part I",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1048,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1115,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1166,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1179,
+    "contexto_original": "Gaiden",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1342,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1364,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1427,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 835,
+    "contexto_original": "Part I",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1325,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 46,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 73,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 77,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 133,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 157,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 206,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 348,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 429,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 468,
+    "contexto_original": "Part I",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 483,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 537,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 571,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 621,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 674,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 716,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 754,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 846,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 857,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 873,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 923,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1022,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1145,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1147,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1147,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1260,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1382,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 664,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 435,
+    "contexto_original": "Blank Period",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 436,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1223,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1397,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 10,
+    "contexto_original": "Part II",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 113,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 122,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 257,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 257,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 347,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 418,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 439,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 465,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 485,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 488,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 522,
+    "contexto_original": "Gaiden",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 555,
+    "contexto_original": "Gaiden",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 552,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 590,
+    "contexto_original": "Gaiden",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 753,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 758,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 766,
+    "contexto_original": "Gaiden",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 853,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 903,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 977,
+    "contexto_original": "Blank Period",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 981,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 997,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1255,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1289,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1330,
+    "contexto_original": "Gaiden",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1370,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1374,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 661,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 688,
+    "contexto_original": "Blank Period",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 752,
+    "contexto_original": "Blank Period",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1084,
+    "contexto_original": "Blank Period",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 35,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 477,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 477,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 477,
+    "contexto_original": "Gaiden",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 596,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 618,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 618,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 618,
+    "contexto_original": "Gaiden",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 774,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 774,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 925,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 9,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 11,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 14,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 24,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 24,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 27,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 28,
+    "contexto_original": "Part I",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 36,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 39,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 43,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 44,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 45,
+    "contexto_original": "Part II",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 47,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 71,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 88,
+    "contexto_original": "Gaiden",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 100,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 107,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 135,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 140,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 191,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 210,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 212,
+    "contexto_original": "Part I",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 221,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 226,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 282,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 329,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 338,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 377,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 391,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 401,
+    "contexto_original": "Blank Period",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 428,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 432,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 479,
+    "contexto_original": "Part I",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 499,
+    "contexto_original": "Gaiden",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 427,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 526,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 550,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 556,
+    "contexto_original": "Gaiden",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 624,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 605,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 610,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 619,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 646,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 653,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 665,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 738,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 749,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 779,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 840,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 841,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 863,
+    "contexto_original": "Part I",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 864,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 871,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 874,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 875,
+    "contexto_original": "Part II",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 877,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 879,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 880,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 884,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 898,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 901,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 911,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 950,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 973,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1012,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1017,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1028,
+    "contexto_original": "Gaiden",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1058,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1059,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1068,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1069,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1070,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1077,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1083,
+    "contexto_original": "Gaiden",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1085,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1094,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1098,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1106,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1106,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1108,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1110,
+    "contexto_original": "Part I",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1149,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1154,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1155,
+    "contexto_original": "Part I",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1173,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1196,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1205,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1232,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1256,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1282,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1283,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1340,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1361,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1372,
+    "contexto_original": "Part I",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1376,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1377,
+    "contexto_original": "Gaiden",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1386,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1413,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1418,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 16,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 362,
+    "contexto_original": "Blank Period",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 548,
+    "contexto_original": "Blank Period",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 56,
+    "contexto_original": "Blank Period",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1088,
+    "contexto_original": "Blank Period",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1237,
+    "contexto_original": "Blank Period",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 888,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 3,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 4,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 7,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 18,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 26,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 30,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 64,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 66,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 70,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 74,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 75,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 92,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 103,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 105,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 109,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 118,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 134,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 137,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 154,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 167,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 200,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 213,
+    "contexto_original": "Blank Period",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 231,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 238,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 239,
+    "contexto_original": "Gaiden",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 249,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 251,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 253,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 254,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 276,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 277,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 279,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 291,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 301,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 332,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 337,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 360,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 364,
+    "contexto_original": "Part II",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 372,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 379,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 384,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 385,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 386,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 392,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 399,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 402,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 416,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 420,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 423,
+    "contexto_original": "Part I",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 424,
+    "contexto_original": "Part I",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 440,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 441,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 442,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 445,
+    "contexto_original": "Part II",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 455,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 456,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 457,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 459,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 460,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 464,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 467,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 472,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 473,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 484,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 486,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 495,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 501,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 502,
+    "contexto_original": "Gaiden",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 513,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 516,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 518,
+    "contexto_original": "Gaiden",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 520,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 524,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 528,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 530,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 562,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 563,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 567,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 575,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 581,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 582,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 599,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 601,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 606,
+    "contexto_original": "Gaiden",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 631,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 642,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 666,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 676,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 681,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 694,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 695,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 698,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 700,
+    "contexto_original": "Gaiden",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 708,
+    "contexto_original": "Part I",
+    "patente_original": "Head Ninja",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 712,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 714,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 715,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 727,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 746,
+    "contexto_original": "Part II",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 747,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 775,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 775,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 787,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 788,
+    "contexto_original": "Blank Period",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 790,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 792,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 793,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 797,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 798,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 800,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 801,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 802,
+    "contexto_original": "Part II",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 803,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 804,
+    "contexto_original": "Blank Period",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 805,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 814,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 817,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 819,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 820,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 821,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 825,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 836,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 837,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 848,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 850,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 882,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 886,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 890,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 893,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 902,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 906,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 915,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 927,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 929,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 931,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 964,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 968,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 969,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 971,
+    "contexto_original": "Part II",
+    "patente_original": "Kage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 993,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 995,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 996,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1002,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1010,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1011,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1013,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1018,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1019,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1025,
+    "contexto_original": "Blank Period",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1032,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1033,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1035,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1045,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1046,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1078,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1080,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1081,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1086,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1103,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1105,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1131,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1132,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1151,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1159,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1164,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1168,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1169,
+    "contexto_original": "Blank Period",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1175,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1176,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1178,
+    "contexto_original": "Gaiden",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1186,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1188,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1189,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1190,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1191,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1193,
+    "contexto_original": "Gaiden",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1198,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1220,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1221,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1224,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1231,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1236,
+    "contexto_original": "Part II",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1238,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1241,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1243,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1248,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1252,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1253,
+    "contexto_original": "Part I",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1254,
+    "contexto_original": "Part II",
+    "patente_original": "Tokubetsu Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1258,
+    "contexto_original": "Part II",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1264,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1267,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1268,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1269,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1277,
+    "contexto_original": "Blank Period",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1295,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1297,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1300,
+    "contexto_original": "Part I",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1322,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1324,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1326,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1329,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1332,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1334,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1352,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1355,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1357,
+    "contexto_original": "Part I",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1358,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1380,
+    "contexto_original": "Gaiden",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1388,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1392,
+    "contexto_original": "Part II",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1395,
+    "contexto_original": "Part II",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1398,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1402,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1403,
+    "contexto_original": "Part II",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1408,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1409,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 187,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 340,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 349,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 454,
+    "contexto_original": "Blank Period",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 580,
+    "contexto_original": "Boruto Manga",
+    "patente_original": "Chūnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 607,
+    "contexto_original": "Part I",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 650,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 654,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 662,
+    "contexto_original": "Gaiden",
+    "patente_original": "Academy Student",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 784,
+    "contexto_original": "Part I",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 830,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 856,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 892,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1163,
+    "contexto_original": "Part I",
+    "patente_original": "Genin",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1219,
+    "contexto_original": "Part II",
+    "patente_original": "Anbu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1284,
+    "contexto_original": "Part II",
+    "patente_original": "Jōnin",
+    "fonte": "Dattebayo"
+  }
+]

@@ -1,0 +1,89 @@
+﻿serie_anilist_id;tag_id;nome;categoria;relevancia_0_100;spoiler;fonte
+20;255;Ninja;Cast-Traits;97;false;AniList
+20;56;Shounen;Demographic;95;false;AniList
+20;102;Coming of Age;Theme-Drama;90;false;AniList
+20;1589;Criminal Organization;Theme-Other-Organisations;88;true;AniList
+20;82;Male Protagonist;Cast-Main Cast;88;false;AniList
+20;1382;Orphan;Cast-Traits;86;false;AniList
+20;66;Super Power;Theme-Fantasy;85;false;AniList
+20;252;Revenge;Theme-Drama;81;true;AniList
+20;30;Martial Arts;Theme-Action;81;false;AniList
+20;1277;Found Family;Theme-Other;80;false;AniList
+20;446;Primarily Child Cast;Cast-Main Cast;77;false;AniList
+20;105;Ensemble Cast;Cast-Main Cast;71;false;AniList
+20;772;Shapeshifting;Theme-Fantasy;68;true;AniList
+20;1045;Heterosexual;Theme-Romance;66;false;AniList
+20;276;Kaiju;Theme-Fantasy;65;true;AniList
+20;171;Bullying;Theme-Drama;63;false;AniList
+20;83;Slapstick;Theme-Comedy;63;false;AniList
+20;490;Anachronism;Setting-Time;60;false;AniList
+20;1243;Necromancy;Theme-Fantasy;60;true;AniList
+20;1539;Unrequited Love;Theme-Romance;60;false;AniList
+20;1310;Travel;Theme-Other;57;false;AniList
+20;101;Battle Royale;Theme-Action;55;false;AniList
+20;1228;Primarily Teen Cast;Cast-Main Cast;50;false;AniList
+20;46;School;Setting-Scene;50;false;AniList
+20;322;Assassins;Theme-Other-Organisations;49;false;AniList
+20;483;LGBTQ+ Themes;Theme-Other;49;false;AniList
+20;1564;Estranged Family;Cast-Main Cast;47;true;AniList
+20;391;Philosophy;Theme-Other;46;true;AniList
+20;615;Death Game;Theme-Other;45;true;AniList
+20;139;Love Triangle;Theme-Romance;40;false;AniList
+20;77;Gender Bending;Theme-Other;40;false;AniList
+20;156;Achronological Order;Setting-Time;40;false;AniList
+20;1304;Anthropomorphism;Cast-Traits;35;true;AniList
+20;91;Gambling;Theme-Other;13;true;AniList
+1735;255;Ninja;Cast-Traits;96;false;AniList
+1735;56;Shounen;Demographic;92;false;AniList
+1735;1589;Criminal Organization;Theme-Other-Organisations;90;false;AniList
+1735;82;Male Protagonist;Cast-Main Cast;89;false;AniList
+1735;66;Super Power;Theme-Fantasy;88;false;AniList
+1735;1382;Orphan;Cast-Traits;83;false;AniList
+1735;252;Revenge;Theme-Drama;83;false;AniList
+1735;85;Tragedy;Theme-Drama;83;true;AniList
+1735;30;Martial Arts;Theme-Action;82;false;AniList
+1735;102;Coming of Age;Theme-Drama;82;false;AniList
+1735;111;War;Theme-Other;81;true;AniList
+1735;456;Conspiracy;Theme-Drama;78;false;AniList
+1735;326;Cultivation;Theme-Fantasy;70;false;AniList
+1735;226;Fugitive;Theme-Action;68;false;AniList
+1735;105;Ensemble Cast;Cast-Main Cast;67;false;AniList
+1735;103;Politics;Theme-Other;65;true;AniList
+1735;153;Time Skip;Setting-Time;65;true;AniList
+1735;1243;Necromancy;Theme-Fantasy;64;true;AniList
+1735;253;Gods;Cast-Traits;61;true;AniList
+1735;156;Achronological Order;Setting-Time;60;false;AniList
+1735;34;Military;Theme-Other-Organisations;60;false;AniList
+1735;285;Terrorism;Theme-Other;60;true;AniList
+1735;43;Swordplay;Theme-Action;58;false;AniList
+1735;104;Anti-Hero;Cast-Main Cast;58;false;AniList
+1735;490;Anachronism;Setting-Time;57;false;AniList
+1735;391;Philosophy;Theme-Other;56;false;AniList
+1735;276;Kaiju;Theme-Fantasy;54;true;AniList
+1735;1310;Travel;Theme-Other;53;false;AniList
+1735;483;LGBTQ+ Themes;Theme-Other;53;false;AniList
+1735;1539;Unrequited Love;Theme-Romance;51;false;AniList
+1735;191;Aliens;Cast-Traits;49;true;AniList
+1735;772;Shapeshifting;Theme-Fantasy;40;false;AniList
+1735;83;Slapstick;Theme-Comedy;37;false;AniList
+1735;77;Gender Bending;Theme-Other;30;false;AniList
+1735;1564;Estranged Family;Cast-Main Cast;28;true;AniList
+97938;56;Shounen;Demographic;99;false;AniList
+97938;255;Ninja;Cast-Traits;96;false;AniList
+97938;66;Super Power;Theme-Fantasy;87;false;AniList
+97938;82;Male Protagonist;Cast-Main Cast;84;false;AniList
+97938;446;Primarily Child Cast;Cast-Main Cast;81;false;AniList
+97938;101;Battle Royale;Theme-Action;79;false;AniList
+97938;43;Swordplay;Theme-Action;79;false;AniList
+97938;253;Gods;Cast-Traits;77;true;AniList
+97938;30;Martial Arts;Theme-Action;72;false;AniList
+97938;1052;Adoption;Theme-Other;60;true;AniList
+97938;490;Anachronism;Setting-Time;60;false;AniList
+97938;96;Time Manipulation;Theme-Sci-Fi;44;true;AniList
+97938;193;Episodic;Technical;25;false;AniList
+97938;704;Dinosaurs;Cast-Traits;25;true;AniList
+97938;536;Dissociative Identities;Cast-Traits;20;true;AniList
+97938;801;Cyborg;Cast-Traits;20;true;AniList
+97938;615;Death Game;Theme-Other;20;true;AniList
+97938;46;School;Setting-Scene;20;false;AniList
+97938;120;Table Tennis;Theme-Game-Sport;20;false;AniList

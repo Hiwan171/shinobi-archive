@@ -1,0 +1,972 @@
+[
+  {
+    "ferramenta_id": "ferramenta_99c584cec2b2cb9d",
+    "nome": "Absorbing Eye",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_b351332f6a90f518",
+    "nome": "Absorbing Hand",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_ba4eaec639075b70",
+    "nome": "Adamantine Staff",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_3750a9c4915fcaa9",
+    "nome": "Altering Terrain Diagram Scroll",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_27feed9c395bc97a",
+    "nome": "Ama no Hoko",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_7522d0cfe10ee4be",
+    "nome": "Antidote",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_025412d3df803873",
+    "nome": "Axe",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_eeaada79fb446ce4",
+    "nome": "Barrier Puppets",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_36673ee9070048ce",
+    "nome": "Bashōsen",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_f683740cded6680d",
+    "nome": "Bell",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_668315890cd6e884",
+    "nome": "Benihisago",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_c28666b412893856",
+    "nome": "Binding Cloth",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_bb3c6dd34ea7ec28",
+    "nome": "Blood Increasing Pill",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a8071a8bbbfdcab0",
+    "nome": "Blowpipe",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_b2490d04bc0c9144",
+    "nome": "Book of Gelel",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_396215b9832a06b2",
+    "nome": "Bow & Arrow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_ab0fda388829e815",
+    "nome": "Box of Ultimate Bliss",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_331392787b2b3fea",
+    "nome": "Bubble-Utilising Pipe",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_3d099d0f13df9d0b",
+    "nome": "Bō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_78edf5975850104b",
+    "nome": "Chain Wind Staff",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_987ddaf0e6f58d40",
+    "nome": "Chakra Armour",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_ff93c41df275ea2e",
+    "nome": "Chakra Blade",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_4bb0f54595d45686",
+    "nome": "Chakra Cannon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_b442eb33f6d48814",
+    "nome": "Chakra Disruption Device",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_ef2df411023aaca6",
+    "nome": "Chakra Enhanced Triple-Bladed Claw",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_244b8aae0708a61d",
+    "nome": "Chakra Transmission Communication Device",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8eda24cc88d308a5",
+    "nome": "Chakra-Suppressing Seal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_d10841688251d388",
+    "nome": "Chikamatsu Collection",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_814272d46fe1f4e3",
+    "nome": "Chilli Pepper Bomb",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_12ea7ae91348b1e4",
+    "nome": "Cleaver Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_cc2585df74ecdb8b",
+    "nome": "Club",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_ccdca2a6d55620dc",
+    "nome": "Concealed Mouth Ember",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_5133e4a896f3bac7",
+    "nome": "Conch Shell Mace",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8fd4adeddac337d9",
+    "nome": "Crossbow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_70e7990c57a8cb72",
+    "nome": "Curse Mask",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_cdad7f971215a968",
+    "nome": "Cursed Seal Device",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_68eb1f723316c76a",
+    "nome": "Dakō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_6de253948e8df09d",
+    "nome": "Dark Cloud",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a6090076aaeb4b93",
+    "nome": "Demon Shinki",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_9d1df66e154dae47",
+    "nome": "Demonic Flute",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_2e61cf99ec7820b5",
+    "nome": "Double Bladed Bracers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_b31e6cc0546ee3cc",
+    "nome": "Double-Bladed Scythe",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_f491e649a6a071b8",
+    "nome": "Elemental Puppets",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_c5a98ae49e04fae5",
+    "nome": "Exploding Sphere",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8f8eb68eb10028e1",
+    "nome": "Explosive Tag",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_94a8981e9139830b",
+    "nome": "Explosive Tag Ball",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_9ac114e8a466f7e3",
+    "nome": "Eye Scope",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_d55eb45c5687801f",
+    "nome": "Fire Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_cafde34cc4641181",
+    "nome": "First Hokage's Necklace",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_b334cddd1e794947",
+    "nome": "Flail",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_206bb9ab7c3f4eed",
+    "nome": "Flamethrower",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_f01bc9949e06138c",
+    "nome": "Flash Bomb",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_d5498597fa0969ca",
+    "nome": "Flying Thunder God Kunai",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_1727115b4297bb88",
+    "nome": "Fūma Shuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_0d6c31d96c0d6b98",
+    "nome": "Garian Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a01a4252fbdf2756",
+    "nome": "Genjutsu Pill",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_4a1b37add045b731",
+    "nome": "Giant Folding Fan",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_052f48e4164ab85c",
+    "nome": "Gold Dust",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8ca314872db59de5",
+    "nome": "Gunbai",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_27e08e82ec49dbe2",
+    "nome": "Handheld Kunai Launcher",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a2d077513ce12c74",
+    "nome": "Hero Water",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_f402811bcd7d5894",
+    "nome": "Hexagonal Crystal",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8267a6317b8a8f26",
+    "nome": "Hidden Kunai Mechanism",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_cbe46d8fd9a2ac03",
+    "nome": "Hiramekarei",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_e0e79a5540c3e2c7",
+    "nome": "Hiruko",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_0357ae47bc9a323d",
+    "nome": "Hundred Puppet Army",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a3fd4eb7bec5dc77",
+    "nome": "Hyūga Clan Secret Ointment",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_cfaf6789ebe784e8",
+    "nome": "Ice Bomb",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_19f9e58dd1fd8646",
+    "nome": "Infinite Armour",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_36c5364b7d155032",
+    "nome": "Injection Shot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_e639f9bca3a7f7be",
+    "nome": "Insect Queen Bee Drone Puppet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_7c95613f01b17476",
+    "nome": "Iron Sand",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a51ae5013446e7ef",
+    "nome": "Jidanda",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_c838ed5bc5e8bde4",
+    "nome": "Jutsu Absorption Arm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_c278ec5a69c34aac",
+    "nome": "Jō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_89064c38d5797e2f",
+    "nome": "Jōhyō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_e40ad2a7a2359736",
+    "nome": "Kabutowari",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_29d06a216a618ec4",
+    "nome": "Kama",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_0aba6acb8b1b6e4a",
+    "nome": "Karasu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_4a91e8861c197f61",
+    "nome": "Katar",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_6a0a8acede6386e0",
+    "nome": "Kiba",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_4e61438bcd2ac387",
+    "nome": "Knight Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_088d7441159b0b9c",
+    "nome": "Kohaku no Jōhei",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_1e0bd0ffa17de982",
+    "nome": "Kokutō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_113f7668eeea5316",
+    "nome": "Komushi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_c7f8652bb8a2904a",
+    "nome": "Konoha Chakra Blade",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8cccfa4517f71dad",
+    "nome": "Kubikiribōchō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_4593799c8d0e457b",
+    "nome": "Kunai Blade",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_439ce567f307b49f",
+    "nome": "Kuroari",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_886574b7639867fc",
+    "nome": "Kurosawa",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_d9d6950191be4aa4",
+    "nome": "Kusari",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_1a9716fe25881f75",
+    "nome": "Kusarigama",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_bed6dc961bd714d0",
+    "nome": "Kuwa",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_4dbfecaef7baa87e",
+    "nome": "Kōkinjō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_cd19745b4785d8f2",
+    "nome": "Lightning Barrel",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_904f2bcb12a451bf",
+    "nome": "Lightning Release Suit",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_1e9ef4f2ffead2ca",
+    "nome": "Lion-Headed Kannon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_3d5756f7d12fc561",
+    "nome": "Lizard Puppet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_95ea96e11f6d84d8",
+    "nome": "Makibishi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_25bc02167277d0ac",
+    "nome": "Marlin Harpoon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_425efe7f17f8c61e",
+    "nome": "Mechanical Drilling Arm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_adac59db1ba6916a",
+    "nome": "Mechanical Eight Trigrams Formation Drum",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_e509846eb71e3630",
+    "nome": "Mechanical Kunai Thrower",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_2cade07069b1f894",
+    "nome": "Metal Doll",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_2dd534e0cd81721b",
+    "nome": "Metal Gauntlets",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a2597040339596ea",
+    "nome": "Meteorite",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a9618d69c516dfe5",
+    "nome": "Microscopic Scientific Ninja Tools",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_695edc21be76ba67",
+    "nome": "Military Rations Pill",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a70016b07c1dfb16",
+    "nome": "Mind Awakening Pill",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_7424289d96610a27",
+    "nome": "Mind Reading Amplification Machine",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_66d525be231aee63",
+    "nome": "Mirror Drone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_711945d6598fb11f",
+    "nome": "Mother and Father",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8500a6cb846603de",
+    "nome": "Moulding Mushroom",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_c662f6c75a3acf30",
+    "nome": "New Moon Flower Perfume",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a4a7392e7dd7f00b",
+    "nome": "Ninja Info Cards",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_0868bd47885f4eb8",
+    "nome": "Nuibari",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_9dc3c5e2c4c31f55",
+    "nome": "Nunchaku",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_32a6c866b8261c05",
+    "nome": "Ocarina",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_19033a872cc1e0da",
+    "nome": "Odourless Poison Mist",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_cdd7561a01f2e1c2",
+    "nome": "Palace of the Dragon King",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_aa8ed98116ec224b",
+    "nome": "Pepper Balloon Earrings",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_5743abddddfa08c1",
+    "nome": "Poison",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_e2d67a40068a8bf3",
+    "nome": "Prayer Beads",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_4b02e0c6135a5924",
+    "nome": "Puppet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_7f70d3ec02533a26",
+    "nome": "Puppet Buzzsaw",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_9be54a1e535b16c1",
+    "nome": "Ray Bow",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_fbe33c13fa558705",
+    "nome": "Resonating Echo Speaker",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_e234e59939d43a6c",
+    "nome": "Retractable Cable Arm",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8d90f812c7ad4a40",
+    "nome": "Retractable Shield",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_bbf3c0c0c16c0f98",
+    "nome": "Retractable Spear",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_c0e1981510f4b789",
+    "nome": "Saezuri",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_7228e5c20e1aed22",
+    "nome": "Samehada",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_f79d7d24558304d8",
+    "nome": "Sand",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_79aa2040d5bc25f1",
+    "nome": "Sand Gourd",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_3d6a8bd8b8c9d9d2",
+    "nome": "Sanshōuo",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_9e16fbdc9bdd9a47",
+    "nome": "Sasori",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_3e8d211318719501",
+    "nome": "Sasumata",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_e92b49d54a125f49",
+    "nome": "Scalpel",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_4590ddd6d5abd981",
+    "nome": "Scissor Pincers",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_f757c8801a5f174a",
+    "nome": "Sealing Arm Braces",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_206dae97bf87a8d5",
+    "nome": "Sealing Tag",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_2440b07391c297ec",
+    "nome": "Secret Treasure of the Toads",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_b78487f01e93787c",
+    "nome": "Senbon",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_d9f69cb9344cb11f",
+    "nome": "Shakujō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_d7a0986ac5577ef6",
+    "nome": "Shibuki",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_b19d6ac8e0eca0b7",
+    "nome": "Shichiseiken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_072a626ed2d6cc7d",
+    "nome": "Shield",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_3a2c1056ba4a26aa",
+    "nome": "Shinigami Mask",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_d04b5cadc0adb92e",
+    "nome": "Shinobi Gauntlet",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_904cd276ecd139f4",
+    "nome": "Shuigu",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_56edaf4597bdd823",
+    "nome": "Shuriken",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8d8ea317f02f063f",
+    "nome": "Slime Suit",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8a4372f10d707941",
+    "nome": "Slingshot",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_e560e144590d6c94",
+    "nome": "Smoke Tag",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_c378642896508dc9",
+    "nome": "Smoke-Flash Bomb",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_5bcb80d0681d6b5e",
+    "nome": "Snowboard",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_0ad2e037c2885749",
+    "nome": "Space-Time Gate",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_34b9b9fcf88b9566",
+    "nome": "Space–Time Hole",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8f2cc936b1968c90",
+    "nome": "Spear",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_280ed47f47e6935b",
+    "nome": "Spirit Orbs",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_9da2c4b7dad5e7b4",
+    "nome": "Spy Drone",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_71b67ecb18a3d669",
+    "nome": "Steam Armour",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_93c4fe9108ed0817",
+    "nome": "Stone Swords",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_40fe4fa303c1379e",
+    "nome": "Stone of Gelel",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8f8c01981a68d73a",
+    "nome": "Supervibrato Lightning Release Swords",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a44c47b1ee24665d",
+    "nome": "Sword",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_e57b4d55631c7030",
+    "nome": "Sword of Kusanagi",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_f230816dbc8f4918",
+    "nome": "Sword of Nunoboko",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_317c9f950207e027",
+    "nome": "Sword of Totsuka",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_cefdc89a0a5bc9f7",
+    "nome": "Sword of the Thunder God",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_fb433cf73a049195",
+    "nome": "Sōshūga",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_abeffdaafecde2cb",
+    "nome": "Tailed Beast Drug",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_96dffc0734f25bd0",
+    "nome": "Tantō",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_a9940e2f3ccc956c",
+    "nome": "Tessen",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_4575d225423b894f",
+    "nome": "Third Kazekage",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_b62b9472edecb271",
+    "nome": "Three Coloured Pills",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_154117beb0807f96",
+    "nome": "Three-Section Staff",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_b6485468b2659e7b",
+    "nome": "Tonfa",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_2d7a97028c0ff102",
+    "nome": "Triple-Bladed Scythe",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_7240a4ff61bfe91c",
+    "nome": "Tsurukame",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_2974744982f08b20",
+    "nome": "Umbrella",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_e014808e7f3490ba",
+    "nome": "Vambraces",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_37657f669aff58ea",
+    "nome": "Water Stream Shooters",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_14913486bee8f56d",
+    "nome": "Water-Firing Puppets",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8b283b91166aae41",
+    "nome": "Weaknessless Soaring Shortswords",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_9a129038d9a00aed",
+    "nome": "Weights",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_eaeeef0170ecaecb",
+    "nome": "Whip",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_8733790dbab3ade1",
+    "nome": "White Light Chakra Sabre",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_02b7351134462c3e",
+    "nome": "Winged Mechanical Device",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_9bde015c2c469dec",
+    "nome": "Wire Strings",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_b1109c2ff556431e",
+    "nome": "Wrist Launcher",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_d7a2ff8f68763353",
+    "nome": "Wrist-Mounted Senbon Launcher",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_26e13047c598e685",
+    "nome": "Yata Mirror",
+    "fonte": "Dattebayo"
+  },
+  {
+    "ferramenta_id": "ferramenta_742137df8b5185a0",
+    "nome": "Ōtsutsuki Clan Puppets",
+    "fonte": "Dattebayo"
+  }
+]

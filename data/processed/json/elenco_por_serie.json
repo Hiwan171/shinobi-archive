@@ -1,0 +1,4790 @@
+[
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 13,
+    "personagem_id": 1307,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 14,
+    "personagem_id": 1293,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 85,
+    "personagem_id": 376,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 145,
+    "personagem_id": 374,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 306,
+    "personagem_id": 739,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 307,
+    "personagem_id": 344,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 728,
+    "personagem_id": 831,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 809,
+    "personagem_id": 809,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 1555,
+    "personagem_id": 437,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 1662,
+    "personagem_id": 259,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 1694,
+    "personagem_id": 444,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 1902,
+    "personagem_id": 193,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2007,
+    "personagem_id": 878,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2008,
+    "personagem_id": 40,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2009,
+    "personagem_id": 1365,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2011,
+    "personagem_id": 1325,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2039,
+    "personagem_id": 356,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2174,
+    "personagem_id": 1208,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2405,
+    "personagem_id": 1359,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2423,
+    "personagem_id": 515,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2455,
+    "personagem_id": 928,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2535,
+    "personagem_id": 865,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2672,
+    "personagem_id": 421,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2766,
+    "personagem_id": 949,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 2767,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 3052,
+    "personagem_id": 1203,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 3150,
+    "personagem_id": 1424,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 3180,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 3428,
+    "personagem_id": 13,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 3438,
+    "personagem_id": 637,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 3495,
+    "personagem_id": 466,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 3710,
+    "personagem_id": 1216,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 3735,
+    "personagem_id": 1110,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 3889,
+    "personagem_id": 1037,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 4223,
+    "personagem_id": 261,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 4643,
+    "personagem_id": 1122,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 4694,
+    "personagem_id": 577,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 4773,
+    "personagem_id": 1397,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 4775,
+    "personagem_id": 1034,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 4799,
+    "personagem_id": 29,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 5737,
+    "personagem_id": 475,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 6598,
+    "personagem_id": 981,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 7310,
+    "personagem_id": 774,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 7407,
+    "personagem_id": 711,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 7571,
+    "personagem_id": 1036,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 7608,
+    "personagem_id": 608,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 7738,
+    "personagem_id": 293,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 8495,
+    "personagem_id": 517,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 8497,
+    "personagem_id": 626,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 8760,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 8771,
+    "personagem_id": 724,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 8810,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 8997,
+    "personagem_id": 8,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 9244,
+    "personagem_id": 644,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 9680,
+    "personagem_id": 1265,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 9699,
+    "personagem_id": 27,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 10524,
+    "personagem_id": 1052,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 10697,
+    "personagem_id": 11,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 10698,
+    "personagem_id": 28,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 10699,
+    "personagem_id": 42,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 10700,
+    "personagem_id": 49,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 10791,
+    "personagem_id": 212,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 11813,
+    "personagem_id": 1127,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 12464,
+    "personagem_id": 1063,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 12465,
+    "personagem_id": 1066,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 12563,
+    "personagem_id": 435,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 13017,
+    "personagem_id": 1376,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 13454,
+    "personagem_id": 618,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 14032,
+    "personagem_id": 571,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15039,
+    "personagem_id": 436,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15045,
+    "personagem_id": 1337,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15072,
+    "personagem_id": 1367,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15073,
+    "personagem_id": 465,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15074,
+    "personagem_id": 468,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15077,
+    "personagem_id": 1281,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15081,
+    "personagem_id": 107,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15145,
+    "personagem_id": 1391,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15176,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15177,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15178,
+    "personagem_id": 371,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15179,
+    "personagem_id": 1085,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15757,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 15759,
+    "personagem_id": 821,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 16164,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 16165,
+    "personagem_id": 779,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 16304,
+    "personagem_id": 348,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 16321,
+    "personagem_id": 1239,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 16952,
+    "personagem_id": 271,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 16973,
+    "personagem_id": 1289,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 16974,
+    "personagem_id": 845,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 16975,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 16976,
+    "personagem_id": 1351,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 16999,
+    "personagem_id": 266,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17165,
+    "personagem_id": 147,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17197,
+    "personagem_id": 1204,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17199,
+    "personagem_id": 302,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17200,
+    "personagem_id": 1233,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17298,
+    "personagem_id": 863,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17302,
+    "personagem_id": 588,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17305,
+    "personagem_id": 992,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17307,
+    "personagem_id": 393,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17310,
+    "personagem_id": 101,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17312,
+    "personagem_id": 1227,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17313,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17316,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17414,
+    "personagem_id": 966,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17424,
+    "personagem_id": 417,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17425,
+    "personagem_id": 970,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17535,
+    "personagem_id": 305,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17536,
+    "personagem_id": 290,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17539,
+    "personagem_id": 418,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17540,
+    "personagem_id": 832,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17541,
+    "personagem_id": 860,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17542,
+    "personagem_id": 868,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17543,
+    "personagem_id": 867,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17545,
+    "personagem_id": 715,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17546,
+    "personagem_id": 1049,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17547,
+    "personagem_id": 1071,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17548,
+    "personagem_id": 1097,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17549,
+    "personagem_id": 1357,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17551,
+    "personagem_id": 1188,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17552,
+    "personagem_id": 1350,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17553,
+    "personagem_id": 1372,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17557,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17619,
+    "personagem_id": 911,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 17666,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 18056,
+    "personagem_id": 877,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 19253,
+    "personagem_id": 818,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 20274,
+    "personagem_id": 324,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 20278,
+    "personagem_id": 346,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 20645,
+    "personagem_id": 31,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 21122,
+    "personagem_id": 1300,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 21365,
+    "personagem_id": 458,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22247,
+    "personagem_id": 880,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22648,
+    "personagem_id": 811,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22649,
+    "personagem_id": 1336,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22876,
+    "personagem_id": 605,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22880,
+    "personagem_id": 439,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22881,
+    "personagem_id": 721,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22884,
+    "personagem_id": 886,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22889,
+    "personagem_id": 1313,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22891,
+    "personagem_id": 1292,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22908,
+    "personagem_id": 1317,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22920,
+    "personagem_id": 967,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22921,
+    "personagem_id": 1283,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22922,
+    "personagem_id": 304,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22923,
+    "personagem_id": 835,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22931,
+    "personagem_id": 1428,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 22996,
+    "personagem_id": 544,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23006,
+    "personagem_id": 64,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23052,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23056,
+    "personagem_id": 526,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23081,
+    "personagem_id": 105,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23083,
+    "personagem_id": 790,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23140,
+    "personagem_id": 1232,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23143,
+    "personagem_id": 1314,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23144,
+    "personagem_id": 1315,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23145,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23153,
+    "personagem_id": 1105,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23154,
+    "personagem_id": 1164,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23155,
+    "personagem_id": 391,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23156,
+    "personagem_id": 1081,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23215,
+    "personagem_id": 1006,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23222,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23569,
+    "personagem_id": 343,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 23759,
+    "personagem_id": 1196,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 24324,
+    "personagem_id": 1231,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 27688,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 31197,
+    "personagem_id": 836,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 34075,
+    "personagem_id": 121,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 37929,
+    "personagem_id": 761,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 40727,
+    "personagem_id": 355,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 41366,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 43923,
+    "personagem_id": 709,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 43924,
+    "personagem_id": 710,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 43972,
+    "personagem_id": 774,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 50957,
+    "personagem_id": 962,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 63793,
+    "personagem_id": 289,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 67289,
+    "personagem_id": 373,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 77693,
+    "personagem_id": 884,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 82609,
+    "personagem_id": 1154,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 83755,
+    "personagem_id": 278,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 192707,
+    "personagem_id": 1250,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 20,
+    "anilist_id": 391282,
+    "personagem_id": 30,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 13,
+    "personagem_id": 1307,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 14,
+    "personagem_id": 1293,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 85,
+    "personagem_id": 376,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 145,
+    "personagem_id": 374,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 306,
+    "personagem_id": 739,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 307,
+    "personagem_id": 344,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 728,
+    "personagem_id": 831,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 809,
+    "personagem_id": 809,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 1555,
+    "personagem_id": 437,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 1662,
+    "personagem_id": 259,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 1694,
+    "personagem_id": 444,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 1900,
+    "personagem_id": 1042,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 1901,
+    "personagem_id": 1008,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 1902,
+    "personagem_id": 193,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 1903,
+    "personagem_id": 430,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2006,
+    "personagem_id": 1373,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2007,
+    "personagem_id": 878,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2008,
+    "personagem_id": 40,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2009,
+    "personagem_id": 1365,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2011,
+    "personagem_id": 1325,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2039,
+    "personagem_id": 356,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2174,
+    "personagem_id": 1208,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2405,
+    "personagem_id": 1359,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2423,
+    "personagem_id": 515,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2455,
+    "personagem_id": 928,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2535,
+    "personagem_id": 865,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2672,
+    "personagem_id": 421,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2766,
+    "personagem_id": 949,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2767,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 2792,
+    "personagem_id": 388,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3052,
+    "personagem_id": 1203,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3149,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3150,
+    "personagem_id": 1424,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3151,
+    "personagem_id": 593,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3152,
+    "personagem_id": 521,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3178,
+    "personagem_id": 558,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3179,
+    "personagem_id": 684,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3180,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3428,
+    "personagem_id": 13,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3438,
+    "personagem_id": 637,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3495,
+    "personagem_id": 466,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3710,
+    "personagem_id": 1216,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3735,
+    "personagem_id": 1110,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 3889,
+    "personagem_id": 1037,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 4223,
+    "personagem_id": 261,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 4643,
+    "personagem_id": 1122,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 4694,
+    "personagem_id": 577,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 4773,
+    "personagem_id": 1397,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 4775,
+    "personagem_id": 1034,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 4799,
+    "personagem_id": 29,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 7302,
+    "personagem_id": 1341,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 7310,
+    "personagem_id": 774,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 7407,
+    "personagem_id": 711,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 7571,
+    "personagem_id": 1036,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 7608,
+    "personagem_id": 608,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 7738,
+    "personagem_id": 293,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 8495,
+    "personagem_id": 517,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 8497,
+    "personagem_id": 626,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 8760,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 10697,
+    "personagem_id": 11,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 10699,
+    "personagem_id": 42,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 10791,
+    "personagem_id": 212,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 11813,
+    "personagem_id": 1127,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 12464,
+    "personagem_id": 1063,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 12465,
+    "personagem_id": 1066,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 12563,
+    "personagem_id": 435,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 12676,
+    "personagem_id": 148,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 13017,
+    "personagem_id": 1376,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 13454,
+    "personagem_id": 618,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 13483,
+    "personagem_id": 1135,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 13929,
+    "personagem_id": 622,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 14032,
+    "personagem_id": 571,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 14082,
+    "personagem_id": 903,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 15039,
+    "personagem_id": 436,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 15045,
+    "personagem_id": 1337,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 15072,
+    "personagem_id": 1367,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 15073,
+    "personagem_id": 465,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 15074,
+    "personagem_id": 468,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 15081,
+    "personagem_id": 107,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 15362,
+    "personagem_id": 898,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 15364,
+    "personagem_id": 651,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 15365,
+    "personagem_id": 146,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 15757,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 16304,
+    "personagem_id": 348,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 16406,
+    "personagem_id": 1296,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 16952,
+    "personagem_id": 271,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 16973,
+    "personagem_id": 1289,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 16974,
+    "personagem_id": 845,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 16999,
+    "personagem_id": 266,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 17197,
+    "personagem_id": 1204,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 17298,
+    "personagem_id": 863,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 17310,
+    "personagem_id": 101,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 17312,
+    "personagem_id": 1227,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 17553,
+    "personagem_id": 1372,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 17619,
+    "personagem_id": 911,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 18056,
+    "personagem_id": 877,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 18473,
+    "personagem_id": 636,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 19253,
+    "personagem_id": 818,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 20013,
+    "personagem_id": 341,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 20621,
+    "personagem_id": 1405,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 20645,
+    "personagem_id": 31,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 20741,
+    "personagem_id": 229,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 20894,
+    "personagem_id": 377,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 21122,
+    "personagem_id": 1300,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 21365,
+    "personagem_id": 458,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22000,
+    "personagem_id": 1086,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22184,
+    "personagem_id": 976,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22247,
+    "personagem_id": 880,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22248,
+    "personagem_id": 597,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22648,
+    "personagem_id": 811,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22649,
+    "personagem_id": 1336,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22817,
+    "personagem_id": 1094,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22872,
+    "personagem_id": 920,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22873,
+    "personagem_id": 1019,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22874,
+    "personagem_id": 596,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22876,
+    "personagem_id": 605,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22880,
+    "personagem_id": 439,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22884,
+    "personagem_id": 886,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22889,
+    "personagem_id": 1313,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22891,
+    "personagem_id": 1292,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22893,
+    "personagem_id": 1310,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22894,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22898,
+    "personagem_id": 432,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22908,
+    "personagem_id": 1317,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22920,
+    "personagem_id": 967,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22923,
+    "personagem_id": 835,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22931,
+    "personagem_id": 1428,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22988,
+    "personagem_id": 442,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 22996,
+    "personagem_id": 544,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23008,
+    "personagem_id": 115,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23050,
+    "personagem_id": 1356,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23052,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23053,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23054,
+    "personagem_id": 850,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23055,
+    "personagem_id": 368,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23056,
+    "personagem_id": 526,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23057,
+    "personagem_id": 1395,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23080,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23149,
+    "personagem_id": 889,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23150,
+    "personagem_id": 1183,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23151,
+    "personagem_id": 1173,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23152,
+    "personagem_id": 552,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23154,
+    "personagem_id": 1164,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23219,
+    "personagem_id": 1335,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23220,
+    "personagem_id": 221,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23221,
+    "personagem_id": 983,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23222,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23223,
+    "personagem_id": 363,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23418,
+    "personagem_id": 152,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23420,
+    "personagem_id": 80,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23424,
+    "personagem_id": 1093,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23473,
+    "personagem_id": 35,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23474,
+    "personagem_id": 725,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23475,
+    "personagem_id": 925,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23476,
+    "personagem_id": 190,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23477,
+    "personagem_id": 135,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23478,
+    "personagem_id": 1223,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23569,
+    "personagem_id": 343,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23647,
+    "personagem_id": 15,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 23830,
+    "personagem_id": 794,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 24486,
+    "personagem_id": 230,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 24487,
+    "personagem_id": 1091,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 26933,
+    "personagem_id": 265,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 30084,
+    "personagem_id": 426,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 30185,
+    "personagem_id": 217,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 30186,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 30187,
+    "personagem_id": 870,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 30188,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 30189,
+    "personagem_id": 120,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 30190,
+    "personagem_id": 25,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 30427,
+    "personagem_id": 1109,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 30924,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 31268,
+    "personagem_id": 375,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 31269,
+    "personagem_id": 1282,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 31818,
+    "personagem_id": 1409,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 31825,
+    "personagem_id": 213,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 31828,
+    "personagem_id": 520,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 31829,
+    "personagem_id": 486,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 31830,
+    "personagem_id": 1358,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 31831,
+    "personagem_id": 1032,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 33618,
+    "personagem_id": 222,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 33619,
+    "personagem_id": 224,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 33736,
+    "personagem_id": 749,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 33790,
+    "personagem_id": 629,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 33791,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 33792,
+    "personagem_id": 628,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 33793,
+    "personagem_id": 909,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 34075,
+    "personagem_id": 121,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 34114,
+    "personagem_id": 197,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 34115,
+    "personagem_id": 398,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 34172,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 37929,
+    "personagem_id": 761,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 38453,
+    "personagem_id": 272,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 38454,
+    "personagem_id": 469,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 38455,
+    "personagem_id": 732,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 38456,
+    "personagem_id": 1124,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 38457,
+    "personagem_id": 1375,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 38458,
+    "personagem_id": 692,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 38459,
+    "personagem_id": 604,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 38460,
+    "personagem_id": 572,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 38461,
+    "personagem_id": 1270,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 38643,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 39570,
+    "personagem_id": 574,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 39571,
+    "personagem_id": 1153,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 39572,
+    "personagem_id": 1187,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 39573,
+    "personagem_id": 1384,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 39604,
+    "personagem_id": 765,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 39605,
+    "personagem_id": 1108,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 39606,
+    "personagem_id": 575,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 40403,
+    "personagem_id": 1364,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 40418,
+    "personagem_id": 365,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 40689,
+    "personagem_id": 891,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 40785,
+    "personagem_id": 1145,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 41208,
+    "personagem_id": 106,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 41209,
+    "personagem_id": 504,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 41210,
+    "personagem_id": 747,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 41211,
+    "personagem_id": 862,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 41212,
+    "personagem_id": 999,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 41213,
+    "personagem_id": 1003,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 41214,
+    "personagem_id": 1142,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 41215,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 41366,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 44981,
+    "personagem_id": 10,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 46605,
+    "personagem_id": 1082,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 48837,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 48839,
+    "personagem_id": 306,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 49681,
+    "personagem_id": 1415,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 50459,
+    "personagem_id": 410,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 50461,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 50545,
+    "personagem_id": 287,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 50553,
+    "personagem_id": 419,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 50555,
+    "personagem_id": 385,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 52029,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 52031,
+    "personagem_id": 114,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 52051,
+    "personagem_id": 1144,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 52053,
+    "personagem_id": 1119,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 52055,
+    "personagem_id": 1242,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 52959,
+    "personagem_id": 673,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 53251,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 53901,
+    "personagem_id": 1299,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 54685,
+    "personagem_id": 840,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 55293,
+    "personagem_id": 345,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 56689,
+    "personagem_id": 1175,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 56691,
+    "personagem_id": 1343,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 56693,
+    "personagem_id": 1035,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 56695,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 56697,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 56699,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 57871,
+    "personagem_id": 771,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 57873,
+    "personagem_id": 480,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 57875,
+    "personagem_id": 1009,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 57877,
+    "personagem_id": 1134,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 57879,
+    "personagem_id": 669,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 57881,
+    "personagem_id": 153,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 57883,
+    "personagem_id": 935,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 60103,
+    "personagem_id": 1212,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 60105,
+    "personagem_id": 964,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 60107,
+    "personagem_id": 445,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 62129,
+    "personagem_id": 282,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 62631,
+    "personagem_id": 157,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 62633,
+    "personagem_id": 276,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 62635,
+    "personagem_id": 440,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 62637,
+    "personagem_id": 485,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 62639,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 62641,
+    "personagem_id": 653,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 62643,
+    "personagem_id": 1186,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 62645,
+    "personagem_id": 1402,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 62647,
+    "personagem_id": 1418,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 63189,
+    "personagem_id": 1297,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 63209,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 63211,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 63791,
+    "personagem_id": 950,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 63793,
+    "personagem_id": 289,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 63973,
+    "personagem_id": 488,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 63979,
+    "personagem_id": 1147,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 64447,
+    "personagem_id": 754,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 64449,
+    "personagem_id": 873,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 64451,
+    "personagem_id": 1370,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 64453,
+    "personagem_id": 844,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 64455,
+    "personagem_id": 716,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 64457,
+    "personagem_id": 853,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 64459,
+    "personagem_id": 975,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 64461,
+    "personagem_id": 36,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 65133,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 65135,
+    "personagem_id": 428,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 65139,
+    "personagem_id": 641,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 65141,
+    "personagem_id": 326,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 66541,
+    "personagem_id": 100,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 66543,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 66547,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 66549,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 67281,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 67283,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 67285,
+    "personagem_id": 916,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 67287,
+    "personagem_id": 372,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 67289,
+    "personagem_id": 373,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 70989,
+    "personagem_id": 161,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 73781,
+    "personagem_id": 962,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 77005,
+    "personagem_id": 1114,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 77433,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 77435,
+    "personagem_id": 41,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 77437,
+    "personagem_id": 199,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 77439,
+    "personagem_id": 1366,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 77441,
+    "personagem_id": 1331,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 77443,
+    "personagem_id": 1352,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 78095,
+    "personagem_id": 264,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 80581,
+    "personagem_id": 81,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 84619,
+    "personagem_id": 1197,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 84621,
+    "personagem_id": 148,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 84623,
+    "personagem_id": 140,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 84625,
+    "personagem_id": 102,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 84627,
+    "personagem_id": 1390,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 126069,
+    "personagem_id": 940,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 149716,
+    "personagem_id": 210,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 165868,
+    "personagem_id": 936,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 192707,
+    "personagem_id": 1250,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 197843,
+    "personagem_id": 938,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 231418,
+    "personagem_id": 1295,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 245330,
+    "personagem_id": 755,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 245331,
+    "personagem_id": 396,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 269534,
+    "personagem_id": 1361,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 269851,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 280254,
+    "personagem_id": 145,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 280255,
+    "personagem_id": 907,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 280256,
+    "personagem_id": 947,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 1735,
+    "anilist_id": 285875,
+    "personagem_id": 1338,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 13,
+    "personagem_id": 1307,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 14,
+    "personagem_id": 1293,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 17,
+    "personagem_id": 1344,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 85,
+    "personagem_id": 376,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 145,
+    "personagem_id": 374,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 306,
+    "personagem_id": 739,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 307,
+    "personagem_id": 344,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 809,
+    "personagem_id": 809,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 1555,
+    "personagem_id": 437,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 1662,
+    "personagem_id": 259,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 1694,
+    "personagem_id": 444,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 1901,
+    "personagem_id": 1008,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 1903,
+    "personagem_id": 430,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 2007,
+    "personagem_id": 878,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 2008,
+    "personagem_id": 40,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 2009,
+    "personagem_id": 1365,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 2011,
+    "personagem_id": 1325,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 2174,
+    "personagem_id": 1208,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 2405,
+    "personagem_id": 1359,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 2423,
+    "personagem_id": 515,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 2455,
+    "personagem_id": 928,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 2767,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 3151,
+    "personagem_id": 593,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 3152,
+    "personagem_id": 521,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 3428,
+    "personagem_id": 13,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 3495,
+    "personagem_id": 466,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 3710,
+    "personagem_id": 1216,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 3889,
+    "personagem_id": 1037,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 4643,
+    "personagem_id": 1122,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 4694,
+    "personagem_id": 577,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 4773,
+    "personagem_id": 1397,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 4775,
+    "personagem_id": 1034,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 7407,
+    "personagem_id": 711,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 7571,
+    "personagem_id": 1036,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 11813,
+    "personagem_id": 1127,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 12563,
+    "personagem_id": 435,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 13454,
+    "personagem_id": 618,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 15039,
+    "personagem_id": 436,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 15072,
+    "personagem_id": 1367,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 16973,
+    "personagem_id": 1289,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 17310,
+    "personagem_id": 101,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 17628,
+    "personagem_id": 91,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 17629,
+    "personagem_id": 1371,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 18056,
+    "personagem_id": 877,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 18285,
+    "personagem_id": 1394,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 18473,
+    "personagem_id": 636,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 21590,
+    "personagem_id": 719,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 21679,
+    "personagem_id": 1396,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 22560,
+    "personagem_id": 580,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 22872,
+    "personagem_id": 920,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 22874,
+    "personagem_id": 596,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 22894,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 23052,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 23186,
+    "personagem_id": 590,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 23418,
+    "personagem_id": 152,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 23420,
+    "personagem_id": 80,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 23426,
+    "personagem_id": 701,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 23473,
+    "personagem_id": 35,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 23474,
+    "personagem_id": 725,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 23475,
+    "personagem_id": 925,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 23476,
+    "personagem_id": 190,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 23478,
+    "personagem_id": 1223,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 23655,
+    "personagem_id": 723,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 24390,
+    "personagem_id": 828,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 24392,
+    "personagem_id": 543,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 24883,
+    "personagem_id": 1178,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 24884,
+    "personagem_id": 923,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 24888,
+    "personagem_id": 924,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 24889,
+    "personagem_id": 926,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 24890,
+    "personagem_id": 986,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 24910,
+    "personagem_id": 998,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 26637,
+    "personagem_id": 1041,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 27163,
+    "personagem_id": 1054,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 27218,
+    "personagem_id": 1070,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 27219,
+    "personagem_id": 1068,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 27465,
+    "personagem_id": 1069,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 27517,
+    "personagem_id": 1166,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 27543,
+    "personagem_id": 1170,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 28130,
+    "personagem_id": 1171,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 29460,
+    "personagem_id": 1179,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 29958,
+    "personagem_id": 1193,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 30732,
+    "personagem_id": 1199,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 31538,
+    "personagem_id": null,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 31540,
+    "personagem_id": null,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 31541,
+    "personagem_id": 1257,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 32114,
+    "personagem_id": 1244,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 33854,
+    "personagem_id": 1413,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 33859,
+    "personagem_id": 1412,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 34326,
+    "personagem_id": 1378,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 34327,
+    "personagem_id": 720,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 34328,
+    "personagem_id": 1377,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 34365,
+    "personagem_id": 1400,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 36489,
+    "personagem_id": 471,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 40032,
+    "personagem_id": 483,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 40868,
+    "personagem_id": 452,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 40870,
+    "personagem_id": 422,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 43883,
+    "personagem_id": 389,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 43884,
+    "personagem_id": 382,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 47131,
+    "personagem_id": 350,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 47155,
+    "personagem_id": 347,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 49833,
+    "personagem_id": 292,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 49835,
+    "personagem_id": 239,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 50633,
+    "personagem_id": 328,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 55293,
+    "personagem_id": 345,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 57873,
+    "personagem_id": 480,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 57875,
+    "personagem_id": 1009,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 57877,
+    "personagem_id": 1134,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 70919,
+    "personagem_id": 690,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 71695,
+    "personagem_id": 223,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 72819,
+    "personagem_id": null,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 72821,
+    "personagem_id": 207,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 72823,
+    "personagem_id": null,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 72825,
+    "personagem_id": 97,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 73875,
+    "personagem_id": 751,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 78325,
+    "personagem_id": 683,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 79817,
+    "personagem_id": 51,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 79911,
+    "personagem_id": 96,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 80581,
+    "personagem_id": 81,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 83047,
+    "personagem_id": 50,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 89830,
+    "personagem_id": 645,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 121439,
+    "personagem_id": 1339,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 121440,
+    "personagem_id": 1306,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 121441,
+    "personagem_id": 1368,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 121442,
+    "personagem_id": 876,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 121443,
+    "personagem_id": 39,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 121444,
+    "personagem_id": 813,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 121445,
+    "personagem_id": 1340,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 122209,
+    "personagem_id": 550,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 126154,
+    "personagem_id": 1100,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 127027,
+    "personagem_id": 942,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 127028,
+    "personagem_id": 941,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 127029,
+    "personagem_id": 945,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 127030,
+    "personagem_id": 944,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 129264,
+    "personagem_id": 1309,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 130415,
+    "personagem_id": 194,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 130417,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 130418,
+    "personagem_id": 510,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 130419,
+    "personagem_id": 1248,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 130421,
+    "personagem_id": 600,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 130422,
+    "personagem_id": 283,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 130423,
+    "personagem_id": 738,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 130425,
+    "personagem_id": 88,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 130426,
+    "personagem_id": 609,
+    "papel_original": "MAIN",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 131422,
+    "personagem_id": 1038,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 144375,
+    "personagem_id": 473,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 144709,
+    "personagem_id": 499,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 173137,
+    "personagem_id": 673,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 180513,
+    "personagem_id": 125,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 183289,
+    "personagem_id": 1123,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 183290,
+    "personagem_id": 280,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 187172,
+    "personagem_id": 192,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 187173,
+    "personagem_id": 1346,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 189947,
+    "personagem_id": 463,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 189949,
+    "personagem_id": 159,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 201641,
+    "personagem_id": 119,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 201642,
+    "personagem_id": 205,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 201643,
+    "personagem_id": 330,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 203399,
+    "personagem_id": 766,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 220447,
+    "personagem_id": null,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 237843,
+    "personagem_id": 568,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 251428,
+    "personagem_id": 484,
+    "papel_original": "BACKGROUND",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 261050,
+    "personagem_id": 606,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 267158,
+    "personagem_id": 744,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 271653,
+    "personagem_id": 165,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 280254,
+    "personagem_id": 145,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 280255,
+    "personagem_id": 907,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 281039,
+    "personagem_id": 128,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 284917,
+    "personagem_id": 1408,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 295482,
+    "personagem_id": 912,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 326397,
+    "personagem_id": 243,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 330052,
+    "personagem_id": 242,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  },
+  {
+    "serie_anilist_id": 97938,
+    "anilist_id": 371123,
+    "personagem_id": 1369,
+    "papel_original": "SUPPORTING",
+    "fonte": "AniList"
+  }
+]

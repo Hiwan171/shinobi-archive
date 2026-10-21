@@ -1,0 +1,4505 @@
+{
+  "version": "4.0.0",
+  "collectedAt": "2026-10-21T14:41:03.856080+00:00",
+  "arts": [
+    {
+      "person": 1397,
+      "name": "Kurenai Yūhi",
+      "phase": "default",
+      "code": "new13",
+      "label": "夕日紅",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/new13/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=new13",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 507,
+      "height": 1155,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_new13.png",
+      "bytes": 73918,
+      "sha256": "12afede99c20d20840514a5abe278fafecfc3bdbae5dd2289750c70bac0a27b5"
+    },
+    {
+      "person": 935,
+      "name": "Hagoromo Ōtsutsuki",
+      "phase": "default",
+      "code": "new11",
+      "label": "大筒木ハゴロモ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/new11/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=new11",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 719,
+      "height": 1159,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_new11.png",
+      "bytes": 72265,
+      "sha256": "8c28066ba1421af3911d2cd8795af620e38dbca5f6a28ff71d78c33a2e77d924"
+    },
+    {
+      "person": 600,
+      "name": "Koji Kashin",
+      "phase": "default",
+      "code": "new10",
+      "label": "果心居士",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/new10/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=new10",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 715,
+      "height": 1177,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_new10.png",
+      "bytes": 66526,
+      "sha256": "c8769f5a87e10a27d6589cdbefc640603dc1c6706856fe674bf49d26ce94488c"
+    },
+    {
+      "person": 125,
+      "name": "Boro",
+      "phase": "default",
+      "code": "new09",
+      "label": "ボロ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/new09/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=new09",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 742,
+      "height": 988,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_new09.png",
+      "bytes": 165826,
+      "sha256": "2f2daee0ece70eb4834277a17f439ab4f9ac917650a399ad3fb16e0a93755a95"
+    },
+    {
+      "person": 194,
+      "name": "Delta",
+      "phase": "default",
+      "code": "new08",
+      "label": "デルタ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/new08/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=new08",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 357,
+      "height": 1106,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_new08.png",
+      "bytes": 44360,
+      "sha256": "eae3b9cf27086b76e7be867f36932cca169a471756ddd95f9137ac5a10da5831"
+    },
+    {
+      "person": 609,
+      "name": "Kawaki",
+      "phase": "default",
+      "code": "new06",
+      "label": "カワキ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/new06/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=new06",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 335,
+      "height": 1003,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_new06.png",
+      "bytes": 78584,
+      "sha256": "e059e11b532ace6077c861d0b64838157ee28b1361225dc2afd790621f027553"
+    },
+    {
+      "person": 510,
+      "name": "Jigen",
+      "phase": "default",
+      "code": "new07",
+      "label": "ジゲン",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/new07/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=new07",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 770,
+      "height": 1120,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_new07.png",
+      "bytes": 102805,
+      "sha256": "c4b7d560cde4d3422545a5f8e897ce94ee24b253d887d59f83fca4238d05ac19"
+    },
+    {
+      "person": 938,
+      "name": "Indra Ōtsutsuki",
+      "phase": "default",
+      "code": "new02",
+      "label": "大筒木インドラ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/new02/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=new02",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 618,
+      "height": 1062,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        255,
+        255,
+        255
+      ],
+      "file": "assets/game_art/storm_new02.png",
+      "bytes": 129574,
+      "sha256": "064b1eb0372c7b3fdff742f9e83cfbf137219bf461bb56dfaf06697875d3ca8d"
+    },
+    {
+      "person": 1344,
+      "name": "Naruto Uzumaki",
+      "phase": "Part I",
+      "code": "chara001",
+      "label": "うずまきナルト(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara001/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara001",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 458,
+      "height": 1025,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara001.png",
+      "bytes": 88729,
+      "sha256": "8c1b20cba6515a265c39f266a04cf0b4b644e747ce43f38c11a24646213d26a8"
+    },
+    {
+      "person": 1344,
+      "name": "Naruto Uzumaki",
+      "phase": "default",
+      "code": "chara002",
+      "label": "うずまきナルト",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara002/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara002",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 449,
+      "height": 1157,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara002.png",
+      "bytes": 50504,
+      "sha256": "1217e69196aa3de40f5be7652c6fb8fec57dc87f4c9225d098daf3213ef694cf"
+    },
+    {
+      "person": 1344,
+      "name": "Naruto Uzumaki",
+      "phase": "Blank Period",
+      "code": "chara006",
+      "label": "うずまきナルト(THE LAST)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara006/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara006",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 471,
+      "height": 1153,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara006.png",
+      "bytes": 52852,
+      "sha256": "c4dd8bbe4612554555acd54fc72a25f98e559512f73105c736eee8bb40ea0667"
+    },
+    {
+      "person": 1344,
+      "name": "Naruto Uzumaki",
+      "phase": "Boruto",
+      "code": "chara007",
+      "label": "うずまきナルト(BORUTO)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara007/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara007",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 796,
+      "height": 1021,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara007.png",
+      "bytes": 164125,
+      "sha256": "8d700a1887c3ea3a9f981c11bbd4db8e5f7c1e888170fe3baca01d81e9e67cad"
+    },
+    {
+      "person": 1307,
+      "name": "Sasuke Uchiha",
+      "phase": "Part I",
+      "code": "chara008",
+      "label": "うちはサスケ(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara008/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara008",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 630,
+      "height": 987,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara008.png",
+      "bytes": 56236,
+      "sha256": "a1cdba6b6e7ab2b7e59521abd0d3b0e871d40abbfa25afe4c56d8a361b3d12fb"
+    },
+    {
+      "person": 1307,
+      "name": "Sasuke Uchiha",
+      "phase": "default",
+      "code": "chara009",
+      "label": "うちはサスケ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara009/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara009",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 435,
+      "height": 1103,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara009.png",
+      "bytes": 61404,
+      "sha256": "3131743bf53e4865e66d59d0d23b0f26e9bf43071bebd679f2dc201b2fb25319"
+    },
+    {
+      "person": 1307,
+      "name": "Sasuke Uchiha",
+      "phase": "Blank Period",
+      "code": "chara014",
+      "label": "うちはサスケ(THE LAST)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara014/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara014",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 691,
+      "height": 1066,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara014.png",
+      "bytes": 57135,
+      "sha256": "f03e93e9b83d181ec34901aeee4cfaa4b1cdb7abaf23295db90bb6ad7ac6c9f6"
+    },
+    {
+      "person": 1307,
+      "name": "Sasuke Uchiha",
+      "phase": "Boruto",
+      "code": "chara015",
+      "label": "うちはサスケ(BORUTO)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara015/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara015",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 829,
+      "height": 1110,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara015.png",
+      "bytes": 69503,
+      "sha256": "a820b36c8c8c23c76403c272b510b5e53a590b917d6b34fea9cf7b351ed3e243"
+    },
+    {
+      "person": 374,
+      "name": "Sakura Haruno",
+      "phase": "Part I",
+      "code": "chara016",
+      "label": "春野サクラ(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara016/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara016",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 478,
+      "height": 914,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara016.png",
+      "bytes": 41349,
+      "sha256": "a8c4eb77692815019baaa482c26989a2baf26d644c9deb760f5fc1630fd8ce57"
+    },
+    {
+      "person": 374,
+      "name": "Sakura Haruno",
+      "phase": "default",
+      "code": "chara017",
+      "label": "春野サクラ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara017/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara017",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 530,
+      "height": 1057,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara017.png",
+      "bytes": 50360,
+      "sha256": "33b3e97b9f551d5925b1edf2afecaabfc23bf4ce891f318b0d5f5c93eb7e6c55"
+    },
+    {
+      "person": 1339,
+      "name": "Boruto Uzumaki",
+      "phase": "default",
+      "code": "chara018",
+      "label": "うずまきボルト",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara018/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara018",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 400,
+      "height": 980,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara018.png",
+      "bytes": 47868,
+      "sha256": "8e7ff4e8bf262a47c4001637c0bf30c3938263619f375d9219e61a4d081bf421"
+    },
+    {
+      "person": 1306,
+      "name": "Sarada Uchiha",
+      "phase": "default",
+      "code": "chara021",
+      "label": "うちはサラダ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara021/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara021",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 320,
+      "height": 973,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara021.png",
+      "bytes": 36609,
+      "sha256": "1d0ce9d0d7b45e860305e71ea2761f42bfed44c26a6ca97c5c3502bb6302ff20"
+    },
+    {
+      "person": 813,
+      "name": "Mitsuki",
+      "phase": "default",
+      "code": "chara023",
+      "label": "ミツキ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara023/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara023",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 549,
+      "height": 942,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara023.png",
+      "bytes": 47904,
+      "sha256": "e3c97872e9fe94f2e013af15219dffbfbff3eb95f55c17192fc414faa7215243"
+    },
+    {
+      "person": 376,
+      "name": "Kakashi Hatake",
+      "phase": "default",
+      "code": "chara024",
+      "label": "はたけカカシ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara024/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara024",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 769,
+      "height": 1170,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        5,
+        6,
+        6
+      ],
+      "file": "assets/game_art/storm_chara024.png",
+      "bytes": 84964,
+      "sha256": "d37d056f9e5f8c82772fd763e1c8a1b62e24d11438fd40eeb6572c7c881c43e7"
+    },
+    {
+      "person": 739,
+      "name": "Rock Lee",
+      "phase": "Part I",
+      "code": "chara025",
+      "label": "ロック・リー(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara025/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara025",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 360,
+      "height": 1000,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara025.png",
+      "bytes": 36133,
+      "sha256": "f5ea7a3693abace141b85bcba231725797ab0400ec6691772f0c5f6c3545575c"
+    },
+    {
+      "person": 739,
+      "name": "Rock Lee",
+      "phase": "default",
+      "code": "chara026",
+      "label": "ロック・リー",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara026/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara026",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 327,
+      "height": 1056,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara026.png",
+      "bytes": 53502,
+      "sha256": "107a5430978fd5adb0e77cc2d25cfac4cae35ea6727f29718b677dd3465d6790"
+    },
+    {
+      "person": 739,
+      "name": "Rock Lee",
+      "phase": "Boruto",
+      "code": "chara132",
+      "label": "ロック・リー(BORUTO)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara132/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara132",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 477,
+      "height": 1165,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara132.png",
+      "bytes": 45014,
+      "sha256": "e2e7a10721e0cbb51fe1e0a86c59a6fced8de2edd6741123289b14db5eaadfa6"
+    },
+    {
+      "person": 444,
+      "name": "Neji Hyūga",
+      "phase": "Part I",
+      "code": "chara027",
+      "label": "日向ネジ(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara027/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara027",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 384,
+      "height": 994,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara027.png",
+      "bytes": 37757,
+      "sha256": "3b87a2f73134ce8843f0a1a9e2f67dabc38b0c75bc1dacceb4189d89fdca5123"
+    },
+    {
+      "person": 444,
+      "name": "Neji Hyūga",
+      "phase": "default",
+      "code": "chara028",
+      "label": "日向ネジ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara028/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara028",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 422,
+      "height": 1037,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara028.png",
+      "bytes": 44744,
+      "sha256": "34248afae2d2769c38cf360c0139a029840bfe932eaefda463945b662c7ddb6b"
+    },
+    {
+      "person": 1216,
+      "name": "Tenten",
+      "phase": "Part I",
+      "code": "chara029",
+      "label": "テンテン(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara029/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara029",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 739,
+      "height": 956,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara029.png",
+      "bytes": 40222,
+      "sha256": "2c85a95c6cbf41bd032b6553dfb500fb3e4bc6c470f63a2937e005e0b127fa2d"
+    },
+    {
+      "person": 1216,
+      "name": "Tenten",
+      "phase": "default",
+      "code": "chara030",
+      "label": "テンテン",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara030/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara030",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 509,
+      "height": 1007,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara030.png",
+      "bytes": 51174,
+      "sha256": "f8715a73b5b44de9872ac15c2d1dc2fd5eff1b1f56ca102879c57d56a749760e"
+    },
+    {
+      "person": 1216,
+      "name": "Tenten",
+      "phase": "Boruto",
+      "code": "chara133",
+      "label": "テンテン(BORUTO)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara133/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara133",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 439,
+      "height": 1178,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara133.png",
+      "bytes": 41939,
+      "sha256": "9760241e4b32e12ac3b8ef11ffa17895336b6e6c2d2bd5830db30c35002e31d8"
+    },
+    {
+      "person": 1365,
+      "name": "Ino Yamanaka",
+      "phase": "Part I",
+      "code": "chara031",
+      "label": "山中いの(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara031/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara031",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 432,
+      "height": 999,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara031.png",
+      "bytes": 43015,
+      "sha256": "26db53900c9f8b394bc9eca5a41b59d04d8fb29d71b9344d935529fa6c6ba51b"
+    },
+    {
+      "person": 1365,
+      "name": "Ino Yamanaka",
+      "phase": "default",
+      "code": "chara032",
+      "label": "山中いの",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara032/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara032",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 376,
+      "height": 1118,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara032.png",
+      "bytes": 51912,
+      "sha256": "7d73838ea91241f05a0541778eb894e18ee9a283f5f053f1b0b9742c9cedf109"
+    },
+    {
+      "person": 1365,
+      "name": "Ino Yamanaka",
+      "phase": "Boruto",
+      "code": "chara134",
+      "label": "山中いの(BORUTO)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara134/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara134",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 352,
+      "height": 1152,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara134.png",
+      "bytes": 41136,
+      "sha256": "33a6f8596335e988797d9c873e29a63ab798dc8bfb2513441a4a230e4b01fd5c"
+    },
+    {
+      "person": 878,
+      "name": "Shikamaru Nara",
+      "phase": "Part I",
+      "code": "chara033",
+      "label": "奈良シカマル(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara033/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara033",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 330,
+      "height": 1068,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara033.png",
+      "bytes": 45583,
+      "sha256": "680c2ff3bc7bda3022fb11311e4c3d66e0b2c358c9db5b881315e7cd7ea94590"
+    },
+    {
+      "person": 878,
+      "name": "Shikamaru Nara",
+      "phase": "default",
+      "code": "chara034",
+      "label": "奈良シカマル",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara034/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara034",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 420,
+      "height": 1130,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara034.png",
+      "bytes": 55550,
+      "sha256": "4bf641f69ad33fcc28c6f180ed11a3ba5d04511c27bcd93f6407a1082f52da8a"
+    },
+    {
+      "person": 878,
+      "name": "Shikamaru Nara",
+      "phase": "Boruto",
+      "code": "chara135",
+      "label": "奈良シカマル(BORUTO)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara135/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara135",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 545,
+      "height": 1256,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara135.png",
+      "bytes": 56886,
+      "sha256": "f28d04dd1c3eddb8c8b98c753e121a084f1c77da93b77006ca972d9377267d70"
+    },
+    {
+      "person": 40,
+      "name": "Chōji Akimichi",
+      "phase": "Part I",
+      "code": "chara035",
+      "label": "秋道チョウジ(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara035/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara035",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 387,
+      "height": 857,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara035.png",
+      "bytes": 47359,
+      "sha256": "c382d57cf1f5b75507a70f6c6971fbf00211352e91a7266fd6f4cbf8b0285321"
+    },
+    {
+      "person": 40,
+      "name": "Chōji Akimichi",
+      "phase": "default",
+      "code": "chara036",
+      "label": "秋道チョウジ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara036/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara036",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 486,
+      "height": 1024,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara036.png",
+      "bytes": 57089,
+      "sha256": "159059866947ef0d5751953f0d720f5c17b8ac376186b4c21154461abe5fefbb"
+    },
+    {
+      "person": 40,
+      "name": "Chōji Akimichi",
+      "phase": "Boruto",
+      "code": "chara136",
+      "label": "秋道チョウジ(BORUTO)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara136/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara136",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 583,
+      "height": 1078,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara136.png",
+      "bytes": 52021,
+      "sha256": "d32102145baf91249f1a40feff887bb6e337cd646227a89839c434a3825c0ce9"
+    },
+    {
+      "person": 437,
+      "name": "Hinata Hyūga",
+      "phase": "Part I",
+      "code": "chara037",
+      "label": "日向ヒナタ(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara037/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara037",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 245,
+      "height": 829,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara037.png",
+      "bytes": 32126,
+      "sha256": "7e1a5bac7157178dc7e00e947d82ab17af2dca0113a34f60a15a8b3a02a8bce4"
+    },
+    {
+      "person": 437,
+      "name": "Hinata Hyūga",
+      "phase": "default",
+      "code": "chara038",
+      "label": "日向ヒナタ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara038/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara038",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 338,
+      "height": 1034,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara038.png",
+      "bytes": 44139,
+      "sha256": "0a8b8be1da66c47f586ee87bc099b52643868b480f43251ae586d93c7fc5df71"
+    },
+    {
+      "person": 435,
+      "name": "Hanabi Hyūga",
+      "phase": "default",
+      "code": "chara039",
+      "label": "日向ハナビ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara039/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara039",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 588,
+      "height": 1033,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara039.png",
+      "bytes": 59664,
+      "sha256": "cdd56c165cdb834c35f039ec75b1d9fd1127190ec4cabb07f20f831bb818c8ee"
+    },
+    {
+      "person": 466,
+      "name": "Kiba Inuzuka",
+      "phase": "Part I",
+      "code": "chara040",
+      "label": "犬塚キバ(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara040/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara040",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 449,
+      "height": 1098,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara040.png",
+      "bytes": 57296,
+      "sha256": "71a309344fe2ed8e380fb90a9f901db52d3eceb0a96e33f2f2fd4374920ad054"
+    },
+    {
+      "person": 466,
+      "name": "Kiba Inuzuka",
+      "phase": "default",
+      "code": "chara041",
+      "label": "犬塚キバ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara041/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara041",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 391,
+      "height": 1132,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara041.png",
+      "bytes": 56748,
+      "sha256": "fd8fe218c1a35822d15357bdfd9b9e1e7d5f4ec6680200da3384118ee2ad0b1c"
+    },
+    {
+      "person": 466,
+      "name": "Kiba Inuzuka",
+      "phase": "Boruto",
+      "code": "chara138",
+      "label": "犬塚キバ(BORUTO)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara138/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara138",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 453,
+      "height": 1076,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara138.png",
+      "bytes": 57175,
+      "sha256": "afd0bed4c63893650567d06b87ad5a9a1a22103365ef75b0bc34f989c3b6cb21"
+    },
+    {
+      "person": 13,
+      "name": "Shino Aburame",
+      "phase": "Part I",
+      "code": "chara042",
+      "label": "油女シノ(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara042/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara042",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 509,
+      "height": 1044,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara042.png",
+      "bytes": 49480,
+      "sha256": "ec22330b8d5c53b72d96d5736489d5062b42f88e8af30b2782620c37b2161b23"
+    },
+    {
+      "person": 13,
+      "name": "Shino Aburame",
+      "phase": "default",
+      "code": "chara043",
+      "label": "油女シノ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara043/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara043",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 435,
+      "height": 1127,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara043.png",
+      "bytes": 58948,
+      "sha256": "d85d4c0ab3ad2e99e4275d49ca193fccf999d17b281e0b8c71fefde8940a91c9"
+    },
+    {
+      "person": 13,
+      "name": "Shino Aburame",
+      "phase": "Boruto",
+      "code": "chara139",
+      "label": "油女シノ(BORUTO)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara139/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara139",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 453,
+      "height": 1229,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara139.png",
+      "bytes": 44998,
+      "sha256": "fce3043a49e61cdc51735002f3c58db76081a4a3c00c72077a8a1d2b7cb48dde"
+    },
+    {
+      "person": 344,
+      "name": "Might Guy",
+      "phase": "default",
+      "code": "chara044",
+      "label": "マイト・ガイ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara044/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara044",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 380,
+      "height": 1125,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara044.png",
+      "bytes": 47939,
+      "sha256": "1c1ba256db2ff1ed777344a9f0e6548edc2806647a911e61bf8e4ee58f427c4f"
+    },
+    {
+      "person": 1034,
+      "name": "Asuma Sarutobi",
+      "phase": "default",
+      "code": "chara045",
+      "label": "猿飛アスマ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara045/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara045",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 303,
+      "height": 1117,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara045.png",
+      "bytes": 51414,
+      "sha256": "40b7ac84949910e93e3aadf896194273e3ee63612e25e93fec13b1fa10e6f6ca"
+    },
+    {
+      "person": 1008,
+      "name": "Sai",
+      "phase": "default",
+      "code": "chara046",
+      "label": "サイ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara046/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara046",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 388,
+      "height": 1082,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara046.png",
+      "bytes": 49619,
+      "sha256": "fa8a047084ab094c088b703136b38995810904e68496ddc0244b507cef946763"
+    },
+    {
+      "person": 1373,
+      "name": "Yamato",
+      "phase": "default",
+      "code": "chara047",
+      "label": "ヤマト",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara047/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara047",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 371,
+      "height": 1120,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara047.png",
+      "bytes": 50935,
+      "sha256": "4bb8bd83dd38782cf2b0eec6680a2b0b0843ccf4982b4b034637c996300a278f"
+    },
+    {
+      "person": 1325,
+      "name": "Iruka Umino",
+      "phase": "default",
+      "code": "chara048",
+      "label": "うみのイルカ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara048/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara048",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 444,
+      "height": 1126,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara048.png",
+      "bytes": 52145,
+      "sha256": "c38373cc938787a2f4aa657ddb4526c168dcc5107e21eb4cf4f93b7c95646e98"
+    },
+    {
+      "person": 515,
+      "name": "Jiraiya",
+      "phase": "default",
+      "code": "chara049",
+      "label": "自来也",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara049/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara049",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 532,
+      "height": 1144,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara049.png",
+      "bytes": 61667,
+      "sha256": "18fc5fe4a7d183773cd08ef62018996db0040ff6af9477b258d685d091668467"
+    },
+    {
+      "person": 1063,
+      "name": "Hashirama Senju",
+      "phase": "default",
+      "code": "chara051",
+      "label": "初代火影千手柱間",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara051/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara051",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 477,
+      "height": 1116,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara051.png",
+      "bytes": 51648,
+      "sha256": "fb6e3753a3345410302168a8f44c334200b2465c3d94131b201869b291dd4aca"
+    },
+    {
+      "person": 1093,
+      "name": "Danzō Shimura",
+      "phase": "default",
+      "code": "chara052",
+      "label": "志村ダンゾウ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara052/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara052",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 373,
+      "height": 1092,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara052.png",
+      "bytes": 37112,
+      "sha256": "87199650949252f246fdcc76ac8fbb6c4cd68d30ea9e9deb00b1a9b86c9f64f7"
+    },
+    {
+      "person": 1037,
+      "name": "Konohamaru Sarutobi",
+      "phase": "default",
+      "code": "chara053",
+      "label": "猿飛木ノ葉丸",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara053/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara053",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 623,
+      "height": 922,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara053.png",
+      "bytes": 42545,
+      "sha256": "5e1f2d341291efca7f1da1364d91b1c02cc0b048710327f51d9693cfb7c15351"
+    },
+    {
+      "person": 1310,
+      "name": "Shisui Uchiha",
+      "phase": "default",
+      "code": "chara054",
+      "label": "うちはシスイ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara054/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara054",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 443,
+      "height": 1110,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara054.png",
+      "bytes": 43539,
+      "sha256": "e508402e87a887d5447ad3325ef77bfe78ced7c372fbea3967d88c0ac135066f"
+    },
+    {
+      "person": 865,
+      "name": "Minato Namikaze",
+      "phase": "default",
+      "code": "chara055",
+      "label": "波風ミナト",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara055/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara055",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 468,
+      "height": 1144,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara055.png",
+      "bytes": 59047,
+      "sha256": "c4c6fdff86c335de62074a291cc4ec21c8766a7604bb527eb6d5ff82ba8cedd7"
+    },
+    {
+      "person": 1341,
+      "name": "Kushina Uzumaki",
+      "phase": "default",
+      "code": "chara056",
+      "label": "うずまきクシナ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara056/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara056",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 376,
+      "height": 1146,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara056.png",
+      "bytes": 37855,
+      "sha256": "5362494a4a03c41a5facc4f1ebe3f7454b044cfcc21acd9317b6ab0f257cd192"
+    },
+    {
+      "person": 1303,
+      "name": "Obito Uchiha",
+      "phase": "Part I",
+      "code": "chara057",
+      "label": "うちはオビト(少年期)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara057/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara057",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 411,
+      "height": 919,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara057.png",
+      "bytes": 38501,
+      "sha256": "3a6313b4a53ed09ae3e754404d801b3aa67d1dba5cf05864389cd6bf1e8b12fb"
+    },
+    {
+      "person": 376,
+      "name": "Kakashi Hatake",
+      "phase": "Part I",
+      "code": "chara058",
+      "label": "はたけカカシ(少年期)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara058/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara058",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 346,
+      "height": 1101,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara058.png",
+      "bytes": 42940,
+      "sha256": "a1f3ea8ec69306e8398b1cdce18a2eacdf3b264a07fdb87424497f1a80f3fa27"
+    },
+    {
+      "person": 903,
+      "name": "Rin Nohara",
+      "phase": "default",
+      "code": "chara059",
+      "label": "のはらリン",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara059/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara059",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 428,
+      "height": 944,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara059.png",
+      "bytes": 39116,
+      "sha256": "63061219b80b64f0336d46c4d049157f74eb2218e277626cd232e19c5cc7f47e"
+    },
+    {
+      "person": 259,
+      "name": "Gaara",
+      "phase": "Part I",
+      "code": "chara060",
+      "label": "我愛羅(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara060/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara060",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 543,
+      "height": 1022,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara060.png",
+      "bytes": 62192,
+      "sha256": "13757dc825df4320bfd8b7163252dbebd90246093dd333eb2aec8116cd5b33e7"
+    },
+    {
+      "person": 259,
+      "name": "Gaara",
+      "phase": "default",
+      "code": "chara061",
+      "label": "風影・我愛羅",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara061/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara061",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 507,
+      "height": 1096,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara061.png",
+      "bytes": 71069,
+      "sha256": "5fba824f468011bb4c411c1178e9334dcbf3a61e2413441ecc37a7a6af601af0"
+    },
+    {
+      "person": 259,
+      "name": "Gaara",
+      "phase": "Boruto",
+      "code": "chara143",
+      "label": "風影・我愛羅(BORUTO)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara143/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara143",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 665,
+      "height": 1139,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara143.png",
+      "bytes": 53836,
+      "sha256": "71d57ade04c06d2593c1002dd3ac473e89a29dc63c66f4d7c0b499fee3de1a82"
+    },
+    {
+      "person": 577,
+      "name": "Kankurō",
+      "phase": "Part I",
+      "code": "chara063",
+      "label": "カンクロウ(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara063/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara063",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 861,
+      "height": 1134,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara063.png",
+      "bytes": 105565,
+      "sha256": "52ce6400633acec91bbd872fc8051bc8032aaf2ae8a8ea1737ab54a8ebd8ab4f"
+    },
+    {
+      "person": 577,
+      "name": "Kankurō",
+      "phase": "default",
+      "code": "chara064",
+      "label": "カンクロウ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara064/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara064",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 853,
+      "height": 1091,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara064.png",
+      "bytes": 80049,
+      "sha256": "d64fe54cf21e3c64cce163f938b3f6796dc7180b033932aa814fdf90822e2b0a"
+    },
+    {
+      "person": 577,
+      "name": "Kankurō",
+      "phase": "Boruto",
+      "code": "chara144",
+      "label": "カンクロウ(BORUTO)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara144/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara144",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 923,
+      "height": 1203,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara144.png",
+      "bytes": 122808,
+      "sha256": "88bb7064b700e22933837074153ab33df5729174c2d6246a378d857bc84fb349"
+    },
+    {
+      "person": 1208,
+      "name": "Temari",
+      "phase": "Part I",
+      "code": "chara065",
+      "label": "テマリ(少年篇)",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara065/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara065",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 757,
+      "height": 1056,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara065.png",
+      "bytes": 77117,
+      "sha256": "c23e4c77be78d6fa2d656b2cb480b42dee1dfa659925f78db0200596b5cac56c"
+    },
+    {
+      "person": 1208,
+      "name": "Temari",
+      "phase": "default",
+      "code": "chara066",
+      "label": "テマリ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara066/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara066",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 1027,
+      "height": 1131,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara066.png",
+      "bytes": 80447,
+      "sha256": "30c154f53f70b90189a30e64adb4b7d47e6a9170ac1836021be22e063f1e3d50"
+    },
+    {
+      "person": 636,
+      "name": "Killer B",
+      "phase": "default",
+      "code": "chara068",
+      "label": "キラービー",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara068/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara068",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 580,
+      "height": 1053,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara068.png",
+      "bytes": 76632,
+      "sha256": "da7ed98bdf6addf49f435f248dcc854a4db13f18f4865f58be4fb2944a8b9f65"
+    },
+    {
+      "person": 190,
+      "name": "Darui",
+      "phase": "default",
+      "code": "chara071",
+      "label": "ダルイ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara071/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara071",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 503,
+      "height": 1148,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara071.png",
+      "bytes": 54999,
+      "sha256": "e0923299ad60939e5c06d6c932744f04f0bfebbf2e1e22906478093719967db6"
+    },
+    {
+      "person": 925,
+      "name": "Ōnoki",
+      "phase": "default",
+      "code": "chara072",
+      "label": "オオノキ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara072/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara072",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 613,
+      "height": 768,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara072.png",
+      "bytes": 41352,
+      "sha256": "c81ea58a7dfab710473dff695392af92a56daf581a1e011a89f555a3a7e69592"
+    },
+    {
+      "person": 831,
+      "name": "Zabuza Momochi",
+      "phase": "default",
+      "code": "chara073",
+      "label": "桃地再不斬",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara073/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara073",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 761,
+      "height": 1144,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara073.png",
+      "bytes": 57550,
+      "sha256": "555d757ac0a391f1c8e6218cf9da98c1527318e16a03ce18f8d919f804c2f74d"
+    },
+    {
+      "person": 356,
+      "name": "Haku",
+      "phase": "default",
+      "code": "chara074",
+      "label": "白",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara074/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara074",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 371,
+      "height": 1068,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara074.png",
+      "bytes": 67913,
+      "sha256": "25dc19637bc12858eda781cbfa0bd544d98a9b7b231c8f08ea7d6063d29cd725"
+    },
+    {
+      "person": 1223,
+      "name": "Mei Terumī",
+      "phase": "default",
+      "code": "chara075",
+      "label": "照美メイ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara075/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara075",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 351,
+      "height": 1142,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara075.png",
+      "bytes": 45179,
+      "sha256": "7b961e94d7d372570522c431a613d4d551d4fe8a64d71c3569017efe02bdafc8"
+    },
+    {
+      "person": 593,
+      "name": "Karin",
+      "phase": "default",
+      "code": "chara076",
+      "label": "香燐",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara076/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara076",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 346,
+      "height": 1090,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara076.png",
+      "bytes": 43828,
+      "sha256": "a3e264ec6baa9604cb135769eed65ec9b7fe93ddef53452c3efb06f6853b38d7"
+    },
+    {
+      "person": 430,
+      "name": "Suigetsu Hōzuki",
+      "phase": "default",
+      "code": "chara077",
+      "label": "鬼灯水月",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara077/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara077",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 453,
+      "height": 1124,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara077.png",
+      "bytes": 48400,
+      "sha256": "9778438257bef6edb29fff54a46d8e87deb50c7447e8325d8fd1194049eabbc7"
+    },
+    {
+      "person": 521,
+      "name": "Jūgo",
+      "phase": "default",
+      "code": "chara078",
+      "label": "重吾",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara078/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara078",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 646,
+      "height": 1119,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara078.png",
+      "bytes": 63449,
+      "sha256": "ea279bdbf2e4f66ee826064b280014f9baee72adfe24d31288f3b31b238ba3c0"
+    },
+    {
+      "person": 1293,
+      "name": "Itachi Uchiha",
+      "phase": "default",
+      "code": "chara079",
+      "label": "うちはイタチ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara079/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara079",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 650,
+      "height": 1142,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara079.png",
+      "bytes": 59034,
+      "sha256": "44229873b3172e8ca42a48fe40c5b736e2384dfdb1236bd676a6c2729fd2b0f1"
+    },
+    {
+      "person": 421,
+      "name": "Kisame Hoshigaki",
+      "phase": "default",
+      "code": "chara080",
+      "label": "干柿鬼鮫",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara080/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara080",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 562,
+      "height": 1125,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara080.png",
+      "bytes": 73740,
+      "sha256": "c449058a592418d164f98cd875363fe15d1908de5001c8700f5ed59c9ae734fe"
+    },
+    {
+      "person": 558,
+      "name": "Kakuzu",
+      "phase": "default",
+      "code": "chara081",
+      "label": "角都",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara081/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara081",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 594,
+      "height": 1139,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara081.png",
+      "bytes": 59419,
+      "sha256": "c8c2dc46a244e26a0a757a9cda541c4261dd57da57264d36fba0407a07b9c680"
+    },
+    {
+      "person": 388,
+      "name": "Hidan",
+      "phase": "default",
+      "code": "chara082",
+      "label": "飛段",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara082/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara082",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 760,
+      "height": 1099,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara082.png",
+      "bytes": 75487,
+      "sha256": "58ed10605fec059d89a72f0bbcd189f71edcf37a9884f5643cbe9f7fd6e4fb80"
+    },
+    {
+      "person": 193,
+      "name": "Deidara",
+      "phase": "default",
+      "code": "chara083",
+      "label": "デイダラ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara083/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara083",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 489,
+      "height": 1064,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara083.png",
+      "bytes": 54799,
+      "sha256": "449fa002a84be674ed9a3e205a64e31c1e312178c7a6ea2d3d6ccc71b7bc53cf"
+    },
+    {
+      "person": 1042,
+      "name": "Sasori",
+      "phase": "default",
+      "code": "chara084",
+      "label": "サソリ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara084/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara084",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 881,
+      "height": 1119,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara084.png",
+      "bytes": 90881,
+      "sha256": "f148d515daa9723e9b36ab0187f727345b77133ff1e11805de968cbc394a588c"
+    },
+    {
+      "person": 684,
+      "name": "Konan",
+      "phase": "default",
+      "code": "chara086",
+      "label": "小南",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara086/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara086",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 445,
+      "height": 1123,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara086.png",
+      "bytes": 38189,
+      "sha256": "2de7c5ddac6a7802b3d69a08235b5eb3f671974e90abd614b69c7c56b216396d"
+    },
+    {
+      "person": 1303,
+      "name": "Obito Uchiha",
+      "phase": "default",
+      "code": "chara090",
+      "label": "うちはオビト",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara090/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara090",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 539,
+      "height": 1140,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara090.png",
+      "bytes": 50515,
+      "sha256": "047dc29d5e2cb249a4975cf25bbb87667a8f0e80533656591ce528e02751a30d"
+    },
+    {
+      "person": 1299,
+      "name": "Madara Uchiha",
+      "phase": "default",
+      "code": "chara146",
+      "label": "うちはマダラ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara146/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara146",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 703,
+      "height": 1149,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara146.png",
+      "bytes": 65614,
+      "sha256": "b1292e66bab57c70224a979990aee50864074dc9e9cab3bf6579e621ad8a4388"
+    },
+    {
+      "person": 940,
+      "name": "Kaguya Ōtsutsuki",
+      "phase": "default",
+      "code": "chara095",
+      "label": "大筒木カグヤ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara095/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara095",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 870,
+      "height": 1161,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara095.png",
+      "bytes": 104197,
+      "sha256": "8a2636709e41c40a791489f135aee0ed395a9658c77c049c1e6e9ab04474dd99"
+    },
+    {
+      "person": 942,
+      "name": "Momoshiki Ōtsutsuki",
+      "phase": "default",
+      "code": "chara096",
+      "label": "大筒木モモシキ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara096/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara096",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 626,
+      "height": 1101,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara096.png",
+      "bytes": 58912,
+      "sha256": "7c15685219bad6023348ca629c847685302d91be893bb5f6648a1511100ab887"
+    },
+    {
+      "person": 941,
+      "name": "Kinshiki Ōtsutsuki",
+      "phase": "default",
+      "code": "chara097",
+      "label": "大筒木キンシキ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara097/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara097",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 819,
+      "height": 1163,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara097.png",
+      "bytes": 74234,
+      "sha256": "25d2d6bfaa8c4950e7b8389b24e8d9bb30b82784c1821855c01a1f428134b78f"
+    },
+    {
+      "person": 983,
+      "name": "Rōshi",
+      "phase": "default",
+      "code": "chara102",
+      "label": "老紫",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara102/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara102",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 366,
+      "height": 1149,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara102.png",
+      "bytes": 37281,
+      "sha256": "20f0883c46a7c50941f004fad2b2dfdaf9420ae25fa05cefc3f1e993448f395f"
+    },
+    {
+      "person": 363,
+      "name": "Han",
+      "phase": "default",
+      "code": "chara103",
+      "label": "ハン",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara103/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara103",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 598,
+      "height": 1163,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara103.png",
+      "bytes": 75950,
+      "sha256": "a1b396b6bfd585da11bc0bcc65ce61e84d2ad2aae87f076ab000c6645a07d320"
+    },
+    {
+      "person": 1335,
+      "name": "Utakata",
+      "phase": "default",
+      "code": "chara104",
+      "label": "ウタカタ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara104/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara104",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 325,
+      "height": 1094,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara104.png",
+      "bytes": 39864,
+      "sha256": "4c51e910d5ddbd72761504bd7d4cf25df186ebd63b36bef66ab271aee69a816f"
+    },
+    {
+      "person": 221,
+      "name": "Fū",
+      "phase": "default",
+      "code": "chara105",
+      "label": "フウ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara105/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara105",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 931,
+      "height": 869,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara105.png",
+      "bytes": 48268,
+      "sha256": "fe323c9e29372df7f81cab55ddec705493e366013fcf871a7ceae1d06c641b5c"
+    },
+    {
+      "person": 1066,
+      "name": "Tobirama Senju",
+      "phase": "default",
+      "code": "chara107",
+      "label": "二代目火影 千手扉間",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara107/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara107",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 413,
+      "height": 1166,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara107.png",
+      "bytes": 54224,
+      "sha256": "75eb0031b654268f6d396c4d6ca02b7fd2ffcadfe2cff002ed2d27be4f0a01b0"
+    },
+    {
+      "person": 368,
+      "name": "Hanzō",
+      "phase": "default",
+      "code": "chara114",
+      "label": "半蔵",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara114/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara114",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 616,
+      "height": 1153,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara114.png",
+      "bytes": 81026,
+      "sha256": "89d708489173ba6d3e9cab0dff2448261caec6113695b3893730db8db1a84445"
+    },
+    {
+      "person": 794,
+      "name": "Mifune",
+      "phase": "default",
+      "code": "chara115",
+      "label": "ミフネ",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara115/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara115",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 498,
+      "height": 967,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara115.png",
+      "bytes": 51581,
+      "sha256": "9d07ab519f5f70a8595ca2960a7c5525baaf16ad585e5f665f7af25236dbdf5b"
+    },
+    {
+      "person": 928,
+      "name": "Orochimaru",
+      "phase": "default",
+      "code": "chara116",
+      "label": "大蛇丸",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara116/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara116",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 395,
+      "height": 1129,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara116.png",
+      "bytes": 58266,
+      "sha256": "b9ba88705425d8154daf0493fc90c3310bb9f5bb547fb86edf454a409a0ac159"
+    },
+    {
+      "person": 1359,
+      "name": "Kabuto Yakushi",
+      "phase": "default",
+      "code": "chara117",
+      "label": "薬師カブト",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara117/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara117",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 524,
+      "height": 1145,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara117.png",
+      "bytes": 44430,
+      "sha256": "fef7b4e1bc9def11cdf278d57841d8f8ae044b8f89f896a943f934c9a732bf95"
+    },
+    {
+      "person": 637,
+      "name": "Kimimaro",
+      "phase": "default",
+      "code": "chara120",
+      "label": "君麻呂",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara120/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara120",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 581,
+      "height": 994,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara120.png",
+      "bytes": 53237,
+      "sha256": "4c89e776013a66cc5e68259f32e33e962c2d3643b46fccefefe942585160d955"
+    },
+    {
+      "person": 517,
+      "name": "Jirōbō",
+      "phase": "default",
+      "code": "chara121",
+      "label": "次郎坊",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara121/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara121",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 732,
+      "height": 882,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara121.png",
+      "bytes": 60391,
+      "sha256": "74dd773ec39f6b75f4947868c3abc4fd0249fa8d40536171723ca746f9e0af27"
+    },
+    {
+      "person": 626,
+      "name": "Kidōmaru",
+      "phase": "default",
+      "code": "chara123",
+      "label": "鬼童丸",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara123/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara123",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 665,
+      "height": 1134,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara123.png",
+      "bytes": 85439,
+      "sha256": "697c14f19bb6d1b3f2f7edb35559305635224491a9d2e553a54c37851d70353a"
+    },
+    {
+      "person": 1203,
+      "name": "Tayuya",
+      "phase": "default",
+      "code": "chara124",
+      "label": "多由也",
+      "url": "https://naruto-game-sc.bn-ent.net/images/character/detail/chara124/ill.png",
+      "source": "https://naruto-game-sc.bn-ent.net/character/detail.php?c=chara124",
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "credit": "Bandai Namco Entertainment / CyberConnect2",
+      "width": 441,
+      "height": 1117,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "background": [
+        0,
+        0,
+        0
+      ],
+      "file": "assets/game_art/storm_chara124.png",
+      "bytes": 73772,
+      "sha256": "0983de92fdccc31c146b2a277af1f9ce94ea9ebfdc03a1e0f736771c712dc2a6"
+    }
+  ],
+  "sprites": [
+    {
+      "person": 1293,
+      "name": "Itachi Uchiha",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "platform": "Nintendo DS",
+      "url": "https://spritedatabase.net/files/ds/1889/Sprite/Itachi.PNG",
+      "source": "https://spritedatabase.net/file/11533",
+      "credit": "Neimad",
+      "width": 661,
+      "height": 4347,
+      "alphaRange": [
+        255,
+        255
+      ],
+      "background": [
+        0,
+        64,
+        128
+      ],
+      "file": "assets/game_sprites/sr_11533.png",
+      "bytes": 436174,
+      "sha256": "4982b8f1ec86475fb4ee245decc371ffa42f506edf283933af1f511c63f36ab4",
+      "idle": [
+        [
+          8,
+          1080,
+          31,
+          80
+        ],
+        [
+          45,
+          1080,
+          34,
+          80
+        ],
+        [
+          85,
+          1080,
+          34,
+          80
+        ],
+        [
+          125,
+          1080,
+          34,
+          80
+        ],
+        [
+          165,
+          1080,
+          31,
+          80
+        ],
+        [
+          202,
+          1080,
+          35,
+          80
+        ],
+        [
+          243,
+          1080,
+          34,
+          80
+        ]
+      ],
+      "displayBackground": [
+        0,
+        64,
+        128
+      ]
+    },
+    {
+      "person": 515,
+      "name": "Jiraiya",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "platform": "Nintendo DS",
+      "url": "https://spritedatabase.net/files/ds/1889/Sprite/Jiraiya.PNG",
+      "source": "https://spritedatabase.net/file/11421",
+      "credit": "Neimad",
+      "width": 661,
+      "height": 5598,
+      "alphaRange": [
+        255,
+        255
+      ],
+      "background": [
+        0,
+        64,
+        128
+      ],
+      "file": "assets/game_sprites/sr_11421.png",
+      "bytes": 627795,
+      "sha256": "5207e6f9dcad5a44a1b88ec3beee69e07a153c99f54aa4df96ea70d23ebebe84",
+      "idle": [
+        [
+          8,
+          4496,
+          72,
+          84
+        ],
+        [
+          86,
+          4515,
+          75,
+          65
+        ]
+      ],
+      "displayBackground": [
+        0,
+        64,
+        128
+      ]
+    },
+    {
+      "person": 376,
+      "name": "Kakashi Hatake",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "platform": "Nintendo DS",
+      "url": "https://spritedatabase.net/files/ds/1889/Sprite/Kakashi.PNG",
+      "source": "https://spritedatabase.net/file/11415",
+      "credit": "Neimad",
+      "width": 661,
+      "height": 7315,
+      "alphaRange": [
+        255,
+        255
+      ],
+      "background": [
+        0,
+        64,
+        128
+      ],
+      "file": "assets/game_sprites/sr_11415.png",
+      "bytes": 587038,
+      "sha256": "4256a0ca3f4326147e4a75a5bef1905ef60f261b127e1ef3592fb514f4d218ae",
+      "idle": [
+        [
+          8,
+          3019,
+          37,
+          69
+        ],
+        [
+          51,
+          3020,
+          37,
+          68
+        ],
+        [
+          94,
+          3010,
+          29,
+          78
+        ],
+        [
+          129,
+          3010,
+          29,
+          78
+        ]
+      ],
+      "displayBackground": [
+        0,
+        64,
+        128
+      ]
+    },
+    {
+      "person": 1344,
+      "name": "Naruto Uzumaki",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "platform": "Nintendo DS",
+      "url": "https://spritedatabase.net/files/ds/1889/Sprite/Naruto.png",
+      "source": "https://spritedatabase.net/file/11302",
+      "credit": "Neimad",
+      "width": 661,
+      "height": 5596,
+      "alphaRange": [
+        255,
+        255
+      ],
+      "background": [
+        0,
+        64,
+        128
+      ],
+      "file": "assets/game_sprites/sr_11302.png",
+      "bytes": 590889,
+      "sha256": "5a963e4ca075b84c5c81e10cb797634ec232c7e78b911cceacb7745c372853fd",
+      "idle": [
+        [
+          8,
+          1034,
+          60,
+          62
+        ],
+        [
+          74,
+          1032,
+          61,
+          64
+        ],
+        [
+          141,
+          1031,
+          62,
+          65
+        ],
+        [
+          209,
+          1035,
+          63,
+          61
+        ]
+      ],
+      "displayBackground": [
+        0,
+        64,
+        128
+      ]
+    },
+    {
+      "person": 374,
+      "name": "Sakura Haruno",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "platform": "Nintendo DS",
+      "url": "https://spritedatabase.net/files/ds/1889/Sprite/Sakura.png",
+      "source": "https://spritedatabase.net/file/11404",
+      "credit": "Neimad",
+      "width": 661,
+      "height": 4044,
+      "alphaRange": [
+        255,
+        255
+      ],
+      "background": [
+        0,
+        64,
+        128
+      ],
+      "file": "assets/game_sprites/sr_11404.png",
+      "bytes": 437809,
+      "sha256": "48a84e859f82d172c7a8c3f17b84cb56250303343e22fe833ef5493445a48774",
+      "idle": [
+        [
+          8,
+          3293,
+          41,
+          67
+        ],
+        [
+          55,
+          3293,
+          43,
+          67
+        ],
+        [
+          104,
+          3292,
+          41,
+          68
+        ]
+      ],
+      "displayBackground": [
+        0,
+        64,
+        128
+      ]
+    },
+    {
+      "person": 1307,
+      "name": "Sasuke Uchiha",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "platform": "Nintendo DS",
+      "url": "https://spritedatabase.net/files/ds/1889/Sprite/Sasuke.png",
+      "source": "https://spritedatabase.net/file/11393",
+      "credit": "Neimad",
+      "width": 661,
+      "height": 4503,
+      "alphaRange": [
+        255,
+        255
+      ],
+      "background": [
+        0,
+        64,
+        128
+      ],
+      "file": "assets/game_sprites/sr_11393.png",
+      "bytes": 480346,
+      "sha256": "aed8595dcb4960d4a8c392d2c41b09bcb5a6f6bef0955dbf36bf8113a4efb65a",
+      "idle": [
+        [
+          8,
+          1184,
+          48,
+          68
+        ],
+        [
+          62,
+          1185,
+          48,
+          67
+        ],
+        [
+          116,
+          1186,
+          49,
+          66
+        ],
+        [
+          171,
+          1187,
+          48,
+          65
+        ],
+        [
+          225,
+          1186,
+          49,
+          66
+        ],
+        [
+          280,
+          1185,
+          48,
+          67
+        ]
+      ],
+      "displayBackground": [
+        0,
+        64,
+        128
+      ]
+    },
+    {
+      "person": 878,
+      "name": "Shikamaru Nara",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "platform": "Nintendo DS",
+      "url": "https://spritedatabase.net/files/ds/1889/Sprite/Shikamaru.PNG",
+      "source": "https://spritedatabase.net/file/11419",
+      "credit": "Neimad",
+      "width": 661,
+      "height": 4733,
+      "alphaRange": [
+        255,
+        255
+      ],
+      "background": [
+        0,
+        64,
+        128
+      ],
+      "file": "assets/game_sprites/sr_11419.png",
+      "bytes": 433784,
+      "sha256": "d6bcd83369562989ab5eb924ac2e5568a23dbada84b777e742c0197dccc3c027",
+      "idle": [
+        [
+          8,
+          3310,
+          35,
+          70
+        ],
+        [
+          49,
+          3320,
+          40,
+          60
+        ],
+        [
+          95,
+          3320,
+          30,
+          60
+        ]
+      ],
+      "displayBackground": [
+        0,
+        64,
+        128
+      ]
+    },
+    {
+      "person": 259,
+      "name": "Gaara",
+      "game": "Naruto Shippūden: Ninja Council 4",
+      "platform": "Nintendo DS",
+      "url": "https://spritedatabase.net/files/ds/62/Sprite/Gaara.png",
+      "source": "https://spritedatabase.net/file/1414",
+      "credit": "Pakis Pride",
+      "width": 1325,
+      "height": 2218,
+      "alphaRange": [
+        191,
+        255
+      ],
+      "background": [
+        0,
+        204,
+        0
+      ],
+      "file": "assets/game_sprites/nc4_1414.png",
+      "bytes": 912397,
+      "sha256": "886fa8f60735c415c8808b7bfe9c54152adf3a3074cd752d2c852f33839e2ae0",
+      "idle": [
+        [
+          19,
+          74,
+          35,
+          62
+        ],
+        [
+          73,
+          74,
+          33,
+          62
+        ],
+        [
+          125,
+          74,
+          32,
+          62
+        ],
+        [
+          174,
+          74,
+          32,
+          62
+        ],
+        [
+          224,
+          74,
+          32,
+          62
+        ],
+        [
+          274,
+          74,
+          33,
+          62
+        ]
+      ],
+      "displayBackground": [
+        0,
+        204,
+        0
+      ]
+    },
+    {
+      "person": 344,
+      "name": "Might Guy",
+      "game": "Naruto Shippūden: Ninja Council 4",
+      "platform": "Nintendo DS",
+      "url": "https://spritedatabase.net/files/ds/62/Sprite/Guy.png",
+      "source": "https://spritedatabase.net/file/1425",
+      "credit": "Neimad",
+      "width": 1054,
+      "height": 803,
+      "alphaRange": [
+        255,
+        255
+      ],
+      "background": [
+        0,
+        128,
+        0
+      ],
+      "file": "assets/game_sprites/nc4_1425.png",
+      "bytes": 209708,
+      "sha256": "4c91e3376d6a497b20bdf93b4995b68dcaf42863afe2d90282f5bc22ce7e8afa",
+      "idle": [
+        [
+          20,
+          268,
+          41,
+          64
+        ],
+        [
+          72,
+          265,
+          35,
+          67
+        ],
+        [
+          119,
+          263,
+          35,
+          69
+        ]
+      ],
+      "displayBackground": [
+        0,
+        128,
+        0
+      ]
+    },
+    {
+      "person": 444,
+      "name": "Neji Hyūga",
+      "game": "Naruto Shippūden: Ninja Council 4",
+      "platform": "Nintendo DS",
+      "url": "https://spritedatabase.net/files/ds/62/Sprite/Neji.png",
+      "source": "https://spritedatabase.net/file/1413",
+      "credit": "Neimad",
+      "width": 1054,
+      "height": 4004,
+      "alphaRange": [
+        255,
+        255
+      ],
+      "background": [
+        0,
+        128,
+        0
+      ],
+      "file": "assets/game_sprites/nc4_1413.png",
+      "bytes": 511987,
+      "sha256": "0c80f26c9d3fc295cda06640900574b705b062fa3cba664e8354ced3fd188acc",
+      "idle": [
+        [
+          21,
+          345,
+          38,
+          57
+        ],
+        [
+          72,
+          345,
+          38,
+          57
+        ],
+        [
+          123,
+          346,
+          39,
+          56
+        ],
+        [
+          175,
+          346,
+          40,
+          56
+        ],
+        [
+          227,
+          346,
+          39,
+          56
+        ],
+        [
+          279,
+          345,
+          38,
+          57
+        ]
+      ],
+      "displayBackground": [
+        0,
+        128,
+        0
+      ]
+    },
+    {
+      "person": 739,
+      "name": "Rock Lee",
+      "game": "Naruto Shippūden: Ninja Council 4",
+      "platform": "Nintendo DS",
+      "url": "https://spritedatabase.net/files/ds/62/Sprite/RockLee.png",
+      "source": "https://spritedatabase.net/file/1412",
+      "credit": "Hyperlon",
+      "width": 1000,
+      "height": 3373,
+      "alphaRange": [
+        255,
+        255
+      ],
+      "background": [
+        24,
+        66,
+        99
+      ],
+      "file": "assets/game_sprites/nc4_1412.png",
+      "bytes": 355923,
+      "sha256": "8bd690a0835453f854dff25176671c025e3e1e7d4b011ea55b105356c535cf9c",
+      "idle": [
+        [
+          26,
+          155,
+          33,
+          57
+        ],
+        [
+          89,
+          155,
+          33,
+          57
+        ],
+        [
+          155,
+          156,
+          34,
+          56
+        ],
+        [
+          220,
+          157,
+          33,
+          55
+        ]
+      ],
+      "displayBackground": [
+        17,
+        64,
+        99
+      ]
+    }
+  ],
+  "note": "Arquivos originais preservados. Recorte de quadros e remoção da cor de fundo acontecem apenas na exibição HTML/SVG. Créditos e direitos permanecem com os titulares.",
+  "clips": [
+    {
+      "person": 1344,
+      "technique": "jutsu_625a61216a10e6c7",
+      "name": "Rasengan",
+      "actor": [
+        [
+          8,
+          2865,
+          71,
+          66
+        ],
+        [
+          85,
+          2865,
+          74,
+          66
+        ],
+        [
+          165,
+          2865,
+          74,
+          66
+        ],
+        [
+          245,
+          2865,
+          74,
+          66
+        ],
+        [
+          8,
+          2865,
+          71,
+          66
+        ],
+        [
+          85,
+          2865,
+          74,
+          66
+        ],
+        [
+          165,
+          2865,
+          74,
+          66
+        ],
+        [
+          245,
+          2865,
+          74,
+          66
+        ],
+        [
+          8,
+          2947,
+          60,
+          59
+        ],
+        [
+          74,
+          2945,
+          58,
+          61
+        ],
+        [
+          138,
+          2946,
+          81,
+          60
+        ],
+        [
+          225,
+          2946,
+          81,
+          60
+        ],
+        [
+          312,
+          2946,
+          78,
+          60
+        ]
+      ],
+      "effects": [
+        [
+          441,
+          2958,
+          21,
+          22
+        ],
+        [
+          472,
+          2957,
+          24,
+          24
+        ],
+        [
+          509,
+          2954,
+          29,
+          22
+        ]
+      ],
+      "section": "Special Move 1 (Weak): Rasengan",
+      "fps": 12,
+      "effectPosition": "hand",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11302",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 1344,
+      "technique": "jutsu_2166ded5d796c181",
+      "name": "Clones das Sombras",
+      "actor": [
+        [
+          8,
+          3795,
+          63,
+          64
+        ],
+        [
+          77,
+          3793,
+          53,
+          66
+        ],
+        [
+          136,
+          3794,
+          53,
+          65
+        ],
+        [
+          195,
+          3794,
+          53,
+          65
+        ]
+      ],
+      "effects": [
+        [
+          40,
+          3910,
+          84,
+          108
+        ],
+        [
+          139,
+          3922,
+          78,
+          93
+        ],
+        [
+          234,
+          3928,
+          35,
+          63
+        ],
+        [
+          273,
+          3922,
+          41,
+          63
+        ]
+      ],
+      "section": "Special Move 3: Kage Bunshin no Jutsu",
+      "fps": 12,
+      "effectPosition": "body",
+      "clones": true,
+      "source": "https://spritedatabase.net/file/11302",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 1344,
+      "technique": "jutsu_173b7e1c63d4a827",
+      "name": "Estilo Vento: Rasenshuriken",
+      "actor": [
+        [
+          8,
+          4150,
+          96,
+          62
+        ],
+        [
+          110,
+          4150,
+          94,
+          74
+        ],
+        [
+          210,
+          4150,
+          94,
+          62
+        ],
+        [
+          310,
+          4150,
+          94,
+          62
+        ],
+        [
+          196,
+          4240,
+          60,
+          58
+        ],
+        [
+          265,
+          4240,
+          55,
+          58
+        ],
+        [
+          326,
+          4244,
+          34,
+          54
+        ],
+        [
+          360,
+          4240,
+          47,
+          57
+        ],
+        [
+          413,
+          4242,
+          42,
+          56
+        ],
+        [
+          455,
+          4240,
+          39,
+          46
+        ],
+        [
+          500,
+          4245,
+          40,
+          53
+        ],
+        [
+          540,
+          4240,
+          38,
+          57
+        ]
+      ],
+      "effects": [
+        [
+          8,
+          4316,
+          54,
+          44
+        ],
+        [
+          75,
+          4331,
+          29,
+          22
+        ]
+      ],
+      "section": "Special Move 4: Fuuton - Rasen Shuriken",
+      "fps": 12,
+      "effectPosition": "hand",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11302",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 1293,
+      "technique": "jutsu_915f4a517d06ef5f",
+      "name": "Amaterasu",
+      "actor": [
+        [
+          11,
+          3940,
+          46,
+          65
+        ],
+        [
+          66,
+          3945,
+          43,
+          60
+        ]
+      ],
+      "effects": [
+        [
+          202,
+          3962,
+          54,
+          43
+        ],
+        [
+          262,
+          3966,
+          57,
+          39
+        ],
+        [
+          325,
+          3965,
+          57,
+          40
+        ],
+        [
+          387,
+          3965,
+          59,
+          40
+        ],
+        [
+          452,
+          3966,
+          53,
+          39
+        ],
+        [
+          511,
+          3965,
+          43,
+          40
+        ],
+        [
+          560,
+          3965,
+          39,
+          40
+        ]
+      ],
+      "section": "Special Move 5: Mangekyou Sharingan - Amaterasu",
+      "fps": 12,
+      "effectPosition": "front",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11533",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 1293,
+      "technique": "jutsu_3462ee2ec1e78c77",
+      "name": "Tsukuyomi",
+      "actor": [
+        [
+          9,
+          3827,
+          48,
+          66
+        ],
+        [
+          64,
+          3832,
+          46,
+          61
+        ]
+      ],
+      "effects": [
+        [
+          148,
+          3848,
+          48,
+          47
+        ]
+      ],
+      "section": "Special Move 4: Mangekyou Sharingan - Tsukuyomi",
+      "fps": 12,
+      "effectPosition": "front",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11533",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 1293,
+      "technique": "jutsu_9809618c34c57511",
+      "name": "Estilo Fogo: Grande Bola de Fogo",
+      "actor": [
+        [
+          8,
+          3402,
+          34,
+          76
+        ],
+        [
+          48,
+          3402,
+          30,
+          76
+        ],
+        [
+          84,
+          3402,
+          40,
+          76
+        ],
+        [
+          129,
+          3402,
+          36,
+          76
+        ],
+        [
+          171,
+          3417,
+          59,
+          61
+        ],
+        [
+          236,
+          3419,
+          59,
+          59
+        ],
+        [
+          301,
+          3404,
+          38,
+          74
+        ]
+      ],
+      "effects": [
+        [
+          40,
+          3517,
+          7,
+          10
+        ],
+        [
+          60,
+          3509,
+          36,
+          26
+        ],
+        [
+          110,
+          3502,
+          59,
+          33
+        ],
+        [
+          184,
+          3499,
+          64,
+          36
+        ],
+        [
+          262,
+          3498,
+          62,
+          37
+        ],
+        [
+          336,
+          3498,
+          63,
+          37
+        ],
+        [
+          412,
+          3502,
+          56,
+          33
+        ]
+      ],
+      "section": "Special Move 1: Katon - Goukakyuu no Jutsu",
+      "fps": 12,
+      "effectPosition": "front",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11533",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 1307,
+      "technique": "jutsu_666c3c2e48dc8856",
+      "name": "Chidori",
+      "actor": [
+        [
+          8,
+          3109,
+          48,
+          50
+        ],
+        [
+          62,
+          3093,
+          50,
+          66
+        ],
+        [
+          118,
+          3093,
+          51,
+          66
+        ],
+        [
+          175,
+          3093,
+          50,
+          66
+        ],
+        [
+          231,
+          3110,
+          87,
+          49
+        ]
+      ],
+      "effects": [
+        [
+          369,
+          3139,
+          14,
+          19
+        ],
+        [
+          393,
+          3140,
+          15,
+          19
+        ]
+      ],
+      "section": "Special Move 2: Chidori",
+      "fps": 12,
+      "effectPosition": "hand",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11393",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 1307,
+      "technique": "jutsu_9809618c34c57511",
+      "name": "Estilo Fogo: Grande Bola de Fogo",
+      "actor": [
+        [
+          8,
+          2917,
+          36,
+          69
+        ],
+        [
+          50,
+          2917,
+          36,
+          69
+        ],
+        [
+          92,
+          2918,
+          39,
+          68
+        ],
+        [
+          137,
+          2917,
+          40,
+          69
+        ],
+        [
+          184,
+          2932,
+          54,
+          54
+        ],
+        [
+          246,
+          2933,
+          54,
+          53
+        ],
+        [
+          308,
+          2924,
+          42,
+          62
+        ]
+      ],
+      "effects": [
+        [
+          40,
+          3030,
+          7,
+          10
+        ],
+        [
+          60,
+          3022,
+          36,
+          26
+        ],
+        [
+          110,
+          3015,
+          59,
+          33
+        ],
+        [
+          184,
+          3012,
+          64,
+          36
+        ],
+        [
+          262,
+          3011,
+          62,
+          37
+        ],
+        [
+          336,
+          3011,
+          63,
+          37
+        ],
+        [
+          412,
+          3015,
+          56,
+          33
+        ]
+      ],
+      "section": "Special Move 1: Katon - Goukakyuu no Jutsu",
+      "fps": 12,
+      "effectPosition": "front",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11393",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 376,
+      "technique": "jutsu_103a1ae69100128d",
+      "name": "Corte Relâmpago",
+      "actor": [
+        [
+          8,
+          3145,
+          49,
+          92
+        ],
+        [
+          61,
+          3140,
+          60,
+          97
+        ],
+        [
+          124,
+          3140,
+          66,
+          97
+        ],
+        [
+          190,
+          3141,
+          65,
+          96
+        ],
+        [
+          260,
+          3145,
+          99,
+          59
+        ]
+      ],
+      "effects": [
+        [
+          408,
+          3161,
+          72,
+          43
+        ],
+        [
+          502,
+          3166,
+          70,
+          37
+        ]
+      ],
+      "section": "Special Move 1: Raikiri (Right)",
+      "fps": 12,
+      "effectPosition": "hand",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11415",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 515,
+      "technique": "jutsu_625a61216a10e6c7",
+      "name": "Rasengan",
+      "actor": [
+        [
+          8,
+          4496,
+          72,
+          84
+        ],
+        [
+          86,
+          4543,
+          4,
+          37
+        ],
+        [
+          90,
+          4515,
+          71,
+          65
+        ],
+        [
+          170,
+          4497,
+          60,
+          83
+        ],
+        [
+          236,
+          4508,
+          109,
+          72
+        ],
+        [
+          351,
+          4508,
+          104,
+          72
+        ],
+        [
+          462,
+          4508,
+          95,
+          72
+        ]
+      ],
+      "effects": [
+        [
+          8,
+          4615,
+          32,
+          32
+        ],
+        [
+          50,
+          4615,
+          32,
+          32
+        ],
+        [
+          92,
+          4615,
+          32,
+          32
+        ],
+        [
+          136,
+          4613,
+          25,
+          36
+        ],
+        [
+          173,
+          4610,
+          35,
+          41
+        ],
+        [
+          219,
+          4600,
+          39,
+          55
+        ],
+        [
+          274,
+          4613,
+          36,
+          38
+        ]
+      ],
+      "section": "Special Move 4: Rasengan",
+      "fps": 12,
+      "effectPosition": "hand",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11421",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 374,
+      "technique": "jutsu_2bb5b3694f0e9eed",
+      "name": "Técnica da Palma Mística",
+      "actor": [
+        [
+          8,
+          3293,
+          41,
+          67
+        ],
+        [
+          55,
+          3293,
+          43,
+          67
+        ],
+        [
+          104,
+          3292,
+          45,
+          68
+        ],
+        [
+          155,
+          3291,
+          47,
+          69
+        ],
+        [
+          208,
+          3287,
+          42,
+          73
+        ],
+        [
+          256,
+          3283,
+          41,
+          77
+        ],
+        [
+          303,
+          3283,
+          41,
+          77
+        ],
+        [
+          350,
+          3283,
+          42,
+          77
+        ],
+        [
+          398,
+          3283,
+          41,
+          77
+        ],
+        [
+          445,
+          3283,
+          42,
+          77
+        ],
+        [
+          493,
+          3287,
+          42,
+          73
+        ],
+        [
+          541,
+          3293,
+          41,
+          67
+        ]
+      ],
+      "effects": [
+        [
+          101,
+          3402,
+          27,
+          11
+        ],
+        [
+          150,
+          3400,
+          28,
+          13
+        ],
+        [
+          200,
+          3400,
+          28,
+          13
+        ],
+        [
+          250,
+          3400,
+          26,
+          13
+        ]
+      ],
+      "section": "Special Move 3: Shousen no Jutsu",
+      "fps": 12,
+      "effectPosition": "body",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11404",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 374,
+      "technique": "jutsu_3a2f076abe5c6786",
+      "name": "Impacto da Flor de Cerejeira",
+      "actor": [
+        [
+          8,
+          3517,
+          36,
+          68
+        ],
+        [
+          50,
+          3522,
+          45,
+          63
+        ],
+        [
+          101,
+          3537,
+          44,
+          48
+        ],
+        [
+          151,
+          3537,
+          44,
+          48
+        ],
+        [
+          201,
+          3536,
+          44,
+          49
+        ],
+        [
+          251,
+          3536,
+          44,
+          49
+        ],
+        [
+          301,
+          3536,
+          44,
+          49
+        ],
+        [
+          351,
+          3534,
+          42,
+          51
+        ],
+        [
+          400,
+          3522,
+          40,
+          63
+        ]
+      ],
+      "effects": [
+        [
+          8,
+          3609,
+          80,
+          28
+        ],
+        [
+          105,
+          3606,
+          15,
+          31
+        ],
+        [
+          120,
+          3596,
+          85,
+          41
+        ],
+        [
+          222,
+          3602,
+          8,
+          34
+        ],
+        [
+          230,
+          3599,
+          116,
+          38
+        ],
+        [
+          378,
+          3608,
+          116,
+          29
+        ]
+      ],
+      "section": "Special Move 4: Cherry Blossom Impact",
+      "fps": 12,
+      "effectPosition": "ground",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11404",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 878,
+      "technique": "jutsu_859a28663d69d082",
+      "name": "Costura das Sombras",
+      "actor": [
+        [
+          8,
+          3310,
+          35,
+          70
+        ],
+        [
+          49,
+          3320,
+          40,
+          60
+        ],
+        [
+          95,
+          3320,
+          30,
+          60
+        ]
+      ],
+      "effects": [
+        [
+          264,
+          3359,
+          95,
+          21
+        ],
+        [
+          371,
+          3313,
+          123,
+          67
+        ]
+      ],
+      "section": "Special Move 1: Ninpou - Kage Nui",
+      "fps": 12,
+      "effectPosition": "ground",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/11419",
+      "game": "Naruto Shippūden: Shinobi Rumble",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 344,
+      "technique": "jutsu_be9fb7ba25d390cc",
+      "name": "Pavão da Manhã",
+      "actor": [
+        [
+          20,
+          268,
+          41,
+          64
+        ],
+        [
+          72,
+          265,
+          35,
+          67
+        ],
+        [
+          119,
+          263,
+          35,
+          69
+        ],
+        [
+          171,
+          260,
+          35,
+          72
+        ],
+        [
+          224,
+          260,
+          35,
+          72
+        ],
+        [
+          278,
+          268,
+          41,
+          64
+        ],
+        [
+          333,
+          264,
+          54,
+          68
+        ],
+        [
+          401,
+          264,
+          37,
+          67
+        ],
+        [
+          26,
+          394,
+          80,
+          75
+        ],
+        [
+          130,
+          394,
+          78,
+          75
+        ],
+        [
+          233,
+          393,
+          71,
+          76
+        ],
+        [
+          327,
+          395,
+          81,
+          74
+        ],
+        [
+          422,
+          420,
+          52,
+          53
+        ]
+      ],
+      "effects": [
+        [
+          550,
+          426,
+          33,
+          25
+        ],
+        [
+          593,
+          427,
+          34,
+          23
+        ],
+        [
+          640,
+          428,
+          35,
+          21
+        ],
+        [
+          686,
+          429,
+          35,
+          19
+        ],
+        [
+          733,
+          427,
+          38,
+          21
+        ],
+        [
+          783,
+          426,
+          40,
+          23
+        ],
+        [
+          836,
+          426,
+          40,
+          25
+        ]
+      ],
+      "section": "Special Attack: Asakujaku",
+      "fps": 12,
+      "effectPosition": "front",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/1425",
+      "game": "Naruto Shippūden: Ninja Council 4",
+      "credit": "Neimad",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    },
+    {
+      "person": 739,
+      "technique": "jutsu_f1c7e41273b68210",
+      "name": "Punho Forte",
+      "actor": [
+        [
+          22,
+          248,
+          41,
+          53
+        ],
+        [
+          91,
+          250,
+          57,
+          51
+        ],
+        [
+          171,
+          249,
+          53,
+          52
+        ],
+        [
+          258,
+          246,
+          44,
+          55
+        ]
+      ],
+      "effects": [],
+      "section": "Y Combo: Strong Fist",
+      "fps": 12,
+      "effectPosition": "hand",
+      "clones": false,
+      "source": "https://spritedatabase.net/file/1412",
+      "game": "Naruto Shippūden: Ninja Council 4",
+      "credit": "Hyperlon",
+      "presentation": "Sequência montada com quadros originais do jogo"
+    }
+  ],
+  "curationNote": "Associações verificadas contra os vínculos personagem–técnica. Sem sequência específica, a interface mostra a pose do jogo e desativa a reprodução."
+}

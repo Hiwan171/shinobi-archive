@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/pagesMetadata/1.1.0/schema.json",
+  "pageOrder": [
+    "shinobi_arquivo",
+    "shinobi_grupos",
+    "shinobi_jutsus",
+    "shinobi_comparador",
+    "shinobi_popularidade",
+    "shinobi_episodios"
+  ],
+  "activePageName": "shinobi_comparador"
+}

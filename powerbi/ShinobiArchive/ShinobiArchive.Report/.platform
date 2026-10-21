@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "ShinobiArchive"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "05a4a31b-0331-4db7-8782-3e9eb6e5a5e1"
+  }
+}

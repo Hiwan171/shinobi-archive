@@ -1,0 +1,215 @@
+/* Arquivo Ninja v3 — todas as regras de composição ficam nesta seção. */
+#shinobi-app .archive-v3{grid-template-columns:264px minmax(0,1fr);gap:20px}
+#shinobi-app .archive-v3 .catalog-grid{gap:10px;padding-left:13px;padding-right:13px}
+#shinobi-app .archive-v3 .tile-picture{height:95px}
+#shinobi-app .dossier-v3{display:grid;grid-template-rows:214px 73px minmax(445px,1fr);gap:13px;align-content:start;overflow-y:auto;padding-right:4px}
+#shinobi-app .archive-v3 .file-hero{display:grid;grid-template-columns:184px minmax(0,1fr) 127px;min-height:0;flex:none;border-color:#58402d90;background:radial-gradient(ellipse at 0 90%,#f58a3322,transparent 50%),linear-gradient(115deg,#191b23,#11171e);border-radius:14px}
+#shinobi-app .archive-v3 .hero-portrait{min-height:0;align-self:stretch;overflow:hidden}
+#shinobi-app .archive-v3 .hero-portrait:before{font-size:230px;top:-55px;left:-22px}
+#shinobi-app .archive-v3 .hero-orbit{height:168px;width:168px;top:25px;box-shadow:0 0 0 15px #ff813405,0 0 0 16px #ff81341a,0 0 0 35px #ff813403}
+#shinobi-app .archive-v3 .hero-orbit:after{height:6px;width:6px;top:19px;left:22px}
+#shinobi-app .archive-v3 .hero-portrait img{height:91%;width:82%;border-radius:90px 90px 0 0;max-height:none;object-position:50% 18%;mask-image:linear-gradient(#000 65%,transparent 100%)}
+#shinobi-app .archive-v3 .portrait-label{bottom:12px;left:15px;font-size:7px;letter-spacing:1.4px}
+#shinobi-app .archive-v3 .hero-copy{padding:17px 21px;justify-content:flex-start;min-width:0}
+#shinobi-app .archive-v3 .hero-copy .eyebrow{font-size:8px;letter-spacing:1.8px}
+#shinobi-app .archive-v3 .hero-copy h2{font-size:35px;line-height:1.05;margin:8px 0 4px!important;max-width:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#shinobi-app .archive-v3 .hero-jp{font-size:10px;color:#8d7360;letter-spacing:3px;min-height:14px}
+.file-edition{border:1px solid #ff813435;padding:1px 4px;border-radius:3px;font:8px Consolas,monospace;color:#c19672}
+#shinobi-app .file-intro{font-size:10px!important;line-height:1.6;color:#a9b2c0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-top:7px!important;max-width:650px}
+.file-identity-tags{display:flex;align-items:center;flex-wrap:wrap;gap:5px 9px;margin:10px 0 11px;font-size:8px;color:#c0c7d1}
+.file-identity-tags>span{display:flex;align-items:center;gap:4px;white-space:nowrap;max-width:185px;overflow:hidden;text-overflow:ellipsis}
+.file-identity-tags .inherit-tag{border:1px solid #a293f72c;border-radius:4px;padding:2px 6px;color:#b4a5e6;background:#a293f707}
+.file-hero-actions{display:flex;gap:7px;align-items:center;margin-top:auto}
+.file-hero-actions button{display:flex;align-items:center;justify-content:center;gap:7px;border:1px solid #ff81343f!important;border-radius:6px;padding:7px 10px;background:#ff81340d;color:#ffb17c!important;font-size:9px!important;transition:background .2s,box-shadow .2s}
+.file-hero-actions button:hover{background:#ff813425;box-shadow:0 0 15px #ff81340e}
+.file-hero-actions button+button{border-color:#ffffff14!important;background:#ffffff03;color:#aeb9ca!important}
+.file-insignia{border-left:1px solid #ffffff07;display:flex;flex-direction:column;align-items:center;padding:16px 12px 11px;min-width:0;background:linear-gradient(170deg,#ff813408,transparent)}
+.file-village-seal{width:43px;height:43px;border:1px solid #ff81342b;border-radius:50%;display:grid;place-items:center;background:#ff813405;box-shadow:0 0 0 5px #ff813403;margin-bottom:9px;color:#d2b296}
+.file-village-seal img{width:25px;height:25px;object-fit:contain;opacity:.8}
+.file-insignia>span{font-size:6px;letter-spacing:1.5px;color:#8d7a6b}
+.file-insignia>strong{font-size:8px;font-weight:500;margin-top:4px;text-align:center;color:#c5baaf;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.file-avatar{width:59px;height:72px;margin-top:5px;overflow:hidden}
+.file-avatar svg{width:100%;height:100%;filter:drop-shadow(0 0 8px #ff813413)}
+.file-insignia>small{font-size:5px;letter-spacing:1px;color:#626f80;margin-top:2px}
+#shinobi-app .file-metrics{grid-template-columns:repeat(4,1fr);border-radius:10px;background:linear-gradient(120deg,#171d26,#11171e)}
+#shinobi-app .file-metrics .metric{padding:10px 18px}
+#shinobi-app .file-metrics .metric-top{font-size:7px;letter-spacing:1px;gap:6px}
+#shinobi-app .file-metrics .metric strong{font-size:23px;margin:2px 0 0;line-height:1.2}
+#shinobi-app .file-metrics .metric small{font-size:7px}
+.file-content-grid{display:grid;grid-template-columns:minmax(270px,.92fr) minmax(410px,1.5fr);gap:14px;min-height:0}
+.file-info-stack{display:flex;flex-direction:column;gap:12px;min-height:0}
+#shinobi-app .file-info-stack .panel-head{padding:14px 15px 11px;min-height:40px}
+#shinobi-app .file-info-stack .panel-title{font-size:9px!important;letter-spacing:.8px}
+#shinobi-app .file-info-stack .detail-body{padding:0 15px 13px}
+.file-attributes{flex-shrink:0}
+#shinobi-app .file-attributes .physical-grid strong{font-size:17px}
+#shinobi-app .file-attributes .physical-grid span{font-size:8px}
+#shinobi-app .file-attributes .phase-select{font-size:8px!important;max-width:120px;padding:4px 6px!important}
+.file-meta-row{display:flex;flex-wrap:wrap;align-items:center;gap:5px 11px;font-size:8px;color:#919eaf;border-bottom:1px solid #ffffff08;padding:10px 0;margin-bottom:9px}
+.file-meta-row span+span{border-left:1px solid #ffffff12;padding-left:10px}
+.file-meta-row b{color:#bcc6d4;font-weight:500;margin-left:3px}
+#shinobi-app .file-attributes .chakra{font-size:7px;padding:3px 6px;gap:4px}
+#shinobi-app .file-attributes .chakra-list{gap:4px}
+.file-team-line{font-size:7px;color:#8d99ac;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;border-top:1px solid #ffffff07;margin-top:9px;padding-top:8px}
+.file-team-line>span{font-size:6px;color:#647185;letter-spacing:1px;margin-right:8px}
+.file-story-preview{flex-shrink:0;background:radial-gradient(ellipse at 0 100%,#ff813409,transparent 70%),#131922}
+.file-curated{font-size:7px;color:#ad967e;border:1px solid #ff81341e;border-radius:3px;padding:2px 5px;white-space:nowrap}
+#shinobi-app .file-story-preview h3{font-size:13px!important;font-weight:650;color:#dbc9b4;margin:0 0 6px!important}
+#shinobi-app .file-story-preview p{font-size:9px;line-height:1.65;color:#8997aa;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.file-story-steps{display:flex;align-items:center;gap:6px;margin:10px 0;color:#738196;font-size:6px}
+.file-story-steps span{display:flex;align-items:center;gap:5px;white-space:nowrap;min-width:0}
+.file-story-steps span+span:before{content:'';height:1px;width:8px;background:#475063}
+.file-story-steps i{width:4px;height:4px;border-radius:50%;background:#9c6b49;flex-shrink:0}
+#shinobi-app .file-inline-button{display:flex;align-items:center;justify-content:space-between;width:100%;background:transparent;border-top:1px solid #ffffff09!important;font-size:8px!important;color:#d89a6e!important;padding:8px 0 0}
+.file-relations{flex:1;min-height:123px;display:flex;flex-direction:column}
+#shinobi-app .file-text-button{background:transparent;color:#8e9eb4!important;font-size:8px!important;padding:0}
+.file-family-list{padding:0 15px 10px;overflow-y:auto;flex:1;min-height:0}
+.file-family-item{display:flex;gap:9px;align-items:center;padding:6px 0;border-bottom:1px solid #ffffff06;min-height:37px}
+.file-family-avatar{width:26px;height:28px;display:grid;place-items:center;flex-shrink:0;border-radius:5px;overflow:hidden;background:#202837;color:#6a7a8f}
+#shinobi-app .file-family-avatar img{width:26px;height:28px;object-fit:cover;object-position:50% 15%}
+.file-family-item>div+div{min-width:0;flex:1;display:flex;align-items:center;gap:8px;justify-content:space-between}
+.file-family-item span{font-size:8px;color:#77879c;white-space:nowrap}
+.file-family-item strong,.file-family-item button{font-size:9px!important;color:#c7d0de;font-weight:500;text-align:right;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+.file-family-item button{background:transparent;padding:0!important}
+.file-family-item button b{font-weight:400;color:#726c63;margin-left:3px}
+.file-family-item button:hover{color:var(--orange)!important}
+.file-arsenal{display:flex;flex-direction:column;min-height:0;background:linear-gradient(145deg,#151c27,#10161f)}
+#shinobi-app .file-arsenal>.panel-head{padding:17px 18px 13px;border-bottom:1px solid #ffffff06}
+#shinobi-app .file-arsenal>.panel-head .panel-title{font-size:10px!important;letter-spacing:1.2px}
+.file-arsenal-toolbar{padding:12px 15px;display:flex;align-items:center;gap:10px;border-bottom:1px solid #ffffff07}
+.file-arsenal-toolbar .search{padding:8px 9px;flex:1;background:#0d131d}
+#shinobi-app .file-arsenal-toolbar .search input{font-size:9px!important}
+.file-arsenal-filters{display:flex;gap:2px;background:#0c121b;border:1px solid #ffffff09;border-radius:5px;padding:3px;flex-shrink:0}
+#shinobi-app .file-arsenal-filters button{padding:5px 7px;background:transparent;border-radius:3px;font-size:8px!important;color:#8491a6!important;white-space:nowrap;display:flex;gap:5px;align-items:center}
+#shinobi-app .file-arsenal-filters button.active{background:#ff81341b;color:#e0aa80!important}
+.file-arsenal-filters i{width:4px;height:4px;background:#8fc7df;border-radius:50%}
+.file-arsenal-body{display:grid;grid-template-columns:minmax(150px,.85fr) minmax(230px,1.35fr);min-height:0;flex:1}
+.file-tech-column{border-right:1px solid #ffffff07;display:flex;flex-direction:column;min-height:0}
+.file-list-caption{font-size:6px;letter-spacing:1px;color:#52667f;display:flex;justify-content:space-between;padding:11px 13px 7px}
+.file-tech-list{min-height:0;overflow-y:auto;flex:1;padding:0 6px 5px}
+#shinobi-app .file-tech-item{display:flex;width:100%;align-items:center;gap:7px;padding:11px 7px;background:transparent;border:1px solid transparent!important;border-radius:6px;text-align:left;transition:background .18s,border-color .18s;min-height:53px}
+#shinobi-app .file-tech-item:hover{background:#ffffff04}
+#shinobi-app .file-tech-item.selected{background:linear-gradient(100deg,#ff813418,#ff813405);border-color:#ff81342d!important}
+.file-tech-symbol{display:grid;place-items:center;background:#1c2635;border:1px solid #ffffff07;border-radius:5px;width:25px;height:27px;color:#627893;flex-shrink:0}
+.file-tech-symbol.curated{background:#6ab8f40a;color:#7ea8c4;border-color:#7caad01b}
+.selected .file-tech-symbol{color:#e5a776;background:#d78f5010;border-color:#b97f492b}
+.file-tech-name{min-width:0;flex:1}
+.file-tech-name strong{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:9px;font-weight:500;line-height:1.35;color:#bbc7d8}
+.file-tech-name small{display:block;color:#566c88;font-size:7px;margin-top:3px}
+.file-tech-item.selected .file-tech-name strong{color:#f1c29e}
+.file-tech-play{color:#758ca7;font-size:13px;flex-shrink:0}
+.file-tech-foot{padding:9px 11px;border-top:1px solid #ffffff06;font-size:6px;color:#59718d;letter-spacing:.3px}
+.file-demo{display:flex;flex-direction:column;min-height:0;padding:13px 14px 12px;overflow-y:auto;background:radial-gradient(ellipse at 100% 40%,#4d679d09,transparent 70%)}
+.file-demo-heading{min-height:65px;flex-shrink:0}
+.file-demo-heading .eyebrow{font-size:6px;letter-spacing:1.5px;color:#728ba8}
+#shinobi-app .file-demo-heading h3{font-family:'Segoe UI',sans-serif;font-size:17px!important;line-height:1.2;font-weight:650;letter-spacing:-.4px;margin:8px 0 4px!important;color:#dbe5f3}
+.file-original-name{font-size:7px;color:#596f8e;display:block;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-bottom:10px}
+.demo-stage{position:relative;isolation:isolate;min-height:175px;flex:1;max-height:255px;overflow:hidden;background:radial-gradient(ellipse at 60% 55%,color-mix(in srgb,var(--fx) 7%,transparent),transparent 65%),linear-gradient(#0c1421,#0b111a);border:1px solid #6c8bac1b;border-radius:8px}
+.demo-scene-grid{position:absolute;inset:45% -20% -30%;background-image:linear-gradient(#7189aa12 1px,transparent 1px),linear-gradient(90deg,#7189aa12 1px,transparent 1px);background-size:20px 20px;transform:perspective(160px) rotateX(48deg);z-index:-1;mask-image:linear-gradient(transparent,#000)}
+.demo-scene-id{position:absolute;top:10px;left:11px;font:6px Consolas,monospace;color:#506b8c;text-transform:uppercase;letter-spacing:1px;z-index:2}
+.demo-svg{width:100%;height:100%;position:absolute;inset:0;overflow:visible}
+.demo-stage-label{position:absolute;bottom:9px;left:0;right:0;text-align:center;letter-spacing:1px;font-size:5px;color:#566d89}
+.demo-effects,.demo-clone,.demo-sparks{opacity:0}
+.demo-stage.is-playing .demo-effects{animation:chakra-effect 4.8s ease-in-out both}
+.demo-stage.is-playing .demo-sparks{animation:chakra-sparks 4.8s ease-out both}
+.demo-stage.is-playing .sprite-arm.forward{animation:chakra-arm 4.8s ease both;transform-box:fill-box;transform-origin:0 0}
+.demo-stage.is-playing .sprite-main{animation:chakra-body 4.8s ease both;transform-origin:center}
+.demo--rasengan.is-playing .fx-orb{animation:orb-charge 4.8s ease both;transform-origin:221px 123px}
+.demo--rasengan.is-playing .fx-release{animation:chakra-projectile 4.8s ease both;transform-origin:223px 124px}
+.demo--clones.is-playing .demo-clone.one{animation:clone-left 4.8s ease both}
+.demo--clones.is-playing .demo-clone.two{animation:clone-right 4.8s ease both}
+.demo--lightning.is-playing .fx-electric{animation:electric-flash .16s steps(2,end) 30}
+.demo--fire.is-playing .fx-fire,.demo--fire.is-playing .fx-fire-core{animation:flame-project 4.8s ease both;transform-origin:173px 110px}
+.demo--amaterasu.is-playing .fx-blackfire{animation:black-flame 4.8s ease both;transform-origin:260px 170px}
+.demo--eye.is-playing .fx-eye,.demo--byakugan.is-playing .fx-eye{animation:eye-illusion 4.8s ease both;transform-origin:239px 103px}
+.demo--susanoo.is-playing .fx-armor{animation:armor-rise 4.8s ease both;transform-origin:180px 190px}
+.demo--vortex.is-playing .fx-vortex{animation:vortex-turn 4.8s ease both;transform-origin:250px 111px}
+.demo--teleport.is-playing .sprite-main{animation:shinobi-teleport 4.8s steps(1,end) both}
+.demo--teleport.is-playing .fx-flash{animation:electric-flash .2s steps(2,end) 24}
+.demo--summon.is-playing .fx-smoke{animation:summon-smoke 4.8s ease both;transform-origin:240px 172px}
+.demo--healing.is-playing .fx-heal{animation:healing-pulse 1.2s ease-in-out 4;transform-origin:226px 136px}
+.demo--gates.is-playing .fx-aura{animation:armor-rise 4.8s ease both;transform-origin:180px 190px}
+.demo--taijutsu.is-playing .sprite-main{animation:shinobi-strike 4.8s ease both}
+.demo--shadow.is-playing .fx-shadow{animation:shadow-stretch 4.8s ease both;transform-origin:142px 201px}
+.demo-controls{display:flex;align-items:center;gap:6px;margin:10px 0 9px;flex-shrink:0}
+#shinobi-app .demo-play-button{display:flex;align-items:center;justify-content:center;gap:6px;background:linear-gradient(100deg,#ce6d32,#ed9558);border:1px solid #efae6b55!important;padding:8px 10px;color:#23170f!important;font-size:8px!important;font-weight:650;border-radius:5px;white-space:nowrap}
+#shinobi-app .demo-play-button:disabled{background:#1c293b;color:#67809f!important;border-color:#52658020!important;cursor:default}
+#shinobi-app .demo-expand{padding:5px 8px;border:1px solid #425b7933!important;background:#162031;color:#8ba2bd!important;border-radius:4px;font-size:16px!important;line-height:1}
+.demo-status{font-size:6px;color:#647d9d;margin-left:auto;text-align:right;max-width:91px}
+.demo-progress{height:2px;background:#7186aa12;flex-shrink:0;margin-bottom:11px;overflow:hidden}
+.demo-progress>span{display:block;width:0;height:100%;background:#e5a46e;box-shadow:0 0 5px #e5a46e}
+.demo-running .demo-progress>span{animation:demo-progress 4.8s linear both}
+.demo-description{flex-shrink:0}
+#shinobi-app .demo-description p{font-size:9px;color:#859ab5;line-height:1.7}
+.demo-description-foot{margin-top:10px;display:flex;align-items:center;gap:8px;justify-content:space-between;border-top:1px solid #ffffff06;padding-top:9px;font-size:7px;color:#597391}
+.file-source{font-size:8px;color:#b99576;text-decoration:none}
+.file-source:hover{color:#ffc28c;text-decoration:underline}
+#shinobi-app .demo-description .file-source{font-size:7px;color:#b79d85}
+#shinobi-app .file-biography-modal{width:790px;padding:29px 32px;background:radial-gradient(ellipse at 0 0,#ff813409,transparent 65%),#121923}
+.file-bio-lead{display:flex;align-items:center;gap:18px;padding:0 0 22px;border-bottom:1px solid #ffffff0c;margin-bottom:19px}
+.file-bio-avatar{height:86px;width:70px;flex-shrink:0;overflow:hidden;border-radius:40px 40px 9px 9px;border:1px solid #ff813433;background:#202b39}
+.file-bio-avatar img{width:100%;height:100%;object-fit:cover;object-position:50% 15%}
+#shinobi-app .file-bio-lead h3{font-size:17px!important;color:#ddc4ac;margin:0 0 8px!important}
+#shinobi-app .file-bio-lead p{font-size:11px;line-height:1.7}
+.file-story-heading{display:flex;align-items:center;justify-content:space-between;font-size:9px;color:#687f99;gap:12px;flex-wrap:wrap}
+.file-spoiler-control{display:flex;align-items:center;gap:8px;color:#ab967d;font-size:10px}
+.file-spoiler-control input{width:14px;height:14px}
+.file-timeline{margin:25px 0 0 17px;border-left:1px solid #73533c77;padding-left:33px}
+.file-timeline article{position:relative;padding-bottom:25px}
+.timeline-node{position:absolute;left:-47px;top:0;width:26px;height:26px;display:grid;place-items:center;font:9px Consolas,monospace;color:#e7ac7d;background:#242120;border:1px solid #94673e88;border-radius:50%}
+.file-timeline .eyebrow{font-size:8px;letter-spacing:1.7px}
+#shinobi-app .file-timeline h3{font-size:17px!important;color:#d1dae6;margin:6px 0 9px!important}
+#shinobi-app .file-timeline p{font-size:12px;line-height:1.85;color:#97a7bc;margin-bottom:7px!important}
+.file-spoiler-lock{display:flex;align-items:center;gap:14px;padding:17px 19px;border:1px dashed #b8875535;background:#ff813405;border-radius:8px;color:#a68970;margin:5px 0 20px}
+.file-spoiler-lock strong{font-size:11px;color:#c7ac94}
+#shinobi-app .file-spoiler-lock p{font-size:9px;color:#857868;margin-top:4px!important}
+.file-spoiler-lock button{margin-left:auto;border:1px solid #b8875544!important;border-radius:5px;padding:7px 13px;background:#ff81340c;color:#d8aa82!important;font-size:10px!important}
+.file-biography-sources{display:flex;gap:10px;align-items:center;border-top:1px solid #ffffff0a;padding-top:15px;flex-wrap:wrap}
+.file-biography-sources>span{font-size:7px;color:#5a7089;letter-spacing:1px}
+.file-coverage-note{border:1px solid #8a9cba22;background:#7e96b509;padding:14px 16px;border-radius:7px;color:#8298b5;font-size:10px;margin:18px 0}
+.file-profile-fallback{margin-bottom:22px}
+.file-connections-center{display:flex;align-items:center;flex-direction:column;padding-bottom:22px;border-bottom:1px solid #ffffff0b}
+.file-connections-center>div{width:86px;height:86px;overflow:hidden;border-radius:50%;border:1px solid #b78e623e;box-shadow:0 0 0 7px #ff813404;margin:4px 0 14px}
+.file-connections-center img{width:100%;height:100%;object-fit:cover;object-position:50% 15%}
+.file-connections-center>strong{font-size:16px}
+.file-connections-center>span{font-size:10px;color:#8498b1;margin-top:5px}
+.file-connections-grid{display:grid;grid-template-columns:1fr 1fr;gap:5px 24px;position:relative;padding:17px 0}
+.file-connections-grid .file-family-item{padding:10px 0}
+.file-connections-grid .file-family-avatar{width:34px;height:37px}
+.file-connections-grid .file-family-avatar img{width:34px;height:37px}
+.file-connections-grid .file-family-item>div+div{align-items:flex-start;flex-direction:column;gap:5px}
+.file-connections-grid .file-family-item strong,.file-connections-grid .file-family-item button{font-size:11px!important;text-align:left}
+.file-connection-groups{border-top:1px solid #ffffff09;padding-top:2px}
+#shinobi-app .file-demo-modal{width:850px}
+.file-demo-expanded .file-demo-heading{display:none}
+.file-demo-expanded .demo-stage{height:370px;max-height:none}
+.file-demo-expanded .demo-controls{margin-top:16px}
+.file-demo-expanded .demo-play-button{font-size:11px!important;padding:11px 17px!important}
+.file-demo-expanded .demo-expand{display:none}
+.file-demo-expanded .demo-status{font-size:9px;max-width:none}
+.file-demo-expanded .demo-description p{font-size:12px!important}
+.file-demo-expanded .demo-stage-label{font-size:8px}
+@keyframes chakra-effect{0%,12%{opacity:0}26%,78%{opacity:1}100%{opacity:0}}
+@keyframes chakra-sparks{0%,18%{opacity:0;transform:translateY(10px)}45%{opacity:.9}90%,100%{opacity:0;transform:translateY(-22px)}}
+@keyframes chakra-arm{0%,10%,100%{transform:rotate(0)}30%,75%{transform:rotate(-17deg)}}
+@keyframes chakra-body{0%,15%,100%{transform:translateY(0)}30%,76%{transform:translateY(-4px)}}
+@keyframes orb-charge{0%,13%{transform:scale(.1)}35%{transform:scale(.8) rotate(30deg)}65%{transform:scale(1) rotate(180deg)}80%{transform:scale(1.3) rotate(300deg)}100%{transform:scale(.3) rotate(380deg)}}
+@keyframes chakra-projectile{0%,60%{opacity:0;transform:scaleX(.1)}73%{opacity:.9;transform:scaleX(1)}88%,100%{opacity:0;transform:scaleX(1.1)}}
+@keyframes clone-left{0%,15%{opacity:0;transform:translateX(95px)}33%,74%{opacity:.6;transform:translateX(0)}100%{opacity:0;transform:translateX(-8px)}}
+@keyframes clone-right{0%,20%{opacity:0;transform:translateX(-95px)}38%,76%{opacity:.6;transform:translateX(0)}100%{opacity:0;transform:translateX(8px)}}
+@keyframes electric-flash{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes flame-project{0%,18%{transform:scale(.05);opacity:0}44%,70%{transform:scale(1);opacity:1}90%,100%{transform:translateX(20px) scale(1.1);opacity:0}}
+@keyframes black-flame{0%,20%{transform:scaleY(.05)}48%{transform:scaleY(1.1) skewX(-4deg)}65%{transform:scaleY(.95) skewX(4deg)}82%{transform:scaleY(1.1) skewX(-3deg)}100%{transform:scaleY(.2)}}
+@keyframes eye-illusion{0%,15%{transform:scale(.3);opacity:0}45%{transform:scale(1);opacity:1}80%{transform:scale(1.08);opacity:.8}100%{transform:scale(1.2);opacity:0}}
+@keyframes armor-rise{0%,17%{transform:scaleY(.1)}42%,78%{transform:scaleY(1)}100%{transform:scaleY(.85)}}
+@keyframes vortex-turn{0%,15%{transform:scale(.1) rotate(0)}50%{transform:scale(1) rotate(90deg)}80%{transform:scale(.8) rotate(240deg)}100%{transform:scale(.1) rotate(340deg)}}
+@keyframes shinobi-teleport{0%,25%,100%{transform:translateX(0);opacity:1}28%,34%{opacity:0}35%,65%{transform:translateX(150px);opacity:1}68%,75%{opacity:0}76%,99%{transform:translateX(0);opacity:1}}
+@keyframes summon-smoke{0%,35%{transform:scale(.1);opacity:0}55%{transform:scale(1);opacity:.8}90%,100%{transform:scale(1.4) translateY(-20px);opacity:0}}
+@keyframes healing-pulse{0%,100%{transform:scale(.7);opacity:.5}50%{transform:scale(1.05);opacity:1}}
+@keyframes shinobi-strike{0%,20%,100%{transform:translateX(0)}35%{transform:translateX(35px) rotate(-4deg)}50%{transform:translateX(18px) rotate(3deg)}70%{transform:translateX(47px) rotate(-2deg)}85%{transform:translateX(8px)}}
+@keyframes shadow-stretch{0%,15%{transform:scaleX(.05)}45%,80%{transform:scaleX(1)}100%{transform:scaleX(.05)}}
+@keyframes demo-progress{from{width:0}to{width:100%}}
+@media(max-width:1300px){#shinobi-app .archive-v3{grid-template-columns:224px minmax(0,1fr);gap:14px}#shinobi-app .archive-v3 .file-hero{grid-template-columns:152px minmax(0,1fr) 103px}#shinobi-app .archive-v3 .hero-copy{padding:16px}#shinobi-app .archive-v3 .hero-copy h2{font-size:30px}.file-intro{-webkit-line-clamp:2}.file-identity-tags{font-size:7px;gap:4px 7px;margin:8px 0}.file-hero-actions button{font-size:8px!important;padding:7px}.file-insignia{padding-left:8px;padding-right:8px}.file-content-grid{grid-template-columns:minmax(240px,1fr) minmax(340px,1.35fr);gap:11px}.file-arsenal-body{grid-template-columns:minmax(120px,.8fr) minmax(185px,1.2fr)}.file-arsenal-toolbar{padding:9px 10px;gap:6px}.file-arsenal-filters button{font-size:7px!important;padding:5px!important}.file-demo{padding:12px 10px}.file-tech-item{gap:5px!important;padding-left:5px!important;padding-right:5px!important}.file-tech-symbol{width:21px;height:24px}.file-tech-name strong{font-size:8px}.file-tech-name small{font-size:6px}.file-demo-heading h3{font-size:15px!important}.demo-stage{min-height:155px}.file-metrics .metric{padding-left:13px!important;padding-right:13px!important}.file-metrics .metric-top{font-size:6px!important;letter-spacing:.7px!important}.file-story-steps{font-size:5px;gap:3px}.file-story-steps span+span:before{width:5px}.file-family-item>div+div{gap:4px}.file-family-item button{font-size:8px!important}.demo-status{font-size:5px}.file-info-stack .detail-body{padding-left:12px!important;padding-right:12px!important}}
+@media(max-width:1100px){#shinobi-app .archive-v3{grid-template-columns:198px minmax(0,1fr);gap:12px}#shinobi-app .dossier-v3{grid-template-rows:205px 66px minmax(470px,1fr);gap:11px}#shinobi-app .archive-v3 .file-hero{grid-template-columns:126px minmax(0,1fr)}.file-insignia{display:none}#shinobi-app .archive-v3 .hero-copy{padding:14px}#shinobi-app .archive-v3 .hero-copy h2{font-size:28px}#shinobi-app .archive-v3 .hero-portrait img{width:94%}.file-content-grid{grid-template-columns:minmax(220px,.95fr) minmax(290px,1.3fr);gap:10px}.file-arsenal-toolbar{align-items:stretch;flex-direction:column;gap:6px}.file-arsenal-filters{align-self:flex-start}.file-arsenal-body{grid-template-columns:minmax(111px,.8fr) minmax(150px,1fr)}.file-tech-symbol{display:none}.file-tech-name strong{font-size:8px}.file-demo{padding:11px 8px}.demo-controls{flex-wrap:wrap}.demo-status{max-width:none;margin-left:0;width:100%;text-align:left}.file-info-stack .panel-title{font-size:8px!important}.file-story-steps{overflow:hidden}.file-arsenal>.panel-head .panel-title{font-size:8px!important;letter-spacing:.7px!important}.file-demo-heading h3{font-size:14px!important}.file-demo-heading{min-height:66px}.file-attributes .physical-grid strong{font-size:14px!important}.file-attributes .phase-select{max-width:95px!important}.file-meta-row{font-size:7px;gap:5px}.file-story-preview h3{font-size:11px!important}.file-family-list{padding-left:12px;padding-right:12px}#shinobi-app .archive-v3 .tile-picture{height:84px}}
+@media(max-width:900px){#shinobi-app .archive-v3{grid-template-columns:175px minmax(0,1fr)}.file-content-grid{display:flex;flex-direction:column;gap:12px}.file-info-stack{display:grid;grid-template-columns:1fr 1fr;gap:10px;min-height:0}.file-relations{grid-column:1/-1;max-height:150px}.file-story-preview{min-height:180px}#shinobi-app .dossier-v3{display:flex;flex-direction:column;overflow-y:auto}.file-hero{flex-shrink:0!important;height:215px}.file-metrics{flex-shrink:0!important;height:70px}.file-arsenal{min-height:430px}.file-arsenal-toolbar{flex-direction:row}.file-arsenal-body{grid-template-columns:1fr 1.35fr}.file-info-stack .panel-head{padding-left:10px!important;padding-right:10px!important}.file-identity-tags{max-height:38px;overflow:hidden}.file-metrics .metric-top svg{display:none}.file-metrics .metric{padding-left:10px!important}.file-connections-grid{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.demo-stage.is-playing .demo-effects{opacity:1!important}.demo-stage.is-playing .demo-clone{opacity:.6!important}.demo-stage.is-playing .demo-sparks{opacity:.4!important}}

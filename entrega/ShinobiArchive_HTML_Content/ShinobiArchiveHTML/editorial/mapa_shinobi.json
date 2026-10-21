@@ -1,0 +1,12 @@
+{
+  "author": "ShounenSuki",
+  "source": "https://commons.wikimedia.org/wiki/File:Naruto_World_Map.svg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "changes": "Cores, remoção de inscrições e símbolos, identificadores interativos. Geometrias territoriais preservadas.",
+  "scope": "Mapa comunitário da região conhecida das grandes nações; não representa o planeta completo. Marcadores são esquemáticos, sem escala de distância.",
+  "files": {
+    "naruto-world-original.svg": "30f082a9fdd96c80ea8a770b62cb5c4a5ffaf74715a319a33345d4033c856c3a",
+    "naruto-world-atlas.svg": "5bbf2a6ff3dd28830f9c876fa1383c0c56c967900618f7658e04b866c6b39cc1"
+  }
+}

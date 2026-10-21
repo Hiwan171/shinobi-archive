@@ -1,0 +1,33 @@
+table kekkei_genkai
+	lineageTag: cb4a21d8-8ed8-5a89-b3fe-d54c7cce9a88
+
+	column kekkei_genkai_id
+		dataType: int64
+		formatString: #,0
+		lineageTag: 2dcd491a-1014-51e3-b9e0-049be1b40439
+		summarizeBy: none
+		sourceColumn: kekkei_genkai_id
+
+	column nome
+		dataType: string
+		lineageTag: 76f04ae3-7f59-5bfc-9c5e-bc15a2e6d44c
+		summarizeBy: none
+		sourceColumn: nome
+
+	column fonte
+		dataType: string
+		isHidden
+		lineageTag: 29adf16d-5c2e-532d-88c5-cce7f4f7e205
+		summarizeBy: none
+		sourceColumn: fonte
+
+	partition kekkei_genkai = m
+		mode: import
+		source =
+				let
+				    Dados = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACCqWWwW7aQBCGX2XlS1uJA9iQQG5pqKKW0gOmyiGKogEm9mbt2Whtp3WrPAJPkufgvbrmwPgAVLu+WZbn078z3673/m+gUCmUjwmSAvkoN8FVvxeQzjG4Cj5rmYkFZggFBr3gSVPZvJ5CWeIKah289Y4BBgyoQVUJkENxeCi+MXVRgk+A6MCYglEegOEB8KVEQzbEHChBVe+2Ik7BSHJb1Ih5v18yXUhNHqkuDpSvq8pIcZMBfSjEbP+huN1/6IC7ZNwaPeKMub4oUqmkzTLdbZ+rsqgcMJMzGCHEx6bzIDRl9ScXB9nib7ut27QGg1bte6JtoI6tHrDVM7TrMrXlumVip2eVgRw6R2LHv8Mr+Gzz0VFCM7Nrkjm6z+ziJPCHfsXMHciKzyEhLH1WOT7B6BBr0kJ2OVbC/jmQ/yBC3gDzauPRtJB9XwDlYKoOpoas/kJS2tn8cNjmETr2nK1f2F38p9nOXcKw8zEo+1sA2oif9qELk7WP19qsU58JsvYxkpGOTWLDfbyO+q1yqbRtcd7cJFwQrHBcInrdIsIWQpvcB8Hqxr/kk8/5E7GtS6QCHScRsa7L+iXVXhePiCW909rnQIgujxL8j6hofBL430P54R9kI6/O9woAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				    Fonte = Table.FromRecords(Dados),
+				    Tipos = Table.TransformColumnTypes(Fonte, {{"kekkei_genkai_id", Int64.Type}, {"nome", type text}, {"fonte", type text}}, "en-US")
+				in
+				    Tipos
+

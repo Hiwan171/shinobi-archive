@@ -1,0 +1,817 @@
+[
+  {
+    "personagem_id": 256,
+    "kekkei_genkai_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 363,
+    "kekkei_genkai_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 669,
+    "kekkei_genkai_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1223,
+    "kekkei_genkai_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "kekkei_genkai_id": 0,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 80,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 434,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 435,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 436,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 437,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 439,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 440,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 441,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 442,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 443,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 444,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 445,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 664,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 933,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 939,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 941,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 942,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 943,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1340,
+    "kekkei_genkai_id": 1,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 341,
+    "kekkei_genkai_id": 2,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "kekkei_genkai_id": 3,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "kekkei_genkai_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "kekkei_genkai_id": 4,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 193,
+    "kekkei_genkai_id": 5,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 282,
+    "kekkei_genkai_id": 5,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1054,
+    "kekkei_genkai_id": 5,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 336,
+    "kekkei_genkai_id": 6,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1217,
+    "kekkei_genkai_id": 6,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1407,
+    "kekkei_genkai_id": 6,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 356,
+    "kekkei_genkai_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 358,
+    "kekkei_genkai_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 359,
+    "kekkei_genkai_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 540,
+    "kekkei_genkai_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 958,
+    "kekkei_genkai_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 986,
+    "kekkei_genkai_id": 7,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 609,
+    "kekkei_genkai_id": 8,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 939,
+    "kekkei_genkai_id": 8,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 609,
+    "kekkei_genkai_id": 9,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1339,
+    "kekkei_genkai_id": 10,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 521,
+    "kekkei_genkai_id": 11,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 813,
+    "kekkei_genkai_id": 11,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "kekkei_genkai_id": 11,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "kekkei_genkai_id": 11,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 145,
+    "kekkei_genkai_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 947,
+    "kekkei_genkai_id": 12,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 715,
+    "kekkei_genkai_id": 13,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 125,
+    "kekkei_genkai_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 199,
+    "kekkei_genkai_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 598,
+    "kekkei_genkai_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 687,
+    "kekkei_genkai_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 725,
+    "kekkei_genkai_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 736,
+    "kekkei_genkai_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 925,
+    "kekkei_genkai_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 983,
+    "kekkei_genkai_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1134,
+    "kekkei_genkai_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1223,
+    "kekkei_genkai_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "kekkei_genkai_id": 14,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 736,
+    "kekkei_genkai_id": 15,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 925,
+    "kekkei_genkai_id": 16,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "kekkei_genkai_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 548,
+    "kekkei_genkai_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 621,
+    "kekkei_genkai_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 967,
+    "kekkei_genkai_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1100,
+    "kekkei_genkai_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1127,
+    "kekkei_genkai_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1255,
+    "kekkei_genkai_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1344,
+    "kekkei_genkai_id": 17,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 259,
+    "kekkei_genkai_id": 18,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 938,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1288,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1294,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1296,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1301,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1302,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1305,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1309,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1310,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "kekkei_genkai_id": 19,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1289,
+    "kekkei_genkai_id": 20,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 63,
+    "kekkei_genkai_id": 21,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 966,
+    "kekkei_genkai_id": 22,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 757,
+    "kekkei_genkai_id": 23,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 861,
+    "kekkei_genkai_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 942,
+    "kekkei_genkai_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 943,
+    "kekkei_genkai_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 945,
+    "kekkei_genkai_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1211,
+    "kekkei_genkai_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "kekkei_genkai_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "kekkei_genkai_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "kekkei_genkai_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "kekkei_genkai_id": 24,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 997,
+    "kekkei_genkai_id": 25,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "kekkei_genkai_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1015,
+    "kekkei_genkai_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "kekkei_genkai_id": 26,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 950,
+    "kekkei_genkai_id": 27,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 17,
+    "kekkei_genkai_id": 28,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 943,
+    "kekkei_genkai_id": 28,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 376,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 938,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1088,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1288,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1289,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1291,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1292,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1293,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1294,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1295,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1296,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1297,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1301,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1302,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1305,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1306,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1307,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1308,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1309,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1310,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1312,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1313,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1317,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "kekkei_genkai_id": 29,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 637,
+    "kekkei_genkai_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "kekkei_genkai_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1359,
+    "kekkei_genkai_id": 30,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "kekkei_genkai_id": 31,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 688,
+    "kekkei_genkai_id": 31,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 190,
+    "kekkei_genkai_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "kekkei_genkai_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "kekkei_genkai_id": 32,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 406,
+    "kekkei_genkai_id": 33,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 944,
+    "kekkei_genkai_id": 34,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 907,
+    "kekkei_genkai_id": 35,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 162,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 618,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 908,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 928,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1063,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1093,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1229,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1299,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1303,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1373,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1425,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 1426,
+    "kekkei_genkai_id": 36,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 934,
+    "kekkei_genkai_id": 37,
+    "fonte": "Dattebayo"
+  },
+  {
+    "personagem_id": 942,
+    "kekkei_genkai_id": 38,
+    "fonte": "Dattebayo"
+  }
+]
