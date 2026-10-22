@@ -1,0 +1,1159 @@
+{
+  "version": 1,
+  "title": "Exame Shinobi",
+  "editorial": "Perguntas e explicações originais em português; referências oficiais da curadoria do acervo.",
+  "questions": [
+    {
+      "id": "qs-001",
+      "category": "personagens",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 1344,
+      "question": "Qual é o grande sonho de Naruto desde o começo da história?",
+      "options": [
+        "Ser Hokage",
+        "Ser Kazekage",
+        "Liderar a Akatsuki",
+        "Ser um dos Sete Espadachins"
+      ],
+      "answer": 0,
+      "explanation": "Naruto quer ser Hokage e conquistar o reconhecimento da vila.",
+      "source": "https://naruto-official.com/en/news/01_1610"
+    },
+    {
+      "id": "qs-002",
+      "category": "personagens",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 1344,
+      "question": "Quem acolhe Naruto como aluno na Academia?",
+      "options": [
+        "Iruka",
+        "Orochimaru",
+        "Madara",
+        "Sasori"
+      ],
+      "answer": 0,
+      "explanation": "O acolhimento de Iruka é um dos primeiros vínculos de confiança de Naruto.",
+      "source": "https://naruto-official.com/en/news/01_1610"
+    },
+    {
+      "id": "qs-003",
+      "category": "personagens",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 1307,
+      "question": "Quem é o irmão mais velho de Sasuke?",
+      "options": [
+        "Itachi",
+        "Shisui",
+        "Obito",
+        "Neji"
+      ],
+      "answer": 0,
+      "explanation": "Itachi é o irmão que Sasuke admira na infância e depois passa a perseguir.",
+      "source": "https://naruto-official.com/en/news/01_1856"
+    },
+    {
+      "id": "qs-004",
+      "category": "personagens",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 374,
+      "question": "Quem treina Sakura em ninjutsu médico?",
+      "options": [
+        "Tsunade",
+        "Kurenai",
+        "Anko",
+        "Temari"
+      ],
+      "answer": 0,
+      "explanation": "Sakura procura Tsunade para aprender medicina ninja e desenvolver seu controle de chakra.",
+      "source": "https://naruto-official.com/en/news/01_1743"
+    },
+    {
+      "id": "qs-005",
+      "category": "personagens",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 344,
+      "question": "Quem é o mestre que incentiva Rock Lee a nunca abandonar o próprio esforço?",
+      "options": [
+        "Might Guy",
+        "Asuma",
+        "Kakashi",
+        "Minato"
+      ],
+      "answer": 0,
+      "explanation": "Guy orienta Lee e apoia sua dedicação ao treinamento.",
+      "source": "https://naruto-official.com/en/news/01_1673"
+    },
+    {
+      "id": "qs-006",
+      "category": "personagens",
+      "difficulty": "chunin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 1307,
+      "question": "Qual é o nome do pai de Sasuke?",
+      "options": [
+        "Fugaku",
+        "Hizashi",
+        "Sakumo",
+        "Shikaku"
+      ],
+      "answer": 0,
+      "explanation": "Fugaku é o pai de Sasuke e de Itachi.",
+      "source": "https://naruto-official.com/en/news/01_1856"
+    },
+    {
+      "id": "qs-007",
+      "category": "personagens",
+      "difficulty": "chunin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 444,
+      "question": "Quem é o pai de Neji?",
+      "options": [
+        "Hizashi",
+        "Hiashi",
+        "Fugaku",
+        "Sakumo"
+      ],
+      "answer": 0,
+      "explanation": "Neji é filho de Hizashi, da família secundária dos Hyūga.",
+      "source": "https://naruto-official.com/en/news/01_1817"
+    },
+    {
+      "id": "qs-008",
+      "category": "personagens",
+      "difficulty": "chunin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 376,
+      "question": "Quem é o pai de Kakashi?",
+      "options": [
+        "Sakumo Hatake",
+        "Minato Namikaze",
+        "Hiruzen Sarutobi",
+        "Tobirama Senju"
+      ],
+      "answer": 0,
+      "explanation": "Sakumo é o pai cuja história marca a relação de Kakashi com o dever.",
+      "source": "https://naruto-official.com/en/news/01_1903"
+    },
+    {
+      "id": "qs-009",
+      "category": "personagens",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1344,
+      "question": "Quem são os pais de Naruto?",
+      "options": [
+        "Minato e Kushina",
+        "Fugaku e Mikoto",
+        "Asuma e Kurenai",
+        "Hashirama e Mito"
+      ],
+      "answer": 0,
+      "explanation": "Minato Namikaze e Kushina Uzumaki são os pais de Naruto.",
+      "source": "https://naruto-official.com/en/news/01_1610"
+    },
+    {
+      "id": "qs-010",
+      "category": "personagens",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 259,
+      "question": "Qual é o nome da mãe de Gaara?",
+      "options": [
+        "Karura",
+        "Kushina",
+        "Chiyo",
+        "Mikoto"
+      ],
+      "answer": 0,
+      "explanation": "O reencontro de Gaara com seu pai revela a ligação entre Karura e a areia que o protege.",
+      "source": "https://naruto-official.com/en/news/01_1688"
+    },
+    {
+      "id": "qs-011",
+      "category": "personagens",
+      "difficulty": "genin",
+      "era": "boruto",
+      "spoiler": false,
+      "person": 1339,
+      "question": "Quem é o pai de Boruto?",
+      "options": [
+        "Naruto",
+        "Sasuke",
+        "Konohamaru",
+        "Kakashi"
+      ],
+      "answer": 0,
+      "explanation": "Boruto é filho de Naruto; a rotina do pai como Hokage afeta a convivência dos dois.",
+      "source": "https://naruto-official.com/en/news/01_1745"
+    },
+    {
+      "id": "qs-012",
+      "category": "personagens",
+      "difficulty": "genin",
+      "era": "boruto",
+      "spoiler": false,
+      "person": 1306,
+      "question": "Quem são os pais de Sarada?",
+      "options": [
+        "Sasuke e Sakura",
+        "Naruto e Hinata",
+        "Shikamaru e Temari",
+        "Asuma e Kurenai"
+      ],
+      "answer": 0,
+      "explanation": "Sarada é filha de Sasuke Uchiha e Sakura Haruno.",
+      "source": "https://naruto-official.com/en/news/01_1750"
+    },
+    {
+      "id": "qs-013",
+      "category": "personagens",
+      "difficulty": "chunin",
+      "era": "boruto",
+      "spoiler": false,
+      "person": 437,
+      "question": "Quem é a irmã de Boruto?",
+      "options": [
+        "Himawari",
+        "Sarada",
+        "Hanabi",
+        "Ino"
+      ],
+      "answer": 0,
+      "explanation": "Boruto e Himawari são os filhos de Naruto e Hinata.",
+      "source": "https://naruto-official.com/en/news/01_1668"
+    },
+    {
+      "id": "qs-014",
+      "category": "personagens",
+      "difficulty": "chunin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 1310,
+      "question": "Qual Uchiha mantém um laço de amizade especialmente importante com Itachi?",
+      "options": [
+        "Shisui",
+        "Madara",
+        "Fugaku",
+        "Obito"
+      ],
+      "answer": 0,
+      "explanation": "Shisui e Itachi compartilham treinamento, confiança e preocupação com o futuro do clã.",
+      "source": "https://naruto-official.com/en/news/01_1625"
+    },
+    {
+      "id": "qs-015",
+      "category": "personagens",
+      "difficulty": "jonin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 377,
+      "question": "Qual é o apelido pelo qual Sakumo Hatake é conhecido?",
+      "options": [
+        "Presa Branca",
+        "Relâmpago Amarelo",
+        "Sábio dos Seis Caminhos",
+        "Demônio da Névoa"
+      ],
+      "answer": 0,
+      "explanation": "Sakumo é conhecido como a Presa Branca de Konoha.",
+      "source": "https://naruto-official.com/en/news/01_1875"
+    },
+    {
+      "id": "qs-016",
+      "category": "personagens",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1303,
+      "question": "Quem entrega seu Sharingan a Kakashi após ser gravemente ferido?",
+      "options": [
+        "Obito",
+        "Shisui",
+        "Itachi",
+        "Madara"
+      ],
+      "answer": 0,
+      "explanation": "Obito entrega seu olho a Kakashi depois de protegê-lo na missão da ponte.",
+      "source": "https://naruto-official.com/en/news/01_1706"
+    },
+    {
+      "id": "qs-017",
+      "category": "tecnicas",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 515,
+      "question": "Quem ensina o Rasengan a Naruto?",
+      "options": [
+        "Jiraiya",
+        "Orochimaru",
+        "Guy",
+        "Asuma"
+      ],
+      "answer": 0,
+      "explanation": "Jiraiya orienta o treinamento de Naruto e lhe ensina o Rasengan.",
+      "source": "https://naruto-official.com/en/news/01_1643"
+    },
+    {
+      "id": "qs-018",
+      "category": "tecnicas",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 515,
+      "question": "Quem criou o Rasengan?",
+      "options": [
+        "Minato",
+        "Jiraiya",
+        "Kakashi",
+        "Hiruzen"
+      ],
+      "answer": 0,
+      "explanation": "Minato criou a técnica que Jiraiya depois transmite a Naruto.",
+      "source": "https://naruto-official.com/en/news/01_1643"
+    },
+    {
+      "id": "qs-019",
+      "category": "tecnicas",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 878,
+      "question": "O uso de qual recurso caracteriza as técnicas de Shikamaru?",
+      "options": [
+        "Sombras",
+        "Areia",
+        "Marionetes",
+        "Argila"
+      ],
+      "answer": 0,
+      "explanation": "Shikamaru usa as sombras em conjunto com sua leitura estratégica do combate.",
+      "source": "https://naruto-official.com/en/news/01_1910"
+    },
+    {
+      "id": "qs-020",
+      "category": "tecnicas",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 259,
+      "question": "Qual recurso é central no estilo de combate de Gaara?",
+      "options": [
+        "Areia",
+        "Insetos",
+        "Papel",
+        "Tinta"
+      ],
+      "answer": 0,
+      "explanation": "A areia acompanha Gaara em sua defesa e em seu combate.",
+      "source": "https://naruto-official.com/en/news/01_1688"
+    },
+    {
+      "id": "qs-021",
+      "category": "tecnicas",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 739,
+      "question": "Em qual especialidade Rock Lee concentra seu treinamento?",
+      "options": [
+        "Taijutsu",
+        "Genjutsu",
+        "Ninjutsu médico",
+        "Fūinjutsu"
+      ],
+      "answer": 0,
+      "explanation": "As dificuldades com ninjutsu e genjutsu levam Lee a se especializar no combate corporal.",
+      "source": "https://naruto-official.com/en/news/01_1652"
+    },
+    {
+      "id": "qs-022",
+      "category": "tecnicas",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": false,
+      "person": 193,
+      "question": "Qual material Deidara usa para criar suas criaturas explosivas?",
+      "options": [
+        "Argila",
+        "Areia",
+        "Madeira",
+        "Tinta"
+      ],
+      "answer": 0,
+      "explanation": "Deidara combina criaturas de argila, explosões, preparação e mobilidade.",
+      "source": "https://naruto-official.com/en/news/01_1781"
+    },
+    {
+      "id": "qs-023",
+      "category": "tecnicas",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": false,
+      "person": 1042,
+      "question": "Qual é a especialidade de Sasori?",
+      "options": [
+        "Marionetes",
+        "Insetos",
+        "Sombras",
+        "Névoa"
+      ],
+      "answer": 0,
+      "explanation": "Sasori desenvolve seu arsenal a partir da arte das marionetes.",
+      "source": "https://naruto-official.com/en/news/01_1641"
+    },
+    {
+      "id": "qs-024",
+      "category": "tecnicas",
+      "difficulty": "chunin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 374,
+      "question": "Qual habilidade de Sakura favorece seu aprendizado de medicina ninja?",
+      "options": [
+        "Controle de chakra",
+        "Manipulação de areia",
+        "Sharingan",
+        "Invocação de corvos"
+      ],
+      "answer": 0,
+      "explanation": "O controle preciso de chakra ajuda Sakura no ninjutsu médico e em seus golpes.",
+      "source": "https://naruto-official.com/en/news/01_1743"
+    },
+    {
+      "id": "qs-025",
+      "category": "tecnicas",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1310,
+      "question": "Qual técnica ligada a Shisui permite que Itachi rompa o controle da Reanimação?",
+      "options": [
+        "Kotoamatsukami",
+        "Tsukuyomi Infinito",
+        "Chidori",
+        "Rasenshuriken"
+      ],
+      "answer": 0,
+      "explanation": "O Kotoamatsukami de Shisui permite que Itachi recupere sua autonomia.",
+      "source": "https://naruto-official.com/en/news/01_1625"
+    },
+    {
+      "id": "qs-026",
+      "category": "tecnicas",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1066,
+      "question": "A criação dos Clones das Sombras é atribuída a qual Hokage?",
+      "options": [
+        "Tobirama",
+        "Hashirama",
+        "Hiruzen",
+        "Minato"
+      ],
+      "answer": 0,
+      "explanation": "A contribuição técnica de Tobirama inclui os Clones das Sombras.",
+      "source": "https://naruto-official.com/en/news/01_1694"
+    },
+    {
+      "id": "qs-027",
+      "category": "tecnicas",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1066,
+      "question": "Qual Hokage criou a técnica da Reanimação, o Edo Tensei?",
+      "options": [
+        "Tobirama",
+        "Hashirama",
+        "Tsunade",
+        "Kakashi"
+      ],
+      "answer": 0,
+      "explanation": "A Reanimação faz parte das técnicas desenvolvidas por Tobirama.",
+      "source": "https://naruto-official.com/en/news/01_1694"
+    },
+    {
+      "id": "qs-028",
+      "category": "tecnicas",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1066,
+      "question": "A técnica Deus Voador do Trovão foi criada por qual Hokage?",
+      "options": [
+        "Tobirama",
+        "Minato",
+        "Hiruzen",
+        "Naruto"
+      ],
+      "answer": 0,
+      "explanation": "Tobirama criou a técnica; isso é diferente de perguntar quem a tornou célebre depois.",
+      "source": "https://naruto-official.com/en/news/01_1694"
+    },
+    {
+      "id": "qs-029",
+      "category": "tecnicas",
+      "difficulty": "chunin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 344,
+      "question": "Qual técnica corporal Guy e Lee usam para ultrapassar limites físicos?",
+      "options": [
+        "Portões Internos",
+        "Tsukuyomi Infinito",
+        "Edo Tensei",
+        "Kotoamatsukami"
+      ],
+      "answer": 0,
+      "explanation": "A abertura dos Portões Internos está ligada ao estilo de combate e ao treinamento de Guy e Lee.",
+      "source": "https://naruto-official.com/en/news/01_1673"
+    },
+    {
+      "id": "qs-030",
+      "category": "tecnicas",
+      "difficulty": "chunin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 515,
+      "question": "Com qual grupo de animais Jiraiya mantém vínculos de invocação?",
+      "options": [
+        "Sapos",
+        "Cobras",
+        "Lesmas",
+        "Cães"
+      ],
+      "answer": 0,
+      "explanation": "O vínculo de Jiraiya com os sapos faz parte de sua trajetória e do treinamento de Naruto.",
+      "source": "https://naruto-official.com/en/news/01_1643"
+    },
+    {
+      "id": "qs-031",
+      "category": "tecnicas",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1042,
+      "question": "Que tipo de marionete vai além dos bonecos comuns no arsenal de Sasori?",
+      "options": [
+        "Marionetes humanas",
+        "Clones de sombra",
+        "Animais de tinta",
+        "Corvos ilusórios"
+      ],
+      "answer": 0,
+      "explanation": "Sasori passa das marionetes comuns às marionetes humanas em sua busca por permanência.",
+      "source": "https://naruto-official.com/en/news/01_1641"
+    },
+    {
+      "id": "qs-032",
+      "category": "tecnicas",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 259,
+      "question": "Segundo a revelação do pai de Gaara, o que a areia que o protege expressa?",
+      "options": [
+        "O amor de Karura",
+        "Uma ordem de Itachi",
+        "Um pacto com Orochimaru",
+        "Uma técnica de Kakashi"
+      ],
+      "answer": 0,
+      "explanation": "A revelação reconecta a proteção da areia ao afeto de Karura por seu filho.",
+      "source": "https://naruto-official.com/en/news/01_1688"
+    },
+    {
+      "id": "qs-033",
+      "category": "mundo",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 1344,
+      "question": "Em qual vila Naruto cresce?",
+      "options": [
+        "Konoha",
+        "Suna",
+        "Kiri",
+        "Iwa"
+      ],
+      "answer": 0,
+      "explanation": "A Vila da Folha, Konoha, é o centro da infância de Naruto.",
+      "source": "https://naruto-official.com/en/news/01_1610"
+    },
+    {
+      "id": "qs-034",
+      "category": "mundo",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 259,
+      "question": "Gaara é originário de qual vila?",
+      "options": [
+        "Suna",
+        "Konoha",
+        "Kumo",
+        "Kiri"
+      ],
+      "answer": 0,
+      "explanation": "Gaara cresce na Vila da Areia, Suna.",
+      "source": "https://naruto-official.com/en/news/01_1688"
+    },
+    {
+      "id": "qs-035",
+      "category": "mundo",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 376,
+      "question": "Qual é o número da equipe formada por Naruto, Sasuke e Sakura?",
+      "options": [
+        "Time 7",
+        "Time 8",
+        "Time 10",
+        "Time 3"
+      ],
+      "answer": 0,
+      "explanation": "Os três integram o Time 7 sob a orientação de Kakashi.",
+      "source": "https://naruto-official.com/en/news/01_1903"
+    },
+    {
+      "id": "qs-036",
+      "category": "mundo",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 878,
+      "question": "Quem orienta a equipe de Shikamaru, Ino e Chōji?",
+      "options": [
+        "Asuma",
+        "Guy",
+        "Kurenai",
+        "Kakashi"
+      ],
+      "answer": 0,
+      "explanation": "Shikamaru integra o time de Asuma com Ino e Chōji.",
+      "source": "https://naruto-official.com/en/news/01_1910"
+    },
+    {
+      "id": "qs-037",
+      "category": "mundo",
+      "difficulty": "chunin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 739,
+      "question": "Quem são os companheiros de equipe de Rock Lee sob a liderança de Guy?",
+      "options": [
+        "Neji e Tenten",
+        "Ino e Chōji",
+        "Hinata e Kiba",
+        "Naruto e Sakura"
+      ],
+      "answer": 0,
+      "explanation": "Lee treina e atua ao lado de Neji e Tenten no time de Guy.",
+      "source": "https://naruto-official.com/en/news/01_1652"
+    },
+    {
+      "id": "qs-038",
+      "category": "mundo",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 865,
+      "question": "Quem são os alunos do time de Minato?",
+      "options": [
+        "Kakashi, Obito e Rin",
+        "Naruto, Sasuke e Sakura",
+        "Ino, Shikamaru e Chōji",
+        "Lee, Neji e Tenten"
+      ],
+      "answer": 0,
+      "explanation": "Minato conduz o time de Kakashi, Obito e Rin antes de assumir a liderança de Konoha.",
+      "source": "https://naruto-official.com/en/news/01_1681"
+    },
+    {
+      "id": "qs-039",
+      "category": "mundo",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1299,
+      "question": "A aproximação de quais clãs permite a fundação de Konoha?",
+      "options": [
+        "Senju e Uchiha",
+        "Hyūga e Nara",
+        "Akimichi e Yamanaka",
+        "Uzumaki e Aburame"
+      ],
+      "answer": 0,
+      "explanation": "A aliança entre Senju e Uchiha está na origem da Vila da Folha.",
+      "source": "https://naruto-official.com/en/news/01_1663"
+    },
+    {
+      "id": "qs-040",
+      "category": "mundo",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1063,
+      "question": "Quem é o Primeiro Hokage?",
+      "options": [
+        "Hashirama",
+        "Tobirama",
+        "Hiruzen",
+        "Minato"
+      ],
+      "answer": 0,
+      "explanation": "Hashirama assume como Primeiro Hokage depois da fundação de Konoha.",
+      "source": "https://naruto-official.com/en/news/01_1627"
+    },
+    {
+      "id": "qs-041",
+      "category": "mundo",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1066,
+      "question": "Quem é o Segundo Hokage?",
+      "options": [
+        "Tobirama",
+        "Hashirama",
+        "Hiruzen",
+        "Kakashi"
+      ],
+      "answer": 0,
+      "explanation": "Tobirama sucede Hashirama e participa da estruturação de Konoha.",
+      "source": "https://naruto-official.com/en/news/01_1694"
+    },
+    {
+      "id": "qs-042",
+      "category": "mundo",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 376,
+      "question": "Quem assume como Sexto Hokage?",
+      "options": [
+        "Kakashi",
+        "Tsunade",
+        "Minato",
+        "Hiruzen"
+      ],
+      "answer": 0,
+      "explanation": "Kakashi lidera Konoha no período de reconstrução após a guerra.",
+      "source": "https://naruto-official.com/en/news/01_1904"
+    },
+    {
+      "id": "qs-043",
+      "category": "mundo",
+      "difficulty": "genin",
+      "era": "boruto",
+      "spoiler": false,
+      "person": 1339,
+      "question": "Na época de Boruto, qual é o número de Naruto na sucessão dos Hokage?",
+      "options": [
+        "Sétimo",
+        "Quinto",
+        "Sexto",
+        "Quarto"
+      ],
+      "answer": 0,
+      "explanation": "Naruto é o Sétimo Hokage na fase apresentada no começo de Boruto.",
+      "source": "https://naruto-official.com/en/news/01_1745"
+    },
+    {
+      "id": "qs-044",
+      "category": "mundo",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": false,
+      "person": 259,
+      "question": "Qual título de liderança Gaara assume em Suna?",
+      "options": [
+        "Kazekage",
+        "Hokage",
+        "Raikage",
+        "Mizukage"
+      ],
+      "answer": 0,
+      "explanation": "Gaara passa a proteger sua vila como Kazekage.",
+      "source": "https://naruto-official.com/en/news/01_1688"
+    },
+    {
+      "id": "qs-045",
+      "category": "mundo",
+      "difficulty": "genin",
+      "era": "boruto",
+      "spoiler": false,
+      "person": 1339,
+      "question": "Quem integra o novo Time 7 ao lado de Boruto e Sarada?",
+      "options": [
+        "Mitsuki",
+        "Shikadai",
+        "Inojin",
+        "Metal Lee"
+      ],
+      "answer": 0,
+      "explanation": "Boruto, Sarada e Mitsuki formam o novo Time 7.",
+      "source": "https://naruto-official.com/en/news/01_1745"
+    },
+    {
+      "id": "qs-046",
+      "category": "mundo",
+      "difficulty": "chunin",
+      "era": "boruto",
+      "spoiler": false,
+      "person": 1339,
+      "question": "Quem orienta o novo Time 7 no início de Boruto?",
+      "options": [
+        "Konohamaru",
+        "Kakashi",
+        "Asuma",
+        "Guy"
+      ],
+      "answer": 0,
+      "explanation": "Konohamaru orienta a equipe da nova geração.",
+      "source": "https://naruto-official.com/en/news/01_1745"
+    },
+    {
+      "id": "qs-047",
+      "category": "mundo",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1066,
+      "question": "Quem Tobirama indica como sucessor antes de servir de distração para seu time?",
+      "options": [
+        "Hiruzen",
+        "Minato",
+        "Hashirama",
+        "Danzō"
+      ],
+      "answer": 0,
+      "explanation": "Tobirama confia a continuidade da vila a Hiruzen.",
+      "source": "https://naruto-official.com/en/news/01_1694"
+    },
+    {
+      "id": "qs-048",
+      "category": "mundo",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1299,
+      "question": "Com qual futuro Hokage Madara estabelece amizade antes da fundação da vila?",
+      "options": [
+        "Hashirama",
+        "Tobirama",
+        "Hiruzen",
+        "Minato"
+      ],
+      "answer": 0,
+      "explanation": "Madara e Hashirama imaginam um futuro diferente ainda jovens, antes da fundação de Konoha.",
+      "source": "https://naruto-official.com/en/news/01_1663"
+    },
+    {
+      "id": "qs-049",
+      "category": "historia",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 1307,
+      "question": "Quem oferece a Sasuke uma promessa de poder que o leva a deixar Konoha?",
+      "options": [
+        "Orochimaru",
+        "Jiraiya",
+        "Asuma",
+        "Iruka"
+      ],
+      "answer": 0,
+      "explanation": "A busca por poder aproxima Sasuke de Orochimaru, apesar dos vínculos com o Time 7.",
+      "source": "https://naruto-official.com/en/news/01_1856"
+    },
+    {
+      "id": "qs-050",
+      "category": "historia",
+      "difficulty": "genin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 374,
+      "question": "Qual amiga ajuda Sakura a ganhar confiança na infância?",
+      "options": [
+        "Ino",
+        "Tenten",
+        "Temari",
+        "Rin"
+      ],
+      "answer": 0,
+      "explanation": "A amizade de Ino ajuda Sakura a enfrentar suas inseguranças.",
+      "source": "https://naruto-official.com/en/news/01_1743"
+    },
+    {
+      "id": "qs-051",
+      "category": "historia",
+      "difficulty": "chunin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 739,
+      "question": "Contra quem Lee demonstra sua velocidade e seus Portões no Exame Chūnin?",
+      "options": [
+        "Gaara",
+        "Neji",
+        "Sasuke",
+        "Kiba"
+      ],
+      "answer": 0,
+      "explanation": "O confronto de Lee com Gaara revela o resultado de seu treinamento intenso.",
+      "source": "https://naruto-official.com/en/news/01_1652"
+    },
+    {
+      "id": "qs-052",
+      "category": "historia",
+      "difficulty": "chunin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 444,
+      "question": "Qual personagem desafia a crença de Neji de que ninguém pode mudar o próprio destino?",
+      "options": [
+        "Naruto",
+        "Sasuke",
+        "Itachi",
+        "Orochimaru"
+      ],
+      "answer": 0,
+      "explanation": "O duelo com Naruto coloca à prova a visão de Neji sobre destino e liberdade.",
+      "source": "https://naruto-official.com/en/news/01_1817"
+    },
+    {
+      "id": "qs-053",
+      "category": "historia",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 374,
+      "question": "Quem luta ao lado de Sakura no confronto contra Sasori?",
+      "options": [
+        "Chiyo",
+        "Tsunade",
+        "Temari",
+        "Hinata"
+      ],
+      "answer": 0,
+      "explanation": "A parceria de Sakura e Chiyo evidencia a evolução da formação de Sakura.",
+      "source": "https://naruto-official.com/en/news/01_1743"
+    },
+    {
+      "id": "qs-054",
+      "category": "historia",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1344,
+      "question": "Depois de enfrentar qual adversário Naruto é reconhecido como protetor de Konoha?",
+      "options": [
+        "Pain",
+        "Zabuza",
+        "Deidara",
+        "Sasori"
+      ],
+      "answer": 0,
+      "explanation": "Depois do confronto com Pain, o reconhecimento de Naruto pela vila muda profundamente.",
+      "source": "https://naruto-official.com/en/news/01_1610"
+    },
+    {
+      "id": "qs-055",
+      "category": "historia",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1344,
+      "question": "Quem ajuda Naruto a enfrentar seu conflito com a Nove-Caudas antes da guerra?",
+      "options": [
+        "Killer B",
+        "Sasori",
+        "Danzō",
+        "Zabuza"
+      ],
+      "answer": 0,
+      "explanation": "Killer B participa da preparação de Naruto para lidar com o poder da Nove-Caudas.",
+      "source": "https://naruto-official.com/en/news/01_1610"
+    },
+    {
+      "id": "qs-056",
+      "category": "historia",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1344,
+      "question": "Qual é o nome da Nove-Caudas com quem Naruto constrói uma parceria?",
+      "options": [
+        "Kurama",
+        "Shukaku",
+        "Gyūki",
+        "Isobu"
+      ],
+      "answer": 0,
+      "explanation": "O vínculo de Naruto com Kurama evolui de conflito para parceria.",
+      "source": "https://naruto-official.com/en/news/01_1610"
+    },
+    {
+      "id": "qs-057",
+      "category": "historia",
+      "difficulty": "chunin",
+      "era": "classico",
+      "spoiler": false,
+      "person": 259,
+      "question": "Qual besta com cauda está selada em Gaara na infância?",
+      "options": [
+        "Shukaku",
+        "Kurama",
+        "Gyūki",
+        "Matatabi"
+      ],
+      "answer": 0,
+      "explanation": "Gaara cresce como portador de Shukaku e enfrenta o medo dos moradores de Suna.",
+      "source": "https://naruto-official.com/en/news/01_1688"
+    },
+    {
+      "id": "qs-058",
+      "category": "historia",
+      "difficulty": "chunin",
+      "era": "shippuden",
+      "spoiler": false,
+      "person": 515,
+      "question": "Qual organização Jiraiya investiga antes de seu confronto com Pain?",
+      "options": [
+        "Akatsuki",
+        "ANBU",
+        "Raiz",
+        "Aliança Shinobi"
+      ],
+      "answer": 0,
+      "explanation": "A investigação da Akatsuki leva Jiraiya ao confronto com Pain.",
+      "source": "https://naruto-official.com/en/news/01_1643"
+    },
+    {
+      "id": "qs-059",
+      "category": "historia",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1293,
+      "question": "Quem se une a Sasuke para interromper a Reanimação durante a guerra?",
+      "options": [
+        "Itachi",
+        "Shisui",
+        "Deidara",
+        "Sakumo"
+      ],
+      "answer": 0,
+      "explanation": "Depois de recuperar a autonomia, Itachi se une a Sasuke para interromper a técnica.",
+      "source": "https://naruto-official.com/en/news/01_1814"
+    },
+    {
+      "id": "qs-060",
+      "category": "historia",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 1299,
+      "question": "Qual é o nome do plano de Madara para impor um mundo de sonhos?",
+      "options": [
+        "Tsukuyomi Infinito",
+        "Plano Olho de Corvo",
+        "Operação Ponte Tenchi",
+        "Exame Chūnin"
+      ],
+      "answer": 0,
+      "explanation": "Madara busca realizar o Tsukuyomi Infinito como uma paz imposta por meio da ilusão.",
+      "source": "https://naruto-official.com/en/news/01_1663"
+    },
+    {
+      "id": "qs-061",
+      "category": "historia",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 344,
+      "question": "Diante de qual adversário Guy leva os Portões Internos ao limite na guerra?",
+      "options": [
+        "Madara",
+        "Orochimaru",
+        "Sasori",
+        "Kisame"
+      ],
+      "answer": 0,
+      "explanation": "Guy recorre aos Oito Portões diante de Madara para proteger seus aliados.",
+      "source": "https://naruto-official.com/en/news/01_1673"
+    },
+    {
+      "id": "qs-062",
+      "category": "historia",
+      "difficulty": "jonin",
+      "era": "shippuden",
+      "spoiler": true,
+      "person": 377,
+      "question": "Após qual confronto Kakashi consegue conversar com Sakumo sobre o passado?",
+      "options": [
+        "A batalha contra Pain",
+        "A luta de Lee contra Gaara",
+        "O duelo de Sasuke com Deidara",
+        "O Exame de Naruto na Academia"
+      ],
+      "answer": 0,
+      "explanation": "O reencontro acontece depois da batalha contra Pain e permite um entendimento entre pai e filho.",
+      "source": "https://naruto-official.com/en/news/01_1875"
+    },
+    {
+      "id": "qs-063",
+      "category": "historia",
+      "difficulty": "chunin",
+      "era": "boruto",
+      "spoiler": false,
+      "person": 1306,
+      "question": "Qual líder inspira o objetivo de liderança de Sarada?",
+      "options": [
+        "Naruto",
+        "Orochimaru",
+        "Danzō",
+        "Sasori"
+      ],
+      "answer": 0,
+      "explanation": "A admiração de Sarada por Naruto ajuda a dar direção a seu próprio sonho.",
+      "source": "https://naruto-official.com/en/news/01_1750"
+    },
+    {
+      "id": "qs-064",
+      "category": "historia",
+      "difficulty": "jonin",
+      "era": "boruto",
+      "spoiler": false,
+      "person": 1339,
+      "question": "Quem é o mestre de Boruto que foi rival de Naruto no antigo Time 7?",
+      "options": [
+        "Sasuke",
+        "Sakura",
+        "Kakashi",
+        "Sai"
+      ],
+      "answer": 0,
+      "explanation": "Sasuke, antigo companheiro e rival de Naruto no Time 7, passa a orientar Boruto na nova geração.",
+      "source": "https://naruto-official.com/en/news/01_1745"
+    }
+  ]
+}

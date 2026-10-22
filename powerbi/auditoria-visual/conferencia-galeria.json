@@ -1,0 +1,8 @@
+{
+  "allTabsWork": true,
+  "priorityFilterWorks": true,
+  "hostAndSizeFiltersWork": true,
+  "captures": 59,
+  "findings": 10,
+  "errors": []
+}

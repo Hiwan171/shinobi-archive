@@ -1,12 +1,12 @@
 # Shinobi Archive — Naruto no Power BI
 
-**Versão atual: edição 09 em HTML Content Regular 2.0**, com HTML, CSS, SVG e JavaScript. Cinco seções de navegação, efeitos, busca, gráficos, fichas, comparador e dados de Naruto, Shippuden e Boruto, renderizados em um único visual de tela inteira. Dados fornecidos pelo modelo semântico por DAX. O relatório nativo anterior permanece disponível como referência.
+**Interface atual em HTML Content Regular 2.0**, baseada na edição 09, com HTML, CSS, SVG e JavaScript. Seis seções de navegação, incluindo o Exame Shinobi, com efeitos, busca, gráficos, fichas, comparador e dados de Naruto, Shippuden e Boruto em um único visual de tela inteira. Dados fornecidos pelo modelo semântico por DAX. O relatório nativo anterior permanece disponível como referência.
 
-**Abra [ShinobiArchiveHTML.pbip](powerbi/ShinobiArchiveHTML/ShinobiArchiveHTML.pbip) no Power BI Desktop.** [Guia da interface HTML](powerbi/ShinobiArchiveHTML/LEIA-ME.md) · [Pacote do projeto](https://github.com/Hiwan171/shinobi-archive/releases/download/v9.0.0/ShinobiArchive_HTML_Content.zip) · [Prévia no navegador](powerbi/html-interface/preview.html).
+**Abra [ShinobiArchiveHTML.pbip](powerbi/ShinobiArchiveHTML/ShinobiArchiveHTML.pbip) no Power BI Desktop.** [Guia da interface HTML](powerbi/ShinobiArchiveHTML/LEIA-ME.md) · [Pacote histórico da edição 09](https://github.com/Hiwan171/shinobi-archive/releases/download/v9.0.0/ShinobiArchive_HTML_Content.zip) · [Prévia no navegador](powerbi/html-interface/preview.html).
 
 O repositório inclui os fontes, dados, imagens, projetos editáveis e resultados de validação. Os pacotes ZIP completos e backups anteriores estão nos arquivos da [Release v9.0.0](https://github.com/Hiwan171/shinobi-archive/releases/tag/v9.0.0). Caches do Desktop, dependências instaladas, sessões MCP e logs temporários permanecem locais. O projeto HTML usa snapshots incorporados: após clonar, abra o PBIP e atualize o modelo conforme o guia, sem configurar caminhos de CSV ou credenciais de API.
 
-**Arquivo Ninja — edição 06:** personagem inteiro no palco central e lateral com capa, símbolo da vila, perfil ilustrado, marcos clicáveis da história e conexões familiares. O arsenal apresenta categorias, sequências e descrições com créditos; o ranking abre os votos por região. O acervo mantém 105 artes transparentes oficiais para 75 personagens, sprites de jogos para 11 personagens e 15 sequências específicas para 9 deles. A edição atual incorpora sete PNGs principais para reduzir a dependência do site das artes. Permanecem as 23 biografias em português com 79 capítulos e o controle de spoilers.
+**Arquivo Ninja — edição 06:** personagem inteiro no palco central e lateral com capa, símbolo da vila, perfil ilustrado, marcos clicáveis da história e conexões familiares. O arsenal apresenta categorias, sequências e descrições com créditos; o ranking abre os votos por região. O acervo mantém 105 artes transparentes oficiais para 75 personagens, sprites de jogos para 11 personagens e 15 sequências específicas para 9 deles. A edição atual incorpora oito PNGs principais para reduzir a dependência do site das artes. Permanecem as 23 biografias em português com 79 capítulos e o controle de spoilers.
 
 O [projeto nativo anterior](powerbi/ShinobiArchive/ShinobiArchive.pbip) e seu [guia](powerbi/ShinobiArchive/LEIA-ME.md) continuam disponíveis.
 
@@ -16,7 +16,13 @@ O [projeto nativo anterior](powerbi/ShinobiArchive/ShinobiArchive.pbip) e seu [g
 
 **Popularidade — edição 09:** pódio ilustrado, ranking pesquisável dos 488 participantes, oito regiões, análise da participação de votos, comparação entre personagens com escala percentual comum, posições regionais do Top 5 e panorama do volume de votos. Empates e zeros são preservados. O Global contém as regiões, e as diferenças de posição são geográficas, sem inferência de evolução no tempo. Artes de Minato e Sakura adicionadas à reserva local, com bytes originais conferidos.
 
+**Exame Shinobi:** quiz com 64 perguntas editoriais, quatro temas, três dificuldades e três fases. Treino sem tempo e Exame com cronômetro e três vidas; missões de 5, 10 ou 15 questões, dicas 50/50, bônus por sequência e tempo, seis conquistas e revisão das respostas com explicações e referências. Recordes e histórico pertencem à sessão atual. A composição compacta e a tipografia original foram mantidas. Fontes do jogo em `powerbi/html-interface/quiz.*` e `data/editorial/quiz_shinobi.json`; [guia do quiz](powerbi/ShinobiArchiveHTML/LEIA-ME.md).
+
+**Auditoria visual das seis abas:** [relatório completo](powerbi/auditoria-visual/AUDITORIA_VISUAL.md), [galeria local com filtros](powerbi/auditoria-visual/index.html) e 59 capturas, sendo 40 no HTML e 19 no Power BI Desktop. Foram registrados dez achados com prioridades e recomendações; os ajustes ainda não foram aplicados. Para obter o quiz e a aba de episódios atuais, use os arquivos deste repositório; o ZIP da Release v9.0.0 preserva a edição anterior.
+
 ## Resultado da coleta
+
+**Linhas da História — aba de episódios repaginada:** abertura ilustrada por série, índice dos 80 arcos, mapa interativo dos 1.013 episódios, composição por classificação, busca por título ou número exato, filtros combinados, paginação e detalhes com navegação entre episódios. Os indicadores e percentuais usam a série inteira; os filtros atualizam a lista e os destaques do mapa. Os títulos originais e as classificações comunitárias foram preservados. A atualização está incorporada ao PBIP e à cópia de entrega. Passaram 168 verificações no navegador, entre 600 e 1600 pixels. A composição também foi conferida no Power BI Desktop durante a auditoria visual, que documenta a necessidade de reduzir a rolagem da aba. Veja o [guia da aba](powerbi/ShinobiArchiveHTML/LEIA-ME.md).
 
 | Material | Quantidade |
 |---|---:|

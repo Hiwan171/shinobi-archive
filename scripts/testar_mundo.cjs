@@ -7,7 +7,7 @@ const input=path.resolve(process.argv[2]||'powerbi/html-interface/preview.html')
  const shot=async name=>{await page.waitForTimeout(250);await page.screenshot({path:path.join(session.child,name+'.png'),animations:'disabled'})};
  try{
  await page.goto('file:///'+input.replace(/\\/g,'/'));await page.waitForFunction(()=>shinobiArchive?.version==='9.0.0');
- check('Menu tem cinco abas e remove Jutsus',await page.locator('#navigation button').count()===5&&await page.locator('#navigation [data-page="jutsus"]').count()===0);
+ check('Menu tem seis abas, inclui o quiz e remove Jutsus',await page.locator('#navigation button').count()===6&&await page.locator('#navigation [data-page="quiz"]').count()===1&&await page.locator('#navigation [data-page="jutsus"]').count()===0);
  await page.locator('[data-page="grupos"]').click();
  check('Mundo Shinobi ocupa a segunda aba',await page.locator('#page-title').innerText().then(t=>t.includes('MUNDO SHINOBI')));
  check('Mapa incorpora 36 geometrias sem dependência remota',await page.locator('#world-map .atlas-land').count()===36);

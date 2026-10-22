@@ -39,6 +39,7 @@
     compare:'<path d="m3 5 7 7-7 7M21 5l-7 7 7 7M12 3v3M12 18v3"/>',
     popular:'<path d="M8 3h8v6c0 4-2 5-4 5s-4-1-4-5V3zM8 5H4v2c0 3 2 4 4 4M16 5h4v2c0 3-2 4-4 4M12 14v5M8 21h8M9 19h6"/>',
     episodes:'<rect x="3" y="4" width="18" height="16" rx="2"/><path d="m10 8 6 4-6 4V8zM7 4v16"/>',
+    quiz:'<path d="M9 4h6l2 4 4 1-2 6-7 6-7-6-2-6 4-1 2-4z"/><path d="M10 10a2 2 0 1 1 3 2l-1 1M12 16h.01"/>',
     search:'<circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/>',
     leaf:'<path d="M20 3c-6 0-15 1-15 9a6 6 0 0 0 6 6c8 0 9-9 9-15zM3 21l11-11M9 15v-5M9 15h5"/>',
     clan:'<circle cx="12" cy="8" r="3"/><path d="M6 21v-3a6 6 0 0 1 12 0v3M3 9h2M19 9h2M12 1v2"/>',
@@ -52,7 +53,8 @@
     ['grupos','Mundo Shinobi','Territórios, legados e os laços que conectam o mundo ninja.','globe'],
     ['comparador','Frente a Frente','Cada escolha abre uma resposta. Explore os recursos de cada lado.','compare'],
     ['popularidade','A Voz dos Fãs','O mundo votou. Conheça as escolhas de cada região.','popular'],
-    ['episodios','Linhas da História','De um sonho na Vila da Folha a uma nova geração.','episodes']
+    ['episodios','Linhas da História','De um sonho na Vila da Folha a uma nova geração.','episodes'],
+    ['quiz','Exame Shinobi','Seu conhecimento também é uma técnica. Coloque-o à prova.','quiz']
   ];
   const state = {page:'arquivo', selected:1344, phase:'Part II', query:'', village:'', catalogLimit:60,
     origin:'', groupMode:'clas', jutsuQuery:'', jutsuPage:0, selectedJutsu:null,
@@ -90,7 +92,7 @@
     $('#breadcrumb').textContent = 'ACERVO SHINOBI / ' + String(pages.indexOf(definition)+1).padStart(2,'0');
     $('#page-title').innerHTML = esc(definition[1].toUpperCase())+'<span>.</span>';
     $('#page-subtitle').textContent = definition[2];
-    ({arquivo:renderArchive,grupos:renderWorld,comparador:renderDuel,popularidade:renderFans,episodios:renderEpisodes})[state.page]();
+    ({arquivo:renderArchive,grupos:renderWorld,comparador:renderDuel,popularidade:renderFans,episodios:renderEpisodes,quiz:renderQuiz})[state.page]();
     $('#screen').style.animation='none'; void $('#screen').offsetWidth; $('#screen').style.animation='';
   }
   function renderArchiveLegacy() {
@@ -154,7 +156,7 @@
     const linked=byId.get(c?.person), image=portrait(linked) || (c?.id?'https://narutop99.naruto-official.com/blobs/char/thumbnail/'+c.id+'.png':'');
     return image?`<img class="${cls}" src="${url(image)}" alt="${esc(c?.name||'Personagem')}" ${lazy?'loading="lazy"':''} referrerpolicy="no-referrer" onerror="this.style.visibility='hidden'">`:'<div class="small-portrait"></div>';
   }
-  function renderEpisodes() {
+  function renderEpisodesLegacy() {
     const seriesEpisodes=data.episodes.filter(e=>e.series===state.series);
     const seriesArcs=data.arcs.filter(a=>a.series===state.series).sort((a,b)=>a.first-b.first);
     let episodes=seriesEpisodes.filter(e=>(!state.arc||e.arc===state.arc)&&(!state.episodeQuery||fold(e.title+' '+e.number).includes(fold(state.episodeQuery)))).sort((a,b)=>a.number-b.number);
@@ -217,7 +219,9 @@
   });
   root.addEventListener('keydown',event=>{if(event.key==='Escape')$('#modal-root').innerHTML='';});
   /* __ARQUIVO_NINJA_MODULE__ */
+  /* __EPISODIOS_MODULE__ */
+  /* __QUIZ_MODULE__ */
   // Somente o próprio documento do visual: não acessa nem altera a página hospedeira.
-  window.shinobiArchive = {state, data, render, version:'9.0.0'};
+  window.shinobiArchive = {state, data, render, quiz:quizSession, version:'9.0.0'};
   render();
 }());

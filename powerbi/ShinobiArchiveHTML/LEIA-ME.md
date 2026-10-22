@@ -1,6 +1,6 @@
 # Shinobi Archive — HTML Content
 
-Interface completa renderizada pelo **HTML Content Regular 2.0**, de Daniel Marsh-Patrick. Há um visual em tela inteira e cinco seções de navegação dentro dele. Fundos, controles, cartões, gráficos, retratos, transições e sobreposições são HTML, CSS, SVG e JavaScript.
+Interface completa renderizada pelo **HTML Content Regular 2.0**, de Daniel Marsh-Patrick. Há um visual em tela inteira e seis seções de navegação dentro dele. Fundos, controles, cartões, gráficos, retratos, transições e sobreposições são HTML, CSS, SVG e JavaScript.
 
 ## Abrir e usar
 
@@ -8,11 +8,11 @@ Interface completa renderizada pelo **HTML Content Regular 2.0**, de Daniel Mars
 2. Em uma cópia sem cache, use **Página Inicial → Atualizar**. Os snapshots de dados e o código da interface estão incorporados nas consultas do modelo. Não há caminhos de CSV nem credenciais de API para configurar.
 3. Use **Ajustar à página**, no canto inferior direito do Desktop, para enquadrar o painel completo. Em janelas menores, a ficha também permite rolagem interna.
 4. Navegue pelos ícones da lateral com clique simples, inclusive no modo de edição do Desktop.
-5. Os sprites e as imagens do catálogo usam URLs públicas e precisam de internet. Sete artes principais estão incorporadas como PNGs originais, com fonte e créditos preservados, incluindo os três primeiros do pódio global. Os gráficos e os dados funcionam com os snapshots incorporados.
+5. Os sprites e as imagens do catálogo usam URLs públicas e precisam de internet. Oito artes principais estão incorporadas como PNGs originais, com fonte e créditos preservados, incluindo os três primeiros do pódio global. Os gráficos e os dados funcionam com os snapshots incorporados.
 
 O pacote oficial do HTML Content Regular está incluído em `ShinobiArchiveHTML.Report/CustomVisuals/`. Essa edição executa o JavaScript da interface. A edição Secure aplica sanitização e não executa esse código; mantenha o visual Regular utilizado no projeto.
 
-## As cinco seções
+## As seis seções
 
 | Seção | Interações |
 |---|---|
@@ -20,9 +20,51 @@ O pacote oficial do HTML Content Regular está incluído em `ShinobiArchiveHTML.
 | Mundo Shinobi | Atlas vetorial incorporado com zoom, arraste, cinco grandes vilas, 39 localidades e painel de clãs, equipes e shinobi; os membros abrem seus dossiês |
 | Frente a Frente | Dois ninjas, artes originais, seleção da natureza por lance, roda elemental, matriz de respostas, recursos e condições, arsenais cruzados, linhagens, equipes, busca e confrontos sugeridos |
 | A Voz dos Fãs | Pódio ilustrado, oito regiões, ranking pesquisável, participação dos votos, comparação entre personagens, posições regionais, mapa do Top 5 e panorama dos votos |
-| Linhas da História | Série, arco, busca por título/número, composição por classificação e guia paginado de episódios |
+| Linhas da História | Abertura por série, índice de arcos, mapa interativo, filtros combinados, busca por título/número exato, composição por classificação e detalhes dos episódios |
+| Exame Shinobi | Quiz com 64 perguntas, Treino e Exame, filtros, vidas, tempo, dicas, pontuação, conquistas, recordes da sessão e revisão com referências |
 
 “Fontes e notas”, no rodapé, abre os créditos e as regras de interpretação. A tecla Escape fecha a sobreposição.
+
+## Exame Shinobi — quiz
+
+O quiz mantém o canvas compacto e a tipografia original. O banco editorial contém **64 perguntas**, quatro temas (personagens, jutsus e habilidades, vilas e equipes, história), três dificuldades e três fases. Escolha o nome, a quantidade de 5, 10 ou 15 questões e os filtros antes de iniciar. Perguntas e alternativas são sorteadas sem repetição dentro de cada missão. Se houver menos questões no recorte, a interface informa a quantidade real; um recorte vazio desativa o início.
+
+- **Treino:** sem tempo e sem eliminação por erros.
+- **Exame:** três vidas; 30, 25 ou 20 segundos por questão fácil, média ou difícil. Erro, pulo e tempo esgotado custam uma vida. A missão termina ao concluir as questões ou esgotar as vidas.
+- **Pontuação:** 100, 150 ou 200 pontos por acerto, conforme a dificuldade. Acertos consecutivos acrescentam 25 pontos a partir do segundo, até +100. No Exame, o tempo restante rende até +50 pontos. Não há desconto de pontos acumulados.
+- **Dicas:** duas por partida; cada uma elimina duas alternativas erradas. Um acerto com dica vale metade da base, sem bônus nessa questão. A sequência continua.
+- **Pausa:** sair da aba, ocultar a janela ou usar Pausar interrompe o cronômetro. Ao retornar, continue explicitamente. Encerrar manualmente gera um resultado parcial sem recorde nem conquista.
+
+As revelações de enredo começam desativadas: 39 perguntas disponíveis. Selecionar Shippuden ou Boruto ainda inclui os fatos de apresentação dessa fase. Cada resposta recebe uma explicação original e um link para a referência oficial documentada na curadoria. A revisão mostra sua escolha, a alternativa correta e a composição dos pontos. É possível iniciar um novo treino somente com os erros da partida anterior.
+
+Há seis conquistas e recordes separados de Treino e Exame. O histórico guarda as últimas dez missões; os recordes e as conquistas continuam válidos durante a sessão inteira. **Não há placar global nem armazenamento permanente:** recarregar o visual, atualizar os dados ou reabrir o relatório inicia uma sessão nova. Quantidade, dificuldade e dicas afetam a pontuação possível; os níveis e títulos são elementos do jogo.
+
+Teclado: Tab navega, 1–4 escolhem alternativas e Enter confirma ou avança após a explicação. Selecionar uma alternativa não envia a resposta automaticamente. O quiz é independente de APIs e funciona com os dados e as artes incorporadas.
+
+Validação do quiz: **188 verificações no navegador**, incluindo os estados de configuração, pergunta, resposta, resultado e revisão entre 600 e 1920 pixels, sem rolagem do canvas. No Power BI Desktop 2.159.883.0, passaram **26 verificações de uma missão completa** e **5 do modo Exame**, com pontuação, revisão, cronômetro, pausa e perda de vida. As capturas nativas foram revisadas. A conferência final usa uma cópia local do relatório com o mesmo código incorporado, chamada `ShinobiQuizValidacao`.
+
+Fontes editáveis: `quiz.css`, `quiz.js` e `data/editorial/quiz_shinobi.json`. `scripts/preparar_quiz.py` reconstrói o banco e valida as alternativas; `scripts/compilar_interface_local.py` incorpora os fontes no TMDL e na prévia. `scripts/testar_quiz.cjs` verifica o jogo no navegador. `scripts/testar_quiz_desktop.ps1 -DesktopProcessId ID` verifica uma partida real no visual HTML Content da janela `ShinobiArchiveHTML` aberta no Desktop; `testar_quiz_exame_desktop.ps1` verifica tempo, pausa e vida. Ambos aceitam `-ProjectTitle` para uma cópia de validação. Evidências em `powerbi/build/html/testes_quiz*.json` e `verificacao_quiz.json`.
+
+## Linhas da História — repaginação de episódios
+
+Selecione Naruto, Naruto Shippuden ou Boruto pelos três botões superiores. A abertura apresenta a arte original da série e a composição por classificação. Os indicadores do cabeçalho e os percentuais usam sempre a série completa; selecionar um filtro não altera esse denominador.
+
+O índice lateral oferece todos os arcos com seus intervalos originais e a quantidade de episódios realmente associados. Em telas menores, o índice permite rolagem horizontal. A lista combina arco, classificação e busca; um número, como `001`, encontra exatamente o episódio 1. A busca por título ignora maiúsculas e acentos. O guia apresenta vinte episódios por página e permite limpar todos os filtros.
+
+O mapa mantém todos os episódios da série e destaca os que atendem aos filtros atuais. Clique ou pressione Enter em uma marca para abrir o título original, a classificação e o arco. Anterior e Próximo percorrem a série inteira; “Explorar este arco” aplica o arco à lista. Escape fecha os detalhes e devolve o foco ao controle de origem.
+
+“Fontes e classificação” explica os rótulos comunitários, os denominadores e a licença CC BY 4.0 do snapshot SkipTheFiller. Títulos e nomes de arcos permanecem no idioma original e podem revelar acontecimentos. As datas de exibição não verificadas não são exibidas.
+
+Esta atualização altera apenas a interface incorporada. Os 24 conjuntos de dados, medidas, relações e definição do relatório foram preservados. A prévia e o código recuperado dos trechos TMDL conferiram com os fontes; passaram **165 verificações no navegador**, incluindo as três séries, os 80 arcos, filtros, teclado, paginação, navegação pelas demais abas e larguras de 600, 900, 1100, 1366 e 1600 pixels. **Esta alteração ainda não foi validada no Power BI Desktop.** As evidências de carga nativa descritas mais abaixo pertencem à edição 09 anterior. Abra o PBIP e use Página Inicial → Atualizar para processar a nova interface.
+
+Para recompilar somente a interface a partir dos fontes, preservando o modelo e o snapshot da prévia:
+
+```powershell
+python scripts/compilar_interface_local.py
+node scripts/testar_episodios.cjs
+```
+
+O teste usa Playwright instalado em `powerbi/build/html-tools` e o Microsoft Edge. Se necessário, instale a dependência com `npm install --prefix powerbi/build/html-tools playwright --no-audit --no-fund`. Resultados em `powerbi/build/html/testes_episodios.json` e `verificacao_compilacao_episodios.json`.
 
 ## Popularidade — edição 09
 
@@ -87,7 +129,7 @@ Há 15 sequências específicas para 9 personagens, montadas com quadros origina
 
 O destaque usa 105 artes transparentes de Ultimate Ninja Storm Connections para 75 personagens. Clique na arte para ampliá-la inteira e consultar a fonte oficial e os créditos. Quando existe uma variante correspondente à fase selecionada, ela é usada; caso contrário, a ficha mantém a arte base. Personagens sem arte promocional associada mantêm o retrato disponível no catálogo.
 
-As folhas e as artes foram preservadas sem redesenho. O recorte de quadros, a remoção da cor reservada de fundo e a composição de camadas ocorrem somente durante a exibição. O manifesto registra fonte, responsável pela folha, dimensões, coordenadas e SHA-256 dos 116 arquivos originais. Eles estão em `assets/game_art/` e `assets/game_sprites/` no ZIP. Sete PNGs foram também incorporados à interface para manter os destaques de Naruto (Shippuden e clássico), Itachi, Sasuke, Orochimaru, Minato e Sakura durante indisponibilidade do site externo. Os bytes foram conferidos contra os originais. As outras artes continuam usando URLs públicas, com retrato alternativo quando disponível. A incorporação foi limitada para controlar o tamanho da interface no Power BI.
+As folhas e as artes foram preservadas sem redesenho. O recorte de quadros, a remoção da cor reservada de fundo e a composição de camadas ocorrem somente durante a exibição. O manifesto registra fonte, responsável pela folha, dimensões, coordenadas e SHA-256 dos 116 arquivos originais. Eles estão em `assets/game_art/` e `assets/game_sprites/` no ZIP. Sete PNGs foram também incorporados à interface para manter os destaques de Naruto (Shippuden e clássico), Itachi, Sasuke, Orochimaru, Minato, Sakura e Boruto durante indisponibilidade do site externo. Os bytes foram conferidos contra os originais. As outras artes continuam usando URLs públicas, com retrato alternativo quando disponível. A incorporação foi limitada para controlar o tamanho da interface no Power BI.
 
 “Explorar relações” abre familiares com miniaturas e acesso às fichas, equipes e habilidades especiais. O nome de casada Hinata Uzumaki é associado visualmente ao registro Hinata Hyūga; os dados brutos permanecem preservados. As medidas físicas continuam vinculadas à fase selecionada.
 
@@ -111,6 +153,8 @@ Os arquivos editáveis ficam em `interface/` no pacote de entrega:
 - `dossie.css` e `dossie.js`: capa e identidade da lateral, marcos da história, conexões familiares, apresentação das técnicas e detalhe regional da votação.
 - `midias.css` e `midias.js`: artes transparentes, recortes e reprodução dos sprites originais, transparência e composição de efeitos.
 - `preview.html`: prévia local com os mesmos registros do snapshot, para revisar a aparência no navegador. O relatório usa a medida DAX.
+- `episodios.css` e `episodios.js`: abertura por série, índice de arcos, mapa, filtros, lista paginada e detalhes dos episódios.
+- `quiz.css` e `quiz.js`: configuração, missões, tempo, pontuação, conquistas, histórico e revisão do Exame Shinobi.
 
 No workspace original, `scripts/construir_html_powerbi.py` gera o projeto a partir desses fontes e do modelo base. `scripts/atualizar_html_desktop.py` prepara as chamadas da extensão Microsoft Power BI Modeling MCP para atualizar a interface no Desktop. Informe a porta da instância em `scripts/atualizar_html_desktop.py --port PORTA`. Para reproduzir o acervo, execute `coletar_midias_jogos.py`, `catalogar_sequencias_jogos.py`, `ler_cores_sprites.cjs` e `verificar_midias_jogos.py`, nessa ordem, antes de compilar a interface. O leitor de cores mede a cor exibida pelo navegador respeitando o perfil do PNG; não altera as imagens.
 

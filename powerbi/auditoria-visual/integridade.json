@@ -1,0 +1,18 @@
+{
+  "interfaceSha256": "e7636fa0700fbb4087fe7cc29cdc1bd2e3dc736597616e9f3f6bae24540db4da",
+  "sameCodeInMainValidationDeliveryAndPreview": true,
+  "models": {
+    "powerbi\\ShinobiArchiveHTML\\ShinobiArchiveHTML.SemanticModel\\definition\\tables\\InterfaceHTML.tmdl": "e7636fa0700fbb4087fe7cc29cdc1bd2e3dc736597616e9f3f6bae24540db4da",
+    "powerbi\\build\\quiz-desktop-validation\\ShinobiQuizValidacao.SemanticModel\\definition\\tables\\InterfaceHTML.tmdl": "e7636fa0700fbb4087fe7cc29cdc1bd2e3dc736597616e9f3f6bae24540db4da",
+    "entrega\\ShinobiArchive_HTML_Content\\ShinobiArchiveHTML\\ShinobiArchiveHTML.SemanticModel\\definition\\tables\\InterfaceHTML.tmdl": "e7636fa0700fbb4087fe7cc29cdc1bd2e3dc736597616e9f3f6bae24540db4da"
+  },
+  "htmlCaptures": 40,
+  "nativeCaptures": 19,
+  "javascriptErrors": [],
+  "desktopVersion": "2.159.883.0",
+  "desktopProject": "ShinobiQuizValidacao",
+  "highPriority": 4,
+  "mediumPriority": 2,
+  "lowPriority": 4,
+  "productModified": false
+}

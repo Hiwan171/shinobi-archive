@@ -116,25 +116,34 @@ def local_payload(model):
         result[key]={'fields':list(fields),'rows':[[r.get(column) if r.get(column) is not None else (None if next(c['dataType'] for c in tables[name]['columns'] if c['name']==column) in ['int64','double'] else '') for column in fields.values()] for r in rows]}
     return result
 
-def main():
-    BUILD.mkdir(parents=True,exist_ok=True);PROJECT.mkdir(parents=True,exist_ok=True)
-    model=read_model()
+def compose_interface():
     css=(UI/'app.css').read_text(encoding='utf-8')+'\n'+(UI/'arquivo.css').read_text(encoding='utf-8')+'\n'+(UI/'midias.css').read_text(encoding='utf-8')+'\n'+(UI/'palco.css').read_text(encoding='utf-8')+'\n'+(UI/'dossie.css').read_text(encoding='utf-8')+'\n'+(UI/'mundo.css').read_text(encoding='utf-8')+'\n'+(UI/'confronto.css').read_text(encoding='utf-8')+'\n'+(UI/'popularidade.css').read_text(encoding='utf-8')
     js=(UI/'app.js').read_text(encoding='utf-8')
     js=js.replace('/* __ARQUIVO_NINJA_MODULE__ */',(UI/'arquivo.js').read_text(encoding='utf-8')+'\n'+(UI/'midias.js').read_text(encoding='utf-8')+'\n'+(UI/'palco.js').read_text(encoding='utf-8')+'\n'+(UI/'dossie.js').read_text(encoding='utf-8')+'\n'+(UI/'mundo.js').read_text(encoding='utf-8')+'\n'+(UI/'confronto.js').read_text(encoding='utf-8')+'\n'+(UI/'popularidade.js').read_text(encoding='utf-8'))
+    css+='\n'+(UI/'episodios.css').read_text(encoding='utf-8')
+    css+='\n'+(UI/'quiz.css').read_text(encoding='utf-8')
+    js=js.replace('/* __EPISODIOS_MODULE__ */',(UI/'episodios.js').read_text(encoding='utf-8'))
+    js=js.replace('/* __QUIZ_MODULE__ */',(UI/'quiz.js').read_text(encoding='utf-8'))
+    js=js.replace('/* __QUIZ_BANK__ */{}',json.dumps(json.loads((ROOT/'data/editorial/quiz_shinobi.json').read_text(encoding='utf-8')),ensure_ascii=False,separators=(',',':')))
     js=js.replace('/* __DUEL_EDITORIAL__ */{}',json.dumps(json.loads((ROOT/'data/editorial/confrontos_shinobi.json').read_text(encoding='utf-8')),ensure_ascii=False,separators=(',',':')))
     js=js.replace("/* __WORLD_MAP__ */''",json.dumps((ROOT/'assets/maps/naruto-world-atlas.svg').read_text(encoding='utf-8'),ensure_ascii=False))
     media=json.loads((ROOT/'data/editorial/midias_jogos.json').read_text(encoding='utf-8'))
     keep_art=['person','phase','url','source','game','credit']
     keep_sprite=['person','name','url','source','game','credit','width','height','background','idle']
     # Reserva local para os destaques da revisão, com tamanho controlado no visual.
-    cached_art_keys={(1344,'default'),(1344,'Part I'),(1307,'default'),(1293,'default'),(928,'default'),(865,'default'),(374,'default')}
+    cached_art_keys={(1344,'default'),(1344,'Part I'),(1307,'default'),(1293,'default'),(928,'default'),(865,'default'),(374,'default'),(1339,'default')}
     media={'arts':[{**{k:a[k] for k in keep_art},**({'inline':'data:image/png;base64,'+base64.b64encode((ROOT/a['file']).read_bytes()).decode('ascii')} if (a['person'],a['phase']) in cached_art_keys else {})} for a in media['arts']],
            'sprites':[{**{k:a[k] for k in keep_sprite},'displayBackground':a.get('displayBackground',a['background'])} for a in media['sprites']],'clips':media['clips']}
     js=js.replace('/* __GAME_MEDIA__ */{}',json.dumps(media,ensure_ascii=False,separators=(',',':')))
     symbols={p.stem:base64.b64encode(p.read_bytes()).decode() for p in (ROOT/'assets/symbols').glob('*.svg')}
     js=js.replace('/* __VILLAGE_SYMBOLS__ */{}',json.dumps(symbols,separators=(',',':')))
     shell=(UI/'shell.html').read_text(encoding='utf-8').replace('__NARUTO_CSS__',css).replace('__NARUTO_JS__',js)
+    return shell
+
+def main():
+    BUILD.mkdir(parents=True,exist_ok=True);PROJECT.mkdir(parents=True,exist_ok=True)
+    model=read_model()
+    shell=compose_interface()
     # Marcadores protegem espaços e quebras nas bordas dos trechos contra a
     # normalização de strings do VertiPaq. A medida remove os dois marcadores.
     chunks=[{'ordem':i,'conteudo':'#'+shell[start:start+24000]+'#'} for i,start in enumerate(range(0,len(shell),24000))]

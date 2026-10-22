@@ -31,7 +31,13 @@ duel_editorial=json.loads((ROOT/'data/editorial/confrontos_shinobi.json').read_t
 assert len(duel_editorial['profiles'])==8
 assert duel_editorial['elementCycle']==['fire','wind','lightning','earth','water']
 embedded_proof=json.loads((ROOT/'powerbi/build/html/verificacao_artes_incorporadas.json').read_text(encoding='utf-8'))
-assert embedded_proof['allEmbeddedHashesMatchOriginals'] and embedded_proof['embeddedOriginalPngFiles']==7
+assert embedded_proof['allEmbeddedHashesMatchOriginals'] and embedded_proof['embeddedOriginalPngFiles']==8
+
+for quiz_test in ['testes_quiz.json','testes_quiz_desktop.json','testes_quiz_exame_desktop.json']:
+    result=json.loads((ROOT/'powerbi/build/html'/quiz_test).read_text(encoding='utf-8-sig'))
+    assert result['passed']>0 and not result['errors'],quiz_test
+quiz_proof=json.loads((ROOT/'powerbi/build/html/verificacao_quiz.json').read_text(encoding='utf-8'))
+assert quiz_proof['desktopValidated'] and quiz_proof['originalStylesPreserved']
 evidence=json.loads((ROOT/'powerbi/build/html/verificacao_modelo.json').read_text(encoding='utf-8'))
 assert evidence['dataComparedWithSources']
 assert evidence['interfaceCodeMatchesSources']
@@ -65,6 +71,8 @@ with zipfile.ZipFile(OUT,'w',zipfile.ZIP_DEFLATED,compresslevel=9) as z:
     for name in ['testes_interface.json','testes_dossie.json','testes_midias.json','testes_palco.json','testes_dossie_visual.json','testes_mundo.json','testes_confronto.json','testes_popularidade.json','verificacao_modelo.json','verificacao_midias.json','verificacao_artes_incorporadas.json','verificacao_desktop.json','comparacao_copia_desktop.json','validacao_visual.json','Interface_Naruto_HTML.dax']:
         z.write(ROOT/'powerbi/build/html'/name,'ShinobiArchiveHTML/validacao/'+name)
     license_file=ROOT/'powerbi/vendor/html-content/LICENSE'
+    for name in ['testes_episodios.json','testes_quiz.json','testes_quiz_desktop.json','testes_quiz_exame_desktop.json','verificacao_quiz.json','verificacao_compilacao_episodios.json']:
+        z.write(ROOT/'powerbi/build/html'/name,'ShinobiArchiveHTML/validacao/'+name)
     assert license_file.exists(),'Incluir licença do HTML Content.'
     z.write(license_file,'ShinobiArchiveHTML/HTML_Content_LICENSE')
 with zipfile.ZipFile(OUT) as z:

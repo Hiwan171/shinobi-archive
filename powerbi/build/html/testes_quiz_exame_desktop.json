@@ -1,0 +1,21 @@
+{
+  "project": "ShinobiArchiveHTML.pbip",
+  "validationProjectTitle": "ShinobiQuizValidacao",
+  "desktopProcessId": 14896,
+  "passed": 5,
+  "results": [
+    "Exam countdown visibly changes in the real Power BI host",
+    "Native pause freezes the countdown",
+    "Skipping an exam question removes exactly one life in Desktop",
+    "Current compiled version supports pausing after native feedback",
+    "Manually ended native exam is marked as partial"
+  ],
+  "nativeHost": "Power BI Desktop / HTML Content Regular 2.0",
+  "desktopValidated": true,
+  "errors": [],
+  "screenshots": [
+    "quiz-desktop-exame-pausa.png",
+    "quiz-desktop-exame-vida.png",
+    "quiz-desktop-final.png"
+  ]
+}

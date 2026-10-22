@@ -1,0 +1,650 @@
+[
+  {
+    "page": "arquivo",
+    "viewport": [
+      1366,
+      768
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 114,
+        "bottom": 727,
+        "height": 613,
+        "clientHeight": 613,
+        "scrollHeight": 613,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".hero",
+        "top": 114,
+        "bottom": 844,
+        "height": 730,
+        "clientHeight": 728,
+        "scrollHeight": 748,
+        "overflowY": "hidden"
+      }
+    ]
+  },
+  {
+    "page": "grupos",
+    "viewport": [
+      1366,
+      768
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 727,
+        "height": 602,
+        "clientHeight": 602,
+        "scrollHeight": 650,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".world-atlas",
+        "top": 289.96875,
+        "bottom": 649.96875,
+        "height": 360,
+        "clientHeight": 358,
+        "scrollHeight": 358,
+        "overflowY": "hidden"
+      },
+      {
+        "selector": ".world-dossier",
+        "top": 125,
+        "bottom": 727,
+        "height": 602,
+        "clientHeight": 602,
+        "scrollHeight": 1744,
+        "overflowY": "auto"
+      },
+      {
+        "selector": "#world-village",
+        "top": 726.15625,
+        "bottom": 769.15625,
+        "height": 43,
+        "clientHeight": 41,
+        "scrollHeight": 41,
+        "overflowY": "clip"
+      }
+    ]
+  },
+  {
+    "page": "comparador",
+    "viewport": [
+      1366,
+      768
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 727,
+        "height": 602,
+        "clientHeight": 602,
+        "scrollHeight": 602,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".duel-arena",
+        "top": 190,
+        "bottom": 598,
+        "height": 408,
+        "clientHeight": 408,
+        "scrollHeight": 408,
+        "overflowY": "visible"
+      },
+      {
+        "selector": "#duel-tab-panel",
+        "top": 680.578125,
+        "bottom": 727,
+        "height": 46.421875,
+        "clientHeight": 46,
+        "scrollHeight": 290,
+        "overflowY": "auto"
+      }
+    ]
+  },
+  {
+    "page": "popularidade",
+    "viewport": [
+      1366,
+      768
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 727,
+        "height": 602,
+        "clientHeight": 602,
+        "scrollHeight": 602,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".fan-podium",
+        "top": 232,
+        "bottom": 474,
+        "height": 242,
+        "clientHeight": 242,
+        "scrollHeight": 242,
+        "overflowY": "visible"
+      },
+      {
+        "selector": "#fan-ranking-list",
+        "top": 664.953125,
+        "bottom": 689.40625,
+        "height": 24.453125,
+        "clientHeight": 24,
+        "scrollHeight": 2400,
+        "overflowY": "auto"
+      },
+      {
+        "selector": "#fan-analysis-panel",
+        "top": 717.96875,
+        "bottom": 717.96875,
+        "height": 0,
+        "clientHeight": 0,
+        "scrollHeight": 392,
+        "overflowY": "auto"
+      }
+    ]
+  },
+  {
+    "page": "episodios",
+    "viewport": [
+      1366,
+      768
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 727,
+        "height": 602,
+        "clientHeight": 602,
+        "scrollHeight": 1893,
+        "overflowY": "auto"
+      },
+      {
+        "selector": ".story-hero",
+        "top": 190.796875,
+        "bottom": 428.796875,
+        "height": 238,
+        "clientHeight": 236,
+        "scrollHeight": 236,
+        "overflowY": "hidden"
+      },
+      {
+        "selector": ".story-map",
+        "top": 447.796875,
+        "bottom": 629.375,
+        "height": 181.578125,
+        "clientHeight": 180,
+        "scrollHeight": 180,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".story-results",
+        "top": 650.375,
+        "bottom": 2014.359375,
+        "height": 1363.984375,
+        "clientHeight": 1362,
+        "scrollHeight": 1362,
+        "overflowY": "hidden"
+      }
+    ]
+  },
+  {
+    "page": "quiz",
+    "viewport": [
+      1366,
+      768
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 727,
+        "height": 602,
+        "clientHeight": 602,
+        "scrollHeight": 602,
+        "overflowY": "visible"
+      }
+    ]
+  },
+  {
+    "page": "arquivo",
+    "viewport": [
+      1600,
+      900
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 114,
+        "bottom": 859,
+        "height": 745,
+        "clientHeight": 745,
+        "scrollHeight": 745,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".hero",
+        "top": 114,
+        "bottom": 859,
+        "height": 745,
+        "clientHeight": 743,
+        "scrollHeight": 756,
+        "overflowY": "hidden"
+      }
+    ]
+  },
+  {
+    "page": "grupos",
+    "viewport": [
+      1600,
+      900
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 859,
+        "height": 734,
+        "clientHeight": 734,
+        "scrollHeight": 734,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".world-atlas",
+        "top": 289.96875,
+        "bottom": 733.8125,
+        "height": 443.84375,
+        "clientHeight": 442,
+        "scrollHeight": 442,
+        "overflowY": "hidden"
+      },
+      {
+        "selector": ".world-dossier",
+        "top": 125,
+        "bottom": 859,
+        "height": 734,
+        "clientHeight": 734,
+        "scrollHeight": 1744,
+        "overflowY": "auto"
+      },
+      {
+        "selector": "#world-village",
+        "top": 810,
+        "bottom": 853,
+        "height": 43,
+        "clientHeight": 41,
+        "scrollHeight": 41,
+        "overflowY": "clip"
+      }
+    ]
+  },
+  {
+    "page": "comparador",
+    "viewport": [
+      1600,
+      900
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 859,
+        "height": 734,
+        "clientHeight": 734,
+        "scrollHeight": 734,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".duel-arena",
+        "top": 190,
+        "bottom": 598,
+        "height": 408,
+        "clientHeight": 408,
+        "scrollHeight": 408,
+        "overflowY": "visible"
+      },
+      {
+        "selector": "#duel-tab-panel",
+        "top": 680.578125,
+        "bottom": 859,
+        "height": 178.421875,
+        "clientHeight": 178,
+        "scrollHeight": 290,
+        "overflowY": "auto"
+      }
+    ]
+  },
+  {
+    "page": "popularidade",
+    "viewport": [
+      1600,
+      900
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 859,
+        "height": 734,
+        "clientHeight": 734,
+        "scrollHeight": 734,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".fan-podium",
+        "top": 232,
+        "bottom": 474,
+        "height": 242,
+        "clientHeight": 242,
+        "scrollHeight": 242,
+        "overflowY": "visible"
+      },
+      {
+        "selector": "#fan-ranking-list",
+        "top": 664.953125,
+        "bottom": 821.40625,
+        "height": 156.453125,
+        "clientHeight": 156,
+        "scrollHeight": 2400,
+        "overflowY": "auto"
+      },
+      {
+        "selector": "#fan-analysis-panel",
+        "top": 717.96875,
+        "bottom": 848,
+        "height": 130.03125,
+        "clientHeight": 130,
+        "scrollHeight": 380,
+        "overflowY": "auto"
+      }
+    ]
+  },
+  {
+    "page": "episodios",
+    "viewport": [
+      1600,
+      900
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 859,
+        "height": 734,
+        "clientHeight": 734,
+        "scrollHeight": 1910,
+        "overflowY": "auto"
+      },
+      {
+        "selector": ".story-hero",
+        "top": 190.796875,
+        "bottom": 445.796875,
+        "height": 255,
+        "clientHeight": 253,
+        "scrollHeight": 253,
+        "overflowY": "hidden"
+      },
+      {
+        "selector": ".story-map",
+        "top": 464.796875,
+        "bottom": 646.375,
+        "height": 181.578125,
+        "clientHeight": 180,
+        "scrollHeight": 180,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".story-results",
+        "top": 667.375,
+        "bottom": 2031.359375,
+        "height": 1363.984375,
+        "clientHeight": 1362,
+        "scrollHeight": 1362,
+        "overflowY": "hidden"
+      }
+    ]
+  },
+  {
+    "page": "quiz",
+    "viewport": [
+      1600,
+      900
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 859,
+        "height": 734,
+        "clientHeight": 734,
+        "scrollHeight": 734,
+        "overflowY": "visible"
+      }
+    ]
+  },
+  {
+    "page": "arquivo",
+    "viewport": [
+      1600,
+      1000
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 114,
+        "bottom": 959,
+        "height": 845,
+        "clientHeight": 845,
+        "scrollHeight": 845,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".hero",
+        "top": 114,
+        "bottom": 959,
+        "height": 845,
+        "clientHeight": 843,
+        "scrollHeight": 843,
+        "overflowY": "hidden"
+      }
+    ]
+  },
+  {
+    "page": "grupos",
+    "viewport": [
+      1600,
+      1000
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 959,
+        "height": 834,
+        "clientHeight": 834,
+        "scrollHeight": 834,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".world-atlas",
+        "top": 289.96875,
+        "bottom": 833.8125,
+        "height": 543.84375,
+        "clientHeight": 542,
+        "scrollHeight": 542,
+        "overflowY": "hidden"
+      },
+      {
+        "selector": ".world-dossier",
+        "top": 125,
+        "bottom": 959,
+        "height": 834,
+        "clientHeight": 834,
+        "scrollHeight": 1744,
+        "overflowY": "auto"
+      },
+      {
+        "selector": "#world-village",
+        "top": 910,
+        "bottom": 953,
+        "height": 43,
+        "clientHeight": 41,
+        "scrollHeight": 41,
+        "overflowY": "clip"
+      }
+    ]
+  },
+  {
+    "page": "comparador",
+    "viewport": [
+      1600,
+      1000
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 959,
+        "height": 834,
+        "clientHeight": 834,
+        "scrollHeight": 834,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".duel-arena",
+        "top": 190,
+        "bottom": 598,
+        "height": 408,
+        "clientHeight": 408,
+        "scrollHeight": 408,
+        "overflowY": "visible"
+      },
+      {
+        "selector": "#duel-tab-panel",
+        "top": 680.578125,
+        "bottom": 959,
+        "height": 278.421875,
+        "clientHeight": 278,
+        "scrollHeight": 290,
+        "overflowY": "auto"
+      }
+    ]
+  },
+  {
+    "page": "popularidade",
+    "viewport": [
+      1600,
+      1000
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 959,
+        "height": 834,
+        "clientHeight": 834,
+        "scrollHeight": 834,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".fan-podium",
+        "top": 232,
+        "bottom": 474,
+        "height": 242,
+        "clientHeight": 242,
+        "scrollHeight": 242,
+        "overflowY": "visible"
+      },
+      {
+        "selector": "#fan-ranking-list",
+        "top": 664.953125,
+        "bottom": 921.40625,
+        "height": 256.453125,
+        "clientHeight": 256,
+        "scrollHeight": 2400,
+        "overflowY": "auto"
+      },
+      {
+        "selector": "#fan-analysis-panel",
+        "top": 717.96875,
+        "bottom": 948,
+        "height": 230.03125,
+        "clientHeight": 230,
+        "scrollHeight": 380,
+        "overflowY": "auto"
+      }
+    ]
+  },
+  {
+    "page": "episodios",
+    "viewport": [
+      1600,
+      1000
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 959,
+        "height": 834,
+        "clientHeight": 834,
+        "scrollHeight": 1910,
+        "overflowY": "auto"
+      },
+      {
+        "selector": ".story-hero",
+        "top": 190.796875,
+        "bottom": 445.796875,
+        "height": 255,
+        "clientHeight": 253,
+        "scrollHeight": 253,
+        "overflowY": "hidden"
+      },
+      {
+        "selector": ".story-map",
+        "top": 464.796875,
+        "bottom": 646.375,
+        "height": 181.578125,
+        "clientHeight": 180,
+        "scrollHeight": 180,
+        "overflowY": "visible"
+      },
+      {
+        "selector": ".story-results",
+        "top": 667.375,
+        "bottom": 2031.359375,
+        "height": 1363.984375,
+        "clientHeight": 1362,
+        "scrollHeight": 1362,
+        "overflowY": "hidden"
+      }
+    ]
+  },
+  {
+    "page": "quiz",
+    "viewport": [
+      1600,
+      1000
+    ],
+    "elements": [
+      {
+        "selector": "#screen",
+        "top": 125,
+        "bottom": 959,
+        "height": 834,
+        "clientHeight": 834,
+        "scrollHeight": 834,
+        "overflowY": "visible"
+      }
+    ]
+  }
+]

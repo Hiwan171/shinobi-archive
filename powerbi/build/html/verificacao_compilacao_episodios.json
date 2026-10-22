@@ -1,0 +1,13 @@
+{
+  "interfaceCodeMatchesCompiledSources": true,
+  "existingPayloadPreserved": true,
+  "datasets": 24,
+  "episodes": 1013,
+  "arcs": 80,
+  "guardedCodeChunks": 48,
+  "previousGuardedCodeChunks": 48,
+  "htmlSha256": "e7636fa0700fbb4087fe7cc29cdc1bd2e3dc736597616e9f3f6bae24540db4da",
+  "target": "InterfaceHTML partition only",
+  "desktopValidated": false,
+  "note": "Compiled and read back from TMDL. Refresh required in Power BI Desktop; browser verification reported separately."
+}

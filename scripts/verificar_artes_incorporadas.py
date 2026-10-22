@@ -7,7 +7,7 @@ manifest=json.loads((ROOT/'data/editorial/midias_jogos.json').read_text(encoding
 expected={a['url']:a for a in manifest['arts']}
 assert len(media['arts'])==len(expected)==105
 embedded_arts=[art for art in media['arts'] if art.get('inline')]
-assert len(embedded_arts)==7
+assert len(embedded_arts)==8
 for art in embedded_arts:
     original=expected[art['url']]
     embedded=base64.b64decode(art['inline'].split(',',1)[1],validate=True)

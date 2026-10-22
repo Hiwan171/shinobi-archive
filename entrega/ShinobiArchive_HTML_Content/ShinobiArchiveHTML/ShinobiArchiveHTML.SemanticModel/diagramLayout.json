@@ -1,0 +1,776 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 3984.1863941694896,
+            "y": 1181.3943912755026
+          },
+          "nodeIndex": "Indicadores",
+          "nodeLineageTag": "e359a0ed-4a10-57fa-a4ca-4664c1b16459",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 981.60207278455437,
+            "y": 1466.7289495728189
+          },
+          "nodeIndex": "aliases",
+          "nodeLineageTag": "f3e5ad94-f026-5abc-a40c-1f2eac170661",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1791.5680294905383,
+            "y": 1331.6667547696106
+          },
+          "nodeIndex": "aparicoes_por_midia",
+          "nodeLineageTag": "cece1054-2d5a-55bc-9c07-2cdabb4c6f8b",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 392.00624394725764,
+            "y": 1602.0580092218356
+          },
+          "nodeIndex": "arcos",
+          "nodeLineageTag": "041372f1-0042-54d4-b976-7c0bea0ce9f3",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1753.4164380546431,
+            "y": 1589.3857463890463
+          },
+          "nodeIndex": "arquivos_imagem",
+          "nodeLineageTag": "ba0b77c5-7315-5f15-8f21-90e963386b4a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6720.7716535163818,
+            "y": 1231.3943912755026
+          },
+          "nodeIndex": "atributos_originais",
+          "nodeLineageTag": "4d12350a-f48b-5d1b-8a1d-dfeb272c1393",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5938.89015084584,
+            "y": 1219.3943912755026
+          },
+          "nodeIndex": "BiografiasCuradas",
+          "nodeLineageTag": "6e50848a-e511-51eb-8763-8bc115631c59",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1719.4163563607522,
+            "y": 2047.3919903363039
+          },
+          "nodeIndex": "caracteristicas",
+          "nodeLineageTag": "0504c35d-faa7-532e-9253-5a0e07236ada",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2925.7041748162387,
+            "y": 1375.5157545284358
+          },
+          "nodeIndex": "clas",
+          "nodeLineageTag": "60b3ef4c-4573-50be-9eff-fd91fa221c10",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7111.7124048516525,
+            "y": 1231.3943912755026
+          },
+          "nodeIndex": "colecoes_fonte",
+          "nodeLineageTag": "4c4ee567-4800-56b3-94a2-cd76423be2e2",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9066.4161615280063,
+            "y": 1255.3943912755026
+          },
+          "nodeIndex": "ComparadorA",
+          "nodeLineageTag": "75bad1a0-4369-5aa9-aacf-bcde4930311c",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9457.3569128632771,
+            "y": 1255.3943912755026
+          },
+          "nodeIndex": "ComparadorB",
+          "nodeLineageTag": "05d68d45-7a67-59a0-bcb3-20a36d8b6551",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 392.00624394725764,
+            "y": 1143.2763034906534
+          },
+          "nodeIndex": "creditos_dublagem",
+          "nodeLineageTag": "03fc30a5-d31d-5a16-9d71-1e4367a86894",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7893.5939075221941,
+            "y": 1243.3943912755026
+          },
+          "nodeIndex": "distribuicao_notas",
+          "nodeLineageTag": "e98c8438-9dd8-5be4-b64c-31d11ab81231",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8284.5346588574648,
+            "y": 1243.3943912755026
+          },
+          "nodeIndex": "distribuicao_status",
+          "nodeLineageTag": "deb6be0c-6e89-5101-b72a-cda2870b077b",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1006.74159600143,
+            "y": 2115.0487611636222
+          },
+          "nodeIndex": "dubladores",
+          "nodeLineageTag": "34e2a4b6-fed8-577a-85d2-3d326bb6fba7",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1708.3489615059138,
+            "y": 1113.7387928992082
+          },
+          "nodeIndex": "dublagem_original",
+          "nodeLineageTag": "6e234ae2-ca4f-5e9a-b0a2-182c8f4f381d",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 784.01248789451529,
+            "y": 1108.7227056255613
+          },
+          "nodeIndex": "elenco_por_serie",
+          "nodeLineageTag": "51c66998-434c-56e4-9e46-3133ac7e9301",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 390.65079518675338,
+            "y": 685.27005954339563
+          },
+          "nodeIndex": "episodios",
+          "nodeLineageTag": "ec36d53e-07b7-5264-92b9-debb17adfcf8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2089.8546154440733,
+            "y": 2118.1830351474923
+          },
+          "nodeIndex": "equipes",
+          "nodeLineageTag": "e2c5c19d-ff30-5a92-9d0b-35094defc2f1",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2008.1721601841468,
+            "y": 1564.5365353350451
+          },
+          "nodeIndex": "estreias",
+          "nodeLineageTag": "e0cfc09c-b952-5c16-b58d-20163f8390bf",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2141.6916869217234,
+            "y": 969.23342808595953
+          },
+          "nodeIndex": "familia",
+          "nodeLineageTag": "ced00cf9-759d-5478-9597-3a036a3df169",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10239.238415533819,
+            "y": 1267.3943912755026
+          },
+          "nodeIndex": "Fases",
+          "nodeLineageTag": "26d404ee-2494-569d-b158-db192cc2045f",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3593.24564283422,
+            "y": 1721.2109665955911
+          },
+          "nodeIndex": "ferramentas",
+          "nodeLineageTag": "e68668b2-efa5-5aa3-880d-9bbe9ec4b89a",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9848.2976641985479,
+            "y": 1255.3943912755026
+          },
+          "nodeIndex": "generos_por_serie",
+          "nodeLineageTag": "80b55704-3339-5ae2-b958-903a07153e36",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4375.127145504759,
+            "y": 1207.3943912755026
+          },
+          "nodeIndex": "HistoriaPersonagem",
+          "nodeLineageTag": "ec227c0e-649e-535e-96b4-3f1fabb64b34",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1692.1929061308533,
+            "y": 848.44357660652554
+          },
+          "nodeIndex": "imagens_referenciadas",
+          "nodeLineageTag": "2062137a-5cef-56e4-9d78-8289f7b7ccb0",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10630.179166869089,
+            "y": 1267.3943912755026
+          },
+          "nodeIndex": "InterfaceHTML",
+          "nodeLineageTag": "cafaa5dd-bee0-509a-813e-f89c75a30aba",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7502.6531561869233,
+            "y": 1231.3943912755026
+          },
+          "nodeIndex": "itens_quarentena",
+          "nodeLineageTag": "90d64b44-035e-5560-a0b5-6f73e0972f26",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2955.5494980625804,
+            "y": 2092.5471013154697
+          },
+          "nodeIndex": "jutsus",
+          "nodeLineageTag": "98e5edb0-e257-5098-a587-47f344325728",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2963.5828129782926,
+            "y": 674.70171137721525
+          },
+          "nodeIndex": "kekkei_genkai",
+          "nodeLineageTag": "cb4a21d8-8ed8-5a89-b3fe-d54c7cce9a88",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6329.830902181111,
+            "y": 1219.3943912755026
+          },
+          "nodeIndex": "links_por_serie",
+          "nodeLineageTag": "0ed1f423-a3ec-5dc8-82da-693d15d94088",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2533.6979308689811,
+            "y": 966.52836947369678
+          },
+          "nodeIndex": "medidas_por_fase",
+          "nodeLineageTag": "3c559800-527f-5f75-9c8e-4df741e4ce17",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2912.5547504899155,
+            "y": 1096.4134358093365
+          },
+          "nodeIndex": "naturezas",
+          "nodeLineageTag": "b9dd6a4b-ae2d-57b3-9b01-0b6b1740efec",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1398.7478399486872,
+            "y": 2047.3919903363039
+          },
+          "nodeIndex": "papeis_comunitarios",
+          "nodeLineageTag": "2fc49ea5-91dc-51d7-8a4e-3a90ea9b2b56",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1324.5335231549416,
+            "y": 514.43733265926778
+          },
+          "nodeIndex": "patentes_por_fase",
+          "nodeLineageTag": "01a548c1-6a93-5a19-ba4d-5201b71fac77",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2571.576569031035,
+            "y": 656.52212552643914
+          },
+          "nodeIndex": "personagem_clas",
+          "nodeLineageTag": "c51b1854-3369-5c6e-8bc8-572584a30393",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2119.0591141709742,
+            "y": 1913.5962023558482
+          },
+          "nodeIndex": "personagem_equipes",
+          "nodeLineageTag": "32065190-2b7a-5e74-a75c-389a55d2d143",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2809.2331549397045,
+            "y": 1734.5408573682121
+          },
+          "nodeIndex": "personagem_ferramenta",
+          "nodeLineageTag": "567a1e0d-b45f-5cba-9757-38b2f3eeb8de",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2084.199150078111,
+            "y": 1203.5950226042485
+          },
+          "nodeIndex": "personagem_jutsu",
+          "nodeLineageTag": "58010c25-773e-5bd0-b840-39b631f49bb4",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2663.1646531615365,
+            "y": 1424.5346134209544
+          },
+          "nodeIndex": "personagem_kekkei_genkai",
+          "nodeLineageTag": "857036eb-2b5f-564e-9b65-a81847554395",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3201.2393988869621,
+            "y": 1541.7888428416493
+          },
+          "nodeIndex": "personagem_natureza",
+          "nodeLineageTag": "c4c1e751-b126-5dad-a28e-ec53e4e64534",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2389.2249853035341,
+            "y": 1929.2893631628397
+          },
+          "nodeIndex": "personagem_vilas",
+          "nodeLineageTag": "f52f32e6-dba3-5c52-a63f-a852ba4de8ef",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2400.1784041314045,
+            "y": 1459.0867544447744
+          },
+          "nodeIndex": "personagens",
+          "nodeLineageTag": "abf44c7f-2056-5d65-affb-f5ae2781663e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1373.608316731812,
+            "y": 1374.4981291768652
+          },
+          "nodeIndex": "personagens_anilist",
+          "nodeLineageTag": "6a9ea6ac-1473-5682-9633-3d252744c41f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2318.4021679723178,
+            "y": 597.13299186259633
+          },
+          "nodeIndex": "personagens_narutop99",
+          "nodeLineageTag": "bef705d5-11b6-5d1d-a056-8ac4f45da379",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8675.4754101927356,
+            "y": 1243.3943912755026
+          },
+          "nodeIndex": "problemas_qualidade",
+          "nodeLineageTag": "0624023a-9790-5513-b770-bdcb754bee60",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1926.3959240250601,
+            "y": 282.45302098533523
+          },
+          "nodeIndex": "ranking_demografico",
+          "nodeLineageTag": "6e479b53-e402-5e41-9d87-352bd1e0ddfb",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2425.8279248377262,
+            "y": 0
+          },
+          "nodeIndex": "Regioes",
+          "nodeLineageTag": "2bdce45c-09a7-5353-8e1b-f90f2adfce0f",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4766.06789684003,
+            "y": 1207.3943912755026
+          },
+          "nodeIndex": "relacoes_entre_obras",
+          "nodeLineageTag": "5e0b489b-7fc8-535d-a966-3b389d3eb8a4",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 431.30507883049268,
+            "y": 1456.1129739393036
+          },
+          "nodeIndex": "Series",
+          "nodeLineageTag": "3eba3b8b-715d-578a-9405-74f03a4a10f9",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 1351.2889961478772
+          },
+          "nodeIndex": "series_filmes",
+          "nodeLineageTag": "5fcda9dd-ca82-58b8-ab21-11722e34ff3e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2656.6784930093459,
+            "y": 2438.7887825510047
+          },
+          "nodeIndex": "simbolos_vilas",
+          "nodeLineageTag": "f4b5ef62-5030-5555-9460-cf8bcd8f04c4",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5157.0086481752987,
+            "y": 1207.3943912755026
+          },
+          "nodeIndex": "tags_por_serie",
+          "nodeLineageTag": "8b5b7494-a2e4-57d8-9175-ba63bbc3a09a",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5547.9493995105695,
+            "y": 1207.3943912755026
+          },
+          "nodeIndex": "TecnicasCuradas",
+          "nodeLineageTag": "28c281f1-eb49-50e3-b6dc-c81c21fe6437",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1345.6755105953152,
+            "y": 1064.4918852296075
+          },
+          "nodeIndex": "tracos_especiais",
+          "nodeLineageTag": "63ab9773-f798-5343-bb56-70b081a06143",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2515.2263467878579,
+            "y": 2128.7825386037471
+          },
+          "nodeIndex": "vilas",
+          "nodeLineageTag": "21ccc93b-1047-5a3c-82fd-73cbef6740f7",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2817.8341687849838,
+            "y": 198.51588157918135
+          },
+          "nodeIndex": "votacao_narutop99",
+          "nodeLineageTag": "8d5159e9-c7f7-5a90-a5ec-02eca3bfc6e8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}

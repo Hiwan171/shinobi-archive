@@ -1,5 +1,5 @@
 {
-  "embeddedOriginalPngFiles": 7,
+  "embeddedOriginalPngFiles": 8,
   "allEmbeddedHashesMatchOriginals": true,
   "imagePixelsModified": false,
   "cachedCharacterIds": [
@@ -8,8 +8,9 @@
     928,
     1293,
     1307,
+    1339,
     1344
   ],
   "otherArtVariantsRequireNetwork": true,
-  "htmlBytes": 1865832
+  "htmlBytes": 2033782
 }
